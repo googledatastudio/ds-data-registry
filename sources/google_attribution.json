@@ -1,0 +1,9 @@
+{
+  "id": "GOOGLE_ATTRIBUTION",
+  "name": "Google Attribution 360",
+  "categories": ["MARKETING"],
+  "organization": "GOOGLE",
+  "iconUrl": "https://datastudiogallery.appspot.com/static/data/icons/attribution.png",
+  "sourceUrl": "https://www.google.com/analytics/attribution/",
+  "dataVisibility": ["PRIVATE"]
+}
