@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ANALYTICS",
+    "name": "Analytics"
+  },
+  {
+    "id": "MARKETING",
+    "name": "Marketing"
+  },
+  {
+    "id": "DATABASE",
+    "name": "Database"
+  }
+]
