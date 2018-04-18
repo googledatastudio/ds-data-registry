@@ -1,8 +1,6 @@
-[
-  {
+{
     "id": "GOOGLE",
     "name": "Google",
     "iconUrl": "https://www.gstatic.com/images/branding/product/2x/googleg_64dp.png",
     "orgUrl": "https://www.google.com"
-  }
-]
+}
