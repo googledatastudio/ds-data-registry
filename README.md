@@ -2,11 +2,12 @@
 A registry of data sources, categories, and organizations to use with [Data Studio Community Connectors](https://developers.google.com/datastudio/connector/overview).
 
 The registry contains the following resources:
+
 | Path                  | Description |
 | --------              | ----------- |
-| `sources/`            | Data source definitions and associated metadata.
-| `categories.json`     | Metadata about data source categories.
-| `organizations/`      | Organization definitions and associated metadata.
+| `sources/`            | Data source definitions and associated metadata.|
+| `categories.json`     | Metadata about data source categories.|
+| `organizations/`      | Organization definitions and associated metadata.|
 
 **Important**: This is not a connector registry. This registry is used to define data sources. For example, if you build a Google Analytics connector, the data source defined in this registry would be for Google Analytics and the organization is Google. Your connector and company details should be defined in your [Community Connector Manifest](https://developers.google.com/datastudio/connector/manifest), not in this registry.
 
