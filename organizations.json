@@ -4,11 +4,5 @@
     "name": "Google",
     "iconUrl": "https://www.gstatic.com/images/branding/product/2x/googleg_64dp.png",
     "orgUrl": "https://www.google.com"
-  },
-  {
-    "id": "AMPLIFIEDLABS",
-    "name": "Amplified Labs",
-    "iconUrl": "https://storage.googleapis.com/amplifiedit-images/labs-logo/labs128x128.png",
-    "orgUrl": "https://labs.amplifiedit.com"
   }
 ]
