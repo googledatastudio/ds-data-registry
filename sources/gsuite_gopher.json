@@ -2,7 +2,7 @@
   "id": "GOPHER_FOR_GSUITE",
   "name": "Gopher for G Suite",
   "categories": ["GSUITE"],
-  "organization": "AMPLIFIEDLABS",
+  "organization": "GOOGLE",
   "iconUrl": "https://storage.googleapis.com/amplifiedit-images/gsuite-gopher-128x128.png",
   "sourceUrl": "https://labs.amplifiedit.com/labs-bundles/#gopher-pack",
   "dataVisibility": ["PRIVATE"]
