@@ -2,7 +2,7 @@
   "id": "WALMART_MARKETPLACE",
   "name": "Walmart Marketplace",
   "categories": ["ANALYTICS"],
-  "organization": "Walmart",
+  "organization": "Power My Analytics",
   "iconUrl": "https://marketplace.walmart.com/knowledgebase/resource/1450198358000/WalmartWhiteLogo",
   "sourceUrl": "https://partner.walmart.com/",
   "dataVisibility": ["PRIVATE"]
