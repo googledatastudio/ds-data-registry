@@ -14,5 +14,9 @@
   {
     "id": "DATABASE",
     "name": "Database"
+  },
+  {
+    "id": "GSUITE",
+    "name": "GSuite"
   }
 ]

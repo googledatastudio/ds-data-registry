@@ -1,0 +1,9 @@
+{
+  "id": "GSUITE",
+  "name": "G Suite",
+  "categories": ["GSUITE"],
+  "organization": "GOOGLE",
+  "iconUrl": "https://storage.googleapis.com/amplifiedit-images/g-suite-128x128.png",
+  "sourceUrl": "https://developers.google.com/admin-sdk/directory/v1/reference/",
+  "dataVisibility": ["PRIVATE"]
+}
