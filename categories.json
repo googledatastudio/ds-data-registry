@@ -1,5 +1,9 @@
 [
   {
+    "id": "ADVERTISING",
+    "name": "Advertising"
+  },
+  {
     "id": "ANALYTICS",
     "name": "Analytics"
   },
