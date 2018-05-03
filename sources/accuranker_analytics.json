@@ -1,0 +1,9 @@
+{
+  "id": "ACCURANKER_ANALYTICS",
+  "name": "AccuRanker Analytics",
+  "categories": ["ANALYTICS"],
+  "organization": "ACCURANKER",
+  "iconUrl": "https://app.accuranker.com/static/img/branding/accuranker_logo_128_128.png",
+  "sourceUrl": "https://www.accuranker.com",
+  "dataVisibility": ["PRIVATE"]
+}
