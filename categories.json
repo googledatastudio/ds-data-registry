@@ -8,11 +8,15 @@
     "name": "Analytics"
   },
   {
+    "id": "DATABASE",
+    "name": "Database"
+  },
+  {
     "id": "MARKETING",
     "name": "Marketing"
   },
   {
-    "id": "DATABASE",
-    "name": "Database"
+    "id": "TOOLS",
+    "name": "Tools"
   }
 ]
