@@ -1,0 +1,9 @@
+{
+  "id": "GOOGLE_ADSENSE",
+  "name": "Google AdSense",
+  "categories": ["MARKETING"],
+  "organization": "GOOGLE",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/ADM.png",
+  "sourceUrl": "https://www.google.com/adsense",
+  "dataVisibility": ["PRIVATE"]
+}
