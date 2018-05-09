@@ -18,5 +18,9 @@
   {
     "id": "TOOLS",
     "name": "Tools"
-  }
+  },
+	{
+		"id": "PUBLIC_DATA",
+		"name": "Public Data"
+	}
 ]

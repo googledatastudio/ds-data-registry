@@ -1,0 +1,9 @@
+{
+  "id": "SFO_DATA",
+  "name": "SFO",
+  "categories": ["PUBLIC_DATA"],
+  "organization": "SF_DATA",
+  "iconUrl": "https://sfoconnect.com/sites/default/files/legacy/images/sfo3d.jpeg",
+  "sourceUrl": "https://datasf.org/opendata/",
+  "dataVisibility": ["PUBLIC"]
+}
