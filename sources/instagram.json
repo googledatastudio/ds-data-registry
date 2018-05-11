@@ -5,5 +5,5 @@
   "organization": "FACEBOOK",
   "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/IG.png",
   "sourceUrl": "https://www.instagram.com/",
-  "dataVisibility": ["PRIVATE"]
+  "dataVisibility": ["PUBLIC", "PRIVATE"]
 }

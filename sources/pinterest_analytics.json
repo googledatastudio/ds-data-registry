@@ -5,5 +5,5 @@
   "organization": "PINTEREST",
   "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/PI.png",
   "sourceUrl": "https://www.pinterest.com/",
-  "dataVisibility": ["PRIVATE"]
+  "dataVisibility": ["PUBLIC", "PRIVATE"]
 }

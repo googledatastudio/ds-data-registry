@@ -2,7 +2,7 @@
   "id": "YAHOO_GEMINI",
   "name": "Yahoo Gemini",
   "categories": ["ADVERTISING"],
-  "organization": "Yahoo",
+  "organization": "YAHOO",
   "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/YG.png",
   "sourceUrl": "https://gemini.yahoo.com/",
   "dataVisibility": ["PRIVATE"]

@@ -1,7 +1,7 @@
 {
   "id": "MAILCHIMP",
   "name": "MailChimp",
-  "categories": ["MARKETING"],
+  "categories": ["EMAIL"],
   "organization": "MAILCHIMP",
   "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/MC.png",
   "sourceUrl": "https://www.mailchimp.com/",

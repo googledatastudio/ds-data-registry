@@ -5,5 +5,5 @@
   "organization": "TWITTER",
   "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/TW.png",
   "sourceUrl": "https://analytics.twitter.com/",
-  "dataVisibility": ["PRIVATE"]
+  "dataVisibility": ["PUBLIC", "PRIVATE"]
 }
