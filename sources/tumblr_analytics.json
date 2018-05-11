@@ -1,0 +1,9 @@
+{
+  "id": "TUMBLR_ANALYTICS",
+  "name": "Tumblr Analytics",
+  "categories": ["SOCIAL", "ANALYTICS"],
+  "organization": "TUMBLR",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/TB.png",
+  "sourceUrl": "https://www.tumblr.com",
+  "dataVisibility": ["PRIVATE"]
+}

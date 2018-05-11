@@ -1,0 +1,9 @@
+{
+  "id": "PINTEREST_ANALYTICS",
+  "name": "Pinterest Analytics",
+  "categories": ["SOCIAL"],
+  "organization": "PINTEREST",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/PI.png",
+  "sourceUrl": "https://www.pinterest.com/",
+  "dataVisibility": ["PRIVATE"]
+}

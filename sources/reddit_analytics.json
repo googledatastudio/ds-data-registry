@@ -1,0 +1,9 @@
+{
+  "id": "REDDIT_ANALYTICS",
+  "name": "Reddit Analytics",
+  "categories": ["SOCIAL"],
+  "organization": "REDDIT",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/RD.png",
+  "sourceUrl": "https://www.reddit.com/",
+  "dataVisibility": ["PRIVATE"]
+}
