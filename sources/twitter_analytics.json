@@ -1,0 +1,9 @@
+{
+  "id": "TWITTER_ANALYTICS",
+  "name": "Twitter Analytics",
+  "categories": ["SOCIAL", "ANALYITCS"],
+  "organization": "TWITTER",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/TW.png",
+  "sourceUrl": "https://analytics.twitter.com/",
+  "dataVisibility": ["PUBLIC", "PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "INSTAGRAM",
+  "name": "Instagram",
+  "categories": ["SOCIAL"],
+  "organization": "FACEBOOK",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/IG.png",
+  "sourceUrl": "https://www.instagram.com/",
+  "dataVisibility": ["PUBLIC", "PRIVATE"]
+}

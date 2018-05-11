@@ -12,11 +12,27 @@
     "name": "Database"
   },
   {
+    "id": "EMAIL",
+    "name": "Email"
+  },
+  {
     "id": "MARKETING",
     "name": "Marketing"
   },
   {
+    "id": "PAYMENTS",
+    "name": "Payments"
+  },
+  {
+    "id": "SOCIAL",
+    "name": "Social media"
+  },
+  {
     "id": "TOOLS",
     "name": "Tools"
+  },
+  {
+    "id": "VIDEO",
+    "name": "Video"
   }
 ]
