@@ -16,6 +16,10 @@
     "name": "Marketing"
   },
   {
+    "id": "SOCIAL",
+    "name": "Social media"
+  },
+  {
     "id": "TOOLS",
     "name": "Tools"
   }
