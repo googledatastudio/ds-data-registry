@@ -1,0 +1,9 @@
+{
+  "id": "STRIPE",
+  "name": "Stripe",
+  "categories": ["PAYMENTS"],
+  "organization": "STRIPE",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/ST.png",
+  "sourceUrl": "https://stripe.com/",
+  "dataVisibility": ["PRIVATE"]
+}

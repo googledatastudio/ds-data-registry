@@ -1,0 +1,9 @@
+{
+  "id": "LINKEDIN_ANALYTICS",
+  "name": "LinkedIn Page Analytics",
+  "categories": ["SOCIAL", "ANALYTICS"],
+  "organization": "MICROSOFT",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/LI.png",
+  "sourceUrl": "https://www.linkedin.com",
+  "dataVisibility": ["PRIVATE"]
+}

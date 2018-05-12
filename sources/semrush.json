@@ -1,0 +1,9 @@
+{
+  "id": "SEMRUSH",
+  "name": "SEMrush",
+  "categories": ["MARKETING", "TOOLS"],
+  "organization": "SEMRUSH",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/SR.png",
+  "sourceUrl": "https://www.semrush.com",
+  "dataVisibility": ["PRIVATE"]
+}

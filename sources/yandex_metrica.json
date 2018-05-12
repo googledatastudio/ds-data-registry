@@ -1,0 +1,9 @@
+{
+  "id": "YANDEX_METRICA",
+  "name": "Yandex.Metrica",
+  "categories": ["ANALYTICS"],
+  "organization": "YANDEX",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/YAM.png",
+  "sourceUrl": "https://metrica.yandex.com/",
+  "dataVisibility": ["PRIVATE"]
+}
