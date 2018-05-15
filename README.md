@@ -56,6 +56,7 @@ If you can't find an appropriate source for your connector in the data registry 
 | iconUrl           | A link to an icon image representing this source. Recommended dimensions are 40px by 40px. It is your responsibility to review and comply with all applicable third party TOS.
 | sourceUrl         | A link users can follow to learn more about the source.
 | dataVisibility    | Valid values: `PUBLIC`, `PRIVATE`. Describes whether the source returns data that is generally available to all users or private. This is not related to authentication or access to data but only about the availability of the data. For example, the data visibility for a Twitter source that returns the number of [@googleanalytics](https://twitter.com/googleanalytics) followers is PUBLIC since the source returns the same data for any user. However, for a source such as Google Analytics, the data returned is unique and private to each user so data visibility is `PRIVATE`. A simple test is if two unique users connected to the source would they receive the same data (`PUBLIC`) or unique data specific to their account (`PRIVATE`).
+3. run `npm install && npm run prettier` to automatically format the JSON.
 
 ## Add a category
 
@@ -74,6 +75,8 @@ Try to use existing categories when possible. If required new categories can be 
 | id                | A unique Id. This will be used in source definitions.
 | name              | A user-friendly name of the category.
 | description       | An optional description of the category.
+
+After editing this file, run `npm install && npm run prettier` to automatically format the JSON.
 
 ## Add an organization
 
@@ -98,9 +101,9 @@ A new organization can be added to the registry by sending a pull request.
 | id                | A unique Id. This will be used in source definitions.
 | name              | A user-friendly name of the organization.
 | description       | An optional description of the organization.
+3. run `npm install && npm run prettier` to automatically format the JSON.
 
 ## How this information is used
 This information will be used to help categorize and organize Community Connectors, making it easier for users to discover and connect to data. Visit the [Data Studio Gallery](https://developers.google.com/datastudio/connector/gallery).
 
 Questions or requests related to this registry can be sent to community-connector-feedback@google.com.
-
