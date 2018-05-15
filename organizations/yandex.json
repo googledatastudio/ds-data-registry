@@ -1,6 +1,6 @@
 {
-    "id": "YANDEX",
-    "name": "Yandex",
-    "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/YAD.png",
-    "orgUrl": "https://yandex.com/"
+  "id": "YANDEX",
+  "name": "Yandex",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/YAD.png",
+  "orgUrl": "https://yandex.com/"
 }

@@ -1,6 +1,6 @@
 {
-    "id": "SEMRUSH",
-    "name": "SEMrush",
-    "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/SR.png",
-    "orgUrl": "https://www.semrush.com/"
+  "id": "SEMRUSH",
+  "name": "SEMrush",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/SR.png",
+  "orgUrl": "https://www.semrush.com/"
 }

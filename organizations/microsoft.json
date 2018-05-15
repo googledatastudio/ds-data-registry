@@ -1,6 +1,7 @@
 {
-    "id": "MICROSOFT",
-    "name": "Microsoft",
-    "iconUrl": "https://blogs.microsoft.com/uploads/2012/08/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen.jpg",
-    "orgUrl": "https://www.microsoft.com"
+  "id": "MICROSOFT",
+  "name": "Microsoft",
+  "iconUrl":
+    "https://blogs.microsoft.com/uploads/2012/08/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen.jpg",
+  "orgUrl": "https://www.microsoft.com"
 }

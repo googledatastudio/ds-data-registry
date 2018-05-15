@@ -3,7 +3,9 @@
   "name": "DoubleClick Bid Manager",
   "categories": ["ADVERTISING"],
   "organization": "GOOGLE",
-  "iconUrl": "https://datastudiogallery.appspot.com/static/data/icons/doubleclick.png",
-  "sourceUrl": "https://www.doubleclickbygoogle.com/solutions/digital-marketing/bid-manager/",
+  "iconUrl":
+    "https://datastudiogallery.appspot.com/static/data/icons/doubleclick.png",
+  "sourceUrl":
+    "https://www.doubleclickbygoogle.com/solutions/digital-marketing/bid-manager/",
   "dataVisibility": ["PRIVATE"]
 }

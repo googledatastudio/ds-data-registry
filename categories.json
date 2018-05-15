@@ -32,6 +32,10 @@
     "name": "Tools"
   },
   {
+    "id": "PUBLIC_DATA",
+    "name": "Public Data"
+  },
+  {
     "id": "VIDEO",
     "name": "Video"
   }

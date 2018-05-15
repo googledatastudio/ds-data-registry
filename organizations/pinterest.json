@@ -1,6 +1,6 @@
 {
-    "id": "PINTEREST",
-    "name": "Pinterest",
-    "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/PI.png",
-    "orgUrl": "https://www.pinterest.com/"
+  "id": "PINTEREST",
+  "name": "Pinterest",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/PI.png",
+  "orgUrl": "https://www.pinterest.com/"
 }
