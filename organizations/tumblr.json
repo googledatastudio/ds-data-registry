@@ -1,6 +1,6 @@
 {
-    "id": "TUMBLR",
-    "name": "Tumblr",
-    "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/TB.png",
-    "orgUrl": "https://www.tumblr.com/"
+  "id": "TUMBLR",
+  "name": "Tumblr",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/TB.png",
+  "orgUrl": "https://www.tumblr.com/"
 }

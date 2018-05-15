@@ -3,7 +3,9 @@
   "name": "DoubleClick Search",
   "categories": ["ADVERTISING"],
   "organization": "GOOGLE",
-  "iconUrl": "https://datastudiogallery.appspot.com/static/data/icons/doubleclick.png",
-  "sourceUrl": "https://www.doubleclickbygoogle.com/solutions/digital-marketing/search/",
+  "iconUrl":
+    "https://datastudiogallery.appspot.com/static/data/icons/doubleclick.png",
+  "sourceUrl":
+    "https://www.doubleclickbygoogle.com/solutions/digital-marketing/search/",
   "dataVisibility": ["PRIVATE"]
 }

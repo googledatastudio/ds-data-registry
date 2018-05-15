@@ -1,7 +1,7 @@
 {
   "id": "YOUTUBE_ANALYTICS",
   "name": "YouTube Analytics",
-  "categories": ["VIDEO","ANALYTICS"],
+  "categories": ["VIDEO", "ANALYTICS"],
   "organization": "GOOGLE",
   "iconUrl":
     "https://datastudiogallery.appspot.com/static/data/icons/youtube.png",

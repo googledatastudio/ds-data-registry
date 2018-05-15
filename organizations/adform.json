@@ -1,6 +1,6 @@
 {
-    "id": "ADFORM",
-    "name": "Adform",
-    "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/ADF.png",
-    "orgUrl": "https://site.adform.com/"
+  "id": "ADFORM",
+  "name": "Adform",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/ADF.png",
+  "orgUrl": "https://site.adform.com/"
 }
