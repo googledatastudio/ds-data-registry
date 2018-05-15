@@ -3,7 +3,8 @@
   "name": "Google Analytics",
   "categories": ["ANALYTICS"],
   "organization": "GOOGLE",
-  "iconUrl": "https://www.gstatic.com/images/branding/product/2x/google_analytics_64dp.png",
+  "iconUrl":
+    "https://www.gstatic.com/images/branding/product/2x/google_analytics_64dp.png",
   "sourceUrl": "https://www.google.com/analytics",
   "dataVisibility": ["PRIVATE"]
 }
