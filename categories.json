@@ -12,8 +12,20 @@
     "name": "Database"
   },
   {
+    "id": "EMAIL",
+    "name": "Email"
+  },
+  {
     "id": "MARKETING",
     "name": "Marketing"
+  },
+  {
+    "id": "PAYMENTS",
+    "name": "Payments"
+  },
+  {
+    "id": "SOCIAL",
+    "name": "Social media"
   },
   {
     "id": "TOOLS",
@@ -22,5 +34,9 @@
   {
     "id": "PUBLIC_DATA",
     "name": "Public Data"
+  },
+  {
+    "id": "VIDEO",
+    "name": "Video"
   }
 ]

@@ -1,0 +1,9 @@
+{
+  "id": "GOOGLE_PLUS",
+  "name": "Google+",
+  "categories": ["SOCIAL"],
+  "organization": "GOOGLE",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/GP.png",
+  "sourceUrl": "https://plus.google.com/",
+  "dataVisibility": ["PUBLIC", "PRIVATE"]
+}
