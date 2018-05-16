@@ -1,0 +1,9 @@
+{
+  "id": "WALMART",
+  "name": "Walmart",
+  "categories": ["MARKETPLACE"],
+  "organization": "WALMART",
+  "iconUrl": "https://marketplace.walmart.com/knowledgebase/resource/1450198358000/WalmartWhiteLogo",
+  "orgUrl": "https://www.walmart.com"
+  "dataVisibility": ["PRIVATE"]
+}
