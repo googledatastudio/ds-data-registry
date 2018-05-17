@@ -1,0 +1,9 @@
+{
+  "id": "EBAY",
+  "name": "eBay",
+  "categories": ["ECOMMERCE"],
+  "organization": "EBAY",
+  "iconUrl": "https://ir.ebaystatic.com/rs/v/fxxj3ttftm5ltcqnto1o4baovyl.png",
+  "orgUrl": "https://www.ebay.com/",
+  "dataVisibility": ["PRIVATE"]
+}
