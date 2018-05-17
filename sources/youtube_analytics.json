@@ -1,9 +1,11 @@
 {
   "id": "YOUTUBE_ANALYTICS",
   "name": "YouTube Analytics",
-  "categories": ["ANALYTICS"],
+  "categories": ["VIDEO", "ANALYTICS"],
   "organization": "GOOGLE",
-  "iconUrl": "https://datastudiogallery.appspot.com/static/data/icons/youtube.png",
-  "sourceUrl": "https://creatoracademy.youtube.com/page/course/analytics-series",
+  "iconUrl":
+    "https://datastudiogallery.appspot.com/static/data/icons/youtube.png",
+  "sourceUrl":
+    "https://creatoracademy.youtube.com/page/course/analytics-series",
   "dataVisibility": ["PRIVATE"]
 }

@@ -1,0 +1,9 @@
+{
+  "id": "ADROLL",
+  "name": "AdRoll",
+  "categories": ["ADVERTISING"],
+  "organization": "ADROLL",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/ADR.png",
+  "sourceUrl": "https://www.adroll.com/",
+  "dataVisibility": ["PRIVATE"]
+}

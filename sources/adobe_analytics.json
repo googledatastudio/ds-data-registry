@@ -1,0 +1,9 @@
+{
+  "id": "ADOBE_ANALYTICS",
+  "name": "Adobe Analytics",
+  "categories": ["ANALYTICS"],
+  "organization": "ADOBE",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/ASC.png",
+  "sourceUrl": "https://www.adobe.com/data-analytics-cloud/analytics.html",
+  "dataVisibility": ["PRIVATE"]
+}

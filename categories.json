@@ -12,15 +12,39 @@
     "name": "Database"
   },
   {
+    "id": "ECOMMERCE",
+    "name": "eCommerce"
+  },
+  {
+    "id": "EMAIL",
+    "name": "Email"
+  },
+  {
     "id": "MARKETING",
     "name": "Marketing"
+  },
+  {
+    "id": "PAYMENTS",
+    "name": "Payments"
+  },
+  {
+    "id": "SEO",
+    "name": "Search Engine Optimization"
+  },  
+  {
+    "id": "SOCIAL",
+    "name": "Social media"
   },
   {
     "id": "TOOLS",
     "name": "Tools"
   },
   {
-    "id": "SEO",
-    "name": "Search Engine Optimization"
+    "id": "PUBLIC_DATA",
+    "name": "Public Data"
+  },
+  {
+    "id": "VIDEO",
+    "name": "Video"
   }
 ]

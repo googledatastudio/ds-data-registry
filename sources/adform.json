@@ -1,0 +1,9 @@
+{
+  "id": "ADFORM",
+  "name": "Adform",
+  "categories": ["ADVERTISING"],
+  "organization": "ADFORM",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/ADF.png",
+  "sourceUrl": "https://site.adform.com/",
+  "dataVisibility": ["PRIVATE"]
+}
