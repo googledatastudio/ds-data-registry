@@ -1,0 +1,10 @@
+{
+    "id": "BOTIFY",
+    "name": "Botify",
+    "categories": ["SEO"],
+    "organization": "BOTIFY",
+    "iconUrl": "https://www.botify.com/statics/images/logos/botify-white.png",
+    "sourceUrl": "https://www.botify.com/",
+    "dataVisibility": ["PRIVATE"]
+  }
+  
