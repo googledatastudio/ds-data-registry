@@ -5,6 +5,6 @@
   "organization": "SOCRATA",
   "iconUrl":
     "https://opendata.socrata.com/api/assets/BFCF469C-E3F8-44A1-9E5A-032AF3457AFB?LogoSwirl.png",
-  "sourceUrl": "https://github.com/socrata/data-studio-connector",
+  "sourceUrl": "https://dev.socrata.com",
   "dataVisibility": ["PRIVATE","PUBLIC"]
 }
