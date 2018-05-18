@@ -1,0 +1,10 @@
+{
+  "id": "TOKY_API",
+  "name": "Toky Calls data API",
+  "categories": ["ANALYTICS", "TOOLS"],
+  "organization": "TOKY",
+  "iconUrl":
+    "https://toky.co/resources/logos/40.png ",
+  "sourceUrl": "http://developer.toky.co",
+  "dataVisibility": ["PRIVATE"]
+}
