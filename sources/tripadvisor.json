@@ -1,0 +1,9 @@
+{
+  "id": "TRIPADVISOR",
+  "name": "TripAdvisor",
+  "categories": ["ADVERTISING"],
+  "organization": "ADROLL",
+  "iconUrl": "https://static.tacdn.com/img2/branding/rebrand/TA_logo_primary.svg",
+  "sourceUrl": "https://www.tripadvisor.com",
+  "dataVisibility": ["PRIVATE"]
+}
