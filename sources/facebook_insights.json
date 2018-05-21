@@ -1,0 +1,9 @@
+{
+  "id": "FACEBOOK_INSIGHTS",
+  "name": "Facebook Insights",
+  "categories": ["SOCIAL"],
+  "organization": "FACEBOOK",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/FB.png",
+  "sourceUrl": "https://www.facebook.com/business/a/page/page-insights",
+  "dataVisibility": ["PRIVATE"]
+}

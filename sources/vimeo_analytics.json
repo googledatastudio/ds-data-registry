@@ -1,0 +1,9 @@
+{
+  "id": "VIMEO_ANALYTICS",
+  "name": "Vimeo Analytics",
+  "categories": ["VIDEO", "ANALYTICS"],
+  "organization": "VIMEO",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/VM.png",
+  "sourceUrl": "https://vimeo.com/stats",
+  "dataVisibility": ["PUBLIC", "PRIVATE"]
+}

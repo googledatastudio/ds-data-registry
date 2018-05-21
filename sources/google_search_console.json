@@ -3,7 +3,8 @@
   "name": "Google Search Console",
   "categories": ["SEARCH"],
   "organization": "GOOGLE",
-  "iconUrl": "https://datastudiogallery.appspot.com/static/data/icons/searchconsole.png",
+  "iconUrl":
+    "https://datastudiogallery.appspot.com/static/data/icons/searchconsole.png",
   "sourceUrl": "https://www.google.com/webmasters/tools/home",
   "dataVisibility": ["PRIVATE"]
 }

@@ -1,0 +1,14 @@
+{
+  "name": "ds-data-registry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:googledatastudio/ds-data-registry.git",
+  "author": "Matt Hamrick <matthewjhamrick@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "prettier": "prettier --write \"**/*.json\""
+  },
+  "devDependencies": {
+    "prettier": "^1.12.1"
+  }
+}

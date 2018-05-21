@@ -1,0 +1,10 @@
+{
+  "id": "GOOGLE_MY_BUSINESS",
+  "name": "Google My Business",
+  "categories": ["ANALYTICS", "ADVERTISING"],
+  "organization": "GOOGLE",
+  "iconUrl":
+    "https://www.gstatic.com/images/branding/product/1x/google_my_business_64dp.png",
+  "sourceUrl": "https://www.google.com/business/",
+  "dataVisibility": ["PRIVATE"]
+}

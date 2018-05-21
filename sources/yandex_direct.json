@@ -1,0 +1,9 @@
+{
+  "id": "YANDEX_DIRECT",
+  "name": "Yandex.Direct",
+  "categories": ["ADVERTISING"],
+  "organization": "YANDEX",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/YAD.png",
+  "sourceUrl": "https://direct.yandex.com/",
+  "dataVisibility": ["PRIVATE"]
+}

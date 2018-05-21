@@ -1,0 +1,9 @@
+{
+  "id": "G_SUITE_ADMIN",
+  "name": "G Suite Admin",
+  "categories": ["TOOLS"],
+  "organization": "GOOGLE",
+  "iconUrl": "https://gsuite.google.com/img/logo/lockup_gsuite.svg",
+  "sourceUrl": "https://gsuite.google.com/products/admin/",
+  "dataVisibility": ["PRIVATE"]
+}

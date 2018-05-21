@@ -3,7 +3,8 @@
   "name": "Google AdWords",
   "categories": ["ADVERTISING"],
   "organization": "GOOGLE",
-  "iconUrl": "https://www.gstatic.com/images/branding/product/2x/adwords_64dp.png",
+  "iconUrl":
+    "https://www.gstatic.com/images/branding/product/2x/adwords_64dp.png",
   "sourceUrl": "https://adwords.google.com/",
   "dataVisibility": ["PRIVATE"]
 }

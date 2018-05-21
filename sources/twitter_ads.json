@@ -1,0 +1,9 @@
+{
+  "id": "TWITTER_ADS",
+  "name": "Twitter Ads",
+  "categories": ["ADVERTISING"],
+  "organization": "TWITTER",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/TW.png",
+  "sourceUrl": "https://ads.twitter.com/",
+  "dataVisibility": ["PRIVATE"]
+}

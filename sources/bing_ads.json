@@ -1,0 +1,9 @@
+{
+  "id": "BING_ADS",
+  "name": "Bing Ads",
+  "categories": ["ADVERTISING"],
+  "organization": "MICROSOFT",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/AC.png",
+  "sourceUrl": "https://secure.bingads.microsoft.com/",
+  "dataVisibility": ["PRIVATE"]
+}
