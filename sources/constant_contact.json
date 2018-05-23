@@ -4,6 +4,6 @@
   "categories": ["EMAIL"],
   "organization": "CONSTANT_CONTACT",
   "iconUrl": "https://static.ctctcdn.com/lp/images/standard/logos/logo-ctct-white.svg",
-  "orgUrl": "https://www.constantcontact.com/",
+  "sourceUrl": "https://www.constantcontact.com/",
   "dataVisibility": ["PRIVATE"]
 }
