@@ -4,6 +4,6 @@
   "categories": ["EMAIL"],
   "organization": "LISTRAK",
   "iconUrl": "https://www.listrak.com/images/img-listrak-logo.png",
-  "orgUrl": "https://www.listrak.com/",
+  "sourceUrl": "https://www.listrak.com/",
   "dataVisibility": ["PRIVATE"]
 }
