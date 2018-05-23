@@ -4,6 +4,6 @@
   "categories": ["MARKETING"],
   "organization": "SHAREASALE",
   "iconUrl":  "http://www.shareasale.com/siteimages2/ShareASale-Logo-Dark-RGB.svg",
-  "orgUrl": "http://www.shareasale.com/",
+  "sourceUrl": "http://www.shareasale.com/",
   "dataVisibility": ["PRIVATE"]
 }
