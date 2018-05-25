@@ -1,0 +1,9 @@
+{
+  "id": "SHAREASALE",
+  "name": "ShareASale",
+  "categories": ["MARKETING"],
+  "organization": "SHAREASALE",
+  "iconUrl":  "http://www.shareasale.com/siteimages2/ShareASale-Logo-Dark-RGB.svg",
+  "sourceUrl": "http://www.shareasale.com/",
+  "dataVisibility": ["PRIVATE"]
+}
