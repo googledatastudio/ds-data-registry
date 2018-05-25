@@ -1,0 +1,9 @@
+{
+  "id": "AMAZON",
+  "name": "Amazon",
+  "categories": ["ECOMMERCE"],
+  "organization": "AMAZON",
+  "iconUrl": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/amazon-logo._CB192256676_.gif",
+  "sourceUrl": "https://www.amazon.com/",
+  "dataVisibility": ["PRIVATE"]
+}
