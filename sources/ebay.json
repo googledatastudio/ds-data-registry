@@ -3,7 +3,7 @@
   "name": "eBay",
   "categories": ["ECOMMERCE"],
   "organization": "EBAY",
-  "iconUrl": "https://ir.ebaystatic.com/rs/v/fxxj3ttftm5ltcqnto1o4baovyl.png",
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/EBay_logo.svg",
   "sourceUrl": "https://www.ebay.com/",
   "dataVisibility": ["PRIVATE"]
 }
