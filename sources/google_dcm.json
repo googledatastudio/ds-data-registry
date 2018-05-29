@@ -3,7 +3,9 @@
   "name": "DoubleClick Campaign Manager",
   "categories": ["ADVERTISING"],
   "organization": "GOOGLE",
-  "iconUrl": "https://datastudiogallery.appspot.com/static/data/icons/doubleclick.png",
-  "sourceUrl": "https://www.doubleclickbygoogle.com/solutions/digital-marketing/campaign-manager/",
+  "iconUrl":
+    "https://datastudiogallery.appspot.com/static/data/icons/doubleclick.png",
+  "sourceUrl":
+    "https://www.doubleclickbygoogle.com/solutions/digital-marketing/campaign-manager/",
   "dataVisibility": ["PRIVATE"]
 }

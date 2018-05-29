@@ -3,7 +3,9 @@
   "name": "DoubleClick for Publishers",
   "categories": ["ADVERTISING"],
   "organization": "GOOGLE",
-  "iconUrl": "https://datastudiogallery.appspot.com/static/data/icons/doubleclick.png",
-  "sourceUrl": "https://www.doubleclickbygoogle.com/solutions/revenue-management/join-dfp/",
+  "iconUrl":
+    "https://datastudiogallery.appspot.com/static/data/icons/doubleclick.png",
+  "sourceUrl":
+    "https://www.doubleclickbygoogle.com/solutions/revenue-management/join-dfp/",
   "dataVisibility": ["PRIVATE"]
 }

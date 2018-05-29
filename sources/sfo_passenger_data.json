@@ -1,0 +1,11 @@
+{
+  "id": "SFO_PASSENGER_DATA",
+  "name": "SFO Air Traffic Passenger Statistics",
+  "categories": ["PUBLIC_DATA"],
+  "organization": "SF_DATA",
+  "iconUrl":
+    "https://sfoconnect.com/sites/default/files/legacy/images/sfo3d.jpeg",
+  "sourceUrl":
+    "https://data.sfgov.org/Transportation/Air-Traffic-Passenger-Statistics/rkru-6vcg",
+  "dataVisibility": ["PUBLIC"]
+}

@@ -1,6 +1,6 @@
 {
-    "id": "ADROLL",
-    "name": "AdRoll",
-    "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/ADR.png",
-    "orgUrl": "https://www.adroll.com/"
+  "id": "ADROLL",
+  "name": "AdRoll",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/ADR.png",
+  "orgUrl": "https://www.adroll.com/"
 }

@@ -1,0 +1,9 @@
+{
+  "id": "LISTRAK",
+  "name": "Listrak",
+  "categories": ["EMAIL"],
+  "organization": "LISTRAK",
+  "iconUrl": "https://www.listrak.com/images/img-listrak-logo.png",
+  "sourceUrl": "https://www.listrak.com/",
+  "dataVisibility": ["PRIVATE"]
+}
