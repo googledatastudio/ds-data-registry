@@ -8,6 +8,10 @@
     "name": "Analytics"
   },
   {
+    "id": "CUSTOM",
+    "name": "Custom"
+  },
+  {
     "id": "DATABASE",
     "name": "Database"
   },
