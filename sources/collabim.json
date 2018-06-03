@@ -1,0 +1,9 @@
+{
+  "id": "COLLABIM",
+  "name": "Collabim",
+  "categories": ["ANALYTICS", "SEO"],
+  "organization": "COLLABIM",
+  "iconUrl": "https://www.collabim.cz/galerie/tinymce/logoGDS.png",
+  "sourceUrl": "https://api.oncollabim.com",
+  "dataVisibility": ["PRIVATE"]
+}
