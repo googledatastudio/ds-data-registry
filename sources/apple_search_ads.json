@@ -1,0 +1,9 @@
+{
+  "id": "APPLE_SEARCH",
+  "name": "Apple Search Ads",
+  "categories": ["ADVERTISING"],
+  "organization": "APPLE",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/apple.png",
+  "sourceUrl": "https://searchads.apple.com/",
+  "dataVisibility": ["PRIVATE"]
+}

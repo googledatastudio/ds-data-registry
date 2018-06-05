@@ -1,0 +1,9 @@
+{
+  "id": "APPLOVIN",
+  "name": "AppLovin",
+  "categories": ["ADVERTISING"],
+  "organization": "APPLOVIN",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/applovin.png",
+  "sourceUrl": "https://a-support.applovin.com/hc/en-us/sections/115000215587-Reporting-APIs",
+  "dataVisibility": ["PRIVATE"]
+}
