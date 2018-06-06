@@ -1,0 +1,8 @@
+{
+  "id": "CUSTOM_SPSS",
+  "name": "Custom SPSS",
+  "categories": ["CUSTOM"],
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/custom_spss.png",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "FACEBOOK_BUSINESS_INVOICES",
+  "name": "Facebook Business Invoices",
+  "categories": ["SOCIAL"],
+  "organization": "FACEBOOK",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/FB.png",
+  "sourceUrl": "https://developers.facebook.com/docs/marketing-api/business-manager-api",
+  "dataVisibility": ["PRIVATE"]
+}
