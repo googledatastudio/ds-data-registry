@@ -1,0 +1,9 @@
+{
+  "id": "CHANNELPILOT",
+  "name": "ChannelPilot",
+  "categories": ["ADVERTISING","ECOMMERCE"],
+  "organization": "CHANNELPILOT",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/channelpilot.png",
+  "sourceUrl": "https://www.channelpilot.com/",
+  "dataVisibility": ["PRIVATE"]
+}
