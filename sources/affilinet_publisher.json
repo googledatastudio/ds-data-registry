@@ -1,9 +1,0 @@
-{
-  "id": "AFFILINET_PUBLISHER",
-  "name": "Affilinet Publisher Webservices",
-  "categories": ["ADVERTISING"],
-  "organization": "AFFILINET",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/affilinet.png",
-  "sourceUrl": "http://developer.affili.net/publisher-webservices/documentation/",
-  "dataVisibility": ["PRIVATE"]
-}

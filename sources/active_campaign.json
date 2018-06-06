@@ -1,9 +1,0 @@
-{
-  "id": "ACTIVECAMPAIGN",
-  "name": "ActiveCampaign",
-  "categories": ["MARKETING"],
-  "organization": "ACTIVECAMPAIGN",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/active_campaign.png",
-  "sourceUrl": "https://www.activecampaign.com/api/overview.php",
-  "dataVisibility": ["PRIVATE"]
-}

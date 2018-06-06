@@ -1,9 +1,0 @@
-{
-  "id": "APPNEXUS",
-  "name": "AppNexus",
-  "categories": ["ADVERTISING"],
-  "organization": "APPNEXUS",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/appnexus.png",
-  "sourceUrl": "https://wiki.appnexus.com/display/api/API+Getting+Started",
-  "dataVisibility": ["PRIVATE"]
-}

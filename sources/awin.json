@@ -1,9 +1,0 @@
-{
-  "id": "AWIN_PUBLISHER",
-  "name": "AWIN Publisher",
-  "categories": ["ADVERTISING"],
-  "organization": "AWIN",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/awin.png",
-  "sourceUrl": "https://wiki.awin.com/index.php/Publisher_API",
-  "dataVisibility": ["PRIVATE"]
-}
