@@ -1,0 +1,9 @@
+{
+  "id": "BAIDU",
+  "name": "Baidu Advertising",
+  "categories": ["ADVERTISING"],
+  "organization": "BAIDU",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/baidu.png",
+  "sourceUrl": "https://www.baidu.com/",
+  "dataVisibility": ["PRIVATE"]
+}

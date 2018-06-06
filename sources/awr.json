@@ -1,0 +1,9 @@
+{
+  "id": "AWR",
+  "name": "Advanced Web Ranking",
+  "categories": ["SEO"],
+  "organization": "AWR",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/awr.png",
+  "sourceUrl": "https://www.advancedwebranking.com/",
+  "dataVisibility": ["PUBLIC"]
+}

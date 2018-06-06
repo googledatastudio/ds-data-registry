@@ -1,0 +1,9 @@
+{
+  "id": "AWS_REDSHIFT",
+  "name": "Amazon Redshift",
+  "categories": ["DATABASE"],
+  "organization": "AMAZON",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/aws_redshift.png",
+  "sourceUrl": "https://aws.amazon.com/redshift/",
+  "dataVisibility": ["PRIVATE"]
+}
