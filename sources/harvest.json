@@ -1,0 +1,9 @@
+{
+  "id": "HARVEST",
+  "name": "Harvest",
+  "categories": ["TOOLS"],
+  "organization": "APACHE",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/hadoop.png",
+  "sourceUrl": "https://www.getharvest.com/",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}

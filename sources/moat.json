@@ -1,0 +1,9 @@
+{
+  "id": "MOAT",
+  "name": "Moat",
+  "categories": ["ANALYTICS"],
+  "organization": "MOAT",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/moat.png",
+  "sourceUrl": "https://moat.com/",
+  "dataVisibility": ["PRIVATE"]
+}

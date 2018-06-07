@@ -1,0 +1,9 @@
+{
+  "id": "MYSQL",
+  "name": "MySQL",
+  "categories": ["DATABASE"],
+  "organization": "ORACLE",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/mysql.png",
+  "sourceUrl": "https://www.mysql.com/",
+  "dataVisibility": ["PRIVATE","PUBLIC"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "MEDIAMATH",
+  "name": "MediaMath",
+  "categories": ["ADVERTISING"],
+  "organization": "MEDIAMATH",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/mediamath.png",
+  "sourceUrl": "https://www.mediamath.com/",
+  "dataVisibility": ["PRIVATE"]
+}

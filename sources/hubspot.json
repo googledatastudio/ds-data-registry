@@ -1,0 +1,9 @@
+{
+  "id": "HUBSPOT",
+  "name": "Hubspot",
+  "categories": ["MARKETING"],
+  "organization": "HUBSPOT",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/hubspot.png",
+  "sourceUrl": "https://www.hubspot.com/",
+  "dataVisibility": ["PRIVATE"]
+}

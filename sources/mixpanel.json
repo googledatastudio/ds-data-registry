@@ -1,0 +1,9 @@
+{
+  "id": "MIXPANEL",
+  "name": "Mixpanel",
+  "categories": ["ANALYTICS"],
+  "organization": "MIXPANEL",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/mixpanel.png",
+  "sourceUrl": "https://mixpanel.com/",
+  "dataVisibility": ["PRIVATE"]
+}

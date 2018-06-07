@@ -1,0 +1,9 @@
+{
+  "id": "KOCHAVA",
+  "name": "Kochava",
+  "categories": ["ANALYTICS"],
+  "organization": "KOCHAVA",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/kochava.png",
+  "sourceUrl": "https://www.kochava.com/",
+  "dataVisibility": ["PRIVATE"]
+}
