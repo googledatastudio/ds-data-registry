@@ -1,0 +1,9 @@
+{
+  "id": "TRIVAGO",
+  "name": "Trivago",
+  "categories": ["ADVERTISING", "TRAVEL"],
+  "organization": "EXPEDIA",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/trivago.png",
+  "sourceUrl": "https://www.trivago.se/",
+  "dataVisibility": ["PRIVATE"]
+}

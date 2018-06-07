@@ -1,0 +1,9 @@
+{
+  "id": "STYLIGHT",
+  "name": "Stylight",
+  "categories": ["ADVERTISING"],
+  "organization": "STYLIGHT",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/stylight.png",
+  "sourceUrl": "https://www.stylight.com/",
+  "dataVisibility": ["PRIVATE"]
+}

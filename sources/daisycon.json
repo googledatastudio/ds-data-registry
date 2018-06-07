@@ -1,0 +1,9 @@
+{
+  "id": "DAISYCON",
+  "name": "Daisycon",
+  "categories": ["ADVERTISING"],
+  "organization": "DAISYCON",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/daisycon_api.png",
+  "sourceUrl": "https://www.daisycon.com/",
+  "dataVisibility": ["PRIVATE"]
+}

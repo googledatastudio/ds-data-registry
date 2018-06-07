@@ -1,0 +1,9 @@
+{
+  "id": "TABOOLA",
+  "name": "Taboola",
+  "categories": ["ADVERTISING"],
+  "organization": "TABOOLA",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/taboola.png",
+  "sourceUrl": "https://www.taboola.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "CJAFFILIATE",
+  "name": "CJ Affiliate",
+  "categories": ["ADVERTISING"],
+  "organization": "CONVERSANT",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/cjaffiliate.png",
+  "sourceUrl": "https://www.cj.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "BILLIGER",
+  "name": "Billiger.de",
+  "categories": ["ADVERTISING"],
+  "organization": "BILLIGER",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/billiger_de.png",
+  "sourceUrl": "https://www.billiger.de/",
+  "dataVisibility": ["PRIVATE"]
+}
