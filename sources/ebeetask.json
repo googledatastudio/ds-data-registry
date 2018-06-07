@@ -1,0 +1,9 @@
+{
+  "id": "EBEETASK",
+  "name": "ebeeTask",
+  "categories": ["DATABASE"],
+  "organization": "FIREFLYE",
+  "iconUrl": "https://www.ebeetask.com/dynamicForms-war/resources/imagenes/ebee_transparente.png",
+  "sourceUrl": "https://www.ebeetask.com/",
+  "dataVisibility": ["PRIVATE"]
+}
