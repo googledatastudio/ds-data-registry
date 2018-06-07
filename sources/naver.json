@@ -1,0 +1,9 @@
+{
+  "id": "NAVER",
+  "name": "Naver",
+  "categories": ["ADVERTISING"],
+  "organization": "NAVER",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/naver.png",
+  "sourceUrl": "https://www.naver.com/",
+  "dataVisibility": ["PRIVATE"]
+}

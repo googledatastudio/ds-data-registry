@@ -1,0 +1,9 @@
+{
+  "id": "CAPTERRA",
+  "name": "Capterra",
+  "categories": ["ADVERTISING"],
+  "organization": "GARTNER",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/capterra.png",
+  "sourceUrl": "https://www.capterra.com/",
+  "dataVisibility": ["PRIVATE"]
+}

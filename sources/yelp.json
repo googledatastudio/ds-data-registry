@@ -1,0 +1,9 @@
+{
+  "id": "YELP",
+  "name": "Yelp",
+  "categories": ["ADVERTISING"],
+  "organization": "YELP",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/yelp.png",
+  "sourceUrl": "",
+  "dataVisibility": ["PRIVATE"]
+}

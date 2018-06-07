@@ -1,0 +1,9 @@
+{
+  "id": "SNAPCHAT",
+  "name": "Snapchat",
+  "categories": ["ADVERTISING"],
+  "organization": "SNAPCHAT",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/snapchat.png",
+  "sourceUrl": "https://forbusiness.snapchat.com/l/en-gb/",
+  "dataVisibility": ["PRIVATE"]
+}

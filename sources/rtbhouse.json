@@ -1,0 +1,9 @@
+{
+  "id": "RTBHOUSE",
+  "name": "RTB House",
+  "categories": ["ADVERTISING"],
+  "organization": "RTBHOUSE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/rtbhouse.png",
+  "sourceUrl": "https://www.rtbhouse.com/",
+  "dataVisibility": ["PRIVATE"]
+}
