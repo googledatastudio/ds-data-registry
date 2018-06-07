@@ -1,0 +1,10 @@
+{
+  "id": "RAKUTEN",
+  "name": "Rakuten LinkShare",
+  "categories": ["ADVERTISING"],
+  "organization": "RAKUTEN",
+  "iconUrl":
+    "https://static.funnel.io/logos/icon48x48/rakutenlinkshare_api.png",
+  "sourceUrl": "https://rakutenmarketing.com/affiliate",
+  "dataVisibility": ["PRIVATE"]
+}

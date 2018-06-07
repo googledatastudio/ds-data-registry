@@ -1,0 +1,9 @@
+{
+  "id": "TRADEDOUBLER",
+  "name": "Tradedoubler",
+  "categories": ["ADVERTISING"],
+  "organization": "TRADEDOUBLER",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/tradedoubler_api.png",
+  "sourceUrl": "http://www.tradedoubler.com/en/",
+  "dataVisibility": ["PRIVATE"]
+}

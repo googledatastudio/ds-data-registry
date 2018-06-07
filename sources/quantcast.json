@@ -1,0 +1,9 @@
+{
+  "id": "QUANTCAST",
+  "name": "Quantcast",
+  "categories": ["ADVERTISING"],
+  "organization": "QUANTCAST",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/quantcast.png",
+  "sourceUrl": "https://www.quantcast.com/",
+  "dataVisibility": ["PRIVATE"]
+}
