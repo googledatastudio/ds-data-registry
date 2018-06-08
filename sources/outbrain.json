@@ -1,0 +1,9 @@
+{
+  "id": "OUTBRAIN",
+  "name": "Outbrain",
+  "categories": ["ADVERTISING"],
+  "organization": "OUTBRAIN",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/outbrain.png",
+  "sourceUrl": "https://www.outbrain.com",
+  "dataVisibility": ["PRIVATE"]
+}

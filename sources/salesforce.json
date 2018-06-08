@@ -1,0 +1,9 @@
+{
+  "id": "SALESFORCE",
+  "name": "Salesforce",
+  "categories": ["MARKETING"],
+  "organization": "SALESFORCE",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/salesforce.png",
+  "sourceUrl": "https://www.salesforce.com",
+  "dataVisibility": ["PRIVATE"]
+}

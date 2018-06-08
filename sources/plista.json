@@ -1,0 +1,9 @@
+{
+  "id": "PLISTA",
+  "name": "plista",
+  "categories": ["ADVERTISING"],
+  "organization": "PLISTA",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/plista.png",
+  "sourceUrl": "https://www.plista.com",
+  "dataVisibility": ["PRIVATE"]
+}

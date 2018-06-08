@@ -1,0 +1,9 @@
+{
+  "id": "SEARCHMETRICS",
+  "name": "Searchmetrics",
+  "categories": ["SEO"],
+  "organization": "SEARCHMETRICS",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/searchmetrics.png",
+  "sourceUrl": "https://www.searchmetrics.com/",
+  "dataVisibility": ["PRIVATE","PUBLIC"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "SNAPCHAT",
+  "name": "Snapchat Ads",
+  "categories": ["ADVERTISING"],
+  "organization": "SNAPCHAT",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/snapchat.png",
+  "sourceUrl": "https://forbusiness.snapchat.com/",
+  "dataVisibility": ["PRIVATE"]
+}

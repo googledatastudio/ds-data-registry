@@ -1,0 +1,9 @@
+{
+  "id": "SIZMEK",
+  "name": "Sizmek",
+  "categories": ["ADVERTISING"],
+  "organization": "SIZMEK",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/sizmek.png",
+  "sourceUrl": "https://www.sizmek.com",
+  "dataVisibility": ["PRIVATE"]
+}

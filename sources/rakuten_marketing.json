@@ -1,0 +1,9 @@
+{
+  "id": "RAKUTEN_MARKETING",
+  "name": "Rakuten Marketing",
+  "categories": ["ADVERTISING"],
+  "organization": "RAKUTEN",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/rakuten_marketing.png",
+  "sourceUrl": "https://rakutenmarketing.com",
+  "dataVisibility": ["PRIVATE","PUBLIC"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "SISTRIX",
+  "name": "SISTRIX Toolbox",
+  "categories": ["SEO"],
+  "organization": "SISTRIX",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/sistrix.png",
+  "sourceUrl": "https://www.sistrix.com/",
+  "dataVisibility": ["PRIVATE","PUBLIC"]
+}

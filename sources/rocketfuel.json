@@ -1,0 +1,9 @@
+{
+  "id": "ROCKETFUEL",
+  "name": "Rocketfuel",
+  "categories": ["ADVERTISING"],
+  "organization": "SIZMEK",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/rocketfuel.png",
+  "sourceUrl": "https://rocketfuel.com",
+  "dataVisibility": ["PRIVATE"]
+}
