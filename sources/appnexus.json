@@ -1,0 +1,9 @@
+{
+  "id": "APPNEXUS",
+  "name": "AppNexus",
+  "categories": ["ANALYTICS"],
+  "organization": "APPNEXUS",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/appnexus_api.png",
+  "sourceUrl": "https://www.appnexus.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "STILEO",
+  "name": "Stileo",
+  "categories": ["ADVERTISING"],
+  "organization": "STILEO",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/stileo.png",
+  "sourceUrl": "https://stileo.it/",
+  "dataVisibility": ["PRIVATE"]
+}

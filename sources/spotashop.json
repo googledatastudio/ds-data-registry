@@ -1,0 +1,9 @@
+{
+  "id": "SPOTASHOP",
+  "name": "Spot-A-Shop",
+  "categories": ["ECOMMERCE"],
+  "organization": "SPOTASHOP",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/spotashop.png",
+  "sourceUrl": "https://www.spot-a-shop.se/",
+  "dataVisibility": ["PRIVATE"]
+}

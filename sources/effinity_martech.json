@@ -1,0 +1,9 @@
+{
+  "id": "EFFINITY_MARTECH",
+  "name": "Effinity Martech",
+  "categories": ["ADVERTISING"],
+  "organization": "EFFINITY_MARTECH",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/effinitymartech.png",
+  "sourceUrl": "http://www.effinity-martech.com/",
+  "dataVisibility": ["PRIVATE"]
+}

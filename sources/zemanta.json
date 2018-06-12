@@ -1,0 +1,9 @@
+{
+  "id": "ZEMANTA",
+  "name": "Zemanta",
+  "categories": ["ADVERTISING"],
+  "organization": "ZEMANTA",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/zemanta.png",
+  "sourceUrl": "http://www.zemanta.com/",
+  "dataVisibility": ["PRIVATE"]
+}

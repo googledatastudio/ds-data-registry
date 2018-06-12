@@ -1,0 +1,9 @@
+{
+  "id": "STYLELOUNGE",
+  "name": "Stylelounge",
+  "categories": ["ECOMMERCE"],
+  "organization": "STYLELOUNGE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/stylelounge.png",
+  "sourceUrl": "https://www.stylelounge.se/",
+  "dataVisibility": ["PRIVATE"]
+}

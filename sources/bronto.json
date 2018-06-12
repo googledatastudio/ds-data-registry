@@ -1,0 +1,9 @@
+{
+  "id": "BRONTO",
+  "name": "Bronto",
+  "categories": ["EMAIL"],
+  "organization": "BRONTO",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/bronto.png",
+  "sourceUrl": "https://bronto.com/",
+  "dataVisibility": ["PRIVATE"]
+}

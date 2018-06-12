@@ -1,0 +1,9 @@
+{
+  "id": "MEDIAMATH",
+  "name": "MediaMath",
+  "categories": ["ADVERTISING"],
+  "organization": "MEDIAMATH",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/mediamath.png",
+  "sourceUrl": "http://www.mediamath.com/",
+  "dataVisibility": ["PRIVATE"]
+}

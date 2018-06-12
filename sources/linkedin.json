@@ -1,0 +1,9 @@
+{
+  "id": "LINKEDIN",
+  "name": "LinkedIn (CSV upload)",
+  "categories": ["SOCIAL"],
+  "organization": "LINKEDIN",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/linkedin.png",
+  "sourceUrl": "https://www.linkedin.com/",
+  "dataVisibility": ["PRIVATE"]
+}

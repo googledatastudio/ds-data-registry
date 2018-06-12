@@ -1,0 +1,9 @@
+{
+  "id": "METAIO",
+  "name": "Meta I/O",
+  "categories": ["ADVERTISING"],
+  "organization": "METAIO",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/metaio.png",
+  "sourceUrl": "http://meta-io.com/",
+  "dataVisibility": ["PRIVATE"]
+}

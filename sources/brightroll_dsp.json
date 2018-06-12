@@ -1,0 +1,9 @@
+{
+  "id": "BRIGHTROLL_DSP",
+  "name": "BrightRoll DSP",
+  "categories": ["ADVERTISING"],
+  "organization": "YAHOO",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/brightrolldsp.png",
+  "sourceUrl": "https://admanagerplus.yahoo.com/",
+  "dataVisibility": ["PRIVATE"]
+}

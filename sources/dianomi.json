@@ -1,0 +1,9 @@
+{
+  "id": "DIANOMI",
+  "name": "Dianomi",
+  "categories": ["ADVERTISING"],
+  "organization": "DIANOMI",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/dianomi.png",
+  "sourceUrl": "http://dianomi.com/",
+  "dataVisibility": ["PRIVATE"]
+}

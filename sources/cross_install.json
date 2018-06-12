@@ -1,0 +1,9 @@
+{
+  "id": "CROSS_INSTALL",
+  "name": "CrossInstall",
+  "categories": ["ADVERTISING"],
+  "organization": "CROSS_INSTALL",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/crossinstall.png",
+  "sourceUrl": "http://www.crossinstall.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "NETAFFILIATION",
+  "name": "NetAffiliation",
+  "categories": ["ADVERTISING"],
+  "organization": "NETAFFILIATION",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/netaffiliation.png",
+  "sourceUrl": "http://en.netaffiliation.com/",
+  "dataVisibility": ["PRIVATE"]
+}

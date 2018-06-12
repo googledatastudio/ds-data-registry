@@ -1,0 +1,9 @@
+{
+  "id": "IRONSOURCE",
+  "name": "ironSource",
+  "categories": ["ADVERTISING"],
+  "organization": "IRONSOURCE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/ironsource.png",
+  "sourceUrl": "https://www.ironsrc.com/",
+  "dataVisibility": ["PRIVATE"]
+}

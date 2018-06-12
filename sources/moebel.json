@@ -1,0 +1,9 @@
+{
+  "id": "MOEBEL",
+  "name": "Moebel",
+  "categories": ["ADVERTISING"],
+  "organization": "MOEBEL",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/moebel_web.png",
+  "sourceUrl": "https://www.moebel.de/",
+  "dataVisibility": ["PRIVATE"]
+}

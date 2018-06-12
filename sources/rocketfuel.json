@@ -1,0 +1,9 @@
+{
+  "id": "ROCKETFUEL",
+  "name": "Rocket fuel",
+  "categories": ["ADVERTISING"],
+  "organization": "SIZMEK",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/rocketfuel.png",
+  "sourceUrl": "https://rocketfuel.com/programmatic-marketing-platform/",
+  "dataVisibility": ["PRIVATE"]
+}

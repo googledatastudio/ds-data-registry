@@ -1,0 +1,9 @@
+{
+  "id": "CHANNEL_PILOT",
+  "name": "ChannelPilot",
+  "categories": ["ADVERTISING"],
+  "organization": "CHANNEL_PILOT",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/channelpilot.png",
+  "sourceUrl": "https://www.channelpilot.com/",
+  "dataVisibility": ["PRIVATE"]
+}
