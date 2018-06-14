@@ -93,14 +93,17 @@ A new organization can be added to the registry by sending a pull request.
   {
     "id": "ORGANIZATION_ID",
     "name": "Organization name",
-    "description": "Optional description"
+    "iconUrl": "https://iconUrl",
+    "orgUrl": "https://orgUrl"
+
   }
 ```
 | Property          | Description |
 | --------          | ------------ |
 | id                | A unique Id. This will be used in source definitions.
 | name              | A user-friendly name of the organization.
-| description       | An optional description of the organization.
+| iconUrl           | A link to an icon image representing this organization. Recommended dimensions are 40px by 40px. It is your responsibility to review and comply with all applicable third party TOS. 
+| orgUrl            | A link users can follow to learn more about the organization.
 3. run `npm install && npm run prettier` to automatically format the JSON.
 
 ## How this information is used
