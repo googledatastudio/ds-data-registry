@@ -58,5 +58,9 @@
   {
     "id": "CALL_TRACKING",
     "name": "Call Tracking"
+  },
+  {
+    "id": "CRM",
+    "name": "Customer Relationship Management"
   }
 ]
