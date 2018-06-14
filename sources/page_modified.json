@@ -1,0 +1,9 @@
+{
+	"id": "PAGE_MODIFIED",
+	"name": "Page Modified",
+	"categories": ["MARKETING", "SEO", "TOOLS"],
+	"organization": "PAGE_MODIFIED",
+	"iconUrl": "https://app.pagemodified.com/images/logo.png",
+	"sourceUrl": "http://www.pagemodified.com/",
+	"dataVisibility": ["PRIVATE"]
+}
