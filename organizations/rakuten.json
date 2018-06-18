@@ -1,7 +1,6 @@
 {
   "id": "RAKUTEN",
   "name": "Rakuten",
-  "iconUrl":
-    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/rakuten_marketing.png",
-  "orgUrl": "https://www.rakuten.com/"
+  "orgUrl": "https://rakutenmarketing.com/affiliate",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/rakutenlinkshare_api.png"
 }

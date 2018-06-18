@@ -1,0 +1,9 @@
+{
+  "id": "REVCONTENT",
+  "name": "Revcontent",
+  "categories": ["ADVERTISING"],
+  "organization": "REVCONTENT",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/revcontent.png",
+  "sourceUrl": "https://www.revcontent.com/",
+  "dataVisibility": ["PRIVATE"]
+}

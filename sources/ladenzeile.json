@@ -1,0 +1,9 @@
+{
+  "id": "LADENZEILE",
+  "name": "Ladenzeile",
+  "categories": ["ECOMMERCE"],
+  "organization": "VISUAL_META",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/ladenzeile_web.png",
+  "sourceUrl": "https://www.ladenzeile.de/",
+  "dataVisibility": ["PRIVATE"]
+}

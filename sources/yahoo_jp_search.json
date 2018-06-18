@@ -1,0 +1,9 @@
+{
+  "id": "YAHOO_JP_SEARCH",
+  "name": "Yahoo Japan Search",
+  "categories": ["ADVERTISING"],
+  "organization": "YAHOO",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/yahoo_japan_search.png",
+  "sourceUrl": "https://search.yahoo.co.jp/",
+  "dataVisibility": ["PRIVATE"]
+}
