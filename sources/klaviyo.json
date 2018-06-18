@@ -1,0 +1,9 @@
+{
+  "id": "KLAVIYO",
+  "name": "Klaviyo",
+  "categories": ["EMAIL"],
+  "organization": "KLAVIYO",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/klaviyo.png",
+  "sourceUrl": "https://www.klaviyo.com/",
+  "dataVisibility": ["PRIVATE"]
+}

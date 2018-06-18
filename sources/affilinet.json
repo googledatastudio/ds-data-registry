@@ -1,0 +1,9 @@
+{
+  "id": "AFFILINET",
+  "name": "Affilinet",
+  "categories": ["ADVERTISING"],
+  "organization": "AWIN",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/affilinet_api.png",
+  "sourceUrl": "https://www.affili.net/uk/home",
+  "dataVisibility": ["PRIVATE"]
+}

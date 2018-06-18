@@ -1,0 +1,9 @@
+{
+  "id": "WEBGAINS",
+  "name": "Webgains",
+  "categories": ["ADVERTISING"],
+  "organization": "AD_PEPPER_GROUP",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/webgains.png",
+  "sourceUrl": "http://www.webgains.com/",
+  "dataVisibility": ["PRIVATE"]
+}
