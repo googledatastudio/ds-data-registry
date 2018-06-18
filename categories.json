@@ -24,6 +24,10 @@
     "name": "Email"
   },
   {
+    "id": "JOBS",
+    "name": "Jobs"
+  },
+  {
     "id": "MARKETING",
     "name": "Marketing"
   },
@@ -34,7 +38,7 @@
   {
     "id": "SEO",
     "name": "Search Engine Optimization"
-  },  
+  },
   {
     "id": "SOCIAL",
     "name": "Social media"

@@ -1,8 +1,8 @@
 {
-  "id": "PRISGUIDE",
-  "name": "Prisguide",
+  "id": "PRISGUIDEN",
+  "name": "Prisguiden",
   "categories": ["ADVERTISING"],
-  "organization": "PRISGUIDE",
+  "organization": "PRISGUIDEN",
   "iconUrl": "https://static.funnel.io/logos/icon48x48/prisguide_web.png",
   "sourceUrl": "https://prisguiden.no/",
   "dataVisibility": ["PRIVATE"]

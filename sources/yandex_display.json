@@ -2,7 +2,7 @@
   "id": "YANDEX_DISPLAY",
   "name": "Yandex Display",
   "categories": ["ADVERTISING"],
-  "organization": "YANDEX_DISPLAY",
+  "organization": "YANDEX",
   "iconUrl": "https://static.funnel.io/logos/icon48x48/yandexdisplay.png",
   "sourceUrl": "https://yandex.com/adv/products/display",
   "dataVisibility": ["PRIVATE"]

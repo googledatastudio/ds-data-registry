@@ -1,8 +1,8 @@
 {
-  "id": "UNITYADS",
+  "id": "UNITY_ADS",
   "name": "Unity Ads",
   "categories": ["ADVERTISING"],
-  "organization": "UNITYADS",
+  "organization": "UNITY",
   "iconUrl": "https://static.funnel.io/logos/icon48x48/unityads.png",
   "sourceUrl": "https://unity3d.com/unity/features/ads",
   "dataVisibility": ["PRIVATE"]
