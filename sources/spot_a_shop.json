@@ -1,7 +1,7 @@
 {
   "id": "SPOT_A_SHOP",
   "name": "Spot-A-Shop",
-  "categories": ["ECOMMERCE"],
+  "categories": ["ADVERTISING", "ECOMMERCE"],
   "organization": "SPOT_A_SHOP",
   "iconUrl": "https://static.funnel.io/logos/icon48x48/spotashop.png",
   "sourceUrl": "https://www.spot-a-shop.se/",

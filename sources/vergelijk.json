@@ -1,7 +1,7 @@
 {
   "id": "VERGELIJK",
   "name": "Vergelijk",
-  "categories": ["ADVERTISING"],
+  "categories": ["ADVERTISING", "ECOMMERCE"],
   "organization": "COMPARE_GROUP",
   "iconUrl": "https://static.funnel.io/logos/icon48x48/vergelijk.png",
   "sourceUrl": "https://www.vergelijk.nl/",

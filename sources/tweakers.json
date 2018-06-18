@@ -1,9 +1,9 @@
 {
   "id": "TWEAKERS",
   "name": "Tweakers",
-  "categories": ["ADVERTISING"],
+  "categories": ["ADVERTISING", "ECOMMERCE"],
   "organization": "TWEAKERS",
-  "iconUrl": "https://static.funnel.io/logos/icon48x48/tweakers_web.png",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/tweakers.png",
   "sourceUrl": "https://tweakers.net/",
   "dataVisibility": ["PRIVATE"]
 }

@@ -1,9 +1,9 @@
 {
   "id": "SHOPPING24",
   "name": "Shopping24",
-  "categories": ["ECOMMERCE"],
+  "categories": ["ADVERTISING", "ECOMMERCE"],
   "organization": "SHOPPING24",
-  "iconUrl": "https://static.funnel.io/logos/icon48x48/shopping24_web.png",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/shopping24.png",
   "sourceUrl":
     "https://www.ottogroup.com/en/die-otto-group/konzernfirmen/s24-internet-group.php",
   "dataVisibility": ["PRIVATE"]

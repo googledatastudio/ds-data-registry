@@ -1,9 +1,9 @@
 {
   "id": "GETPRICE",
   "name": "Getprice",
-  "categories": ["ADVERTISING"],
+  "categories": ["ADVERTISING", "ECOMMERCE"],
   "organization": "GETPRICE",
-  "iconUrl": "https://static.funnel.io/logos/icon48x48/getprice_web.png",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/getprice.png",
   "sourceUrl": "https://www.getprice.com.au/",
   "dataVisibility": ["PRIVATE"]
 }

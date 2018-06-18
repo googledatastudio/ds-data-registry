@@ -3,7 +3,7 @@
   "name": "Partner-ads",
   "categories": ["ADVERTISING"],
   "organization": "PARTNER_ADS",
-  "iconUrl": "https://static.funnel.io/logos/icon48x48/partnerads_api.png",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/partnerads.png",
   "sourceUrl": "https://www.partner-ads.com/",
   "dataVisibility": ["PRIVATE"]
 }

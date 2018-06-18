@@ -1,7 +1,7 @@
 {
   "id": "SAILTHRU",
   "name": "Sailthru",
-  "categories": ["ADVERTISING"],
+  "categories": ["ADVERTISING", "EMAIL"],
   "organization": "SAILTHRU",
   "iconUrl": "https://static.funnel.io/logos/icon48x48/sailthru.png",
   "sourceUrl": "https://www.sailthru.com/",

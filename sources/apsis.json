@@ -1,7 +1,7 @@
 {
   "id": "APSIS",
   "name": "Apsis",
-  "categories": ["EMAIL"],
+  "categories": ["ADVERTISING", "EMAIL"],
   "organization": "APSIS",
   "iconUrl": "https://static.funnel.io/logos/icon48x48/apsis.png",
   "sourceUrl": "https://www.apsis.com/",

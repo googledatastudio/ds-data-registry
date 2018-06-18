@@ -1,9 +1,9 @@
 {
   "id": "MYSHOPPING",
   "name": "Myshopping",
-  "categories": ["ECOMMERCE"],
+  "categories": ["ADVERTISING", "ECOMMERCE"],
   "organization": "MYSHOPPING",
-  "iconUrl": "https://static.funnel.io/logos/icon48x48/myshopping_web.png",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/myshopping.png",
   "sourceUrl": "https://www.myshopping.com.au/",
   "dataVisibility": ["PRIVATE"]
 }

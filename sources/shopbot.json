@@ -1,7 +1,7 @@
 {
   "id": "SHOPBOT",
   "name": "Shopbot",
-  "categories": ["ADVERTISING"],
+  "categories": ["ADVERTISING", "ECOMMERCE"],
   "organization": "SHOPBOT",
   "iconUrl": "https://static.funnel.io/logos/icon48x48/shopbot.png",
   "sourceUrl": "https://www.shopbot.com.au/",
