@@ -1,0 +1,9 @@
+{
+  "id": "SHOPELLO",
+  "name": "Shopello",
+  "categories": ["ADVERTISING"],
+  "organization": "SHOPELLO",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/shopello.png",
+  "sourceUrl": "https://www.shopello.se/",
+  "dataVisibility": ["PRIVATE"]
+}

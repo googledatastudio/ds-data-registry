@@ -1,6 +1,6 @@
 {
-  "id": "'APPLE'",
+  "id": "APPLE",
   "name": "Apple",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/apple.png",
-  "orgUrl": "https://www.apple.com/"
+  "orgUrl": "https://www.apple.com/",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/applesearchads_api.png"
 }

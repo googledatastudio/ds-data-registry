@@ -1,0 +1,9 @@
+{
+  "id": "NOSTO",
+  "name": "Nosto",
+  "categories": ["ADVERTISING"],
+  "organization": "NOSTO",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/nosto.png",
+  "sourceUrl": "http://www.nosto.com/",
+  "dataVisibility": ["PRIVATE"]
+}

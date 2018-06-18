@@ -1,0 +1,9 @@
+{
+  "id": "CONNEXITY",
+  "name": "Connexity",
+  "categories": ["ADVERTISING"],
+  "organization": "CONNEXITY",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/connexity.png",
+  "sourceUrl": "http://connexity.com/",
+  "dataVisibility": ["PRIVATE"]
+}

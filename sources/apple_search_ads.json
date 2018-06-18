@@ -1,9 +1,9 @@
 {
-  "id": "APPLE_SEARCH",
+  "id": "APPLE_SEARCH_ADS",
   "name": "Apple Search Ads",
   "categories": ["ADVERTISING"],
   "organization": "APPLE",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/apple.png",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/applesearchads_api.png",
   "sourceUrl": "https://searchads.apple.com/",
   "dataVisibility": ["PRIVATE"]
 }

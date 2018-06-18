@@ -1,9 +1,9 @@
 {
-  "id": "AWIN_PUBLISHER",
-  "name": "AWIN Publisher",
+  "id": "AWIN",
+  "name": "Awin",
   "categories": ["ADVERTISING"],
   "organization": "AWIN",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/awin.png",
-  "sourceUrl": "https://wiki.awin.com/index.php/Publisher_API",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/awin.png",
+  "sourceUrl": "https://www.awin.com",
   "dataVisibility": ["PRIVATE"]
 }

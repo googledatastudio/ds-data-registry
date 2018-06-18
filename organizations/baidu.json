@@ -1,6 +1,6 @@
 {
-  "id": "'BAIDU'",
+  "id": "BAIDU",
   "name": "Baidu",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/baidu.png",
-  "orgUrl": "https://www.baidu.com/"
+  "orgUrl": "https://www.baidu.com/",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/baidu.png"
 }

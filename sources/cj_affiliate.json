@@ -1,9 +1,9 @@
 {
-  "id": "CJAFFILIATE",
-  "name": "CJ Affiliate by Conversant",
+  "id": "CJ_AFFILIATE",
+  "name": "CJ Affiliate",
   "categories": ["ADVERTISING"],
   "organization": "CONVERSANT",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/cj_affiliate.png",
-  "sourceUrl": "https://www.cj_affiliate.com/",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/cjaffiliate.png",
+  "sourceUrl": "https://www.cj.com/",
   "dataVisibility": ["PRIVATE"]
 }

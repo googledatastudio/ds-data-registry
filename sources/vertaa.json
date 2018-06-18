@@ -1,0 +1,9 @@
+{
+  "id": "VERTAA",
+  "name": "Vertaa",
+  "categories": ["ADVERTISING"],
+  "organization": "COMPARE_GROUP",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/vertaa.png",
+  "sourceUrl": "https://www.vertaa.fi/",
+  "dataVisibility": ["PRIVATE"]
+}

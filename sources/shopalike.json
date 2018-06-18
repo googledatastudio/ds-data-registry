@@ -1,0 +1,9 @@
+{
+  "id": "SHOPALIKE",
+  "name": "ShopAlike",
+  "categories": ["ADVERTISING"],
+  "organization": "VISUAL_META",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/shopalike_web.png",
+  "sourceUrl": "https://www.shopalike.se/",
+  "dataVisibility": ["PRIVATE"]
+}
