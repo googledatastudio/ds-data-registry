@@ -1,0 +1,9 @@
+{
+  "id": "PURE_SHOPPING",
+  "name": "Pure Shopping",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "SHOPOON",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/pureshopping.png",
+  "sourceUrl": "http://www.shopoon.fr/",
+  "dataVisibility": ["PRIVATE"]
+}

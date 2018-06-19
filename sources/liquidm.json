@@ -1,0 +1,9 @@
+{
+  "id": "LIQUIDM",
+  "name": "LiquidM",
+  "categories": ["ADVERTISING"],
+  "organization": "LIQUIDM",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/liquidm.png",
+  "sourceUrl": "https://liquidm.com/",
+  "dataVisibility": ["PRIVATE"]
+}

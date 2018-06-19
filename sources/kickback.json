@@ -1,0 +1,9 @@
+{
+  "id": "KICKBACK",
+  "name": "KickBack",
+  "categories": ["ADVERTISING"],
+  "organization": "KICKBACK",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/kickback.png",
+  "sourceUrl": "https://kickback.no/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "REMERGE",
+  "name": "Remerge",
+  "categories": ["ADVERTISING"],
+  "organization": "REMERGE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/remerge.png",
+  "sourceUrl": "https://www.remerge.io/",
+  "dataVisibility": ["PRIVATE"]
+}

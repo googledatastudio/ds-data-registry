@@ -1,0 +1,9 @@
+{
+  "id": "STEELHOUSE",
+  "name": "Steelhouse",
+  "categories": ["ADVERTISING"],
+  "organization": "STEELHOUSE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/steelhouse.png",
+  "sourceUrl": "https://steelhouse.com/",
+  "dataVisibility": ["PRIVATE"]
+}

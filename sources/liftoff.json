@@ -1,0 +1,9 @@
+{
+  "id": "LIFTOFF",
+  "name": "Liftoff",
+  "categories": ["ADVERTISING"],
+  "organization": "LIFTOFF",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/liftoff.png",
+  "sourceUrl": "https://liftoff.io/",
+  "dataVisibility": ["PRIVATE"]
+}

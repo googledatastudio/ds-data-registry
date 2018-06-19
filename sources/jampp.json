@@ -1,0 +1,9 @@
+{
+  "id": "JAMPP",
+  "name": "Jampp",
+  "categories": ["ADVERTISING"],
+  "organization": "JAMPP",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/jampp.png",
+  "sourceUrl": "https://jampp.com/index.html",
+  "dataVisibility": ["PRIVATE"]
+}

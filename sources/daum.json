@@ -1,0 +1,9 @@
+{
+  "id": "DAUM",
+  "name": "Daum",
+  "categories": ["ADVERTISING"],
+  "organization": "DAUM",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/daum.png",
+  "sourceUrl": "https://www.daum.net/",
+  "dataVisibility": ["PRIVATE"]
+}

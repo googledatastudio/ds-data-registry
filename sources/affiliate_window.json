@@ -1,0 +1,9 @@
+{
+  "id": "AFFILIATE_WINDOW",
+  "name": "Affiliate Window",
+  "categories": ["ADVERTISING"],
+  "organization": "AWIN",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/affiliatewindow.png",
+  "sourceUrl": "http://www.affiliatewindow.com/",
+  "dataVisibility": ["PRIVATE"]
+}
