@@ -1,0 +1,9 @@
+{
+  "id": "YAHOO_JAPAN_YDN",
+  "name": "Yahoo! Japan YDN",
+  "categories": ["ADVERTISING"],
+  "organization": "YAHOO",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/yahoo_japan_ydn.png",
+  "sourceUrl": "https://global-marketing.yahoo.co.jp/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "SOCIOMANTIC",
+  "name": "Sociomantic",
+  "categories": ["ADVERTISING"],
+  "organization": "SOCIOMANTIC",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/sociomantic.png",
+  "sourceUrl": "https://www.sociomantic.com/",
+  "dataVisibility": ["PRIVATE"]
+}

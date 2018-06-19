@@ -1,0 +1,9 @@
+{
+  "id": "PERFORMISSION",
+  "name": "Performission",
+  "categories": ["ADVERTISING"],
+  "organization": "PERFORMISSION",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/performission.png",
+  "sourceUrl": "https://performission.se/",
+  "dataVisibility": ["PRIVATE"]
+}

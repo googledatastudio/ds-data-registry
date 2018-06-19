@@ -1,0 +1,9 @@
+{
+  "id": "POST_AFFILIATE",
+  "name": "Post Affiliate",
+  "categories": ["ADVERTISING"],
+  "organization": "POST_AFFILIATE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/postaffiliate.png",
+  "sourceUrl": "https://www.postaffiliatenetwork.com/",
+  "dataVisibility": ["PRIVATE"]
+}

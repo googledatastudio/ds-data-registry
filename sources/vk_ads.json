@@ -1,0 +1,9 @@
+{
+  "id": "VK_ADS",
+  "name": "VK Ads",
+  "categories": ["ADVERTISING", "SOCIAL"],
+  "organization": "VK",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/vkads.png",
+  "sourceUrl": "http://vk.com",
+  "dataVisibility": ["PRIVATE"]
+}

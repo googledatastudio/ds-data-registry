@@ -1,0 +1,9 @@
+{
+  "id": "SOFTWARE_ADVICE",
+  "name": "Software Advice",
+  "categories": ["ADVERTISING"],
+  "organization": "SOFTWARE_ADVICE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/softwareadvice.png",
+  "sourceUrl": "https://www.softwareadvice.com/",
+  "dataVisibility": ["PRIVATE"]
+}

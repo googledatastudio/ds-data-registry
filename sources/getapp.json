@@ -1,0 +1,9 @@
+{
+  "id": "GETAPP",
+  "name": "GetApp",
+  "categories": ["ADVERTISING"],
+  "organization": "GETAPP",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/getapp.png",
+  "sourceUrl": "https://www.getapp.com/",
+  "dataVisibility": ["PRIVATE"]
+}

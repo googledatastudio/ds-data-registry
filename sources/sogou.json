@@ -1,0 +1,9 @@
+{
+  "id": "SOGOU",
+  "name": "Sogou",
+  "categories": ["ADVERTISING"],
+  "organization": "SOGOU",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/sogou.png",
+  "sourceUrl": "https://www.sogou.com/",
+  "dataVisibility": ["PRIVATE"]
+}

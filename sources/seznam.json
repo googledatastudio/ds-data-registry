@@ -1,0 +1,9 @@
+{
+  "id": "SEZNAM",
+  "name": "Seznam",
+  "categories": ["ANALYTICS"],
+  "organization": "SEZNAM",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/seznam.png",
+  "sourceUrl": "https://www.seznam.cz/",
+  "dataVisibility": ["PRIVATE"]
+}

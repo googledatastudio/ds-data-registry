@@ -1,0 +1,9 @@
+{
+  "id": "COMMISSION_FACTORY",
+  "name": "Commission Factory",
+  "categories": ["ADVERTISING"],
+  "organization": "COMMISSION_FACTORY",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/commissionfactory.png",
+  "sourceUrl": "https://www.commissionfactory.com/",
+  "dataVisibility": ["PRIVATE"]
+}
