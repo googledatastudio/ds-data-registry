@@ -1,7 +1,7 @@
 {
   "id": "INDEED",
   "name": "Indeed",
-  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "categories": ["ADVERTISING", "JOBS"],
   "organization": "INDEED",
   "iconUrl": "https://static.funnel.io/logos/icon48x48/indeed.png",
   "sourceUrl": "https://www.indeed.com/",
