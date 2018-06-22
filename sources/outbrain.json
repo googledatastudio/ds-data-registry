@@ -1,0 +1,9 @@
+{
+  "id": "OUTBRAIN",
+  "name": "Outbrain",
+  "categories": ["ADVERTISING"],
+  "organization": "OUTBRAIN",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/outbrain.png",
+  "sourceUrl": "https://www.outbrain.com/",
+  "dataVisibility": ["PRIVATE"]
+}

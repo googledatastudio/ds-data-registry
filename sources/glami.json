@@ -1,0 +1,9 @@
+{
+  "id": "GLAMI",
+  "name": "Glami",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "GLAMI",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/glami.png",
+  "sourceUrl": "https://www.glami.ro/",
+  "dataVisibility": ["PRIVATE"]
+}

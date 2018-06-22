@@ -1,0 +1,9 @@
+{
+  "id": "PRISJAKT",
+  "name": "Prisjakt",
+  "categories": ["ADVERTISING"],
+  "organization": "PRISJAKT",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/prisjakt_web.png",
+  "sourceUrl": "https://www.prisjakt.nu/",
+  "dataVisibility": ["PRIVATE"]
+}

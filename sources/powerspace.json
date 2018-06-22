@@ -1,0 +1,9 @@
+{
+  "id": "POWERSPACE",
+  "name": "Powerspace",
+  "categories": ["ADVERTISING"],
+  "organization": "POWERSPACE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/powerspace.png",
+  "sourceUrl": "https://powerspace.com/en/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "TRADETRACKER",
+  "name": "TradeTracker",
+  "categories": ["ADVERTISING"],
+  "organization": "TRADETRACKER",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/tradetracker_api.png",
+  "sourceUrl": "https://tradetracker.com/",
+  "dataVisibility": ["PRIVATE"]
+}

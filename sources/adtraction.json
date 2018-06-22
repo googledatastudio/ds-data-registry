@@ -1,0 +1,9 @@
+{
+  "id": "ADTRACTION",
+  "name": "Adtraction",
+  "categories": ["ADVERTISING"],
+  "organization": "ADTRACTION",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/adtraction.png",
+  "sourceUrl": "https://adtraction.com/",
+  "dataVisibility": ["PRIVATE"]
+}

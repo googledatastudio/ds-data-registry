@@ -1,0 +1,9 @@
+{
+  "id": "LOCKERDOME",
+  "name": "Lockerdome",
+  "categories": ["ADVERTISING"],
+  "organization": "LOCKERDOME",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/lockerdome.png",
+  "sourceUrl": "https://lockerdome.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "BAM_X",
+  "name": "Bam-X",
+  "categories": ["ADVERTISING"],
+  "organization": "NARRATIV",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/bamx.png",
+  "sourceUrl": "https://bam-x.com/",
+  "dataVisibility": ["PRIVATE"]
+}

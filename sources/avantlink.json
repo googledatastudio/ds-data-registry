@@ -1,0 +1,9 @@
+{
+  "id": "AVANTLINK",
+  "name": "AvantLink",
+  "categories": ["ADVERTISING"],
+  "organization": "AVANTLINK",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/avantlink.png",
+  "sourceUrl": "http://www.avantlink.com/",
+  "dataVisibility": ["PRIVATE"]
+}

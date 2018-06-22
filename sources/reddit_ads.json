@@ -1,0 +1,9 @@
+{
+  "id": "REDDIT_ADS",
+  "name": "Reddit Ads",
+  "categories": ["ADVERTISING"],
+  "organization": "REDDIT",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/reddit.png",
+  "sourceUrl": "https://www.redditinc.com/advertising",
+  "dataVisibility": ["PRIVATE"]
+}

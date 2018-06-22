@@ -1,0 +1,9 @@
+{
+  "id": "TAPJOY",
+  "name": "Tapjoy",
+  "categories": ["ADVERTISING"],
+  "organization": "TAPJOY",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/tapjoy.png",
+  "sourceUrl": "https://www.tapjoy.com/",
+  "dataVisibility": ["PRIVATE"]
+}

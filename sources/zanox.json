@@ -1,0 +1,9 @@
+{
+  "id": "ZANOX",
+  "name": "Zanox",
+  "categories": ["ADVERTISING"],
+  "organization": "AWIN",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/zanox_api.png",
+  "sourceUrl": "https://www.zanox.com",
+  "dataVisibility": ["PRIVATE"]
+}

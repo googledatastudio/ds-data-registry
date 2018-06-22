@@ -1,0 +1,9 @@
+{
+  "id": "IDEALO",
+  "name": "Idealo",
+  "categories": ["ADVERTISING"],
+  "organization": "IDEALO",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/idealo.png",
+  "sourceUrl": "https://www.idealo.de/",
+  "dataVisibility": ["PRIVATE"]
+}
