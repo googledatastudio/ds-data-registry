@@ -1,0 +1,9 @@
+{
+  "id": "FUELX",
+  "name": "FuelX",
+  "categories": ["ADVERTISING"],
+  "organization": "FUELX",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/fuelx.png",
+  "sourceUrl": "https://fuelx.com/",
+  "dataVisibility": ["PRIVATE"]
+}

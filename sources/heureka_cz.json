@@ -1,0 +1,9 @@
+{
+  "id": "HEUREKA_CZ",
+  "name": "Heureka.cz",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "HEUREKA_CZ",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/heurekacz.png",
+  "sourceUrl": "https://www.heureka.cz/",
+  "dataVisibility": ["PRIVATE"]
+}

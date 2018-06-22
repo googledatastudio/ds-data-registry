@@ -1,0 +1,9 @@
+{
+  "id": "STARTAPP",
+  "name": "StartApp",
+  "categories": ["ADVERTISING"],
+  "organization": "STARTAPP",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/startapp.png",
+  "sourceUrl": "https://www.startapp.com/",
+  "dataVisibility": ["PRIVATE"]
+}

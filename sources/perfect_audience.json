@@ -1,0 +1,9 @@
+{
+  "id": "PERFECT_AUDIENCE",
+  "name": "Perfect Audience",
+  "categories": ["ADVERTISING"],
+  "organization": "PERFECT_AUDIENCE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/perfectaudience.png",
+  "sourceUrl": "http://www.perfectaudience.com/",
+  "dataVisibility": ["PRIVATE"]
+}

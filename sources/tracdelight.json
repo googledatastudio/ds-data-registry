@@ -1,0 +1,9 @@
+{
+  "id": "TRACDELIGHT",
+  "name": "Tracdelight",
+  "categories": ["ADVERTISING"],
+  "organization": "TRACDELIGHT",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/tracdelight.png",
+  "sourceUrl": "https://www.tracdelight.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,9 +1,9 @@
 {
   "id": "PLISTA",
-  "name": "plista",
+  "name": "Plista",
   "categories": ["ADVERTISING"],
   "organization": "PLISTA",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/plista.png",
-  "sourceUrl": "https://www.plista.com",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/plista.png",
+  "sourceUrl": "https://www.plista.com/",
   "dataVisibility": ["PRIVATE"]
 }

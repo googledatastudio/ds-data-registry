@@ -1,0 +1,9 @@
+{
+  "id": "MYTARGET",
+  "name": "myTarget",
+  "categories": ["ADVERTISING"],
+  "organization": "MYTARGET",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/mytarget.png",
+  "sourceUrl": "https://target.my.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ADSERVICE",
+  "name": "Adservice",
+  "categories": ["ADVERTISING"],
+  "organization": "ADSERVICE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/adservice.png",
+  "sourceUrl": "https://www.adservice.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "EUROADS",
+  "name": "EuroAds",
+  "categories": ["ADVERTISING"],
+  "organization": "EUROADS",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/euroads.png",
+  "sourceUrl": "http://euroads.com/en/Advertiser/",
+  "dataVisibility": ["PRIVATE"]
+}

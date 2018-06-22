@@ -1,0 +1,9 @@
+{
+  "id": "ADMITAD",
+  "name": "Admitad",
+  "categories": ["ADVERTISING"],
+  "organization": "ADMITAD",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/admitad.png",
+  "sourceUrl": "https://www.admitad.com/",
+  "dataVisibility": ["PRIVATE"]
+}

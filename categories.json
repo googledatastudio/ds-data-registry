@@ -24,6 +24,10 @@
     "name": "Email"
   },
   {
+    "id": "JOBS",
+    "name": "Jobs"
+  },
+  {
     "id": "MARKETING",
     "name": "Marketing"
   },

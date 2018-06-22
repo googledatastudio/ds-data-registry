@@ -1,0 +1,9 @@
+{
+  "id": "CHERCHONS",
+  "name": "Cherchons",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "CHERCHONS",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/cherchons.png",
+  "sourceUrl": "https://www.cherchons.com/",
+  "dataVisibility": ["PRIVATE"]
+}

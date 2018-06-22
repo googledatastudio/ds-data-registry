@@ -1,0 +1,9 @@
+{
+  "id": "CENEO",
+  "name": "Ceneo",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "CENEO",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/ceneo.png",
+  "sourceUrl": "https://www.ceneo.pl/",
+  "dataVisibility": ["PRIVATE"]
+}

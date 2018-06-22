@@ -3,7 +3,7 @@
   "name": "TripAdvisor",
   "categories": ["TRAVEL"],
   "organization": "TRIPADVISOR",
-  "iconUrl": "https://static.tacdn.com/img2/branding/rebrand/TA_logo_primary.svg",
   "sourceUrl": "https://www.tripadvisor.com",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/tripadvisor.png",
   "dataVisibility": ["PRIVATE"]
 }

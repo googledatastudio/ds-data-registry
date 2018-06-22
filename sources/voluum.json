@@ -1,0 +1,9 @@
+{
+  "id": "VOLUUM",
+  "name": "Voluum",
+  "categories": ["ADVERTISING"],
+  "organization": "VOLUUM",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/voluum.png",
+  "sourceUrl": "https://voluum.com/",
+  "dataVisibility": ["PRIVATE"]
+}
