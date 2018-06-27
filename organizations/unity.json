@@ -2,5 +2,6 @@
   "id": "UNITY",
   "name": "Unity Technologies",
   "orgUrl": "https://unity3d.com/",
-  "iconUrl": "https://unity3d.com/profiles/unity3d/themes/unity/images/ui/favicons/favicon.ico"
+  "iconUrl":
+    "https://unity3d.com/profiles/unity3d/themes/unity/images/ui/favicons/favicon.ico"
 }

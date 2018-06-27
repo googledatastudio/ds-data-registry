@@ -3,7 +3,8 @@
   "name": "ebeeTask",
   "categories": ["DATABASE"],
   "organization": "FIREFLY_E",
-  "iconUrl": "https://www.ebeetask.com/dynamicForms-war/resources/imagenes/ebee_transparente.png",
+  "iconUrl":
+    "https://www.ebeetask.com/dynamicForms-war/resources/imagenes/ebee_transparente.png",
   "sourceUrl": "https://www.ebeetask.com/",
   "dataVisibility": ["PRIVATE"]
 }
