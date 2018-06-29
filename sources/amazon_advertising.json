@@ -1,0 +1,10 @@
+{
+  "id": "AMAZON_ADVERTISING",
+  "name": "Amazon Advertising",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "AMAZON",
+  "iconUrl":
+    "https://static.funnel.io/logos/icon48x48/amazonadvertising_api.png",
+  "sourceUrl": "https://advertising.amazon.com/",
+  "dataVisibility": ["PRIVATE"]
+}
