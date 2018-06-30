@@ -2,7 +2,6 @@
   "id": "CUSTOM_JSON",
   "name": "Custom JSON",
   "categories": ["CUSTOM"],
-  "iconUrl":
-    "https://s3.amazonaws.com/Supermetrics/images/dsLogos/CD.png",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/CD.png",
   "dataVisibility": ["PRIVATE", "PUBLIC"]
 }
