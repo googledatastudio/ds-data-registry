@@ -66,5 +66,9 @@
   {
     "id": "CRM",
     "name": "Customer Relationship Management"
+  },
+  {
+    "id": "TIME_TRACKING",
+    "name": "Time Tracking"
   }
 ]
