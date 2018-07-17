@@ -1,0 +1,9 @@
+{
+  "id": "DATA.WORLD",
+  "name": "data.world",
+  "categories": ["DATABASE", "PUBLIC_DATA", "TOOLS"],
+  "organization": "DATA.WORLD",
+  "iconUrl": "https://cdn.filepicker.io/api/file/bxDuYjZdSxGeCTVZ1QCg",
+  "sourceUrl": "https://data.world",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}
