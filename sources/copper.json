@@ -1,0 +1,9 @@
+{
+  "id": "COPPER",
+  "name": "Copper",
+  "categories": ["CRM"],
+  "organization": "COPPER",
+  "iconUrl": "https://d3jas8421cca9z.cloudfront.net/assets/logo_icon_pink-4dabd0fd74b884dbe014a9a541cceeb3.svg",
+  "sourceUrl": "https://www.copper.com",
+  "dataVisibility": ["PRIVATE"]
+}
