@@ -1,0 +1,9 @@
+{
+  "id": "BLINKFIRE_ANALYTICS",
+  "name": "Blinkfire Analytics",
+  "categories": ["ANALYTICS"],
+  "organization": "BLINKFIRE_ANALYTICS",
+  "iconURL": "https://pbs.twimg.com/profile_images/611837035947540480/UupGdNYx_400x400.png",
+  "sourceURL": "https://api.blinkfire.com/developer/api/v1/",
+  "dataVisibility": ["PRIVATE"]
+}
