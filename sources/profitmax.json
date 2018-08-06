@@ -1,0 +1,9 @@
+{
+  "id": "PROFITMAX",
+  "name": "ProfitMax",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "PROFITMAX",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/profitmax.png",
+  "sourceUrl": "https://www.profitmax.de/",
+  "dataVisibility": ["PRIVATE"]
+}

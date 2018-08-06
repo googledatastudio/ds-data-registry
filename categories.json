@@ -24,6 +24,10 @@
     "name": "Email"
   },
   {
+    "id": "JOBS",
+    "name": "Jobs"
+  },
+  {
     "id": "MARKETING",
     "name": "Marketing"
   },
@@ -34,7 +38,7 @@
   {
     "id": "SEO",
     "name": "Search Engine Optimization"
-  },  
+  },
   {
     "id": "SOCIAL",
     "name": "Social media"
@@ -50,5 +54,21 @@
   {
     "id": "VIDEO",
     "name": "Video"
+  },
+  {
+    "id": "CLOUD_COMMUNICATIONS",
+    "name": "Cloud Communications"
+  },
+  {
+    "id": "CALL_TRACKING",
+    "name": "Call Tracking"
+  },
+  {
+    "id": "CRM",
+    "name": "Customer Relationship Management"
+  },
+  {
+    "id": "TIME_TRACKING",
+    "name": "Time Tracking"
   }
 ]

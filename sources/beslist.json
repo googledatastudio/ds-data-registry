@@ -1,0 +1,9 @@
+{
+  "id": "BESLIST",
+  "name": "Beslist",
+  "categories": ["ADVERTISING"],
+  "organization": "BESLIST",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/beslist_web.png",
+  "sourceUrl": "https://www.beslist.nl/",
+  "dataVisibility": ["PRIVATE"]
+}

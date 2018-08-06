@@ -1,0 +1,9 @@
+{
+  "id": "MARKTPLAATS",
+  "name": "Marktplaats",
+  "categories": ["ADVERTISING"],
+  "organization": "EBAY",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/marktplaats_api.png",
+  "sourceUrl": "https://www.marktplaats.nl/",
+  "dataVisibility": ["PRIVATE"]
+}

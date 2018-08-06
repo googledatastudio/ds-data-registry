@@ -1,0 +1,9 @@
+{
+  "id": "APPRL",
+  "name": "Apprl",
+  "categories": ["ADVERTISING"],
+  "organization": "APPRL",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/apprl.png",
+  "sourceUrl": "https://apprl.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "QUORA",
+  "name": "Quora",
+  "categories": ["ADVERTISING"],
+  "organization": "QUORA",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/quora.png",
+  "sourceUrl": "https://www.quora.com/",
+  "dataVisibility": ["PRIVATE"]
+}

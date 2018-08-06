@@ -1,0 +1,9 @@
+{
+  "id": "BAIDU",
+  "name": "Baidu",
+  "categories": ["ADVERTISING"],
+  "organization": "BAIDU",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/baidu.png",
+  "sourceUrl": "https://www.baidu.com/",
+  "dataVisibility": ["PRIVATE"]
+}

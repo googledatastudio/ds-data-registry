@@ -1,0 +1,9 @@
+{
+  "id": "360_CN",
+  "name": "360",
+  "categories": ["ADVERTISING"],
+  "organization": "360_CN",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/360.png",
+  "sourceUrl": "http://e.360.cn",
+  "dataVisibility": ["PRIVATE"]
+}

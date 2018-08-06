@@ -1,0 +1,9 @@
+{
+  "id": "HASOFFERS",
+  "name": "HasOffers",
+  "categories": ["ADVERTISING"],
+  "organization": "HASOFFERS",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/hasoffers.png",
+  "sourceUrl": "https://www.hasoffers.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "CONSTANT_CONTACT",
+  "name": "Constant Contact",
+  "categories": ["EMAIL"],
+  "organization": "CONSTANT_CONTACT",
+  "iconUrl": "https://static.ctctcdn.com/lp/images/standard/logos/logo_ctct.png",
+  "sourceUrl": "https://www.constantcontact.com/",
+  "dataVisibility": ["PRIVATE"]
+}

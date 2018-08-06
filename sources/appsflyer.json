@@ -1,0 +1,9 @@
+{
+  "id": "APPSFLYER",
+  "name": "AppsFlyer",
+  "categories": ["ANALYTICS"],
+  "organization": "APPSFLYER",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/appsflyer.png",
+  "sourceUrl": "https://www.appsflyer.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "OKAZJE",
+  "name": "Okazje",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "OKAZJE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/okazje.png",
+  "sourceUrl": "http://www.kramik.pl/",
+  "dataVisibility": ["PRIVATE"]
+}

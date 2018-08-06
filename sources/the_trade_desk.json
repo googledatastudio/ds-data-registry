@@ -1,0 +1,9 @@
+{
+  "id": "THE_TRADE_DESK",
+  "name": "The Trade Desk",
+  "categories": ["ADVERTISING"],
+  "organization": "THE_TRADE_DESK",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/thetradedesk.png",
+  "sourceUrl": "https://www.thetradedesk.com/",
+  "dataVisibility": ["PRIVATE"]
+}
