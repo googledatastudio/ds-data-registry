@@ -36,6 +36,10 @@
     "name": "Payments"
   },
   {
+    "id": "SALES",
+    "name": "Sales"
+  },
+  {
     "id": "SEO",
     "name": "Search Engine Optimization"
   },
