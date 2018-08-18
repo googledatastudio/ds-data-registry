@@ -1,0 +1,9 @@
+{
+  "id": "ASANA",
+  "name": "Asana Tasks",
+  "categories": ["TOOLS"],
+  "organization": "ASANA",
+  "iconUrl": "https://asanatraining.com/wp-content/uploads/2016/07/Asana-Logo.png",
+  "sourceUrl": "https://asana.com",
+  "dataVisibility": ["PRIVATE"]
+}
