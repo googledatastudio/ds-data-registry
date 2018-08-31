@@ -1,0 +1,9 @@
+{
+  "id": "MAGNETIS",
+  "name": "Magnetis",
+  "categories": ["ANALYTICS","CALL_TRACKING"],
+  "organization": "MAGNETIS",
+  "iconUrl": "https://s3.eu-west-3.amazonaws.com/googledatastudio/magnetis-ico.png",
+  "sourceUrl": "https://www.magnetis.fr/",
+  "dataVisibility": ["PRIVATE"]
+}
