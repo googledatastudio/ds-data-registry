@@ -3,7 +3,8 @@
   "name": "Twilio",
   "categories": ["CALL_TRACKING", "CLOUD_COMMUNICATIONS"],
   "organization": "TWILIO",
-  "iconUrl": "https://www.twilio.com/marketing/bundles/company-brand/img/logos/red/twilio-mark-red.png",
+  "iconUrl":
+    "https://www.twilio.com/marketing/bundles/company-brand/img/logos/red/twilio-mark-red.png",
   "sourceUrl": "https://www.twilio.com/",
   "dataVisibility": ["PRIVATE"]
 }

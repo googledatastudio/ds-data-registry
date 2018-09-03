@@ -3,7 +3,8 @@
   "name": "Criteo",
   "categories": ["ADVERTISING"],
   "organization": "CRITEO",
-  "iconUrl": "https://www.criteo.com/wp-content/themes/criteo2017/img/criteo-logo.svg",
+  "iconUrl":
+    "https://www.criteo.com/wp-content/themes/criteo2017/img/criteo-logo.svg",
   "sourceUrl": "https://www.criteo.com/",
   "dataVisibility": ["PRIVATE"]
 }

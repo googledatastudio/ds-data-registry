@@ -2,5 +2,6 @@
   "id": "LEADFEEDER",
   "name": "Leadfeeder",
   "orgUrl": "https://www.leadfeeder.com/",
-  "iconUrl": "http://static.leadfeeder.com/images/lf-google-data-studio-logo.png"
+  "iconUrl":
+    "http://static.leadfeeder.com/images/lf-google-data-studio-logo.png"
 }
