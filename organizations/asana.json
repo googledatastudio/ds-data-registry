@@ -1,6 +1,7 @@
 {
   "id": "ASANA",
   "name": "Asana",
-  "iconUrl": "https://asanatraining.com/wp-content/uploads/2016/07/Asana-Logo.png",
+  "iconUrl":
+    "https://asanatraining.com/wp-content/uploads/2016/07/Asana-Logo.png",
   "orgUrl": "https://asana.com"
 }
