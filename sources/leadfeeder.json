@@ -3,7 +3,8 @@
   "name": "Leadfeeder",
   "categories": ["SALES", "MARKETING"],
   "organization": "LEADFEEDER",
-  "iconUrl": "http://static.leadfeeder.com/images/lf-google-data-studio-logo.png",
+  "iconUrl":
+    "http://static.leadfeeder.com/images/lf-google-data-studio-logo.png",
   "sourceUrl": "https://www.leadfeeder.com/",
   "dataVisibility": ["PRIVATE"]
 }

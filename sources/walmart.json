@@ -3,7 +3,8 @@
   "name": "Walmart",
   "categories": ["ECOMMERCE"],
   "organization": "WALMART",
-  "iconUrl": "https://marketplace.walmart.com/knowledgebase/resource/1450198358000/WalmartWhiteLogo",
+  "iconUrl":
+    "https://marketplace.walmart.com/knowledgebase/resource/1450198358000/WalmartWhiteLogo",
   "sourceUrl": "https://marketplace.walmart.com/",
   "dataVisibility": ["PRIVATE"]
 }

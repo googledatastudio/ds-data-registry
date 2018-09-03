@@ -1,9 +1,9 @@
 {
-  "id": 		"TOKY_CALL_DATA",
-  "name": 		"Toky Call Data",
-  "categories": 	["ANALYTICS", "CALL_TRACKING","CLOUD_COMMUNICATIONS"],
-  "organization": 	"TOKY",
-  "iconUrl": 		"https://s3.amazonaws.com/tokystorage/images/toky-48x48.png",
-  "sourceUrl": 		"https://toky.co/en/integrations/google-data-studio",
-  "dataVisibility": 	["PRIVATE"]
+  "id": "TOKY_CALL_DATA",
+  "name": "Toky Call Data",
+  "categories": ["ANALYTICS", "CALL_TRACKING", "CLOUD_COMMUNICATIONS"],
+  "organization": "TOKY",
+  "iconUrl": "https://s3.amazonaws.com/tokystorage/images/toky-48x48.png",
+  "sourceUrl": "https://toky.co/en/integrations/google-data-studio",
+  "dataVisibility": ["PRIVATE"]
 }
