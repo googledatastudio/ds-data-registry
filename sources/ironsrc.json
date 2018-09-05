@@ -1,9 +1,0 @@
-{
-  "id": "IRONSOURCE",
-  "name": "ironSource",
-  "categories": ["ADVERTISING"],
-  "organization": "IRONSOURCE",
-  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/ironsrc.png",
-  "sourceUrl": "https://www.ironsrc.com/",
-  "dataVisibility": ["PRIVATE"]
-}
