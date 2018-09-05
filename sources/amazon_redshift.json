@@ -1,5 +1,5 @@
 {
-  "id": "AWS_REDSHIFT",
+  "id": "AMAZON_REDSHIFT",
   "name": "Amazon Redshift",
   "categories": ["DATABASE"],
   "organization": "AMAZON",
