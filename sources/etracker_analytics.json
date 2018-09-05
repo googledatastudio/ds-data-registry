@@ -1,9 +1,9 @@
 {
-  "id": "ETRACKER",
-  "name": "etracker",
+  "id": "ETRACKER_ANALYTICS",
+  "name": "etracker Analytics",
   "categories": ["ANALYTICS"],
   "organization": "ETRACKER",
   "iconUrl":    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/etracker.png",
-  "sourceUrl": "https://www.etracker.com/",
+  "sourceUrl": "https://www.etracker.com/analytics/",
   "dataVisibility": ["PRIVATE"]
 }
