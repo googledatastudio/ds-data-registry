@@ -1,5 +1,5 @@
 {
-  "id": "AWS_S3",
+  "id": "AMAZON_S3",
   "name": "Amazon S3",
   "categories": ["STORAGE"],
   "organization": "AMAZON",
