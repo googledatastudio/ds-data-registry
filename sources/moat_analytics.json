@@ -1,9 +1,9 @@
 {
-  "id": "MOAT",
-  "name": "Moat",
+  "id": "MOAT ANALYTICS",
+  "name": "Moat Analytics",
   "categories": ["ANALYTICS"],
   "organization": "ORACLE",
   "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/moat.png",
-  "sourceUrl": "https://moat.com/",
+  "sourceUrl": "https://moat.com/analytics",
   "dataVisibility": ["PRIVATE"]
 }
