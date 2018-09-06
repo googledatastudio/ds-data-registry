@@ -5,5 +5,5 @@
   "organization": "SEAMLESS_FLEETS",
   "iconUrl": "https://www.seamlessfleets.co.za/wp-content/uploads/2018/09/seamless-symbol.png",
   "sourceUrl": "https://www.seamlessfleets.co.za/",
-  "dataVisibility": ["PRIVATE"]
+  "dataVisibility": ["PUBLIC"]
 }
