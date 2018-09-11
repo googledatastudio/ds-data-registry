@@ -20,6 +20,10 @@
     "name": "eCommerce"
   },
   {
+    "id": "EDUCATION",
+    "name": "Education"
+  },
+  {
     "id": "EMAIL",
     "name": "Email"
   },
@@ -34,6 +38,10 @@
   {
     "id": "PAYMENTS",
     "name": "Payments"
+  },
+  {
+    "id": "SALES",
+    "name": "Sales"
   },
   {
     "id": "SEO",
