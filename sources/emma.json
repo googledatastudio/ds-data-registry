@@ -1,0 +1,9 @@
+{
+  "id": "EMMA",
+  "name": "Emma",
+  "categories": ["EMAIL"],
+  "organization": "EMMA",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/emma.png",
+  "sourceUrl": "https://myemma.com/",
+  "dataVisibility": ["PRIVATE"]
+}
