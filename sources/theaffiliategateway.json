@@ -1,0 +1,9 @@
+{
+  "id": "THEAFFILIATEGATEWAY",
+  "name": "The Affiliate Gateway",
+  "categories": ["ADVERTISING"],
+  "organization": "THEAFFILIATEGATEWAY",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/theaffiliategateway.png",
+  "sourceUrl": "https://www.theaffiliategateway.com/",
+  "dataVisibility": ["PRIVATE"]
+}

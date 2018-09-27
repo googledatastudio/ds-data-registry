@@ -1,0 +1,9 @@
+{
+  "id": "SALESTRING",
+  "name": "Salestring",
+  "categories": ["ADVERTISING"],
+  "organization": "SALESTRING",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/salestring.png",
+  "sourceUrl": "https://salestring.com/",
+  "dataVisibility": ["PRIVATE"]
+}

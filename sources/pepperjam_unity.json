@@ -1,0 +1,9 @@
+{
+  "id": "PEPPERJAM_UNITY",
+  "name": "Pepperjam Unity",
+  "categories": ["ADVERTISING"],
+  "organization": "PEPPERJAM_NETWORK",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/pepperjam.png",
+  "sourceUrl": "https://www.pepperjam.com/",
+  "dataVisibility": ["PRIVATE"]
+}

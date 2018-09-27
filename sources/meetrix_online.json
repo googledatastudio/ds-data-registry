@@ -1,0 +1,9 @@
+{
+  "id": "MEETRIX_ONLINE",
+  "name": "Meetrix Online",
+  "categories": ["ADVERTISING"],
+  "organization": "MEETRIX_ONLINE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/meetrixonline.png",
+  "sourceUrl": "http://www.meetrixonline.nl/",
+  "dataVisibility": ["PRIVATE"]
+}

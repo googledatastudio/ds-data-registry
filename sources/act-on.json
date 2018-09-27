@@ -1,0 +1,9 @@
+{
+  "id": "ACT-ON",
+  "name": "Act-On",
+  "categories": ["ADVERTISING", "EMAIL"],
+  "organization": "ACT-ON",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/acton.png",
+  "sourceUrl": "https://www.act-on.com/",
+  "dataVisibility": ["PRIVATE"]
+}

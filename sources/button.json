@@ -1,0 +1,9 @@
+{
+  "id": "BUTTON",
+  "name": "Button",
+  "categories": ["ADVERTISING"],
+  "organization": "BUTTON",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/button.png",
+  "sourceUrl": "https://www.usebutton.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "DIGITAL_TURBINE",
+  "name": "Digital Turbine",
+  "categories": ["ADVERTISING"],
+  "organization": "DIGITAL_TURBINE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/digitalturbine.png",
+  "sourceUrl": "https://www.digitalturbine.com/",
+  "dataVisibility": ["PRIVATE"]
+}

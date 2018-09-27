@@ -1,0 +1,9 @@
+{
+  "id": "PERFORM_MEDIA",
+  "name": "Perform Media",
+  "categories": ["ADVERTISING"],
+  "organization": "PERFORM_MEDIA",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/performmedia.png",
+  "sourceUrl": "https://www.performmedia.com/",
+  "dataVisibility": ["PRIVATE"]
+}

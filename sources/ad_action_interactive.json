@@ -1,0 +1,9 @@
+{
+  "id": "AD_ACTION_INTERACTIVE",
+  "name": "AdAction",
+  "categories": ["ADVERTISING"],
+  "organization": "ADACTION",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/adaction.png",
+  "sourceUrl": "https://www.adaction.mobi/",
+  "dataVisibility": ["PRIVATE"]
+}

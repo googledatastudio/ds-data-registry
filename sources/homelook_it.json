@@ -1,0 +1,9 @@
+{
+  "id": "HOMELOOK_IT",
+  "name": "Homelook.it",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "HOMELOOK_IT",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/homelookit.png",
+  "sourceUrl": "https://www.homelook.it/",
+  "dataVisibility": ["PRIVATE"]
+}

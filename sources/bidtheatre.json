@@ -1,0 +1,9 @@
+{
+  "id": "BIDTHEATRE",
+  "name": "BidTheatre",
+  "categories": ["ADVERTISING"],
+  "organization": "BIDTHEATRE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/bidtheatre_api.png",
+  "sourceUrl": "https://www.bidtheatre.com/",
+  "dataVisibility": ["PRIVATE"]
+}
