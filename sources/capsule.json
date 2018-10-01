@@ -1,0 +1,9 @@
+{
+  "id": "CAPSULE",
+  "name": "Capsule",
+  "categories": ["CRM"],
+  "organization": "CAPSULE",
+  "iconUrl": "http://d365sd3k9yw37.cloudfront.net/google-data-studio/icon_40x40.png",
+  "sourceUrl": "https://capsulecrm.com",
+  "dataVisibility": ["PRIVATE"]
+}
