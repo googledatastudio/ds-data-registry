@@ -1,0 +1,9 @@
+{
+  "id": "TRAVELSUPERMARKET",
+  "name": "Travel Supermarket",
+  "categories": ["ADVERTISING"],
+  "organization": "MONEYSUPERMARKET",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/travelsupermarket.png",
+  "sourceUrl": "https://www.travelsupermarket.com/",
+  "dataVisibility": ["PRIVATE"]
+}
