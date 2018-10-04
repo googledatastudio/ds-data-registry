@@ -1,0 +1,9 @@
+{
+  "id": "SANOMA",
+  "name": "Sanoma",
+  "categories": ["ADVERTISING"],
+  "organization": "SANOMA",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/sanoma.png",
+  "sourceUrl": "https://www.sanoma.nl/",
+  "dataVisibility": ["PRIVATE"]
+}

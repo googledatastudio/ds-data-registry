@@ -1,0 +1,9 @@
+{
+  "id": "TWITTER_ORGANIC",
+  "name": "Twitter Organic",
+  "categories": ["SOCIAL"],
+  "organization": "TWITTER",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/twitterorganic.png",
+  "sourceUrl": "https://twitter.com/",
+  "dataVisibility": ["PRIVATE"]
+}
