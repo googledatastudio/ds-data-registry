@@ -1,0 +1,9 @@
+{
+  "id": "BIANO",
+  "name": "Biano",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "BIANO",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/biano.png",
+  "sourceUrl": "https://www.biano.cz/",
+  "dataVisibility": ["PRIVATE"]
+}
