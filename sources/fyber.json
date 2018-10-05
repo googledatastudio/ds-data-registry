@@ -1,0 +1,9 @@
+{
+  "id": "FYBER",
+  "name": "Fyber",
+  "categories": ["ADVERTISING"],
+  "organization": "FYBER",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/fyber.png",
+  "sourceUrl": "https://www.fyber.com/",
+  "dataVisibility": ["PRIVATE"]
+}
