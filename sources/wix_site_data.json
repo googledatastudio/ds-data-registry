@@ -1,0 +1,9 @@
+{
+  "id": "WIX_SITE_DATA",
+  "name": "Wix Site Data",
+  "categories": ["ANALYTICS"],
+  "organization": "WIX",
+  "iconUrl": "https://static.parastorage.com/services/wix-homepage-davinci/1.497.0/bower_components/wix-header-and-footer/dist/images/icons-header/logo.svg",
+  "sourceUrl": "https://wix.com/",
+  "dataVisibility": ["PRIVATE"]
+}
