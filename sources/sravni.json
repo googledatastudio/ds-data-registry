@@ -1,0 +1,9 @@
+{
+  "id": "SRAVNI",
+  "name": "Sravni",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "SRAVNI",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/sravni.png",
+  "sourceUrl": "https://www.sravni.bg/",
+  "dataVisibility": ["PRIVATE"]
+}
