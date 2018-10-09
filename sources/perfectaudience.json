@@ -1,0 +1,9 @@
+{
+  "id": "PERFECTAUDIENCE",
+  "name": "Perfect Audience",
+  "categories": ["ADVERTISING"],
+  "organization": "PERFECTAUDIENCE",
+  "iconUrl": "http://www.perfectaudience.com/assets/perfect-audience-logo-2x.png",
+  "orgUrl": "http://www.perfectaudience.com/",
+  "dataVisibility": ["PRIVATE"]
+}
