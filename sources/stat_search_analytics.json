@@ -1,0 +1,9 @@
+{
+  "id": "STAT_SEARCH_ANALYTICS",
+  "name": "STAT Search Analytics",
+  "categories": ["SEO"],
+  "organization": "STAT",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/stat.png",
+  "sourceUrl": "https://getstat.com/",
+  "dataVisibility": ["PRIVATE","PUBLIC"]
+}

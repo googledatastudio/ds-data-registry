@@ -20,8 +20,16 @@
     "name": "eCommerce"
   },
   {
+    "id": "EDUCATION",
+    "name": "Education"
+  },
+  {
     "id": "EMAIL",
     "name": "Email"
+  },
+  {
+    "id": "FINANCE",
+    "name": "Finance"
   },
   {
     "id": "JOBS",
@@ -36,12 +44,20 @@
     "name": "Payments"
   },
   {
+    "id": "SALES",
+    "name": "Sales"
+  },
+  {
     "id": "SEO",
     "name": "Search Engine Optimization"
   },
   {
     "id": "SOCIAL",
     "name": "Social media"
+  },
+  {
+    "id": "STORAGE",
+    "name": "File Storage"
   },
   {
     "id": "TOOLS",

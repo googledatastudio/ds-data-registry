@@ -1,0 +1,9 @@
+{
+  "id": "SKLIK",
+  "name": "Sklik.cz",
+  "categories": ["ADVERTISING"],
+  "organization": "SKLIK",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/sklik.png",
+  "sourceUrl": "https://www.sklik.cz/",
+  "dataVisibility": ["PRIVATE"]
+}

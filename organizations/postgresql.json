@@ -1,0 +1,7 @@
+{
+  "id": "POSTGRESQL",
+  "name": "PostgreSQL",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/postgresql.png",
+  "orgUrl": "https://www.postgresql.org/"
+}

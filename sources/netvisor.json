@@ -1,0 +1,9 @@
+{
+  "id": "NETVISOR",
+  "name": "Netvisor",
+  "categories": ["FINANCE"],
+  "organization": "VISMA",
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/fi/archive/6/6f/20130604132947%21Netvisor-logo.png",
+  "sourceUrl": "https://netvisor.fi/",
+  "dataVisibility": ["PRIVATE"]
+}

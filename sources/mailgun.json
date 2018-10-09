@@ -1,0 +1,9 @@
+{
+  "id": "MAILGUN",
+  "name": "Mailgun",
+  "categories": ["EMAIL"],
+  "organization": "MAILGUN",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/mailgun.png",
+  "sourceUrl": "https://www.mailgun.com/",
+  "dataVisibility": ["PRIVATE"]
+}

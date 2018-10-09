@@ -1,0 +1,9 @@
+{
+  "id": "BRANDWATCH",
+  "name": "Brandwatch",
+  "categories": ["ANALYTICS"],
+  "organization": "BRANDWATCH",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/brandwatch.png",
+  "sourceUrl": "https://www.brandwatch.com/analytics/features/",
+  "dataVisibility": ["PRIVATE","PUBLIC"]
+}

@@ -1,6 +1,7 @@
 {
   "id": "PAYPAL",
   "name": "PayPal",
-  "iconUrl":"https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png",
+  "iconUrl":
+    "https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_76x48.png",
   "orgUrl": "https://www.paypal.com/"
 }

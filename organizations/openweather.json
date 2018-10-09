@@ -1,0 +1,7 @@
+{
+  "id": "OPENWEATHER",
+  "name": "OpenWeather",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/openweathermap.png",
+  "orgUrl": "https://openweather.co.uk/"
+}

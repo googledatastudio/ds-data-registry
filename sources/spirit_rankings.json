@@ -1,0 +1,9 @@
+{
+  "id": "SPIRIT_RANKINGS",
+  "name": "Spirit Rankings",
+  "categories": ["EDUCATION"],
+  "organization": "SPIRIT",
+  "iconUrl": "https://static.spiritapp.co/logos/spirit/icon/circle/48.png",
+  "sourceUrl": "https://spiritapp.co/",
+  "dataVisibility": ["PRIVATE"]
+}

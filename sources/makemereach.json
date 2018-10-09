@@ -1,0 +1,9 @@
+{
+  "id": "MAKEMEREACH",
+  "name": "MakeMeReach",
+  "categories": ["SOCIAL","ADVERTISING"],
+  "organization": "MAKEMEREACH",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/makemereach.png",
+  "sourceUrl": "https://www.makemereach.com/",
+  "dataVisibility": ["PRIVATE"]
+}

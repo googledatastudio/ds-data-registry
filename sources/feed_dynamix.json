@@ -1,0 +1,9 @@
+{
+  "id": "FEED_DYNAMIX",
+  "name": "Feed Dynamix",
+  "categories": ["ECOMMERCE"],
+  "organization": "FEED_DYNAMIX",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/feed_dynamix.png",
+  "sourceUrl": "https://feed-dynamix.de/en/",
+  "dataVisibility": ["PRIVATE"]
+}
