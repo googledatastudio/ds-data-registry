@@ -3,7 +3,7 @@
   "name": "Harvest",
   "categories": ["TOOLS"],
   "organization": "HARVEST",
-  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/hadoop.png",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/harvest.png",
   "sourceUrl": "https://www.getharvest.com/",
   "dataVisibility": ["PRIVATE", "PUBLIC"]
 }
