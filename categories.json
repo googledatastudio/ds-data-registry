@@ -28,6 +28,10 @@
     "name": "Email"
   },
   {
+    "id": "FINANCE",
+    "name": "Finance"
+  },
+  {
     "id": "JOBS",
     "name": "Jobs"
   },
