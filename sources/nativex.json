@@ -1,0 +1,9 @@
+{
+  "id": "NATIVEX",
+  "name": "NativeX",
+  "categories": ["ADVERTISING"],
+  "organization": "MOBVISTA",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/nativex.png",
+  "sourceUrl": "https://www.nativex.com",
+  "dataVisibility": ["PRIVATE"]
+}
