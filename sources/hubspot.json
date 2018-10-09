@@ -3,7 +3,7 @@
   "name": "Hubspot",
   "categories": ["MARKETING", "CRM"],
   "organization": "HUBSPOT",
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/HubSpot_Logo.png",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/hubspot.png",
   "sourceUrl": "https://www.hubspot.com/",
   "dataVisibility": ["PRIVATE"]
 }

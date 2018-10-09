@@ -1,0 +1,9 @@
+{
+  "id": "IBM_ANALYTICS",
+  "name": "IBM Analytics",
+  "categories": ["ANALYTICS"],
+  "organization": "IBM",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/ibm.png",
+  "sourceUrl": "https://www.ibm.com/analytics/",
+  "dataVisibility": ["PRIVATE"]
+}
