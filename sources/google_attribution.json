@@ -4,7 +4,7 @@
   "categories": ["MARKETING"],
   "organization": "GOOGLE",
   "iconUrl":
-    "https://datastudiogallery.appspot.com/static/data/icons/attribution.png",
+    "https://datastudio.google.com/gallery/static/data/icons/attribution.png",
   "sourceUrl": "https://www.google.com/analytics/attribution/",
   "dataVisibility": ["PRIVATE"]
 }

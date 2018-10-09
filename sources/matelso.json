@@ -1,0 +1,9 @@
+{
+  "id": "MATELSO",
+  "name": "Matelso",
+  "categories": ["CALL_TRACKING"],
+  "organization": "MATELSO",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/matelso.png",
+  "sourceUrl": "https://www.matelso.de/",
+  "dataVisibility": ["PRIVATE"]
+}

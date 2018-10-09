@@ -1,0 +1,9 @@
+{
+  "id": "YAWARE_TIMETRACKER",
+  "name": "Yaware Time.Tracker",
+  "categories": ["TIME_TRACKING"],
+  "organization": "YAWARE",
+  "iconUrl": "https://yaware.com/files/logo_single_40.png",
+  "sourceUrl": "https://yaware.com",
+  "dataVisibility": ["PRIVATE"]
+}

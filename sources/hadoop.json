@@ -1,0 +1,9 @@
+{
+  "id": "HADOOP",
+  "name": "Hadoop File System (HDFS)",
+  "categories": ["DATABASE","STORAGE"],
+  "organization": "APACHE",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/hadoop.png",
+  "sourceUrl": "http://hadoop.apache.org/",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}
