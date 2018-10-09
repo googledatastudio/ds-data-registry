@@ -1,0 +1,9 @@
+{
+  "id": "CELTRA",
+  "name": "Celtra",
+  "categories": ["ADVERTISING"],
+  "organization": "CELTRA",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/celtra.png",
+  "sourceUrl": "https://www.celtra.com/",
+  "dataVisibility": ["PRIVATE"]
+}

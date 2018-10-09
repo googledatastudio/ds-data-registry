@@ -1,9 +1,9 @@
 {
   "id": "APPNEXUS",
   "name": "AppNexus",
-  "categories": ["ANALYTICS"],
+  "categories": ["ADVERTISING"],
   "organization": "APPNEXUS",
-  "iconUrl": "https://static.funnel.io/logos/icon48x48/appnexus.png",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/appnexus.png",
   "sourceUrl": "https://www.appnexus.com/",
   "dataVisibility": ["PRIVATE"]
 }

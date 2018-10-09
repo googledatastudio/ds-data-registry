@@ -1,9 +1,9 @@
 {
   "id": "APPLOVIN",
-  "name": "Applovin",
+  "name": "AppLovin",
   "categories": ["ADVERTISING"],
   "organization": "APPLOVIN",
-  "iconUrl": "https://static.funnel.io/logos/icon48x48/applovin.png",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/applovin.png",
   "sourceUrl": "https://www.applovin.com/",
   "dataVisibility": ["PRIVATE"]
 }

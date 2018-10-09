@@ -1,0 +1,9 @@
+{
+  "id": "CAMPAIGN_MONITOR",
+  "name": "Campaign Monitor",
+  "categories": ["EMAIL"],
+  "organization": "CAMPAIGN_MONITOR",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/campaign_monitor.png",
+  "sourceUrl": "https://www.campaignmonitor.com/",
+  "dataVisibility": ["PRIVATE"]
+}
