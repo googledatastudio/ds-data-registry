@@ -1,0 +1,9 @@
+{
+  "id": "SIG_ETL",
+  "name": "SIG ETL",
+  "categories": ["CUSTOM", "DATABASE"],
+  "organization": "SIG",
+  "iconUrl": "http://www.sig2k.com.ar/etldatastudio/logos/Etl.jpg",
+  "sourceUrl": "http://www.sig2k.com.ar/etldatastudio/",
+  "dataVisibility": ["PRIVATE"]
+}

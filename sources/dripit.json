@@ -1,0 +1,9 @@
+{
+  "id": "DRIPIT",
+  "name": "Dripit",
+  "categories": ["ANALYTICS"],
+  "organization": "DRIPIT",
+  "iconUrl": "https://dripit.io/static/img/dripit-logo-60.png",
+  "sourceUrl": "https://dripit.io/",
+  "dataVisibility": ["PRIVATE"]
+}

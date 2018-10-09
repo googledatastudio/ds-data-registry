@@ -1,0 +1,11 @@
+{
+  "id": "CHROME_UX_REPORT",
+  "name": "Chrome UX Report",
+  "categories": ["PUBLIC_DATA"],
+  "organization": "GOOGLE",
+  "iconUrl":
+    "https://developers.google.com/web/images/web-fundamentals-icon192x192.png",
+  "sourceUrl":
+    "https://developers.google.com/web/tools/chrome-user-experience-report/",
+  "dataVisibility": ["PUBLIC"]
+}
