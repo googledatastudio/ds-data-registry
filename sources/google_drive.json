@@ -1,0 +1,9 @@
+{
+  "id": "GOOGLE_DRIVE",
+  "name": "Google Drive",
+  "categories": ["STORAGE"],
+  "organization": "GOOGLE",
+  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/google_drive.png",
+  "sourceUrl": "https://www.google.com/drive/",
+  "dataVisibility": ["PRIVATE","PUBLIC"]
+}

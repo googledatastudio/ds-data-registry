@@ -1,0 +1,9 @@
+{
+  "id": "EXACTAG",
+  "name": "exactag",
+  "categories": ["ANALYTICS","MARKETING"],
+  "organization": "EXACTAG",
+  "iconUrl":    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/exactag.png",
+  "sourceUrl": "https://www.exactag.com/",
+  "dataVisibility": ["PRIVATE"]
+}
