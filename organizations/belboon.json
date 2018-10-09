@@ -1,6 +1,7 @@
 {
   "id": "BELBOON",
   "name": "Belboon",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/belboon.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/belboon.png",
   "orgUrl": "https://www.belboon.com/"
 }

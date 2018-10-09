@@ -1,6 +1,7 @@
 {
   "id": "MAKEMEREACH",
   "name": "MakeMeReach",
-  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/makemereach.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3.amazonaws.com/icons/makemereach.png",
   "orgUrl": "https://www.makemereach.com/"
 }

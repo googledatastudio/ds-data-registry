@@ -3,7 +3,8 @@
   "name": "flashtalking",
   "categories": ["ADVERTISING"],
   "organization": "SIMPLICITY_MARKETING",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/flashtalking.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/flashtalking.png",
   "sourceUrl": "https://www.flashtalking.com/",
   "dataVisibility": ["PRIVATE"]
 }
