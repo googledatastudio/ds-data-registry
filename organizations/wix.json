@@ -1,6 +1,7 @@
 {
   "id": "WIX",
   "name": "Wix",
-  "iconUrl": "https://static.parastorage.com/services/wix-homepage-davinci/1.497.0/bower_components/wix-header-and-footer/dist/images/icons-header/logo.svg",
+  "iconUrl":
+    "https://static.parastorage.com/services/wix-homepage-davinci/1.497.0/bower_components/wix-header-and-footer/dist/images/icons-header/logo.svg",
   "orgUrl": "https://wix.com/"
 }
