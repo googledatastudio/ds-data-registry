@@ -1,7 +1,7 @@
 {
   "id": "INTENT_MEDIA",
   "name": "Intent Media",
-  "categories": ["ADVERTISING", "SEARCH"],
+  "categories": ["ADVERTISING"],
   "organization": "INTENT_MEDIA",
   "iconUrl": "https://static.funnel.io/logos/icon48x48/intentmedia.png",
   "sourceUrl": "https://intentmedia.com/",
