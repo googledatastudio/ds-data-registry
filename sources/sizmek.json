@@ -1,0 +1,9 @@
+{
+    "id": "SIZMEK",
+    "name": "Sizmek",
+    "categories": ["ADVERTISING" , "MARKETING"],
+    "organization": "SIZMEK",
+    "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/Sizmek.png",
+    "sourceUrl": "https://www.sizmek.com/",
+    "dataVisibility": ["PRIVATE"]
+}
