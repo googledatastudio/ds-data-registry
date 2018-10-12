@@ -1,9 +1,10 @@
 {
   "id": "CLEVERREACH",
   "name": "CleverReach",
-  "categories": ["MARKETING","EMAIL"],
+  "categories": ["MARKETING", "EMAIL"],
   "organization": "CLEVERREACH",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/clever_reach.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/clever_reach.png",
   "sourceUrl": "https://www.cleverreach.com/",
   "dataVisibility": ["PRIVATE"]
 }

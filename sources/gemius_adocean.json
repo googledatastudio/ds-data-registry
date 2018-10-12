@@ -3,7 +3,8 @@
   "name": "Gemius AdOcean",
   "categories": ["ADVERTISING"],
   "organization": "GEMIUS",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/gemius_adocean.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/gemius_adocean.png",
   "sourceUrl": "https://adocean-global.com/",
   "dataVisibility": ["PRIVATE"]
 }

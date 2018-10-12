@@ -3,7 +3,8 @@
   "name": "Google Cloud Storage",
   "categories": ["STORAGE"],
   "organization": "GOOGLE",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/google_cloud_storage.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/google_cloud_storage.png",
   "sourceUrl": "https://cloud.google.com/storage/",
-  "dataVisibility": ["PRIVATE","PUBLIC"]
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
 }

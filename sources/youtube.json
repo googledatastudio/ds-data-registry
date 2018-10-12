@@ -1,9 +1,10 @@
 {
   "id": "YOUTUBE",
   "name": "Youtube Public Data",
-  "categories": ["SOCIAL","VIDEO"],
+  "categories": ["SOCIAL", "VIDEO"],
   "organization": "GOOGLE",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/youtube.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/youtube.png",
   "sourceUrl": "https://developers.google.com/youtube/",
   "dataVisibility": ["PUBLIC"]
 }

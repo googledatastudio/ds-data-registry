@@ -3,7 +3,8 @@
   "name": "OpenWeatherMap",
   "categories": ["PUBLIC_DATA"],
   "organization": "OPENWEATHER",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/openweathermap.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/openweathermap.png",
   "sourceUrl": "https://openweathermap.org",
   "dataVisibility": ["PUBLIC"]
 }

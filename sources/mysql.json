@@ -5,5 +5,5 @@
   "organization": "ORACLE",
   "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/mysql.png",
   "sourceUrl": "https://www.mysql.com/",
-  "dataVisibility": ["PRIVATE","PUBLIC"]
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
 }

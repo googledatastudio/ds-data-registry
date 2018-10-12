@@ -3,7 +3,8 @@
   "name": "Fyber",
   "categories": ["ADVERTISING"],
   "organization": "FYBER",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/fyber.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/fyber.png",
   "sourceUrl": "https://www.fyber.com/",
   "dataVisibility": ["PRIVATE"]
 }

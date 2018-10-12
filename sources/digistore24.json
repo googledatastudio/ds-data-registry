@@ -3,7 +3,8 @@
   "name": "Digistore24",
   "categories": ["ECOMMERCE"],
   "organization": "DIGISTORE24",
-  "iconUrl":    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/digistore24.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/digistore24.png",
   "sourceUrl": "https://www.digistore24.com/",
   "dataVisibility": ["PRIVATE"]
 }

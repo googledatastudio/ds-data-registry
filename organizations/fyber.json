@@ -1,6 +1,7 @@
 {
   "id": "FYBER",
   "name": "Fyber",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/fyber.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/fyber.png",
   "orgUrl": "https://www.fyber.com/"
 }

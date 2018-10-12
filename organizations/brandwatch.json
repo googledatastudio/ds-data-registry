@@ -1,6 +1,7 @@
 {
   "id": "BRANDWATCH",
   "name": "Brandwatch",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/brandwatch.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/brandwatch.png",
   "orgUrl": "https://www.brandwatch.com/"
 }

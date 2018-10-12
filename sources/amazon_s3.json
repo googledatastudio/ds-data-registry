@@ -3,7 +3,8 @@
   "name": "Amazon S3",
   "categories": ["STORAGE"],
   "organization": "AMAZON",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/aws_s3.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/aws_s3.png",
   "sourceUrl": "https://aws.amazon.com/s3/",
   "dataVisibility": ["PRIVATE"]
 }

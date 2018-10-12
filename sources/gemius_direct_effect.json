@@ -3,7 +3,8 @@
   "name": "Gemius Direct Effect",
   "categories": ["ADVERTISING"],
   "organization": "GEMIUS",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/gemius_direct_effect.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/gemius_direct_effect.png",
   "sourceUrl": "https://directeffect.gemius.com/",
   "dataVisibility": ["PRIVATE"]
 }

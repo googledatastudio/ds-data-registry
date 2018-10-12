@@ -3,7 +3,8 @@
   "name": "Egnyte",
   "categories": ["STORAGE"],
   "organization": "EGNYTE",
-  "iconUrl":    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/egnyte.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/egnyte.png",
   "sourceUrl": "https://www.egnyte.com/",
-  "dataVisibility": ["PRIVATE","PUBLIC"]
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
 }
