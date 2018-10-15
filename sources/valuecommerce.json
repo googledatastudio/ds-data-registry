@@ -1,0 +1,9 @@
+{
+  "id": "VALUECOMMERCE",
+  "name": "ValueCommerce",
+  "categories": ["ADVERTISING"],
+  "organization": "VALUECOMMERCE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/valuecommerce.png",
+  "sourceUrl": "https://www.valuecommerce.ne.jp/",
+  "dataVisibility": ["PRIVATE"]
+}

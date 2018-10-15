@@ -1,0 +1,9 @@
+{
+  "id": "ADMARVEL",
+  "name": "Admarvel",
+  "categories": ["ADVERTISING"],
+  "organization": "ADCOLONY",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/admarvel.png",
+  "sourceUrl": "https://map.admarvel.com/",
+  "dataVisibility": ["PRIVATE"]
+}

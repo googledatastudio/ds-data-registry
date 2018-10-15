@@ -1,0 +1,9 @@
+{
+  "id": "TAPSTONE",
+  "name": "Tapstone",
+  "categories": ["ADVERTISING"],
+  "organization": "TAPSTONE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/tapstone.png",
+  "sourceUrl": "http://tapstone.com/",
+  "dataVisibility": ["PRIVATE"]
+}

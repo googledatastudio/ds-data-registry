@@ -1,0 +1,9 @@
+{
+  "id": "CAKE",
+  "name": "Cake",
+  "categories": ["ADVERTISING"],
+  "organization": "CAKE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/cake.png",
+  "sourceUrl": "https://getcake.com/",
+  "dataVisibility": ["PRIVATE"]
+}

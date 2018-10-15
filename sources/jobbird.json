@@ -1,0 +1,9 @@
+{
+  "id": "JOBBIRD",
+  "name": "Jobbird",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "JOBBIRD",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/jobbird.png",
+  "sourceUrl": "https://www.jobbird.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "LINKCONNECTOR",
+  "name": "LinkConnector",
+  "categories": ["ADVERTISING"],
+  "organization": "LINKCONNECTOR",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/linkconnector.png",
+  "sourceUrl": "https://www.linkconnector.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "VUNGLE",
+  "name": "Vungle",
+  "categories": ["ADVERTISING"],
+  "organization": "VUNGLE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/vungle.png",
+  "sourceUrl": "https://vungle.com/",
+  "dataVisibility": ["PRIVATE"]
+}
