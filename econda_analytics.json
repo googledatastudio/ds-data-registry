@@ -1,9 +1,0 @@
-{
-  "id": "ECONDA_ANALYTICS",
-  "name": "econda (WEB) Analytics",
-  "categories": ["ANALYTICS"],
-  "organization": "ECONDA",
-  "iconUrl": "",
-  "sourceUrl": "https://www.econda.de/en/solutions/analytics/web-analytics/",
-  "dataVisibility": ["PRIVATE"]
-}
