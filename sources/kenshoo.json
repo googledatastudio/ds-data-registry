@@ -1,0 +1,9 @@
+{
+  "id": "KENSHOO",
+  "name": "Kenshoo",
+  "categories": ["ADVERTISING"],
+  "organization": "KENSHOO",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/kenshoo.png",
+  "sourceUrl": "https://kenshoo.com/",
+  "dataVisibility": ["PRIVATE"]
+}
