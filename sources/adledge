@@ -1,0 +1,9 @@
+{
+  "id": "ADLEDGE",
+  "name": "Adledge",
+  "categories": ["ADVERTISING"],
+  "organization": "ADLEDGE",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/adledge.png",
+  "sourceUrl": "https://adledge.com/",
+  "dataVisibility": ["PRIVATE"]
+}
