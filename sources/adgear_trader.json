@@ -1,0 +1,9 @@
+{
+  "id": "ADGEAR_TRADER",
+  "name": "Adgear Trader",
+  "categories": ["ADVERTISING"],
+  "organization": "ADGEAR",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/adgeartrader.png",
+  "sourceUrl": "https://trader.adgear.com",
+  "dataVisibility": ["PRIVATE"]
+}

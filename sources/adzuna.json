@@ -1,0 +1,9 @@
+{
+  "id": "ADZUNA",
+  "name": "Adzuna",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "ADZUNA",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/adzuna.png",
+  "sourceUrl": "https://www.adzuna.co.uk/",
+  "dataVisibility": ["PRIVATE"]
+}

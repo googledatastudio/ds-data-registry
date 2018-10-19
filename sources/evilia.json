@@ -1,0 +1,9 @@
+{
+  "id": "EVILIA",
+  "name": "Evilia",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "EVILIA",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/evilia.png",
+  "sourceUrl": "http://evilia.sk/",
+  "dataVisibility": ["PRIVATE"]
+}

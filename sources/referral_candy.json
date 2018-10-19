@@ -1,0 +1,9 @@
+{
+  "id": "REFERRAL_CANDY",
+  "name": "ReferralCandy",
+  "categories": ["ADVERTISING"],
+  "organization": "REFERRAL_CANDY",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/referralcandy.png",
+  "sourceUrl": "https://www.referralcandy.com/",
+  "dataVisibility": ["PRIVATE"]
+}

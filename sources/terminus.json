@@ -1,0 +1,9 @@
+{
+  "id": "TERMINUS",
+  "name": "Terminus",
+  "categories": ["ADVERTISING"],
+  "organization": "TERMINUS",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/terminus.png",
+  "sourceUrl": "https://terminus.com/",
+  "dataVisibility": ["PRIVATE"]
+}
