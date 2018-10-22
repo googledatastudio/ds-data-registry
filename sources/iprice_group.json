@@ -1,0 +1,9 @@
+{
+  "id": "IPRICE_GROUP",
+  "name": "iPrice group",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "IPRICE_GROUP",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/iprice.png",
+  "sourceUrl": "https://www.ipricegroup.com",
+  "dataVisibility": ["PRIVATE"]
+}
