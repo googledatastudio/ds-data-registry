@@ -1,0 +1,9 @@
+{
+  "id": "NIELSEN",
+  "name": "Nielsen",
+  "categories": ["ADVERTISING", "ANALYTICS"],
+  "organization": "NIELSEN",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/nielsen.png",
+  "sourceUrl": "https://www.nielsen.com/us/en/insights.html",
+  "dataVisibility": ["PRIVATE"]
+}
