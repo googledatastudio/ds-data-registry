@@ -1,0 +1,9 @@
+{
+  "id": "CONVERSANT_MEDIA",
+  "name": "Conversant Access",
+  "categories": ["ADVERTISING"],
+  "organization": "CONVERSANT",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/conversant.png",
+  "sourceUrl": "https://www.conversantmedia.com/",
+  "dataVisibility": ["PRIVATE"]
+}
