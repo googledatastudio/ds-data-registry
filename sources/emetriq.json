@@ -1,0 +1,9 @@
+{
+  "id": "EMETRIQ",
+  "name": "Emetriq",
+  "categories": ["ADVERTISING"],
+  "organization": "EMETRIQ",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/emetriq.png",
+  "sourceUrl": "https://www.emetriq.com/",
+  "dataVisibility": ["PRIVATE"]
+}
