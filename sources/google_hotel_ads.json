@@ -1,0 +1,9 @@
+{
+  "id": "GOOGLE_HOTEL_ADS",
+  "name": "Google Hotel Ads",
+  "categories": ["ADVERTISING", "SEARCH"],
+  "organization": "GOOGLE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/googlehotelads.png",
+  "sourceUrl": "https://www.google.com/intl/en/ads/hotels",
+  "dataVisibility": ["PRIVATE"]
+}
