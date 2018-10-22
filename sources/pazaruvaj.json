@@ -1,0 +1,9 @@
+{
+  "id": "PAZARUVAJ",
+  "name": "Pazaruvaj",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "PAZARUVAJ",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/pazaruvaj.png",
+  "sourceUrl": "https://www.pazaruvaj.com/",
+  "dataVisibility": ["PRIVATE"]
+}

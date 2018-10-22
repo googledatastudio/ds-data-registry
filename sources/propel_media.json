@@ -1,0 +1,9 @@
+{
+  "id": "PROPEL_MEDIA",
+  "name": "Propel Media",
+  "categories": ["ADVERTISING"],
+  "organization": "PROPEL_MEDIA",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/propelmedia.png",
+  "sourceUrl": "https://www.propelmedia.com/",
+  "dataVisibility": ["PRIVATE"]
+}

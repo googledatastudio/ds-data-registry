@@ -1,0 +1,9 @@
+{
+  "id": "ADCOLONY",
+  "name": "AdColony",
+  "categories": ["ADVERTISING"],
+  "organization": "ADCOLONY",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/adcolony.png",
+  "sourceUrl": "https://www.adcolony.com/",
+  "dataVisibility": ["PRIVATE"]
+}

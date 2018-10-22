@@ -1,0 +1,9 @@
+{
+  "id": "FEATHR",
+  "name": "Feathr",
+  "categories": ["ADVERTISING"],
+  "organization": "FEATHR",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/feathr.png",
+  "sourceUrl": "https://www.feathr.co/",
+  "dataVisibility": ["PRIVATE"]
+}

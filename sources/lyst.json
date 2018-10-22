@@ -1,0 +1,9 @@
+{
+  "id": "LYST",
+  "name": "Lyst",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "LYST",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/lyst.png",
+  "sourceUrl": "https://www.lyst.com/",
+  "dataVisibility": ["PRIVATE"]
+}

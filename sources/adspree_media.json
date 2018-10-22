@@ -1,0 +1,9 @@
+{
+  "id": "ADSPREE_MEDIA",
+  "name": "AdSpree Media",
+  "categories": ["ADVERTISING"],
+  "organization": "ADSPREE_MEDIA",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/adspreemedia.png",
+  "sourceUrl": "https://www.adspreemedia.com/performance-marketing",
+  "dataVisibility": ["PRIVATE"]
+}

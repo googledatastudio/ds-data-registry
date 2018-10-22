@@ -1,0 +1,9 @@
+{
+  "id": "CLICK_SEND",
+  "name": "ClickSend",
+  "categories": ["ADVERTISING", "EMAIL"],
+  "organization": "CLICK_SEND",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/clicksend.png",
+  "sourceUrl": "https://www.clicksend.com",
+  "dataVisibility": ["PRIVATE"]
+}

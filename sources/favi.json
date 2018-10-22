@@ -1,0 +1,9 @@
+{
+  "id": "FAVI",
+  "name": "Favi",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "FAVI",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/favi.png",
+  "sourceUrl": "https://favi.sk",
+  "dataVisibility": ["PRIVATE"]
+}

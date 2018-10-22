@@ -1,0 +1,9 @@
+{
+  "id": "MOBADS",
+  "name": "MobAds",
+  "categories": ["ADVERTISING"],
+  "organization": "MOBADS",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/mobads.png",
+  "sourceUrl": "https://www.mobads.com",
+  "dataVisibility": ["PRIVATE"]
+}

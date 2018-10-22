@@ -1,0 +1,9 @@
+{
+  "id": "REJOINER",
+  "name": "Rejoiner",
+  "categories": ["ADVERTISING", "EMAIL"],
+  "organization": "REJOINER",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/rejoiner.png",
+  "sourceUrl": "http://rejoiner.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "SMART_ADSERVER",
+  "name": "SmartAdServer",
+  "categories": ["ADVERTISING"],
+  "organization": "SMART",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/smartadserver.png",
+  "sourceUrl": "https://smartadserver.com/",
+  "dataVisibility": ["PRIVATE"]
+}
