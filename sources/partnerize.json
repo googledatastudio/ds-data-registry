@@ -1,0 +1,9 @@
+{
+  "id": "PARTNERIZE",
+  "name": "Partnerize",
+  "categories": ["ADVERTISING"],
+  "organization": "PARTNERIZE",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/performance_horizon%28partnerize%29.png",
+  "sourceUrl": "https://partnerize.com/en",
+  "dataVisibility": ["PRIVATE"]
+}
