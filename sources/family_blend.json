@@ -1,0 +1,9 @@
+{
+  "id": "FAMILY_BLEND",
+  "name": "Family Blend",
+  "categories": ["ADVERTISING"],
+  "organization": "FAMILY_BLEND",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/familyblend.png",
+  "sourceUrl": "http://familyblend.nl/",
+  "dataVisibility": ["PRIVATE"]
+}

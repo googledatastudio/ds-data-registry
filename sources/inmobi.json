@@ -1,0 +1,9 @@
+{
+  "id": "INMOBI",
+  "name": "InMobi",
+  "categories": ["ADVERTISING"],
+  "organization": "INMOBI",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/inmobi.png",
+  "sourceUrl": "https://www.inmobi.com/",
+  "dataVisibility": ["PRIVATE"]
+}
