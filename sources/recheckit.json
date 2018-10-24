@@ -1,0 +1,9 @@
+{
+  "id": "RECHECKIT",
+  "name": "ReCheckit",
+  "categories": ["ADVERTISING", "EMAIL"],
+  "organization": "RECHECKIT",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/recheckit.png",
+  "sourceUrl": "https://recheckit.com/",
+  "dataVisibility": ["PRIVATE"]
+}

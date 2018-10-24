@@ -1,0 +1,9 @@
+{
+  "id": "COMPARI",
+  "name": "Compari",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "COMPARI",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/compari.png",
+  "sourceUrl": "https://www.compari.ro/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ENGAGEYA",
+  "name": "EngageYa",
+  "categories": ["ADVERTISING"],
+  "organization": "ENGAGEYA",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/engageya.png",
+  "sourceUrl": "http://www.engageya.com/",
+  "dataVisibility": ["PRIVATE"]
+}

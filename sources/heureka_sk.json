@@ -1,0 +1,9 @@
+{
+  "id": "HEUREKA_SK",
+  "name": "Heureka.sk",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "ROCKAWAY_CAPITAL",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/heurekask.png",
+  "sourceUrl": "https://www.heureka.sk/",
+  "dataVisibility": ["PRIVATE"]
+}

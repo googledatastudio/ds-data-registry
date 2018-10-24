@@ -1,0 +1,9 @@
+{
+  "id": "ADVIRAL",
+  "name": "Adviral",
+  "categories": ["ADVERTISING"],
+  "organization": "ADVIRAL",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/adviral.png",
+  "sourceUrl": "https://adviralmedia.com/",
+  "dataVisibility": ["PRIVATE"]
+}
