@@ -1,0 +1,9 @@
+{
+  "id": "GAMESVID",
+  "name": "GamesVid",
+  "categories": ["ADVERTISING"],
+  "organization": "GAMESVID",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/gamesvid.png",
+  "sourceUrl": "http://gamesvid.com/",
+  "dataVisibility": ["PRIVATE"]
+}
