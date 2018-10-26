@@ -1,0 +1,9 @@
+{
+  "id": "ZEROPARK",
+  "name": "ZeroPark",
+  "categories": ["ADVERTISING"],
+  "organization": "ZEROPARK",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/zeropark.png",
+  "sourceUrl": "https://zeropark.com/",
+  "dataVisibility": ["PRIVATE"]
+}

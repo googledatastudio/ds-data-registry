@@ -1,0 +1,9 @@
+{
+  "id": "QUANTUM",
+  "name": "Quantum",
+  "categories": ["ADVERTISING"],
+  "organization": "QUANTUM",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/quantum.png",
+  "sourceUrl": "http://quantum-advertising.com/en/",
+  "dataVisibility": ["PRIVATE"]
+}
