@@ -1,0 +1,9 @@
+{
+  "id": "YOUAPPI",
+  "name": "YouAppi",
+  "categories": ["ADVERTISING"],
+  "organization": "YOUAPPI",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/youappi.png",
+  "sourceUrl": "https://www.youappi.com",
+  "dataVisibility": ["PRIVATE"]
+}
