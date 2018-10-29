@@ -1,0 +1,9 @@
+{
+  "id": "SALESFORCE_MARKETING_CLOUD",
+  "name": "Salesforce Marketing Cloud",
+  "categories": ["CLOUD_COMMUNICATION", "MARKETING"],
+  "organization": "SALESFORCE",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/salesforce_marketing_cloud.png",
+  "sourceUrl": "https://www.salesforce.com/products/marketing-cloud/overview/",
+  "dataVisibility": ["PRIVATE"]
+}
