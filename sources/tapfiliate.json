@@ -1,0 +1,9 @@
+{
+  "id": "TAPFILIATE",
+  "name": "Tapfiliate",
+  "categories": ["ADVERTISING"],
+  "organization": "TAPFILIATE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/tapfiliate_api.png",
+  "sourceUrl": "https://tapfiliate.com/",
+  "dataVisibility": ["PRIVATE"]
+}

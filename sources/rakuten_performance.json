@@ -1,0 +1,9 @@
+{
+  "id": "RAKUTEN_PERFORMANCE",
+  "name": "Rakuten Performance",
+  "categories": ["ADVERTISING"],
+  "organization": "RAKUTEN",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/rakutenperformance.png",
+  "sourceUrl": "https://rakutenmarketing.com/",
+  "dataVisibility": ["PRIVATE"]
+}

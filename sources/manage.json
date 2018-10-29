@@ -1,0 +1,9 @@
+{
+  "id": "MANAGE",
+  "name": "Manage",
+  "categories": ["ADVERTISING"],
+  "organization": "MANAGE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/manage.png",
+  "sourceUrl": "https://www.manage.com/",
+  "dataVisibility": ["PRIVATE"]
+}

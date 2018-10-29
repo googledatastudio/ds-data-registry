@@ -1,0 +1,9 @@
+{
+  "id": "DABLE",
+  "name": "Dable",
+  "categories": ["ADVERTISING"],
+  "organization": "DABLE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/dable.png",
+  "sourceUrl": "http://dable.io/en/",
+  "dataVisibility": ["PRIVATE"]
+}

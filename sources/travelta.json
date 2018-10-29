@@ -1,0 +1,9 @@
+{
+  "id": "TRAVELTA",
+  "name": "Travelta",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "TRAVELTA",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/travelta.png",
+  "sourceUrl": "https://www.travelta.nl/",
+  "dataVisibility": ["PRIVATE"]
+}

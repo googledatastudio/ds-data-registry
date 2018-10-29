@@ -1,6 +1,7 @@
 {
   "id": "ADVANCED_WEB_RANKING",
   "name": "Advanced Web Ranking",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/awr.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/awr.png",
   "orgUrl": "https://www.advancedwebranking.com/"
 }

@@ -1,6 +1,7 @@
 {
   "id": "'DIGISTORE24'",
   "name": "Digistore24",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/digistore24.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/digistore24.png",
   "orgUrl": "https://www.digistore24.com/"
 }

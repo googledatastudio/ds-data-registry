@@ -1,0 +1,9 @@
+{
+  "id": "SKRZ",
+  "name": "Skrz",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "SKRZ",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/skrz.png",
+  "sourceUrl": "https://muj.skrz.cz",
+  "dataVisibility": ["PRIVATE"]
+}

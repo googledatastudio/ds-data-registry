@@ -1,0 +1,9 @@
+{
+  "id": "COMPARER",
+  "name": "Comparer",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "COMPARE_GROUP",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/comparer.png",
+  "sourceUrl": "https://www.comparer.be/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "APPLIKE",
+  "name": "AppLike",
+  "categories": ["ADVERTISING"],
+  "organization": "APPLIKE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/applike.png",
+  "sourceUrl": "https://www.applike.info/",
+  "dataVisibility": ["PRIVATE"]
+}

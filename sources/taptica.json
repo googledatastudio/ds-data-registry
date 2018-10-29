@@ -1,0 +1,9 @@
+{
+  "id": "TAPTICA",
+  "name": "Taptica",
+  "categories": ["ADVERTISING"],
+  "organization": "TAPTICA",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/taptica.png",
+  "sourceUrl": "https://www.taptica.com/",
+  "dataVisibility": ["PRIVATE"]
+}

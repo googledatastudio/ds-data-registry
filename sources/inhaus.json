@@ -1,0 +1,9 @@
+{
+  "id": "INHAUS",
+  "name": "inHaus",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "INHAUS",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/inhaus.png",
+  "sourceUrl": "https://inhaus.cz/",
+  "dataVisibility": ["PRIVATE"]
+}

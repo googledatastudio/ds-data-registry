@@ -3,7 +3,8 @@
   "name": "Emarsys",
   "categories": ["EMAIL"],
   "organization": "EMARSYS",
-  "iconUrl":    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/emarsys.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/emarsys.png",
   "sourceUrl": "https://www.emarsys.com/",
   "dataVisibility": ["PRIVATE"]
 }

@@ -1,6 +1,7 @@
 {
   "id": "'ACTIVECAMPAIGN'",
   "name": "ActiveCampaign",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/active_campaign.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/active_campaign.png",
   "orgUrl": "https://www.activecampaign.com/"
 }

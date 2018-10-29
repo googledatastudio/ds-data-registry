@@ -3,7 +3,8 @@
   "name": "Google Trends",
   "categories": ["PUBLIC_DATA"],
   "organization": "GOOGLE",
-  "iconUrl": "https://www.gstatic.com/images/branding/product/2x/googleg_64dp.png",
+  "iconUrl":
+    "https://www.gstatic.com/images/branding/product/2x/googleg_64dp.png",
   "sourceUrl": "https://trends.google.com/trends/",
   "dataVisibility": ["PUBLIC"]
 }

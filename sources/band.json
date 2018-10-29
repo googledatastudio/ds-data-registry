@@ -1,0 +1,9 @@
+{
+  "id": "BAND",
+  "name": "Band",
+  "categories": ["ADVERTISING"],
+  "organization": "BAND",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/band.png",
+  "sourceUrl": "https://band.us",
+  "dataVisibility": ["PRIVATE"]
+}

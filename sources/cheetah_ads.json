@@ -1,0 +1,9 @@
+{
+  "id": "CHEETAH_ADS",
+  "name": "Cheetah Ads",
+  "categories": ["ADVERTISING"],
+  "organization": "CHEETAH_MOBILE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/cheetahmedialink.png",
+  "sourceUrl": "http://ads.cmcm.com/",
+  "dataVisibility": ["PRIVATE"]
+}

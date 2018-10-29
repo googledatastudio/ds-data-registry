@@ -1,0 +1,9 @@
+{
+  "id": "IBILLBOARD",
+  "name": "iBillboard",
+  "categories": ["ADVERTISING"],
+  "organization": "INTERNET_BILLBOARD",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/ibillboard_web.png",
+  "sourceUrl": "http://www.ibillboard.com",
+  "dataVisibility": ["PRIVATE"]
+}

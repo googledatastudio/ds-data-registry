@@ -1,0 +1,9 @@
+{
+  "id": "MITULA",
+  "name": "Mitula",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "MITULA",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/mitula.png",
+  "sourceUrl": "https://www.mitula.ph/",
+  "dataVisibility": ["PRIVATE"]
+}

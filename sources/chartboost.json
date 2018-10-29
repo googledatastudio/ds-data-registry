@@ -1,0 +1,9 @@
+{
+  "id": "CHARTBOOST",
+  "name": "ChartBoost",
+  "categories": ["ADVERTISING"],
+  "organization": "CHARTBOOST",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/chartboost.png",
+  "sourceUrl": "https://www.chartboost.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "RECRUITNOW",
+  "name": "RecruitNow",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "RECRUITNOW",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/recruitnow.png",
+  "sourceUrl": "https://www.recruitnow.nl/",
+  "dataVisibility": ["PRIVATE"]
+}

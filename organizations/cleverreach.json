@@ -1,6 +1,7 @@
 {
   "id": "CLEVERREACH",
   "name": "CleverReach",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/clever_reach.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/clever_reach.png",
   "orgUrl": "https://www.cleverreach.com/"
 }

@@ -1,0 +1,9 @@
+{
+  "id": "HARDWARE_INFO",
+  "name": "Hardware.info",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "HARDWARE_INFO",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/hardwareinfo.png",
+  "sourceUrl": "https://nl.hardware.info/",
+  "dataVisibility": ["PRIVATE"]
+}

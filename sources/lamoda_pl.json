@@ -1,0 +1,9 @@
+{
+  "id": "LAMODA_PL",
+  "name": "Lamoda.pl",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "LAMODA_PL",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/lamodapl.png",
+  "sourceUrl": "https://lamoda.pl/",
+  "dataVisibility": ["PRIVATE"]
+}

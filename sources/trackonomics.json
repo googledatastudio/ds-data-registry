@@ -5,5 +5,5 @@
   "organization": "TRACKONOMICS",
   "iconUrl": "http://www.trackonomics.net/logo_40.png",
   "sourceUrl": "https://trackonomics.net/",
-  "dataVisibility": "PRIVATE"
+  "dataVisibility": ["PRIVATE"]
 }

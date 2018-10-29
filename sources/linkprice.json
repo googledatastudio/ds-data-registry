@@ -1,0 +1,9 @@
+{
+  "id": "LINKPRICE",
+  "name": "LinkPrice",
+  "categories": ["ADVERTISING"],
+  "organization": "LINKPRICE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/linkprice.png",
+  "sourceUrl": "https://www2.linkprice.com/",
+  "dataVisibility": ["PRIVATE"]
+}

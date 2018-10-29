@@ -1,0 +1,9 @@
+{
+  "id": "AFFLUENT",
+  "name": "Affluent",
+  "categories": ["ADVERTISING"],
+  "organization": "FLUENT",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/fluent.png",
+  "sourceUrl": "http://www.affluentco.com/",
+  "dataVisibility": ["PRIVATE"]
+}

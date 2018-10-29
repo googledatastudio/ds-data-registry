@@ -1,0 +1,9 @@
+{
+  "id": "OLCSOBBAT",
+  "name": "Olcsóbbat",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "OLCSOBBAT",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/olcsobbat.png",
+  "sourceUrl": "https://www.olcsobbat.hu/",
+  "dataVisibility": ["PRIVATE"]
+}

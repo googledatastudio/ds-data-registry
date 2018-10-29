@@ -3,7 +3,8 @@
   "name": "PostgreSQL",
   "categories": ["DATABASE"],
   "organization": "POSTGRESQL",
-  "iconUrl": "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/postgresql.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/postgresql.png",
   "sourceUrl": "https://www.postgresql.org/",
-  "dataVisibility": ["PRIVATE","PUBLIC"]
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
 }

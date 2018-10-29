@@ -1,0 +1,9 @@
+{
+  "id": "IMPRESSION_DESK",
+  "name": "Impression Desk",
+  "categories": ["ADVERTISING"],
+  "organization": "IMPRESSION_DESK",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/impressiondesk.png",
+  "sourceUrl": "https://impressiondesk.com/",
+  "dataVisibility": ["PRIVATE"]
+}
