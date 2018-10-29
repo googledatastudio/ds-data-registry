@@ -1,0 +1,9 @@
+{
+  "id": "UBERALL",
+  "name": "Uberall",
+  "categories": ["MARKETING", "ADVERTISING"],
+  "organization": "UBERALL",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/uberall.png",
+  "sourceUrl": "https://uberall.com/",
+  "dataVisibility": ["PRIVATE"]
+}
