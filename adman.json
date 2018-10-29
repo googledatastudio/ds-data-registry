@@ -1,9 +1,0 @@
-{
-  "id": "ADMAN",
-  "name": "Adman",
-  "categories": ["ADVERTISING"],
-  "organization": "PHAISTOS_NETWORKS",
-  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/adman.png",
-  "sourceUrl": "http://www.adman.gr/",
-  "dataVisibility": ["PRIVATE"]
-}
