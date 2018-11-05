@@ -1,9 +1,9 @@
 {
   "id": "MICROSOFT_AZURE",
   "name": "Microsoft Azure",
-  "categories": ["CLOUD_COMMUNICATION"],
+  "categories": ["CLOUD"],
   "organization": "MICROSOFT",
-  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/adition.png",
-  "sourceUrl": "https://www.adition.com/en/",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/microsoft_azure.png",
+  "sourceUrl": "https://azure.microsoft.com/en-us/",
   "dataVisibility": ["PRIVATE"]
 }
