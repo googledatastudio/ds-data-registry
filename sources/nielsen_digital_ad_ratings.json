@@ -1,6 +1,6 @@
 {
-  "id": "NIELSEN",
-  "name": "Nielsen",
+  "id": "NIELSEN_DIGITAL_AD_RATINGS",
+  "name": "Nielsen Digital Ad Ratings",
   "categories": ["ADVERTISING", "ANALYTICS"],
   "organization": "NIELSEN",
   "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/nielsen.png",
