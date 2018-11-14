@@ -2,17 +2,12 @@
   "id": "PHONEWAGON",
   "name": "Phone Wagon API",
   "categories": [
-    "ADVERTISING",
-    "MARKETING",
-    "ANALYTICS",
-    "CALL_TRACKING",
-    "CRM",
-    "TOOLS"
+    "CALL_TRACKING"
   ],
   "organization": "PHONEWAGON",
   "iconUrl":
     "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_1510161139/phonewagon.png",
   "sourceUrl":
-    "https://phonewagon.com/api/?fbclid=IwAR3Ce2oensyXwxf3ht0IkgJ8lvcplfCUrTTKzJxlZW5qGL-JY0Tzgz5Xi5Q",
+    "https://phonewagon.com",
   "dataVisibility": ["PRIVATE"]
 }
