@@ -1,0 +1,9 @@
+{
+    "id": "DIALOGTECH",
+    "name": "DialogTech",
+    "categories": ["ADVERTISING" , "MARKETING"],
+    "organization": "DIALOGTECH",
+    "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/Dialogtech.png",
+    "sourceUrl": "https://www.dialogtech.com/",
+    "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+    "id": "TWITTER_SOCIAL",
+    "name": "Twitter Social",
+    "categories": ["ADVERTISING" , "MARKETING"],
+    "organization": "TWITTER",
+    "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/Twitter-Social.png",
+    "sourceUrl": "https://twitter.com/social/",
+    "dataVisibility": ["PRIVATE"]
+}

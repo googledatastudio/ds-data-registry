@@ -1,0 +1,9 @@
+{
+    "id": "MIXPO",
+    "name": "Mixpo",
+    "categories": ["ADVERTISING" , "MARKETING"],
+    "organization": "MIXPO",
+    "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/Mixpo.png",
+    "sourceUrl": "https://www.mixpo.com/",
+    "dataVisibility": ["PRIVATE"]
+}
