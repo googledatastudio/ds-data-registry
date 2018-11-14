@@ -3,7 +3,8 @@
   "name": "Microsoft OneDrive For Business",
   "categories": ["CLOUD", "STORAGE"],
   "organization": "MICROSOFT",
-  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/microsoft_onedrive_for_business.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3.amazonaws.com/icons/microsoft_onedrive_for_business.png",
   "sourceUrl": "https://onedrive.live.com/about/en-au/business/",
   "dataVisibility": ["PRIVATE"]
 }

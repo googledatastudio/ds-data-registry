@@ -1,6 +1,6 @@
 {
-    "id": "BIRDEYE",
-    "name": "BirdEye",
-    "orgUrl": "https://birdeye.com/",
-    "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/BirdEye.png"
+  "id": "BIRDEYE",
+  "name": "BirdEye",
+  "orgUrl": "https://birdeye.com/",
+  "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/BirdEye.png"
 }

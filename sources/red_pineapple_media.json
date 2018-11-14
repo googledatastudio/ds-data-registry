@@ -3,7 +3,8 @@
   "name": "Red Pineapple Media",
   "categories": ["ADVERTISING"],
   "organization": "RED_PINEAPPLE_MEDIA",
-  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/red_pineapple_media.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3.amazonaws.com/icons/red_pineapple_media.png",
   "sourceUrl": "http://www.redpineapplemedia.com/",
   "dataVisibility": ["PRIVATE"]
 }

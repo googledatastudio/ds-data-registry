@@ -1,9 +1,9 @@
 {
-    "id": "BIRDEYE",
-    "name": "BirdEye",
-    "categories": ["ADVERTISING" , "MARKETING"],
-    "organization": "BIRDEYE",
-    "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/BirdEye.png",
-    "sourceUrl": "https://birdeye.com/",
-    "dataVisibility": ["PRIVATE"]
-  }
+  "id": "BIRDEYE",
+  "name": "BirdEye",
+  "categories": ["ADVERTISING", "MARKETING"],
+  "organization": "BIRDEYE",
+  "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/BirdEye.png",
+  "sourceUrl": "https://birdeye.com/",
+  "dataVisibility": ["PRIVATE"]
+}
