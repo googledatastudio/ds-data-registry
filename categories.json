@@ -72,6 +72,10 @@
     "name": "Video"
   },
   {
+    "id": "CLOUD",
+    "name": "Cloud"
+  },
+  {
     "id": "CLOUD_COMMUNICATIONS",
     "name": "Cloud Communications"
   },
