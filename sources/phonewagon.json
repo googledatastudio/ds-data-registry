@@ -1,0 +1,13 @@
+{
+  "id": "PHONEWAGON",
+  "name": "Phone Wagon",
+  "categories": [
+    "CALL_TRACKING"
+  ],
+  "organization": "PHONEWAGON",
+  "iconUrl":
+    "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_1510161139/phonewagon.png",
+  "sourceUrl":
+    "https://phonewagon.com",
+  "dataVisibility": ["PRIVATE"]
+}
