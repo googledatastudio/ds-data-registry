@@ -1,0 +1,9 @@
+{
+  "id": "KLICK_TIPP",
+  "name": "Klick Tipp",
+  "categories": ["ADVERTISING", "EMAIL", "MARKETING"],
+  "organization": "KLICK_TIPP",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/klicktipp.png",
+  "sourceUrl": "https://www.klick-tipp.com/",
+  "dataVisibility": ["PRIVATE"]
+}

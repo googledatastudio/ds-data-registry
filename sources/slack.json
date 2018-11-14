@@ -1,0 +1,9 @@
+{
+  "id": "SLACK",
+  "name": "Slack",
+  "categories": ["SOCIAL"],
+  "organization": "SLACK_TECHNOLOGIES",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/slack.png",
+  "sourceUrl": "https://api.slack.com/",
+  "dataVisibility": ["PRIVATE"]
+}

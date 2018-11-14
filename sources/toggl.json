@@ -1,0 +1,9 @@
+{
+  "id": "TOGGL",
+  "name": "Toggl",
+  "categories": ["TIME_TRACKING"],
+  "organization": "TOGGL",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/toggl.png",
+  "sourceUrl": "https://toggl.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "LIONSHOME",
+  "name": "Lionshome",
+  "categories": ["SALES"],
+  "organization": "LIONSHOME",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/lionshome.png",
+  "sourceUrl": "https://www.lionshome.de/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "VIGLINK",
+  "name": "Viglink",
+  "categories": ["ADVERTISING"],
+  "organization": "VIGLINK",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/viglink.png",
+  "sourceUrl": "https://www.viglink.com/",
+  "dataVisibility": ["PRIVATE"]
+}

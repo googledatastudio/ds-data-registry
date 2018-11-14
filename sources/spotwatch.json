@@ -1,0 +1,9 @@
+{
+  "id": "SPOTWATCH",
+  "name": "Spotwatch",
+  "categories": ["ADVERTISING"],
+  "organization": "SPOTWATCH",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/spotwatch.png",
+  "sourceUrl": "https://spotwatch.io/",
+  "dataVisibility": ["PRIVATE"]
+}

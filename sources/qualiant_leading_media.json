@@ -1,0 +1,9 @@
+{
+  "id": "QUALIANT_LEADING_MEDIA",
+  "name": "Qualiant Leading Media",
+  "categories": ["ADVERTISING"],
+  "organization": "QUALIANT",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/qualiant.png",
+  "sourceUrl": "https://www.qualiant.com/en/leading-media/",
+  "dataVisibility": ["PRIVATE"]
+}

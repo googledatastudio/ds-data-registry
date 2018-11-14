@@ -1,0 +1,9 @@
+{
+  "id": "LIGATUS",
+  "name": "Ligatus",
+  "categories": ["ADVERTISING"],
+  "organization": "LIGATUS",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/ligatus.png",
+  "sourceUrl": "https://www.ligatus.com/",
+  "dataVisibility": ["PRIVATE"]
+}
