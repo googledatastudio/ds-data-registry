@@ -3,7 +3,8 @@
   "name": "Media Wizard",
   "categories": ["ADVERTISING"],
   "organization": "FOREVER_SOFTWARE",
-  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/media_wizard.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3.amazonaws.com/icons/media_wizard.png",
   "sourceUrl": "http://www.forever-soft.de/media-wizard.html",
   "dataVisibility": ["PRIVATE"]
 }

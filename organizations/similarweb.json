@@ -1,6 +1,7 @@
 {
   "id": "SIMILARWEB",
   "name": "SimilarWeb",
-  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/similarweb.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3.amazonaws.com/icons/similarweb.png",
   "orgUrl": "https://www.similarweb.com/"
 }

@@ -3,7 +3,8 @@
   "name": "Salesforce Marketing Cloud",
   "categories": ["CLOUD", "MARKETING"],
   "organization": "SALESFORCE",
-  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/salesforce_marketing_cloud.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3.amazonaws.com/icons/salesforce_marketing_cloud.png",
   "sourceUrl": "https://www.salesforce.com/products/marketing-cloud/overview/",
   "dataVisibility": ["PRIVATE"]
 }

@@ -3,7 +3,8 @@
   "name": "Microsoft Azure",
   "categories": ["CLOUD"],
   "organization": "MICROSOFT",
-  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/microsoft_azure.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3.amazonaws.com/icons/microsoft_azure.png",
   "sourceUrl": "https://azure.microsoft.com/en-us/",
   "dataVisibility": ["PRIVATE"]
 }

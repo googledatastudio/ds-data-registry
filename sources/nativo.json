@@ -1,9 +1,9 @@
 {
-    "id": "NATIVO",
-    "name": "Nativo",
-    "categories": ["ADVERTISING" , "MARKETING"],
-    "organization": "NATIVO",
-    "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/Nativo.png",
-    "sourceUrl": "https://www.nativo.com/",
-    "dataVisibility": ["PRIVATE"]
+  "id": "NATIVO",
+  "name": "Nativo",
+  "categories": ["ADVERTISING", "MARKETING"],
+  "organization": "NATIVO",
+  "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/Nativo.png",
+  "sourceUrl": "https://www.nativo.com/",
+  "dataVisibility": ["PRIVATE"]
 }

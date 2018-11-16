@@ -1,6 +1,7 @@
 {
   "id": "FOREVER_SOFTWARE",
   "name": "Forever Software",
-  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/forever_software.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3.amazonaws.com/icons/forever_software.png",
   "orgUrl": "http://www.forever-soft.de/"
 }

@@ -1,9 +1,9 @@
 {
-    "id": "YEXT_ENHANCED",
-    "name": "Yext Enhanced",
-    "categories": ["ADVERTISING" , "MARKETING"],
-    "organization": "YEXT",
-    "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/Yext.png",
-    "sourceUrl": "https://www.yext.com/",
-    "dataVisibility": ["PRIVATE"]
+  "id": "YEXT_ENHANCED",
+  "name": "Yext Enhanced",
+  "categories": ["ADVERTISING", "MARKETING"],
+  "organization": "YEXT",
+  "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/Yext.png",
+  "sourceUrl": "https://www.yext.com/",
+  "dataVisibility": ["PRIVATE"]
 }
