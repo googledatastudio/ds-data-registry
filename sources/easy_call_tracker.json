@@ -1,0 +1,9 @@
+{
+  "id": "EASY_CALL_TRACKER",
+  "name": "Easy Call Tracker",
+  "categories": ["CALL_TRACKING"],
+  "organization": "EASY_CALL_TRACKER",
+  "iconUrl": "http://www.easycalltracker.com/images/easycalltracker.png",
+  "sourceUrl": "http://www.easycalltracker.com/",
+  "dataVisibility": ["PRIVATE"]
+}
