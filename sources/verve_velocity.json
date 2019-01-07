@@ -1,0 +1,9 @@
+{
+    "id": "VERVE_VELOCITY",
+    "name": "Verve Velocity",
+    "categories": ["ADVERTISING", "MARKETING"],
+    "organization": "VERVE",
+    "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/Verve-Velocity.png",
+    "sourceUrl": "https://www.verve.com/products/velocity/",
+    "dataVisibility": ["PRIVATE"]
+}
