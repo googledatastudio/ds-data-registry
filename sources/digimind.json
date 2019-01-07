@@ -1,0 +1,11 @@
+{
+  "id": "DIGIMIND",
+  "name": "Digimind",
+  "categories": ["ANALYTICS"],
+  "organization": "DIGIMIND",
+  "iconUrl":
+    "https://cdn2.hubspot.net/hubfs/636866/Digimind_Glyph_Red_200-1.png",
+  "sourceUrl": "https://social.digimind.com/d/",
+  "dataVisibility": ["PRIVATE"]
+}
+
