@@ -1,0 +1,9 @@
+{
+  "id": "AVIDTRAK",
+  "name": "AvidTrak",
+  "categories": ["ANALYTICS", "CALL_TRACKING"],
+  "organization": "AVIDTRAK",
+  "iconUrl": "https://avidtrak.com/images/AT_Icon.png",
+  "sourceUrl": "https://avidtrak.com/",
+  "dataVisibility": ["PRIVATE"]
+}
