@@ -1,7 +1,7 @@
 {
-  "id": "SPARQL_ENDPOINT",
-  "name": "SPARQL Endpoint",
-  "categories": ["DATABASE", "CUSTOM", "PUBLIC_DATA"],
+  "id": "CUSTOM_SPARQL",
+  "name": "Custom SPARQL",
+  "categories": ["DATABASE", "CUSTOM"],
   "iconUrl": "https://www.w3.org/RDF/icons/rdf_w3c_icon.48.gif",
   "sourceUrl": "https://www.w3.org/TR/sparql11-protocol/",
   "dataVisibility": ["PUBLIC", "PRIVATE"]
