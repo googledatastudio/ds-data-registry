@@ -3,7 +3,8 @@
   "name": "iugu",
   "categories": ["PAYMENTS"],
   "organization": "IUGU",
-  "iconUrl": "https://iugu.com/wp-content/uploads/2017/07/logo_IUGU_horizontal.png",
+  "iconUrl":
+    "https://iugu.com/wp-content/uploads/2017/07/logo_IUGU_horizontal.png",
   "sourceUrl": "https://www.iugu.com/",
   "dataVisibility": ["PRIVATE"]
 }

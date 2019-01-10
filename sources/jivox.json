@@ -1,9 +1,9 @@
 {
-    "id": "JIVOX",
-    "name": "Jivox",
-    "categories": ["ADVERTISING", "MARKETING"],
-    "organization": "JIVOX",
-    "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/Jivox.png",
-    "sourceUrl": "https://www.jivox.com/",
-    "dataVisibility": ["PRIVATE"]
+  "id": "JIVOX",
+  "name": "Jivox",
+  "categories": ["ADVERTISING", "MARKETING"],
+  "organization": "JIVOX",
+  "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/Jivox.png",
+  "sourceUrl": "https://www.jivox.com/",
+  "dataVisibility": ["PRIVATE"]
 }

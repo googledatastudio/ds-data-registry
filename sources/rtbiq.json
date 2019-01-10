@@ -1,9 +1,9 @@
 {
-    "id": "RTBIQ",
-    "name": "RTBiQ",
-    "categories": ["ADVERTISING", "MARKETING"],
-    "organization": "RTBIQ",
-    "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/RTBiQ.png",
-    "sourceUrl": "https://www.rtbiq.com/",
-    "dataVisibility": ["PRIVATE"]
+  "id": "RTBIQ",
+  "name": "RTBiQ",
+  "categories": ["ADVERTISING", "MARKETING"],
+  "organization": "RTBIQ",
+  "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/RTBiQ.png",
+  "sourceUrl": "https://www.rtbiq.com/",
+  "dataVisibility": ["PRIVATE"]
 }

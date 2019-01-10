@@ -1,9 +1,9 @@
 {
-    "id": "CENTRO_DSP",
-    "name": "Centro DSP",
-    "categories": ["ADVERTISING", "MARKETING"],
-    "organization": "CENTRO",
-    "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/Centro-DSP.png",
-    "sourceUrl": "https://www.centro.net/solutions/basis/dsp/",
-    "dataVisibility": ["PRIVATE"]
+  "id": "CENTRO_DSP",
+  "name": "Centro DSP",
+  "categories": ["ADVERTISING", "MARKETING"],
+  "organization": "CENTRO",
+  "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/Centro-DSP.png",
+  "sourceUrl": "https://www.centro.net/solutions/basis/dsp/",
+  "dataVisibility": ["PRIVATE"]
 }

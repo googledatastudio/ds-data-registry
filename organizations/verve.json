@@ -1,6 +1,6 @@
 {
-    "id": "VERVE",
-    "name": "Verve",
-    "orgUrl": "https://www.verve.com/",
-    "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/Verve.png"
+  "id": "VERVE",
+  "name": "Verve",
+  "orgUrl": "https://www.verve.com/",
+  "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/Verve.png"
 }
