@@ -1,0 +1,9 @@
+{
+  "id": "AMALYTIX",
+  "name": "Amalytix",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "AMALYTIX",
+  "iconUrl": "https://www.amalytix.com/amalytix-logo-gds.png",
+  "sourceUrl": "https://www.amalytix.com/",
+  "dataVisibility": ["PRIVATE"]
+}
