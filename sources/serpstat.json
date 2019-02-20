@@ -1,0 +1,9 @@
+{
+ "id": "SERPSTAT",
+ "name": "Serpstat",
+ "categories": ["SEO"],
+ "organization": "SERPSTAT",
+ "iconUrl": "https://serpstat.com/img/logo-40x40.png?react",
+ "sourceUrl": "https://serpstat.com/",
+ "dataVisibility": ["PUBLIC"]
+ }
