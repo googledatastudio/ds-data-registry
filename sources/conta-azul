@@ -1,9 +1,0 @@
-{
-  "id": "CONTAAZUL",
-  "name": "CONTAAZUL",
-  "categories": ["MANAGEMENT"],
-  "organization": "CONTAAZUL",
-  "iconUrl": "https://cdn.awsli.com.br/879/879342/arquivos/conta-azul.jpg",
-  "sourceUrl": "https://contaazul.com/",
-  "dataVisibility": ["PRIVATE"]
-}
