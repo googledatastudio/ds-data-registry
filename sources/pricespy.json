@@ -1,0 +1,9 @@
+{
+  "id": "PRICESPY",
+  "name": "PriceSpy",
+  "categories": ["ADVERTISING"],
+  "organization": "PRISJAKT",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/prisjakt_web.png",
+  "sourceUrl": "https://pricespy.co.uk/",
+  "dataVisibility": ["PRIVATE"]
+}
