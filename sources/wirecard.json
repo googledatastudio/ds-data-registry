@@ -1,0 +1,10 @@
+{
+  "id": "WIRECARD",
+  "name": "Wirecard",
+  "categories": ["PAYMENTS"],
+  "organization": "Wirecard",
+  "iconUrl":
+    "https://wirecard.com.br/wp-content/themes/moip/assets/images/wirecard.png",
+  "sourceUrl": "https://www.wirecard.com.br/",
+  "dataVisibility": ["PRIVATE"]
+}

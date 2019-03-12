@@ -1,0 +1,10 @@
+{
+  "id": "BITMOVIN_ANALYTICS",
+  "name": "Bitmovin Analytics",
+  "categories": ["ANALYTICS"],
+  "organization": "BITMOVIN",
+  "iconUrl":
+    "https://cdn.bitmovin.com/frontend/shared/images/favicon/favicon-96x96.png",
+  "sourceUrl": "https://bitmovin.com/video-analytics/",
+  "dataVisibility": ["PRIVATE"]
+}

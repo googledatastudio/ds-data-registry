@@ -1,0 +1,9 @@
+{
+  "id": "VIDEOLOGY",
+  "name": "Videology",
+  "categories": ["ADVERTISING"],
+  "organization": "VIDEOLOGY",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/videology.png",
+  "sourceUrl": "https://videologygroup.com/",
+  "dataVisibility": ["PRIVATE"]
+}

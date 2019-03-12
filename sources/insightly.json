@@ -1,0 +1,9 @@
+{
+  "id": "INSIGHTLY",
+  "name": "Insightly",
+  "categories": ["CRM"],
+  "organization": "INSIGHTLY",
+  "iconUrl": "https://drive.google.com/uc?id=138fodjrCd9h46wDftvswXFq2SX4dRX6-",
+  "sourceUrl": "https://www.insightly.com",
+  "dataVisibility": ["PRIVATE"]
+}

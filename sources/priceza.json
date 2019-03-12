@@ -1,0 +1,9 @@
+{
+  "id": "PRICEZA",
+  "name": "Priceza",
+  "categories": ["TOOLS"],
+  "organization": "PRICEZA",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/priceza.png",
+  "sourceUrl": "https://www.pricezagroup.com/",
+  "dataVisibility": ["PUBLIC"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "OPTIMIZELY",
+  "name": "Optimizely",
+  "categories": ["MARKETING"],
+  "organization": "OPTIMIZELY",
+  "iconUrl":
+    "https://adverity-gds-static.s3.amazonaws.com/icons/optimizely.png",
+  "sourceUrl": "https://www.optimizely.com/",
+  "dataVisibility": ["PRIVATE"]
+}

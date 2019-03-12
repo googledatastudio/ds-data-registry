@@ -1,0 +1,9 @@
+{
+  "id": "HTTPOOL",
+  "name": "httpool",
+  "categories": ["ADVERTISING"],
+  "organization": "HTTPOOL",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/httpool.png",
+  "sourceUrl": "https://www.httpool.com/",
+  "dataVisibility": ["PRIVATE"]
+}

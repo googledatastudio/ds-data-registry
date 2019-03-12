@@ -1,0 +1,8 @@
+{
+  "id": "CUSTOM_PARQUET",
+  "name": "Custom Parquet",
+  "categories": ["CUSTOM"],
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/parquet.jpeg",
+  "sourceUrl": "https://parquet.apache.org/",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}

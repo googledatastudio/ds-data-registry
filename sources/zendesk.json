@@ -1,0 +1,9 @@
+{
+  "id": "ZENDESK",
+  "name": "Zendesk",
+  "categories": ["SOCIAL"],
+  "organization": "ZENDESK",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/zendesk.png",
+  "sourceUrl": "https://www.zendesk.com",
+  "dataVisibility": ["PRIVATE"]
+}

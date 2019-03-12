@@ -1,0 +1,10 @@
+{
+  "id": "SIMILARWEB",
+  "name": "Similarweb",
+  "categories": ["ANALYTICS"],
+  "organization": "SIMILARWEB",
+  "iconUrl":
+    "https://adverity-gds-static.s3.amazonaws.com/icons/similarweb.png",
+  "sourceUrl": "https://www.similarweb.com/",
+  "dataVisibility": ["PRIVATE"]
+}

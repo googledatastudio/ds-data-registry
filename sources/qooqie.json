@@ -1,0 +1,9 @@
+{
+  "id": "QOOQIE",
+  "name": "Qooqie",
+  "categories": ["CALL_TRACKING", "ANALYTICS"],
+  "organization": "QOOQIE",
+  "iconUrl": "https://qooqie.com/img/qooqie-icon-40x40.png",
+  "sourceUrl": "https://qooqie.com",
+  "dataVisibility": ["PRIVATE"]
+}

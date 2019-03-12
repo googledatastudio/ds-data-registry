@@ -1,0 +1,9 @@
+{
+  "id": "ADITION",
+  "name": "Adition",
+  "categories": ["ADVERTISING"],
+  "organization": "ADITION",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/adition.png",
+  "sourceUrl": "https://www.adition.com/en/",
+  "dataVisibility": ["PRIVATE"]
+}

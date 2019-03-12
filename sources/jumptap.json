@@ -1,0 +1,9 @@
+{
+  "id": "JUMPTAP",
+  "name": "JumpTap",
+  "categories": ["ADVERTISING", "MARKETING"],
+  "organization": "OATH",
+  "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/JumpTap.png",
+  "sourceUrl": "http://www.jumptap.com/",
+  "dataVisibility": ["PRIVATE"]
+}

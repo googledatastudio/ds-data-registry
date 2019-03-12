@@ -1,0 +1,9 @@
+{
+  "id": "SEOMONITOR",
+  "name": "SEOmonitor",
+  "categories": ["SEO"],
+  "organization": "SEOMONITOR",
+  "iconUrl": "https://app.seomonitor.com/static/images/logo_96X96.png",
+  "sourceUrl": "https://api.seomonitor.com/",
+  "dataVisibility": ["PRIVATE"]
+}

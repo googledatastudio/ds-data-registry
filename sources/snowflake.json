@@ -1,0 +1,9 @@
+{
+  "id": "SNOWFLAKE",
+  "name": "Snowflake",
+  "categories": ["DATABASE"],
+  "organization": "SNOWFLAKE_COMPUTING",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/snowflake.png",
+  "sourceUrl": "https://www.snowflake.com/",
+  "dataVisibility": ["PRIVATE"]
+}
