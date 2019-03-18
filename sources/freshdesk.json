@@ -1,0 +1,10 @@
+{
+  "id": "FRESHDESK",
+  "name": "Freshdesk",
+  "categories": ["TOOLS"],
+  "organization": "FRESHDESK",
+  "iconUrl":
+    "https://freshdesk.com/static-assets/images/common/company/logos/logo-fdesk-black.svg",
+  "sourceUrl": "https://freshdesk.com",
+  "dataVisibility": ["PRIVATE"]
+}
