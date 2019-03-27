@@ -2,5 +2,6 @@
   "id": "STACKADAPT",
   "name": "StackAdapt",
   "orgUrl": "https://www.stackadapt.com/",
-  "iconUrl": "https://cdn.stackadapt.com/public/notifications/google-data-studio-icon.png"
+  "iconUrl":
+    "https://cdn.stackadapt.com/public/notifications/google-data-studio-icon.png"
 }
