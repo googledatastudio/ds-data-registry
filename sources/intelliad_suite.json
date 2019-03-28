@@ -5,7 +5,6 @@
   "organization": "INTELLIAD",
   "iconUrl":
     "https://www.intelliad.de/wp-content/uploads/2018/09/intelliad_icon.png",
-  "sourceUrl":
-    "https://www.intelliad.de/",
+  "sourceUrl": "https://www.intelliad.de/",
   "dataVisibility": ["PRIVATE"]
 }

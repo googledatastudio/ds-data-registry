@@ -3,7 +3,8 @@
   "name": "PokeAPI",
   "categories": ["TOOLS", "PUBLIC_DATA"],
   "organization": "POKEAPI",
-  "iconUrl": "https://pokeapi.co/static/logo-6221638601ef7fa7c835eae08ef67a16.png",
+  "iconUrl":
+    "https://pokeapi.co/static/logo-6221638601ef7fa7c835eae08ef67a16.png",
   "sourceUrl": "https://pokeapi.co",
   "dataVisibility": ["PUBLIC"]
 }
