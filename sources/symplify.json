@@ -1,0 +1,13 @@
+{
+  "id": "SYMPLIFY",
+  "name": "Symplify",
+  "categories": [
+    "EMAIL"
+  ],
+  "organization": "SYMPLIFY",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/symplify.png",
+  "sourceUrl": "https://www.symplify.com/",
+  "dataVisibility": [
+    "PRIVATE"
+  ]
+}
