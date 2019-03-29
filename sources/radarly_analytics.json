@@ -1,0 +1,10 @@
+{
+  "id": "RADARLY_ANALYTICS",
+  "name": "Radarly Analytics",
+  "categories": ["ANALYTICS"],
+  "organization": "LINKFLUENCE",
+  "iconUrl":
+    "https://radarly.linkfluence.com/public/images/9a6b8bf6a4a5eb4c5921e9a330f897ff-favicon.png",
+  "sourceUrl": "https://www.linkfluence.com/social-media-intelligence/radarly",
+  "dataVisibility": ["PRIVATE"]
+}

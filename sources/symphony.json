@@ -3,8 +3,7 @@
   "name": "Symphony",
   "categories": ["CRM", "SALES"],
   "organization": "INTEGRATOUCH",
-  "iconUrl":
-    "https://symphonybilling.com/favicon.ico",
+  "iconUrl": "https://symphonybilling.com/favicon.ico",
   "sourceUrl": "https://symphonybilling.com/",
   "dataVisibility": ["PRIVATE"]
 }
