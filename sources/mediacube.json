@@ -1,0 +1,9 @@
+{
+  "id": "MEDIACUBE",
+  "name": "ThemediaCube",
+  "categories": ["ADVERTISING"],
+  "organization": "MEDIABUYINGSYSTEMS",
+  "iconUrl": "https://themediacu.be/assets/mediacubelogo.png",
+  "sourceUrl": "https://themediacu.be/api-doc/",
+  "dataVisibility": ["PRIVATE"]
+}
