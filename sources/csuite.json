@@ -1,0 +1,9 @@
+{
+  "id": "CSUITE",
+  "name": "CommunitySuite",
+  "categories": ["FINANCE"],
+  "organization": "FOUNDANT",
+  "iconUrl": "https://communityfoundations.foundant.com/wp-content/themes/genesis-ft-cf/images/foundant-community-foundations-40.gif",
+  "sourceUrl": "https://communityfoundations.foundant.com/",
+  "dataVisibility": ["PRIVATE"]
+}
