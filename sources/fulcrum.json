@@ -1,0 +1,9 @@
+{
+  "id": "FULCRUM",
+  "name": "Fulcrum",
+  "categories": ["TOOLS", "DATA_COLLECTION"],
+  "organization": "SPATIAL_NETWORKS",
+  "iconUrl": "https://learn.fulcrumapp.com/img/branding/fulcrum-icon-40.png",
+  "sourceUrl": "https://www.fulcrumapp.com/",
+  "dataVisibility": ["PRIVATE"]
+}
