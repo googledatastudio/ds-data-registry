@@ -1,0 +1,9 @@
+{
+  "id": "BEXIO",
+  "name": "Bexio",
+  "categories": ["FINANCE","ANALYTICS"],
+  "organization": "BEXIO",
+  "iconUrl": "https://cdn.bexio.com/app/images/logo/bexio_logo.svg",
+  "sourceUrl": "https://www.bexio.com/",
+  "dataVisibility": ["PRIVATE"]
+}
