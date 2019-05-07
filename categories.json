@@ -16,6 +16,10 @@
     "name": "Database"
   },
   {
+    "id": "DATA_COLLECTION",
+    "name": "Data Collection"
+  },
+  {
     "id": "ECOMMERCE",
     "name": "eCommerce"
   },
