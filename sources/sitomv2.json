@@ -1,0 +1,10 @@
+{
+  "id": "SITOMV2",
+  "name": "SITOMV2",
+  "categories": ["ANALYTICS", "ADVERTISING", "DATABASE"],
+  "organization": "Omolds",
+  "iconUrl":
+    "https://omolders.omolds.com/index/viewArchive/5/link_de_la_imagen",
+  "sourceUrl": "https://www.omolds.com/",
+  "dataVisibility": ["PRIVATE"]
+}
