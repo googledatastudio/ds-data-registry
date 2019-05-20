@@ -1,0 +1,11 @@
+{
+  "id": "NOVOMIND_ISHOP",
+  "name": "Novomind iSHOP",
+  "categories": ["ECOMMERCE"],
+  "organization": "NOVOMIND_ISHOP",
+  "iconUrl":
+    "https://www.novomind.com/typo3temp/assets/_processed_/3/3/csm_Novomind_Logo_de15ab5689.png",
+  "sourceUrl":
+    "https://www.novomind.com/de/shopsystem/novomind-ishop-software/",
+  "dataVisibility": ["PRIVATE"]
+}
