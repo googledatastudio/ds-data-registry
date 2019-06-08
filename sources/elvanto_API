@@ -1,0 +1,9 @@
+{
+	"id": "ELVANTO_API",
+	"name": "elvanto-API",
+	"categories": ["CUSTOM"],
+	"organization": "ELVANTO",
+	"iconUrl": "https://www.elvanto.com/resources/branding/?download=icon-png",
+	"sourceUrl": "https://www.elvanto.com/api/",
+	"dataVisibility": ["PRIVATE"]
+}
