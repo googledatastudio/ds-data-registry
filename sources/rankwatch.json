@@ -1,0 +1,9 @@
+{
+  "id": "RANKWATCH",
+  "name": "RankWatch",
+  "categories": ["SEO", "ANALYTICS"],
+  "organization": "RANKWATCH",
+  "iconUrl": "https://cdnasset.rankwatch.com/image/rankwatch_logo_256.png",
+  "sourceUrl": "https://www.rankwatch.com/",
+  "dataVisibility": ["PRIVATE"]
+}
