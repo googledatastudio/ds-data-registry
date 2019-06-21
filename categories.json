@@ -94,5 +94,9 @@
   {
     "id": "TIME_TRACKING",
     "name": "Time Tracking"
+  },
+  {
+    "id": "CHMS",
+    "name": "Church Manangement System"
   }
 ]
