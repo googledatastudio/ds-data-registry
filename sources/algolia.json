@@ -1,0 +1,10 @@
+{
+  "id": "ALGOLIA",
+  "name": "Algolia",
+  "categories": ["SEARCH"],
+  "organization": "ALGOLIA",
+  "iconUrl":
+    "https://www.algolia.com/static/algolia-blue-mark-d9c78960c0c19f25f2dc0614236bff90.png",
+  "sourceUrl": "https://algolia.com/docs",
+  "dataVisibility": ["PRIVATE"]
+}
