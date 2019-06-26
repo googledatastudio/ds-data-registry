@@ -1,0 +1,9 @@
+{
+  "id": "NIGHTWATCH",
+  "name": "Nightwatch",
+  "categories": ["SEO"],
+  "organization": "NIGHTWATCH",
+  "iconUrl": "https://s3.amazonaws.com/nightwatch.io/nightwatch.png",
+  "sourceUrl": "https://nightwatch.io",
+  "dataVisibility": ["PRIVATE"]
+}
