@@ -1,0 +1,9 @@
+{
+  "id": "QUINSTREET",
+  "name": "QuinStreet",
+  "categories": ["MARKETING"],
+  "organization": "QUINSTREET",
+  "iconUrl": "https://quinstreet.com/favicon.ico",
+  "sourceUrl": "https://quinstreet.com/",
+  "dataVisibility": "PRIVATE"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "HEALTHCARECOM",
+  "name": "HealthCare.com",
+  "categories": ["ADVERTISING"],
+  "organization": "HEALTHCARECOM",
+  "iconUrl":
+    "https://www.healthcare.com/about/wp-content/themes/healthcare-institucional/favicon-32x32.png",
+  "sourceUrl": "https://www.healthcare.com/about/advertising-solutions/",
+  "dataVisibility": "PRIVATE"
+}

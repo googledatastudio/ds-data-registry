@@ -1,0 +1,10 @@
+{
+  "id": "SHOPIFY",
+  "name": "Shopify",
+  "categories": ["ECOMMERCE"],
+  "organization": "SHOPIFY",
+  "iconUrl":
+    "https://cdn.shopify.com/shopify-marketing_assets/static/shopify-favicon.png",
+  "sourceUrl": "https://www.shopify.com",
+  "dataVisibility": "PRIVATE"
+}

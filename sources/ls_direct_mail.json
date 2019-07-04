@@ -1,0 +1,9 @@
+{
+  "id": "LS_DIRECT_MAIL",
+  "name": "LS Direct Mail",
+  "categories": ["MARKETING"],
+  "organization": "LS_DIRECT_MARKETING",
+  "iconUrl": "https://www.lsdirect.com/wp-content/uploads/2016/05/LSico.png",
+  "sourceUrl": "https://www.lsdirect.com/",
+  "dataVisibility": "PRIVATE"
+}

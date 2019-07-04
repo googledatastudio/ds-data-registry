@@ -1,0 +1,9 @@
+{
+  "id": "KAYAK",
+  "name": "Kayak",
+  "categories": ["ADVERTISING", "SEARCH"],
+  "organization": "KAYAK",
+  "iconUrl": "https://www.kayak.se/favicon.ico",
+  "sourceUrl": "https://www.kayak.com/",
+  "dataVisibility": "PRIVATE"
+}

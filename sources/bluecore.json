@@ -1,0 +1,10 @@
+{
+  "id": "BLUECORE",
+  "name": "Bluecore",
+  "categories": ["EMAIL"],
+  "organization": "BLUECORE",
+  "iconUrl":
+    "https://www.bluecore.com/wp-content/themes/bluecore2019/favicon.png",
+  "sourceUrl": "https://www.bluecore.com/",
+  "dataVisibility": "PRIVATE"
+}
