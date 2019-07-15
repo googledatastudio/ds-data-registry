@@ -1,0 +1,10 @@
+{
+  "id": "HAWK",
+  "name": "Hawk",
+  "categories": ["ADVERTISING"],
+  "organization": "TABMO",
+  "iconUrl":
+    "https://hawk.tabmo.io/static/favicon-250902f1ef8f8cad39e271eb03e44acb.ico",
+  "sourceUrl": "https://hawk.tabmo.io/",
+  "dataVisibility": ["PRIVATE"]
+}

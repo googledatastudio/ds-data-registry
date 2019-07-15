@@ -1,0 +1,10 @@
+{
+  "id": "POWERINBOX",
+  "name": "PowerboxInbox",
+  "categories": ["ADVERTISING"],
+  "organization": "POWERINBOX",
+  "iconUrl":
+    "https://powerinbox.com/wp-content/themes/powerinbox-new/images/favicon/favicon-32x32.png",
+  "sourceUrl": "https://powerinbox.com/",
+  "dataVisibility": ["PRIVATE"]
+}

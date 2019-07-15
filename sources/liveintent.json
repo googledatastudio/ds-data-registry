@@ -1,0 +1,9 @@
+{
+  "id": "LIVEINTENT",
+  "name": "LiveIntent ",
+  "categories": ["ADVERTISING"],
+  "organization": "LIVEINTENT",
+  "iconUrl": "https://liveintent.com/assets/img/logos/favicon/favicon-32.png",
+  "sourceUrl": "https://liveintent.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "TRAVEL_AUDIENCE",
+  "name": "travel audience",
+  "categories": ["ADVERTISING"],
+  "organization": "TRAVEL_AUDIENCE",
+  "iconUrl":
+    "https://travelaudience.com/wp-content/uploads/favicon/favicon.ico",
+  "sourceUrl": "https://travelaudience.com/products/advertisers/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "AD_READY",
+  "name": "AdReady",
+  "categories": ["ADVERTISING"],
+  "organization": "DIGITAL_REMEDY",
+  "iconUrl": "https://adreadycdn.cpxinteractive.com/favicon.ico?v=3",
+  "sourceUrl": "https://www.adready.com/",
+  "dataVisibility": ["PRIVATE"]
+}

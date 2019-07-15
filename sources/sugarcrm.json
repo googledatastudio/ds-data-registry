@@ -1,0 +1,9 @@
+{
+  "id": "SUGARCRM",
+  "name": "SugarCRM",
+  "categories": ["CRM,MARKETING"],
+  "organization": "SUGARCRM",
+  "iconUrl": "https://www.sugarcrm.com/themes/custom/sweet/favicon.ico",
+  "sourceUrl": "https://www.sugarcrm.com/",
+  "dataVisibility": ["PRIVATE"]
+}

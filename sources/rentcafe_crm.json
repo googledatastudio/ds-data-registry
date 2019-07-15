@@ -1,0 +1,9 @@
+{
+  "id": "RENTCAFE_CRM",
+  "name": "RENTCafé CRM",
+  "categories": ["MARKETING", "CRM"],
+  "organization": "YARDI",
+  "iconUrl": "https://www.rentcafe.com/favicon.ico",
+  "sourceUrl": "https://www.yardi.com/products/rentcafe-crm/",
+  "dataVisibility": ["PRIVATE"]
+}

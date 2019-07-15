@@ -1,0 +1,9 @@
+{
+  "id": "AUTORENTALS",
+  "name": "AutoRentals",
+  "categories": ["ADVERTISING"],
+  "organization": "AUTORENTALS",
+  "iconUrl": "https://www.autorentals.com/favicon-32x32.png?v=2",
+  "sourceUrl": "https://www.autorentals.com/",
+  "dataVisibility": ["PRIVATE"]
+}
