@@ -6,5 +6,5 @@
   "iconUrl":
     "https://platform161.com/wp-content/themes/platform-161-new-theme/favicon-16x16.png",
   "sourceUrl": "https://platform161.com/",
-  "dataVisibility": "PRIVATE"
+  "dataVisibility": ["PRIVATE"]
 }

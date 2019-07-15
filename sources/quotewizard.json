@@ -5,5 +5,5 @@
   "organization": "LENDINGTREE",
   "iconUrl": "https://quotewizard.com/media/images/favicon.png",
   "sourceUrl": "https://quotewizard.com/",
-  "dataVisibility": "PRIVATE"
+  "dataVisibility": ["PRIVATE"]
 }

@@ -6,5 +6,5 @@
   "iconUrl":
     "https://www.datalot.com/wp-content/themes/datalot.com/favicon.ico",
   "sourceUrl": "https://www.datalot.com/",
-  "dataVisibility": "PRIVATE"
+  "dataVisibility": ["PRIVATE"]
 }

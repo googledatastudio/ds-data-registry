@@ -5,5 +5,5 @@
   "organization": "SPOTIFY",
   "iconUrl": "https://adstudio.scdn.co/assets/favicon.ico",
   "sourceUrl": "https://adstudio.spotify.com/",
-  "dataVisibility": "PRIVATE"
+  "dataVisibility": ["PRIVATE"]
 }

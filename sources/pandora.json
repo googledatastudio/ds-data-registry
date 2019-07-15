@@ -5,5 +5,5 @@
   "organization": "PANDORA",
   "iconUrl": "https://www.pandora.com/favicon.ico",
   "sourceUrl": "https://www.pandora.com/",
-  "dataVisibility": "PRIVATE"
+  "dataVisibility": ["PRIVATE"]
 }

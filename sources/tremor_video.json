@@ -5,5 +5,5 @@
   "organization": "TREMOR_INTERNATIONAL",
   "iconUrl": "https://www.tremorvideo.com/favicon.ico",
   "sourceUrl": "https://www.tremorvideo.com/",
-  "dataVisibility": "PRIVATE"
+  "dataVisibility": ["PRIVATE"]
 }

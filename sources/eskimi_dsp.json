@@ -5,5 +5,5 @@
   "organization": "ESKIMI",
   "iconUrl": "https://business.eskimi.com/favicon.ico",
   "sourceUrl": "https://business.eskimi.com/",
-  "dataVisibility": "PRIVATE"
+  "dataVisibility": ["PRIVATE"]
 }

@@ -6,5 +6,5 @@
   "iconUrl":
     "https://cdn0.capterra-static.com/logos/150/2108847-1473884632.png",
   "sourceUrl": "https://www.smartmailer.com/",
-  "dataVisibility": "PRIVATE"
+  "dataVisibility": ["PRIVATE"]
 }

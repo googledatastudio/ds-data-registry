@@ -5,5 +5,5 @@
   "organization": "KAYAK",
   "iconUrl": "https://www.kayak.se/favicon.ico",
   "sourceUrl": "https://www.kayak.com/",
-  "dataVisibility": "PRIVATE"
+  "dataVisibility": ["PRIVATE"]
 }

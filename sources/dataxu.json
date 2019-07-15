@@ -5,5 +5,5 @@
   "organization": "DATAXU",
   "iconUrl": "https://www.dataxu.com/wp-content/uploads/favicon.ico",
   "sourceUrl": "https://www.dataxu.com/",
-  "dataVisibility": "PRIVATE"
+  "dataVisibility": ["PRIVATE"]
 }

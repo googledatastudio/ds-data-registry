@@ -5,5 +5,5 @@
   "organization": "SQUARESPACE",
   "iconUrl": "https://secure.acuityscheduling.com/favicon.ico",
   "sourceUrl": "https://secure.acuityscheduling.com/",
-  "dataVisibility": "PRIVATE"
+  "dataVisibility": ["PRIVATE"]
 }

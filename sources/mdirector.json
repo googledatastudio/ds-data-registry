@@ -5,5 +5,5 @@
   "organization": "MDIRECTOR",
   "iconUrl": "https://www.mdirector.com/favicon.ico",
   "sourceUrl": "https://www.mdirector.com/en/software-email-marketing/",
-  "dataVisibility": "PRIVATE"
+  "dataVisibility": ["PRIVATE"]
 }
