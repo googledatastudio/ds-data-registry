@@ -1,0 +1,9 @@
+{
+  "id": "SPOTIFY_AD_STUDIO",
+  "name": "Spotify Ad Studio",
+  "categories": ["ADVERTISING"],
+  "organization": "SPOTIFY",
+  "iconUrl": "https://adstudio.scdn.co/assets/favicon.ico",
+  "sourceUrl": "https://adstudio.spotify.com/",
+  "dataVisibility": ["PRIVATE"]
+}
