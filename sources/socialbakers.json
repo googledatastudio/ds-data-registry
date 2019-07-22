@@ -1,0 +1,9 @@
+{
+  "id": "SOCIALBAKERS",
+  "name": "Socialbakers",
+  "categories": ["ANALYTICS", "SOCIAL", "MARKETING", "ADVERTISING"],
+  "organization": "SOCIALBAKERS",
+  "iconUrl": "https://cdn.socialbakers.com/misc/suitemails/sb-logo-40-40.png",
+  "sourceUrl": "https://socialbakers.com/",
+  "dataVisibility": ["PRIVATE"]
+}
