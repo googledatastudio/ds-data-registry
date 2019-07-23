@@ -1,0 +1,9 @@
+{
+  "id": "CITYADS_MEDIA",
+  "name": "CityAds Media",
+  "categories": ["ADVERTISING"],
+  "organization": "CITYADS_MEDIA",
+  "iconUrl": "https://cityads.com/static/icons/favicon.ico",
+  "sourceUrl": "https://cityads.com/main",
+  "dataVisibility": ["PRIVATE"]
+}

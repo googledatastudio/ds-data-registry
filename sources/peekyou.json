@@ -1,0 +1,9 @@
+{
+  "id": "PEEKYOU",
+  "name": "PeekYou",
+  "categories": ["ADVERTISING", "SEARCH"],
+  "organization": "PEEKYOU",
+  "iconUrl": "https://www.peekyou.com/favicon.ico",
+  "sourceUrl": "https://www.peekyou.com/",
+  "dataVisibility": ["PRIVATE"]
+}

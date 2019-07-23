@@ -1,0 +1,9 @@
+{
+  "id": "WEQ",
+  "name": "WeQ",
+  "categories": ["MARKETING"],
+  "organization": "WEQ_GLOBAL_TECH",
+  "iconUrl": "https://weq.com/wp-content/themes/weq/dist/images/favicon.ico",
+  "sourceUrl": "https://weq.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GROUNDTRUTH",
+  "name": "GroundTruth",
+  "categories": ["TOOLS,ADVERTISING"],
+  "organization": "GROUNDTRUTH",
+  "iconUrl": "https://www.groundtruth.com/favicon-32x32.png",
+  "sourceUrl": "https://www.groundtruth.com/",
+  "dataVisibility": ["PRIVATE"]
+}

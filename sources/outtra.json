@@ -1,0 +1,10 @@
+{
+  "id": "OUTTRA",
+  "name": "OUTTRA",
+  "categories": ["MARKETING", "ADVERTISING"],
+  "organization": "OUTTRA",
+  "iconUrl":
+    "https://www.outtra.de/themes/frontend/eom/assets/images/outtra/favicon-32x32.png",
+  "sourceUrl": "https://www.outtra.de/",
+  "dataVisibility": ["PRIVATE"]
+}

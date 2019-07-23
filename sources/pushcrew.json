@@ -1,0 +1,9 @@
+{
+  "id": "PUSHCREW",
+  "name": "pushcrew",
+  "categories": ["MARKETING"],
+  "organization": "WINGIFY",
+  "iconUrl": "https://pushcrew.com/favicon.ico",
+  "sourceUrl": "https://pushcrew.com/",
+  "dataVisibility": ["PRIVATE"]
+}

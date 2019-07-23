@@ -1,0 +1,9 @@
+{
+  "id": "DRIPPLER",
+  "name": "Drippler",
+  "categories": ["SOCIAL"],
+  "organization": "DRIPPLER",
+  "iconUrl": "http://drippler.com/sites/all/themes/basic/favicon.ico",
+  "sourceUrl": "http://drippler.com/",
+  "dataVisibility": ["PRIVATE"]
+}

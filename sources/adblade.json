@@ -1,0 +1,9 @@
+{
+  "id": "ADBLADE",
+  "name": "Adblade",
+  "categories": ["ADVERTISING"],
+  "organization": "ADIANT",
+  "iconUrl": "https://www.adblade.com/favicon/adblade.ico",
+  "sourceUrl": "https://www.adblade.com/",
+  "dataVisibility": ["PRIVATE"]
+}

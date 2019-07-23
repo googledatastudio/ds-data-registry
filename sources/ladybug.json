@@ -1,0 +1,9 @@
+{
+  "id": "LADYBUG",
+  "name": "Ladybug.com",
+  "categories": ["ADVERTISING", "SEARCH"],
+  "organization": "LADYBUG",
+  "iconUrl": "https://www.ladybug.com/uploads/prpartners/ladybug.png",
+  "sourceUrl": "https://www.ladybug.com/",
+  "dataVisibility": ["PRIVATE"]
+}

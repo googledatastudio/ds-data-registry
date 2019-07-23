@@ -1,0 +1,10 @@
+{
+  "id": "TRADELAB",
+  "name": "Tradelab",
+  "categories": ["MARKETING"],
+  "organization": "TRADELAB",
+  "iconUrl":
+    "http://tradelab.com/wp-content/themes/tradelab/library/img/favicon.ico",
+  "sourceUrl": "http://tradelab.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ACTIVE",
+  "name": "ACTIVE",
+  "categories": ["SEARCH"],
+  "organization": "GLOBAL_PAYMENTS",
+  "iconUrl": "https://www.active.com/images/favicon.ico",
+  "sourceUrl": "https://www.active.com/",
+  "dataVisibility": ["PRIVATE"]
+}
