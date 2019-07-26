@@ -1,0 +1,9 @@
+{
+  " id " : " COMAGIC_DATAAPI " ,
+  " name " : " CoMagic " ,
+  " category " : [ " АНАЛИТИКА " , " CALL_TRACKING ", " DATA_COLLECTION ", " РЕКЛАМА " ],
+  " организация " : " COMAGIC " ,
+  " iconUrl " : " https://www.comagic.ru/local/templates/main/images/42FN3df.png " ,
+  " sourceUrl " : " https://www.comagic.ru/support/integration/google_data_studio/ " ,
+  " dataVisibility " : [ " PRIVATE " ]
+}
