@@ -3,8 +3,7 @@
   "name": "Pfam",
   "categories": ["DATABASE"],
   "organization": "PFAM",
-  "iconUrl":
-    "https://pfam.xfam.org/static/images/pfam_logo.gif",
+  "iconUrl": "https://pfam.xfam.org/static/images/pfam_logo.gif",
   "sourceUrl": "https://pfam.xfam.org/",
   "dataVisibility": ["PUBLIC"]
 }

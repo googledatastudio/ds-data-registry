@@ -3,7 +3,8 @@
   "name": "Pipedrive",
   "categories": ["CRM", "SALES"],
   "organization": "PIPEDRIVE",
-  "iconUrl": "https://cdn.pipedriveassets.com/www-static/components/favicon-96x96.png",
+  "iconUrl":
+    "https://cdn.pipedriveassets.com/www-static/components/favicon-96x96.png",
   "sourceUrl": "https://www.pipedrive.com",
   "dataVisibility": ["PRIVATE"]
 }

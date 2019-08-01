@@ -1,10 +1,9 @@
 {
-    "id": "BGS_MONITOR",
-    "name": "BGS Monitor",
-    "categories": ["DATABASE", "CUSTOM"],
-    "organization": "BIOBARICA",
-    "iconUrl":
-      "https://biobarica.com/wp-content/uploads/2016/09/fav-icon.png",
-    "sourceUrl": "https://www.biobarica.com/en/producto/bgs/",
-    "dataVisibility": ["PRIVATE"]
-  }
+  "id": "BGS_MONITOR",
+  "name": "BGS Monitor",
+  "categories": ["DATABASE", "CUSTOM"],
+  "organization": "BIOBARICA",
+  "iconUrl": "https://biobarica.com/wp-content/uploads/2016/09/fav-icon.png",
+  "sourceUrl": "https://www.biobarica.com/en/producto/bgs/",
+  "dataVisibility": ["PRIVATE"]
+}

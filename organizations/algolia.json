@@ -2,5 +2,6 @@
   "id": "ALGOLIA",
   "name": "Algolia",
   "orgUrl": "https://algolia.com/",
-  "iconUrl": "https://www.algolia.com/static/algolia-blue-mark-d9c78960c0c19f25f2dc0614236bff90.png"
+  "iconUrl":
+    "https://www.algolia.com/static/algolia-blue-mark-d9c78960c0c19f25f2dc0614236bff90.png"
 }

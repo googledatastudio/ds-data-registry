@@ -1,6 +1,7 @@
 {
   "id": "CONTENTKING",
   "name": "ContentKing",
-  "iconUrl": "https://assets.contentkingapp.com/public_assets/images/kevin-40x40.png",
+  "iconUrl":
+    "https://assets.contentkingapp.com/public_assets/images/kevin-40x40.png",
   "orgUrl": "https://www.contentkingapp.com/"
 }

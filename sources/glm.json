@@ -3,7 +3,8 @@
   "name": "Grant Lifecycle Manager",
   "categories": ["FINANCE"],
   "organization": "FOUNDANT",
-  "iconUrl": "https://grantmakers.foundant.com/wp-content/themes/genesis-ft-gm/images/foundant-grantmakers-40.gif",
+  "iconUrl":
+    "https://grantmakers.foundant.com/wp-content/themes/genesis-ft-gm/images/foundant-grantmakers-40.gif",
   "sourceUrl": "https://grantmakers.foundant.com/",
   "dataVisibility": ["PRIVATE"]
 }

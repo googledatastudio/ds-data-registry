@@ -3,8 +3,7 @@
   "name": "AT Internet",
   "categories": ["ANALYTICS"],
   "organization": "AT_INTERNET",
-  "iconUrl":
-    "https://i.ibb.co/2ZpsqzS/atinternet.png",
+  "iconUrl": "https://i.ibb.co/2ZpsqzS/atinternet.png",
   "sourceUrl": "https://www.atinternet.com/en/product/",
   "dataVisibility": ["PRIVATE"]
 }
