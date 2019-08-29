@@ -1,10 +1,7 @@
 {
   "id": "SQUARE",
   "name": "Square",
-  "categories": ["ECOMMERCE", "PAYMENTS"],
-  "organization": "SQUARE",
   "iconUrl":
     "https://raw.githubusercontent.com/city-brew-coffee/square-datastudio-connector/master/square_small.png",
-  "sourceUrl": "https://squareup.com/us/en",
-  "dataVisibility": "PRIVATE"
+  "orgUrl": "https://squareup.com"
 }
