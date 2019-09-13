@@ -1,9 +1,0 @@
-{
-  "id": "WILD_APRICOT",
-  "name": "Wild Apricot API",
-  "categories": ["DATABASE"],
-  "organization": "WILD_APRICOT_PERSONIFY",
-  "iconUrl": "https://s.wildapricot.net/StaticImages/v3/Logo/WildApricotLight.png",
-  "sourceUrl": "https://gethelp.wildapricot.com/en/articles/182-using-wild-apricots-api",
-  "dataVisibility": ["PRIVATE"]
-}
