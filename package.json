@@ -6,7 +6,8 @@
   "author": "Matt Hamrick <matthewjhamrick@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "prettier": "prettier --write \"**/*.json\""
+    "prettier": "prettier --write \"**/*.json\"",
+    "check-filenames": "./scripts/check_filenames.sh"
   },
   "devDependencies": {
     "prettier": "^1.12.1"
