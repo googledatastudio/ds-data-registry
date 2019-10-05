@@ -1,0 +1,10 @@
+{
+    "id": "DATAHEN",
+    "name": "DataHen",
+    "categories": ["ADVERTISING", "SOCIAL", "DATA_COLLECTION", "ANALYTICS", "ECOMMERCE", "DATABASE", "CUSTOM", "ECOMMERCE", "EDUCATION", "FINANCE", "JOBS", "MARKETING", "SALES", "SEO"],
+    "organization": "DATAHEN",
+    "iconUrl": "http://assets.datahen.com/datahen-hen.png?w=40&h=40",
+    "sourceUrl": "https://datahen.com",
+    "dataVisibility": ["PRIVATE"]
+  }
+  
