@@ -1,0 +1,9 @@
+{
+  "id": "ADOBE_CAMPAIGN",
+  "name": "Adobe Campaign",
+  "categories": ["EMAIL", "MARKETING"],
+  "organization": "ADOBE",
+  "iconUrl": "https://www.adobe.com/favicon.ico",
+  "sourceUrl": "https://www.adobe.com/marketing/campaign.html",
+  "dataVisibility": ["PRIVATE"]
+}

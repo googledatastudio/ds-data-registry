@@ -1,0 +1,9 @@
+{
+  "id": "JOBTOME",
+  "name": "jobtome",
+  "categories": ["ADVERTISING", "SEARCH", "JOBS"],
+  "organization": "JOBTOME",
+  "iconUrl": "https://fi.jobtome.com/build/images/favicon/favicon-high-res.png",
+  "sourceUrl": "https://fi.jobtome.com/",
+  "dataVisibility": ["PRIVATE"]
+}

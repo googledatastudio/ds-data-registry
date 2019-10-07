@@ -1,0 +1,9 @@
+{
+  "id": "GETYOURGUIDE",
+  "name": "GetYourGuide",
+  "categories": ["ADVERTISING", "SEARCH"],
+  "organization": "GETYOURGUIDE",
+  "iconUrl": "https://cdn.getyourguide.com/static/current/customer/desktop/cached/logos/gyg-symbol.ico",
+  "sourceUrl": "https://www.getyourguide.com",
+  "dataVisibility": ["PRIVATE"]
+}

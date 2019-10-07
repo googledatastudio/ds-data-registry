@@ -1,0 +1,9 @@
+{
+  "id": "TVSQUARED",
+  "name": "TVSquared",
+  "categories": ["TOOLS", "ADVERTISING"],
+  "organization": "TVSQUARED",
+  "iconUrl": "https://cdn8.tvsquared.com/favicon.ico?v=2",
+  "sourceUrl": "https://tvsquared.com",
+  "dataVisibility": ["PRIVATE"]
+}

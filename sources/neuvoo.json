@@ -1,0 +1,9 @@
+{
+  "id": "NEUVOO",
+  "name": "neuvoo",
+  "categories": ["ADVERTISING", "SEARCH", "JOBS"],
+  "organization": "NEUVOO",
+  "iconUrl": "https://cdn-stackpath.neuvoo.com/img/neuvoo-favicon.ico",
+  "sourceUrl": "https://neuvoo.com/",
+  "dataVisibility": ["PRIVATE"]
+}

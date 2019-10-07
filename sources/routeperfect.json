@@ -1,0 +1,9 @@
+{
+  "id": "ROUTEPERFECT",
+  "name": "routeperfect",
+  "categories": ["ADVERTISING", "SEARCH"],
+  "organization": "ROUTEPERFECT",
+  "iconUrl": "https://www.routeperfect.com/assets/icon/favicon.ico",
+  "sourceUrl": "https://www.routeperfect.com/",
+  "dataVisibility": ["PRIVATE"]
+}

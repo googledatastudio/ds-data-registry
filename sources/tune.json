@@ -1,0 +1,9 @@
+{
+  "id": "TUNE",
+  "name": "TUNE",
+  "categories": ["ADVERTISING", "MARKETING"],
+  "organization": "TUNE",
+  "iconUrl": "https://www.tune.com/favicon.ico",
+  "sourceUrl": "https://www.tune.com",
+  "dataVisibility": ["PRIVATE"]
+}

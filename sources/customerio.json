@@ -1,0 +1,9 @@
+{
+  "id": "CUSTOMERIO",
+  "name": "customer.io",
+  "categories": ["EMAIL", "TOOLS", "MARKETING"],
+  "organization": "PEABERRY_SOFTWARE",
+  "iconUrl": "https://customer.io/wp-content/uploads/2019/02/thumbnail-circular.ico",
+  "sourceUrl": "https://customer.io/",
+  "dataVisibility": ["PRIVATE"]
+}

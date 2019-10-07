@@ -1,0 +1,9 @@
+{
+  "id": "MIQ",
+  "name": "MiQ",
+  "categories": ["TOOLS", "MARKETING", "ANALYTICS"],
+  "organization": "MIQ",
+  "iconUrl": "http://www.wearemiq.com/wp-content/uploads/2018/05/cropped-Favicon-32x32.png",
+  "sourceUrl": "http://www.wearemiq.com/",
+  "dataVisibility": ["PRIVATE"]
+}

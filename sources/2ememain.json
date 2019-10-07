@@ -1,0 +1,9 @@
+{
+  "id": "2EMEMAIN",
+  "name": "2ememain",
+  "categories": ["ECOMMERCE"],
+  "organization": "2EMEMAIN",
+  "iconUrl": "https://s.2ememain.be/z/dist/bower_components/design-sdk/themes/twh/favicons/favicon.ico",
+  "sourceUrl": "https://www.2ememain.be/",
+  "dataVisibility": ["PRIVATE"]
+}
