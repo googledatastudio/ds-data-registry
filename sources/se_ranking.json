@@ -1,0 +1,9 @@
+{
+  "id": "SE_RANKING",
+  "name": "SE Ranking",
+  "organization": "SE_RANKING",
+  "sourceUrl": "https://seranking.com/",
+  "iconUrl": "https://img.seranking.com/se_dstudio_40px.png",
+  "categories": ["SEO"],
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "DIALFIRE_REPORTS",
+  "name": "Dialfire reports",
+  "categories": ["ANALYTICS"],
+  "organization": "DIALFIRE",
+  "iconUrl": "http://www.dialfire.com/web/images/favicon.png",
+  "sourceUrl": "https://www.dialfire.com/support/faq/14000118694#14000081893",
+  "dataVisibility": ["PRIVATE"]
+}
