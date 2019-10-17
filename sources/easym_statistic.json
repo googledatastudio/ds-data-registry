@@ -1,0 +1,10 @@
+{
+  "id": "EASYM_STATISTIC",
+  "name": "easy.connector",
+  "categories": ["ADVERTISING"],
+  "organization": "EASYM",
+  "iconUrl":
+    "https://media.easy-m.de/images/logos/easyMARKETING-Atom-100x100-kreis.png",
+  "sourceUrl": "https://www.easy-m.de",
+  "dataVisibility": ["PRIVATE"]
+}
