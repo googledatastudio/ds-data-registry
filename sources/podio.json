@@ -1,0 +1,9 @@
+{
+  "id": "PODIO",
+  "name": "Podio",
+  "categories": ["TOOLS"],
+  "organization": "CITRIX",
+  "iconUrl": "https://dgyqr055mfays.cloudfront.net/site/images/favicon-v2.ico",
+  "sourceUrl": "https://podio.com/",
+  "dataVisibility": ["PRIVATE"]
+}

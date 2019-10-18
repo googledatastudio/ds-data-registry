@@ -1,0 +1,9 @@
+{
+  "id": "HOMETIGER",
+  "name": "HomeTiger",
+  "categories": ["ADVERTISING"],
+  "organization": "HOMETIGER",
+  "iconUrl": "https://www.hometiger.com/favicon.ico",
+  "sourceUrl": "https://www.hometiger.com/",
+  "dataVisibility": ["PRIVATE"]
+}

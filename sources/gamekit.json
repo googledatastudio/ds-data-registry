@@ -1,0 +1,9 @@
+{
+  "id": "GAMEKIT",
+  "name": "GAMEKIT",
+  "categories": ["ADVERTISING"],
+  "organization": "GAMEKIT",
+  "iconUrl": "https://gamekit.info/favicon.ico",
+  "sourceUrl": "https://gamekit.info/index.html",
+  "dataVisibility": ["PRIVATE"]
+}

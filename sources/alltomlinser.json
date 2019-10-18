@@ -1,0 +1,9 @@
+{
+  "id": "ALLTOMLINSER",
+  "name": "Alltomlinser",
+  "categories": ["ECOMMERCE"],
+  "organization": "ALLTOMLINSER",
+  "iconUrl": "https://www.alltomlinser.se/favicon.ico",
+  "sourceUrl": "https://www.alltomlinser.se/",
+  "dataVisibility": ["PRIVATE"]
+}

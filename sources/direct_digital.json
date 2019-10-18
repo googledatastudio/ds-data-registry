@@ -1,0 +1,9 @@
+{
+  "id": "DIRECT_DIGITAL",
+  "name": "Direct Digital",
+  "categories": ["DATA_COLLECTION", "ADVERTISING"],
+  "organization": "MULTIMEDIA_INTERNATIONAL_SERVICES_LTD",
+  "iconUrl": "https://static.wixstatic.com/media/a8bbff_531fc7af2dd64cefbcc0178fec1329eb~mv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/a8bbff_531fc7af2dd64cefbcc0178fec1329eb~mv2.png",
+  "sourceUrl": "https://www.direct.digital/",
+  "dataVisibility": ["PRIVATE"]
+}
