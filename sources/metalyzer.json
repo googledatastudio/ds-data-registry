@@ -1,0 +1,9 @@
+{
+  "id": "METALYZER",
+  "name": "Metalyzer",
+  "categories": ["TOOLS", "MARKETING"],
+  "organization": "ARTEFACT",
+  "iconUrl": "https://metalyzer.com/favicon.ico",
+  "sourceUrl": "https://metalyzer.com/login.php",
+  "dataVisibility": ["PRIVATE"]
+}

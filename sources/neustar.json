@@ -1,0 +1,9 @@
+{
+  "id": "NEUSTAR",
+  "name": "Neustar",
+  "categories": ["MARKETING", "ADVERTISING"],
+  "organization": "NEUSTAR",
+  "iconUrl": "https://www.home.neustar/favicon.ico",
+  "sourceUrl": "https://www.home.neustar/",
+  "dataVisibility": ["PRIVATE"]
+}

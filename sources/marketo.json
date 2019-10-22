@@ -1,0 +1,9 @@
+{
+  "id": "MARKETO",
+  "name": "Marketo",
+  "categories": ["MARKETING", "TOOLS"],
+  "organization": "ADOBE",
+  "iconUrl": "https://www.marketo.com/themes/the-interwebs/dist/images/favicon.ico?v2",
+  "sourceUrl": "https://www.marketo.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "BUY_SELL_ADS",
+  "name": "BuySellAds",
+  "categories": ["ADVERTISING"],
+  "organization": "BUY_SELL_ADS",
+  "iconUrl": "https://www.buysellads.com/favicon.ico?v=1274297086",
+  "sourceUrl": "https://www.buysellads.com/",
+  "dataVisibility": ["PRIVATE"]
+}
