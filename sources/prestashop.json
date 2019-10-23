@@ -1,0 +1,10 @@
+{
+  "id": "PRESTASHOP",
+  "name": "PrestaShop",
+  "categories": ["ECOMMERCE"],
+  "organization": "PRESTASHOP",
+  "iconUrl":
+    "https://assets.prestashop2.com/fr/system/files/filedepot/15/media_1_prestashop-logotype.png",
+  "sourceUrl": "https://www.prestashop.com/",
+  "dataVisibility": ["PRIVATE"]
+}
