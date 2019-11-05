@@ -1,0 +1,9 @@
+{
+  "id": "GUMTREE",
+  "name": "Gumtree",
+  "categories": ["ADVERTISING", "MARKETING"],
+  "organization": "EBAY",
+  "iconUrl": "https://www.gumtree.com/assets/favicon.7ff3daeaff3f7cefe5f708659fc45450.ico",
+  "sourceUrl": "https://www.gumtree.com/",
+  "dataVisibility": ["PRIVATE"]
+}

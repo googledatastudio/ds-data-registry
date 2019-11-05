@@ -1,0 +1,9 @@
+{
+  "id": "KAJOMI",
+  "name": "Kajomi",
+  "categories": ["MARKETING", "EMAIL"],
+  "organization": "KAJOMI",
+  "iconUrl": "https://www.kajomi.de/favicon.ico",
+  "sourceUrl": "https://www.kajomi.de/mail/uebersicht/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JOBLIFT",
+  "name": "Joblift",
+  "categories": ["ADVERTISING", "SEARCH", "JOBS"],
+  "organization": "JOBLIFT",
+  "iconUrl": "https://assets.joblift.com/public/favicon.ico?v=lk9LnlQB50",
+  "sourceUrl": "https://joblift.co.uk/",
+  "dataVisibility": ["PRIVATE"]
+}

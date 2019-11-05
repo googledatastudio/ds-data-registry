@@ -1,0 +1,9 @@
+{
+  "id": "SMADEX",
+  "name": "Smadex",
+  "categories": ["ADVERTISING"],
+  "organization": "SMADEX",
+  "iconUrl": "https://smadex.com/wp-content/uploads/2017/06/favicon_smadex_16x16px.png",
+  "sourceUrl": "https://smadex.com/",
+  "dataVisibility": ["PRIVATE"]
+}

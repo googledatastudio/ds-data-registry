@@ -1,0 +1,9 @@
+{
+  "id": "PROPELLERADS",
+  "name": "PropellerAds",
+  "categories": ["ADVERTISING"],
+  "organization": "PROPELLERADS",
+  "iconUrl": "https://propellerads.com/wp-content/uploads/2018/11/favicon.ico",
+  "sourceUrl": "https://propellerads.com/",
+  "dataVisibility": ["PRIVATE"]
+}
