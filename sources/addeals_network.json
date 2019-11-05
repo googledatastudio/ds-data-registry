@@ -1,0 +1,9 @@
+{
+  "id": "ADDEALS_NETWORK",
+  "name": "AdDeals Network",
+  "categories": ["ADVERTISING"],
+  "organization": "AHEAD_SOLUTIONS",
+  "iconUrl": "https://www.addealsnetwork.com/wp-content/uploads/2017/05/addeals_logo_site_footer-300x300.png",
+  "sourceUrl": "https://www.addealsnetwork.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "MEILLEUR_VENDEUR",
+  "name": "Meilleur Vendeur",
+  "categories": ["ADVERTISING"],
+  "organization": "MEILLEUR_VENDEUR",
+  "iconUrl": "https://www.meilleurvendeur.com/favicon.ico",
+  "sourceUrl": "https://www.meilleurvendeur.com/",
+  "dataVisibility": ["PRIVATE"]
+}

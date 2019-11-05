@@ -1,0 +1,9 @@
+{
+  "id": "CLOSE",
+  "name": "Close",
+  "categories": ["CRM", "MARKETING"],
+  "organization": "ELASTIC_INC",
+  "iconUrl": "https://close.com/static/img/favicon.ico?h=e9674dd5",
+  "sourceUrl": "https://close.com/",
+  "dataVisibility": ["PRIVATE"]
+}

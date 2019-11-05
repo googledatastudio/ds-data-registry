@@ -1,0 +1,9 @@
+{
+  "id": "LIVINGO",
+  "name": "Livingo",
+  "categories": ["ECOMMERCE"],
+  "organization": "LIVINGO",
+  "iconUrl": "https://www.livingo.es/skin/frontend/default/livingo/favicon.ico",
+  "sourceUrl": "https://www.livingo.es/",
+  "dataVisibility": ["PRIVATE"]
+}

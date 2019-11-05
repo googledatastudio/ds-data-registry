@@ -1,0 +1,9 @@
+{
+  "id": "SHAROO",
+  "name": "sharoo",
+  "categories": ["SEARCH"],
+  "organization": "SHAROO",
+  "iconUrl": "https://www.sharoo.com/wp-content/themes/sharoo/img/favicon.ico",
+  "sourceUrl": "https://www.sharoo.com/",
+  "dataVisibility": ["PRIVATE"]
+}

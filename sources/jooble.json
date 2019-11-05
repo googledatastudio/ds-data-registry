@@ -1,0 +1,9 @@
+{
+  "id": "JOOBLE",
+  "name": "jooble",
+  "categories": ["ADVERTISING", "SEARCH", "JOBS"],
+  "organization": "JOOBLE",
+  "iconUrl": "https://se.jooble.org/favicon.ico",
+  "sourceUrl": "https://se.jooble.org/",
+  "dataVisibility": ["PRIVATE"]
+}
