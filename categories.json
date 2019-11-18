@@ -8,6 +8,10 @@
     "name": "Analytics"
   },
   {
+    "id": "CDR",
+    "name": "Call Detail Record"
+  },
+  {
     "id": "CUSTOM",
     "name": "Custom"
   },

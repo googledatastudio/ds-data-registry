@@ -1,0 +1,9 @@
+{
+  "id": "API4COM",
+  "name": "Api4Com",
+  "categories": ["CDR"],
+  "organization": "API4COM",
+  "iconUrl": "https://app.api4com.com/static/images/logo_small.png",
+  "sourceUrl": "https://www.api4com.com/",
+  "dataVisibility": ["PRIVATE"]
+}

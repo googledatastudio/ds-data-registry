@@ -1,0 +1,9 @@
+{
+  "id": "INGENIOUS_TECHNOLOGIES",
+  "name": "Ingenious Technologies",
+  "categories": ["ADVERTISING", "MARKETING"],
+  "organization": "INGENIOUS_TECHNOLOGIES",
+  "iconUrl": "https://www.ingenioustechnologies.com/wp-content/uploads/2018/04/cropped-Ingenious_Logo_net-red-600x600-1-32x32.png",
+  "sourceUrl": "https://www.ingenioustechnologies.com/",
+  "dataVisibility": ["PRIVATE"]
+}

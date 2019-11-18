@@ -1,0 +1,9 @@
+{
+  "id": "CLICKTRIPZ",
+  "name": "ClickTripz",
+  "categories": ["MARKETING"],
+  "organization": "CLICKTRIPZ",
+  "iconUrl": "https://static.clicktripz.com/images/favicon.ico",
+  "sourceUrl": "https://www.clicktripz.com/",
+  "dataVisibility": ["PRIVATE"]
+}

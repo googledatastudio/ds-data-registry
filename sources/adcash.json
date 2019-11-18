@@ -1,0 +1,9 @@
+{
+  "id": "ADCASH",
+  "name": "adcash",
+  "categories": ["ADVERTISING"],
+  "organization": "ADCASH",
+  "iconUrl": "https://adcash.com/wp-content/uploads/2018/07/cropped-favicon-adcash-32x32.png",
+  "sourceUrl": "https://adcash.com",
+  "dataVisibility": ["PRIVATE"]
+}

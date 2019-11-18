@@ -1,0 +1,9 @@
+{
+  "id": "SUREHITS",
+  "name": "SureHits",
+  "categories": ["MARKETING"],
+  "organization": "SUREHITS",
+  "iconUrl": "https://www.surehits.com/favicon.ico",
+  "sourceUrl": "https://www.surehits.com/",
+  "dataVisibility": ["PRIVATE"]
+}

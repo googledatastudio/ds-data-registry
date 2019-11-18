@@ -1,0 +1,9 @@
+{
+  "id": "CAMPAIGN_CONTRIBUTION",
+  "name": "Campaign Contribution",
+  "categories": ["TOOLS", "PAYMENTS"],
+  "organization": "ARISTOTLE",
+  "iconUrl": "http://aristotle.com/wp-content/themes/aristotle_main/img/favicon-32x32.png",
+  "sourceUrl": "https://www.campaigncontribution.com/manager",
+  "dataVisibility": ["PRIVATE"]
+}

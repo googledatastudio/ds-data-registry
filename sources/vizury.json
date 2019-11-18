@@ -1,0 +1,9 @@
+{
+  "id": "VIZURY",
+  "name": "Vizury",
+  "categories": ["MARKETING"],
+  "organization": "AFFLE",
+  "iconUrl": "https://www1.vizury.com/images/favicon.ico",
+  "sourceUrl": "https://www1.vizury.com/",
+  "dataVisibility": ["PRIVATE"]
+}

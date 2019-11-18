@@ -1,0 +1,9 @@
+{
+  "id": "TRAVELCAR",
+  "name": "TravelCar",
+  "categories": ["ADVERTISING", "SEARCH"],
+  "organization": "TRAVELCAR",
+  "iconUrl": "https://www.travelcar.com/favicon-32x32.png",
+  "sourceUrl": "https://www.travelcar.com",
+  "dataVisibility": ["PRIVATE"]
+}

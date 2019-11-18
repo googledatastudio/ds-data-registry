@@ -1,0 +1,9 @@
+{
+  "id": "XING_MARKETING_SOLUTIONS",
+  "name": "Xing Marketing Solutions",
+  "categories": ["ADVERTISING"],
+  "organization": "XING",
+  "iconUrl": "https://advertising.xing.com/xing_r1.ico",
+  "sourceUrl": "https://advertising.xing.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "VIANT",
+  "name": "Viant",
+  "categories": ["ADVERTISING"],
+  "organization": "VIANT_TECHNOLOGY",
+  "iconUrl": "https://s28366.pcdn.co/wp-content/themes/viant/favicon.png",
+  "sourceUrl": "https://www.viantinc.com/",
+  "dataVisibility": ["PRIVATE"]
+}

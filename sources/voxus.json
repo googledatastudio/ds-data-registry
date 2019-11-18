@@ -1,0 +1,9 @@
+{
+  "id": "VOXUS",
+  "name": "Voxus",
+  "categories": ["ADVERTISING"],
+  "organization": "VOXUS",
+  "iconUrl": "https://www.voxus.com.br/en/imgs/favicon.ico",
+  "sourceUrl": "https://www.voxus.com.br/en/",
+  "dataVisibility": ["PRIVATE"]
+}

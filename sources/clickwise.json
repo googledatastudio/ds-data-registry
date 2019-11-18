@@ -1,0 +1,9 @@
+{
+  "id": "CLICKWISE",
+  "name": "Clickwise",
+  "categories": ["MARKETING"],
+  "organization": "CLICKWISE",
+  "iconUrl": "https://clickwise.net/img/favicon.ico",
+  "sourceUrl": "https://clickwise.net/",
+  "dataVisibility": ["PRIVATE"]
+}

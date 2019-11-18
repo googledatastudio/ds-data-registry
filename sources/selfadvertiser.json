@@ -1,0 +1,9 @@
+{
+  "id": "SELFADVERTISER",
+  "name": "SelfAdvertiser",
+  "categories": ["ADVERTISING"],
+  "organization": "SELFADVERTISER",
+  "iconUrl": "https://selfadvertiser.com/favicon-32x32.png",
+  "sourceUrl": "https://selfadvertiser.com/",
+  "dataVisibility": ["PRIVATE"]
+}
