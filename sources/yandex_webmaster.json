@@ -1,0 +1,9 @@
+{
+  "id": "YANDEX_WEBMASTER",
+  "name": "Yandex.Webmaster",
+  "categories": ["ADVERTISING"],
+  "organization": "Profitator",
+  "iconUrl": "https://www.profitator.ru/local/templates/webprofy/img/profitator-logo.png",
+  "sourceUrl": "https://www.profitator.ru/",
+  "dataVisibility": ["PRIVATE"]
+}
