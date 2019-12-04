@@ -64,6 +64,10 @@
     "name": "Social media"
   },
   {
+    "id": "SPORTS",
+    "name": "Sports"
+  },
+  {
     "id": "STORAGE",
     "name": "File Storage"
   },
