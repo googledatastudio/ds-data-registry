@@ -1,0 +1,9 @@
+{
+    "id": "KIT",
+    "name": "Kit",
+    "categories": ["SEO,ANALYTICS,MARKETING"],
+    "organization": "KOKOC_GROUP.",
+    "iconUrl": "https://kokocgroup.ru/bitrix/templates/kokoc/images/logotype@2x.png",
+    "sourceUrl": "https://kokocgroup.ru/",
+    "dataVisibility": ["PRIVATE"]
+}
