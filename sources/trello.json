@@ -1,0 +1,9 @@
+{
+    "id": "TRELLO",
+    "name": "Trello",
+    "categories": ["TOOLS", "DATA_COLLECTION"],
+    "organization": "ATLASSIAN",
+    "iconUrl": "https://craft.atlassian.design/uploads/guidelines/marketing/logo-files/trello.png",
+    "sourceUrl": "https://trello.com/",
+    "dataVisibility": ["PRIVATE"]
+  }
