@@ -1,0 +1,9 @@
+{
+  "id": "SPRINKLR_REPORTING",
+  "name": "Sprinklr Reporting",
+  "categories": ["ADVERTISING", "SOCIAL"],
+  "organization": "SPRINKLR",
+  "iconUrl":"https://sprcdn-assets.sprinklr.com/787/f737c6d0-e451-43df-ab20-4a394553b9e0-132131848.png",
+  "sourceUrl": "https://www.sprinklr.com/",
+  "dataVisibility": ["PRIVATE"]
+}
