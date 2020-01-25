@@ -3,7 +3,8 @@
   "name": "MediaAffairs",
   "categories": ["MARKETING"],
   "organization": "MEDIAAFFAIRS",
-  "iconUrl": "https://scontent-arn2-2.xx.fbcdn.net/v/t1.0-9/39622215_1935400643148650_4468594299583332352_n.jpg?_nc_cat=100&_nc_oc=AQnmJ5lgrnMbwxrPIHgDZ36toQReoJ5sr8hMCClNKULgyG7zlOgh-cRfmHFlCaadKPE&_nc_ht=scontent-arn2-2.xx&oh=733a9c72a7beac43fff8822bd354072f&oe=5E2A9306",
+  "iconUrl":
+    "https://scontent-arn2-2.xx.fbcdn.net/v/t1.0-9/39622215_1935400643148650_4468594299583332352_n.jpg?_nc_cat=100&_nc_oc=AQnmJ5lgrnMbwxrPIHgDZ36toQReoJ5sr8hMCClNKULgyG7zlOgh-cRfmHFlCaadKPE&_nc_ht=scontent-arn2-2.xx&oh=733a9c72a7beac43fff8822bd354072f&oe=5E2A9306",
   "sourceUrl": "http://www.mediaaffairs.at/",
   "dataVisibility": ["PRIVATE"]
 }

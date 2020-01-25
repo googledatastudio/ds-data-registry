@@ -3,7 +3,8 @@
   "name": "MediaHawk",
   "categories": ["ANALYTICS", "CALL_TRACKING"],
   "organization": "MEDIAHAWK",
-  "iconUrl": "https://www.reports.mediahawk.co.uk/resources/img/icon_mh_120.jpg",
+  "iconUrl":
+    "https://www.reports.mediahawk.co.uk/resources/img/icon_mh_120.jpg",
   "sourceUrl": "https://www.mediahawk.co.uk/",
   "dataVisibility": ["PRIVATE"]
 }

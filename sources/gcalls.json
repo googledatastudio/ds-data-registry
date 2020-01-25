@@ -1,9 +1,9 @@
 {
-    "id": "GCALLS",
-    "name": "Gcalls logs",
-    "categories": ["CDR"],
-    "organization": "GCALLS",
-    "iconUrl": "https://spaces.gcalls.co/statics/icon-gcalls-gds.png",
-    "sourceUrl": "https://gcalls.co/tich-hop/gcalls-tich-hop-google-data-studio/",
-    "dataVisibility": ["PRIVATE"]
-  }
+  "id": "GCALLS",
+  "name": "Gcalls logs",
+  "categories": ["CDR"],
+  "organization": "GCALLS",
+  "iconUrl": "https://spaces.gcalls.co/statics/icon-gcalls-gds.png",
+  "sourceUrl": "https://gcalls.co/tich-hop/gcalls-tich-hop-google-data-studio/",
+  "dataVisibility": ["PRIVATE"]
+}

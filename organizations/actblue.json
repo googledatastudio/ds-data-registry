@@ -1,6 +1,7 @@
 {
   "name": "ActBlue",
   "id": "ACTBLUE",
-  "iconUrl": "https://secure.actblue.com/assets/favicons/actblue/favicon-052c79e773f8473025ac1c6b4818c0aae15833e88b67825756075e3ddec82323.ico",
+  "iconUrl":
+    "https://secure.actblue.com/assets/favicons/actblue/favicon-052c79e773f8473025ac1c6b4818c0aae15833e88b67825756075e3ddec82323.ico",
   "orgUrl": "https://secure.actblue.com/"
 }

@@ -1,6 +1,7 @@
 {
   "name": "ShipStation",
   "id": "SHIPSTATION",
-  "iconUrl": "https://11tcma2eyqgmz6zyt1x6na8n-wpengine.netdna-ssl.com/wp-content/themes/shipstation/img/favicon.ico",
+  "iconUrl":
+    "https://11tcma2eyqgmz6zyt1x6na8n-wpengine.netdna-ssl.com/wp-content/themes/shipstation/img/favicon.ico",
   "orgUrl": "https://www.shipstation.com/"
 }

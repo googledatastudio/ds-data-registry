@@ -3,7 +3,8 @@
   "name": "ShipStation",
   "categories": ["TOOLS"],
   "organization": "SHIPSTATION",
-  "iconUrl": "https://11tcma2eyqgmz6zyt1x6na8n-wpengine.netdna-ssl.com/wp-content/themes/shipstation/img/favicon.ico",
+  "iconUrl":
+    "https://11tcma2eyqgmz6zyt1x6na8n-wpengine.netdna-ssl.com/wp-content/themes/shipstation/img/favicon.ico",
   "sourceUrl": "https://www.shipstation.com/",
   "dataVisibility": ["PRIVATE"]
 }

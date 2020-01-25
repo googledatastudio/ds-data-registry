@@ -1,6 +1,7 @@
 {
   "name": "momondo",
   "id": "MOMONDO",
-  "iconUrl": "https://www.momondo.se/res/images/horizon/common/core/brands/momondo/favicon.ico?v=e1d6cb1dcdb2b297976501a7f8dcc286525a9c8c&cluster=5",
+  "iconUrl":
+    "https://www.momondo.se/res/images/horizon/common/core/brands/momondo/favicon.ico?v=e1d6cb1dcdb2b297976501a7f8dcc286525a9c8c&cluster=5",
   "orgUrl": "https://www.momondo.com"
 }

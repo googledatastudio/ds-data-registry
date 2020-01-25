@@ -1,6 +1,7 @@
 {
   "name": "Artefact",
   "id": "ARTEFACT",
-  "iconUrl": "https://artefact.com/wp-content/themes/milk_theme/favicons/favicon-32x32.png",
+  "iconUrl":
+    "https://artefact.com/wp-content/themes/milk_theme/favicons/favicon-32x32.png",
   "orgUrl": "https://artefact.com/"
 }

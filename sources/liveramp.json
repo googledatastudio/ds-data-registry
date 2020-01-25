@@ -3,7 +3,8 @@
   "name": "LiveRamp",
   "categories": ["MARKETING"],
   "organization": "LIVERAMP",
-  "iconUrl": "https://40huuk1e5l5qxr2m59m9x88c-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/cropped-LiveRamp-50-e1541715475873-32x32.png",
+  "iconUrl":
+    "https://40huuk1e5l5qxr2m59m9x88c-wpengine.netdna-ssl.com/wp-content/uploads/2018/11/cropped-LiveRamp-50-e1541715475873-32x32.png",
   "sourceUrl": "https://liveramp.com/",
   "dataVisibility": ["PRIVATE"]
 }

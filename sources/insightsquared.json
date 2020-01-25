@@ -3,7 +3,8 @@
   "name": "InsightSquared",
   "categories": ["TOOLS", "ANALYTICS"],
   "organization": "INSIGHTSQUARED",
-  "iconUrl": "https://www.insightsquared.com/wp-content/uploads/2018/11/favicon-1.ico",
+  "iconUrl":
+    "https://www.insightsquared.com/wp-content/uploads/2018/11/favicon-1.ico",
   "sourceUrl": "https://www.insightsquared.com/",
   "dataVisibility": ["PRIVATE"]
 }

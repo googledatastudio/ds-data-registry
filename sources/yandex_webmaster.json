@@ -3,7 +3,8 @@
   "name": "Yandex.Webmaster",
   "categories": ["SEO,ANALYTICS,MARKETING"],
   "organization": "YANDEX",
-  "iconUrl": "https://www.profitator.ru/local/templates/webprofy/img/profitator-logo.png",
+  "iconUrl":
+    "https://www.profitator.ru/local/templates/webprofy/img/profitator-logo.png",
   "sourceUrl": "https://yandex.ru/support/webmaster/service/info.html",
   "dataVisibility": ["PRIVATE"]
 }

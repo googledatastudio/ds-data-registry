@@ -3,7 +3,8 @@
   "name": "Fyle",
   "categories": ["CUSTOM"],
   "organization": "FYLE",
-  "iconUrl": "https://app.fyle.in/app/accounts/assets/images/icons/fyle_logo_new.png",
+  "iconUrl":
+    "https://app.fyle.in/app/accounts/assets/images/icons/fyle_logo_new.png",
   "sourceUrl": "https://www.fylehq.com/",
   "dataVisibility": ["PRIVATE"]
 }

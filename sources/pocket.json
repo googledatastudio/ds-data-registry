@@ -3,7 +3,8 @@
   "name": "Pocket",
   "categories": ["ADVERTISING"],
   "organization": "POCKET",
-  "iconUrl": "https://assets.getpocket.com/web/images/icons/favicon.48b856f44599c5782c6999c63b2aba8d.ico",
+  "iconUrl":
+    "https://assets.getpocket.com/web/images/icons/favicon.48b856f44599c5782c6999c63b2aba8d.ico",
   "sourceUrl": "https://getpocket.com",
   "dataVisibility": ["PRIVATE"]
 }
