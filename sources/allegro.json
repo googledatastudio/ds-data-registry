@@ -1,0 +1,9 @@
+{
+    "id": "allegro",
+    "name": "Allegro",
+    "categories": ["ECOMMERCE", "SALES"],
+    "organization": "Allegro",
+    "iconUrl": "https://przemoo83.pl/img/allegro.jpg",
+    "sourceUrl": "https://allegro.pl",
+    "dataVisibility": ["PRIVATE"]
+  }
