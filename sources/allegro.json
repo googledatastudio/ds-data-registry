@@ -2,7 +2,7 @@
   "id": "ALLEGRO",
   "name": "Allegro",
   "categories": ["ECOMMERCE", "SALES"],
-  "organization": "Allegro",
+  "organization": "ALLEGRO",
   "iconUrl": "https://przemoo83.pl/img/allegro.jpg",
   "sourceUrl": "https://allegro.pl",
   "dataVisibility": ["PRIVATE"]
