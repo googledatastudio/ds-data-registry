@@ -3,7 +3,8 @@
   "name": "IBM Watson",
   "categories": ["TOOLS"],
   "organization": "IBM",
-  "iconUrl": "https://www.ibm.com/watson/assets/duo/img/common/avatar_purple.png",
+  "iconUrl":
+    "https://www.ibm.com/watson/assets/duo/img/common/avatar_purple.png",
   "sourceUrl": "https://www.ibm.com/watson",
   "dataVisibility": ["PRIVATE"]
 }

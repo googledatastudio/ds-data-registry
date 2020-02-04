@@ -3,7 +3,8 @@
   "name": "Rentalcars.com",
   "categories": ["ADVERTISING", "SEARCH"],
   "organization": "RENTALCARSCOM",
-  "iconUrl": "https://cdn.rentalcars.io/images/rclogo/blue/logomark-rclogo_32x32.png",
+  "iconUrl":
+    "https://cdn.rentalcars.io/images/rclogo/blue/logomark-rclogo_32x32.png",
   "sourceUrl": "https://www.rentalcars.com/",
   "dataVisibility": ["PRIVATE"]
 }

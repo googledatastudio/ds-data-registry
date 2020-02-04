@@ -3,7 +3,8 @@
   "name": "ad4mat",
   "categories": ["ADVERTISING"],
   "organization": "ADVANCED_STORE",
-  "iconUrl": "https://pbs.twimg.com/profile_images/1135494649206968320/jALo2hte_400x400.png",
+  "iconUrl":
+    "https://pbs.twimg.com/profile_images/1135494649206968320/jALo2hte_400x400.png",
   "sourceUrl": "https://www.ad4mat.com/en/",
   "dataVisibility": ["PRIVATE"]
 }

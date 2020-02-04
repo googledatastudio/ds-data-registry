@@ -3,7 +3,8 @@
   "name": "TikTok",
   "categories": ["SOCIAL"],
   "organization": "BYTEDANCE",
-  "iconUrl": "https://s16.tiktokcdn.com/musical/resource/wap/static/image/logo_144c91a.png?v=2",
+  "iconUrl":
+    "https://s16.tiktokcdn.com/musical/resource/wap/static/image/logo_144c91a.png?v=2",
   "sourceUrl": "https://www.tiktok.com/en/",
   "dataVisibility": ["PRIVATE"]
 }

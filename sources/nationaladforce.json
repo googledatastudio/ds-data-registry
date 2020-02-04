@@ -3,7 +3,8 @@
   "name": "NAF Digital",
   "categories": ["ADVERTISING"],
   "organization": "NAFDIGITAL",
-  "iconUrl": "http://www.nafdigital.com/wp-content/uploads/2014/12/NAFDigitalLogo.jpeg",
+  "iconUrl":
+    "http://www.nafdigital.com/wp-content/uploads/2014/12/NAFDigitalLogo.jpeg",
   "sourceUrl": "http://www.nafdigital.com/",
   "dataVisibility": ["PRIVATE"]
 }

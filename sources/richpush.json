@@ -3,7 +3,8 @@
   "name": "RichPush",
   "categories": ["ADVERTISING"],
   "organization": "RICHPUSH",
-  "iconUrl": "https://richpush.co/images/tild3135-3232-4236-a130-313464383639__richpushfav.ico",
+  "iconUrl":
+    "https://richpush.co/images/tild3135-3232-4236-a130-313464383639__richpushfav.ico",
   "sourceUrl": "https://richpush.co/",
   "dataVisibility": ["PRIVATE"]
 }

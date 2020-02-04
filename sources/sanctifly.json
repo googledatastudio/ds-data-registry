@@ -3,7 +3,8 @@
   "name": "Sanctifly",
   "categories": ["ADVERTISING"],
   "organization": "SANCTIFLY",
-  "iconUrl": "https://static1.squarespace.com/static/57691f836a4963a2b8cc641d/t/5769242de58c629692092735/favicon.ico",
+  "iconUrl":
+    "https://static1.squarespace.com/static/57691f836a4963a2b8cc641d/t/5769242de58c629692092735/favicon.ico",
   "sourceUrl": "https://www.sanctifly.club/",
   "dataVisibility": ["PRIVATE"]
 }

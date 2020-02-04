@@ -1,6 +1,7 @@
 {
   "name": "Shopper's Mind",
   "id": "SHOPPERS_MIND",
-  "iconUrl": "https://smind.si/wp-content/uploads/2017/09/Favicon-ShoppersMind-16X16.png",
+  "iconUrl":
+    "https://smind.si/wp-content/uploads/2017/09/Favicon-ShoppersMind-16X16.png",
   "orgUrl": "https://smind.si/"
 }
