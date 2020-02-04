@@ -3,7 +3,8 @@
   "name": "NetRefer",
   "categories": ["MARKETING"],
   "organization": "NETREFER",
-  "iconUrl": "https://netrefer.wpengine.com/wp-content/uploads/2017/11/netrefer-favicon-293x300.png",
+  "iconUrl":
+    "https://netrefer.wpengine.com/wp-content/uploads/2017/11/netrefer-favicon-293x300.png",
   "sourceUrl": "https://netrefer.com/",
   "dataVisibility": ["PRIVATE"]
 }

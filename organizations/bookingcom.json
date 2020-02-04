@@ -1,6 +1,7 @@
 {
   "name": "Booking.com",
   "id": "BOOKINGCOM",
-  "iconUrl": "https://s-ec.bstatic.com/static/img/b25logo/favicon/ebc77706da3aae4aee7b05dadf182390f0d26d11.ico",
+  "iconUrl":
+    "https://s-ec.bstatic.com/static/img/b25logo/favicon/ebc77706da3aae4aee7b05dadf182390f0d26d11.ico",
   "orgUrl": "https://www.booking.com/"
 }

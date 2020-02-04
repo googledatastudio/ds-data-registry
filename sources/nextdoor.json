@@ -3,7 +3,8 @@
   "name": "Nextdoor",
   "categories": ["SOCIAL"],
   "organization": "NEXTDOOR",
-  "iconUrl": "https://d19rpgkrjeba2z.cloudfront.net/dc3b74c71898e925/static/nextdoorv2/images/favicons/favicon-v2.ico",
+  "iconUrl":
+    "https://d19rpgkrjeba2z.cloudfront.net/dc3b74c71898e925/static/nextdoorv2/images/favicons/favicon-v2.ico",
   "sourceUrl": "https://se.nextdoor.com/",
   "dataVisibility": ["PRIVATE"]
 }

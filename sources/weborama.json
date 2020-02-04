@@ -3,7 +3,8 @@
   "name": "Weborama",
   "categories": ["MARKETING"],
   "organization": "WEBORAMA",
-  "iconUrl": "https://weborama.com/wp-content/uploads/2019/05/cropped-w-2-32x32.png",
+  "iconUrl":
+    "https://weborama.com/wp-content/uploads/2019/05/cropped-w-2-32x32.png",
   "sourceUrl": "https://weborama.com/en/",
   "dataVisibility": ["PRIVATE"]
 }

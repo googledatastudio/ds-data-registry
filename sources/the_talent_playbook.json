@@ -3,7 +3,8 @@
   "name": "The Talent Playbook",
   "categories": ["ADVERTISING"],
   "organization": "THE_TALENT_PLAYBOOK",
-  "iconUrl": "http://www.thetalentplaybook.com.au/wp-content/uploads/2018/08/fevicon-icon.png",
+  "iconUrl":
+    "http://www.thetalentplaybook.com.au/wp-content/uploads/2018/08/fevicon-icon.png",
   "sourceUrl": "http://www.thetalentplaybook.com.au/",
   "dataVisibility": ["PRIVATE"]
 }

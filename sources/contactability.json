@@ -3,7 +3,8 @@
   "name": "Contactability",
   "categories": ["TOOLS", "MARKETING"],
   "organization": "SMARTFINANCIAL",
-  "iconUrl": "https://s3.amazonaws.com/preview.contactability.com/contactability/favicon.ico",
+  "iconUrl":
+    "https://s3.amazonaws.com/preview.contactability.com/contactability/favicon.ico",
   "sourceUrl": "https://www.contactability.com/",
   "dataVisibility": ["PRIVATE"]
 }

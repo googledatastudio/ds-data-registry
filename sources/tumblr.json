@@ -3,7 +3,8 @@
   "name": "tumblr",
   "categories": ["SOCIAL"],
   "organization": "TUMBLR",
-  "iconUrl": "https://assets.tumblr.com/images/favicons/favicon.ico?_v=8bfa6dd3e1249cd567350c606f8574dc",
+  "iconUrl":
+    "https://assets.tumblr.com/images/favicons/favicon.ico?_v=8bfa6dd3e1249cd567350c606f8574dc",
   "sourceUrl": "https://www.tumblr.com/",
   "dataVisibility": ["PRIVATE"]
 }

@@ -3,7 +3,8 @@
   "name": "JUMP RAMP GAMES",
   "categories": ["ADVERTISING"],
   "organization": "JUMP_RAMP_GAMES",
-  "iconUrl": "https://d2v3ribxbeyo43.cloudfront.net/images/website/JUMPRAMP/3x/favicon.png?v=2.74",
+  "iconUrl":
+    "https://d2v3ribxbeyo43.cloudfront.net/images/website/JUMPRAMP/3x/favicon.png?v=2.74",
   "sourceUrl": "http://jumprampgames.com/",
   "dataVisibility": ["PRIVATE"]
 }

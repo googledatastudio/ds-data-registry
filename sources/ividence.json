@@ -3,7 +3,8 @@
   "name": "ividence",
   "categories": ["TOOLS", "MARKETING"],
   "organization": "IVIDENCE",
-  "iconUrl": "http://www.ividence.com/wp-content/themes/ividence/screen/favicon.png",
+  "iconUrl":
+    "http://www.ividence.com/wp-content/themes/ividence/screen/favicon.png",
   "sourceUrl": "http://www.ividence.com/home/",
   "dataVisibility": ["PRIVATE"]
 }
