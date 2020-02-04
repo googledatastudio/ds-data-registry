@@ -3,7 +3,8 @@
   "name": "Fashionchick",
   "categories": ["ECOMMERCE", "ADVERTISING"],
   "organization": "SANOMA_MEDIA_NETHERLANDS",
-  "iconUrl": "https://www.fashionchick.nl/static/fashionchick/dist/assets/img/logo/favicon.20ae127d794a.png",
+  "iconUrl":
+    "https://www.fashionchick.nl/static/fashionchick/dist/assets/img/logo/favicon.20ae127d794a.png",
   "sourceUrl": "https://www.fashionchick.nl/",
   "dataVisibility": ["PRIVATE"]
 }

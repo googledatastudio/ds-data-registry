@@ -3,7 +3,8 @@
   "name": "Beeswax",
   "categories": ["TOOLS", "ADVERTISING"],
   "organization": "BEESWAX",
-  "iconUrl": "https://d1qmdf3vop2l07.cloudfront.net/icy-kilt.cloudvent.net/compressed/_min_/bc25642935c5a878e7cb412c1e4aa0b1.png",
+  "iconUrl":
+    "https://d1qmdf3vop2l07.cloudfront.net/icy-kilt.cloudvent.net/compressed/_min_/bc25642935c5a878e7cb412c1e4aa0b1.png",
   "sourceUrl": "https://www.beeswax.com/",
   "dataVisibility": ["PRIVATE"]
 }

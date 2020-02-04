@@ -4,6 +4,7 @@
   "categories": ["EMAIL"],
   "organization": "TWILIO",
   "iconUrl": "https://sendgrid.com/brand/sg-logo.png",
-  "sourceUrl": "https://sendgrid.com/docs/API_Reference/Web_API_v3/Stats/global.html",
+  "sourceUrl":
+    "https://sendgrid.com/docs/API_Reference/Web_API_v3/Stats/global.html",
   "dataVisibility": ["PRIVATE"]
 }

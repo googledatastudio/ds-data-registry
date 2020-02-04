@@ -3,7 +3,8 @@
   "name": "Adelphic",
   "categories": ["ADVERTISING"],
   "organization": "VIANT",
-  "iconUrl": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1422387791/doybvk9pjxottfq4ofcg.jpg",
+  "iconUrl":
+    "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1422387791/doybvk9pjxottfq4ofcg.jpg",
   "sourceUrl": "https://www.adelphic.com/",
   "dataVisibility": ["PRIVATE"]
 }

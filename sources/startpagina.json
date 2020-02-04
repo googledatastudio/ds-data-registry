@@ -3,7 +3,8 @@
   "name": "Startpagina.nl",
   "categories": ["ADVERTISING"],
   "organization": "SANOMA_MEDIA_NETHERLANDS",
-  "iconUrl": "https://static.startpagina.nl/static/app-shell/images/icons/favicon.6faac3477261.ico",
+  "iconUrl":
+    "https://static.startpagina.nl/static/app-shell/images/icons/favicon.6faac3477261.ico",
   "sourceUrl": "https://www.startpagina.nl/",
   "dataVisibility": ["PRIVATE"]
 }

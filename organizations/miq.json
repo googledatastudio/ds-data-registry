@@ -1,6 +1,7 @@
 {
   "name": "MiQ",
   "id": "MIQ",
-  "iconUrl": "http://www.wearemiq.com/wp-content/uploads/2018/05/cropped-Favicon-32x32.png",
+  "iconUrl":
+    "http://www.wearemiq.com/wp-content/uploads/2018/05/cropped-Favicon-32x32.png",
   "orgUrl": "http://www.wearemiq.com/"
 }

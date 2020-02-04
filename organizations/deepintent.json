@@ -1,6 +1,7 @@
 {
   "name": "DeepIntent",
   "id": "DEEPINTENT",
-  "iconUrl": "https://storage.googleapis.com/deepintent-cdn/website/favicon.ico",
+  "iconUrl":
+    "https://storage.googleapis.com/deepintent-cdn/website/favicon.ico",
   "orgUrl": "https://www.deepintent.com/"
 }

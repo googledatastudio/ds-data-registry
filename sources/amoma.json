@@ -3,7 +3,8 @@
   "name": "AMOMA",
   "categories": ["ADVERTISING", "SEARCH"],
   "organization": "AMOMA",
-  "iconUrl": "https://assets.amoma.com/images/favicons/favicon.ico?v=kPxjvBAbep",
+  "iconUrl":
+    "https://assets.amoma.com/images/favicons/favicon.ico?v=kPxjvBAbep",
   "sourceUrl": "https://www.amoma.com/",
   "dataVisibility": ["PRIVATE"]
 }

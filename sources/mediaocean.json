@@ -3,7 +3,8 @@
   "name": "Mediaocean",
   "categories": ["ADVERTISING"],
   "organization": "MEDIAOCEAN",
-  "iconUrl": "https://www.mediaocean.com/sites/mediaocean.com/files/mediaocean_favicon__0.ico",
+  "iconUrl":
+    "https://www.mediaocean.com/sites/mediaocean.com/files/mediaocean_favicon__0.ico",
   "sourceUrl": "https://www.mediaocean.com/",
   "dataVisibility": ["PRIVATE"]
 }
