@@ -106,5 +106,9 @@
   {
     "id": "CHMS",
     "name": "Church Manangement System"
+  },
+  {
+    "id": "IOT",
+    "name": "IoT Reporting"
   }
 ]
