@@ -106,5 +106,9 @@
   {
     "id": "CHMS",
     "name": "Church Manangement System"
+  },
+  {
+    "id": "SMARTVIEW_REPORTING",
+    "name": "Smart-View Reporting"
   }
 ]
