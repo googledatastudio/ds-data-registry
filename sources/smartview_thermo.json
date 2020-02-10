@@ -1,11 +1,7 @@
 {
   "id": "SMARTVIEW_THERMO",
   "name": "Smart-View Thermo",
-  "categories": [{
-      "id": "SMARTVIEW_REPORTING",
-      "name": "Smart-View Thermo Reporting",
-      "description": "Optional description"
-      }],
+  "categories": "SMARTVIEW_REPORTING",
   "organization": "SMART-VIEW TECHNOLOGY",
   "iconUrl": "https://connector-dot-smart-view-iot-management.appspot.com/static/images/smartviewlogo.png",
   "sourceUrl": "https://iot.smartviewtechnology.co.za/documentation/docs/connector.html",
