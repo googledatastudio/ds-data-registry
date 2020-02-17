@@ -1,0 +1,9 @@
+{
+  "id": "MMLAB_DATAHUB",
+  "name": "MMLab DataHub",
+  "categories": ["ADVERTISING"],
+  "organization": "ORG_NAME",
+  "iconUrl": "https://beta.mmlab.io/resources/images/logo/logo-40-green-white.png",
+  "sourceUrl": "https://beta.mmlab.io/welcome",
+  "dataVisibility": ["PRIVATE"]
+}
