@@ -1,0 +1,9 @@
+{
+  "id": "RANXPLORER",
+  "name": "Ranxplorer",
+  "categories": ["MARKETING", "TOOLS", "ANALYTICS", "SEO"],
+  "organization": "RANXPLORER",
+  "iconUrl": "https://ranxplorer.com/favicon.ico",
+  "orgUrl": "https://ranxplorer.com/",
+  "dataVisibility": ["PRIVATE"]
+}
