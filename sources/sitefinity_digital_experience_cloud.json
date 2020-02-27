@@ -1,0 +1,11 @@
+{
+  "id": "SITEFINITY_DIGITAL_EXPERIENCE_CLOUD",
+  "name": "Sitefinity Digital Experience Cloud",
+  "categories": ["ANALYTICS", "MARKETING"],
+  "organization": "PROGRESS_SOFTWARE_CORPORATION",
+  "iconUrl":
+    "https://decsitefinitycdn.blob.core.windows.net/assets/decLogo.png",
+  "sourceUrl":
+    "https://www.progress.com/documentation/sitefinity-cms/dec/get-to-know-sitefinity-digital-experience-cloud",
+  "dataVisibility": ["PRIVATE"]
+}
