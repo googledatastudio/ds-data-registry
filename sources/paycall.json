@@ -1,0 +1,10 @@
+{
+  "id": "PAYCALL",
+  "name": "Paycall Data Studio Connector",
+  "categories": ["CDR", "CALL_TRACKING"],
+  "organization": "PAYCALL",
+  "iconUrl":
+    "http://checkcall.paycall.co.il/template/images/logo_big.png",
+  "sourceUrl": "https://www.paycall.co.il/en/more-services/paycall-datastudio-connector/",
+  "dataVisibility": ["PRIVATE"]
+}
