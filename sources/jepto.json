@@ -1,0 +1,10 @@
+{
+  "id": "JEPTO",
+  "name": "JEPTO",
+  "categories": ["TOOLS"],
+  "organization": "JEPTO",
+  "iconUrl":
+    "https://d1a0e6hxhnwzl.cloudfront.net/instances/223/assets/images/jepto-logo-white-40px.png",
+  "sourceUrl": "https://app.jepto.com",
+  "dataVisibility": ["PRIVATE"]
+}
