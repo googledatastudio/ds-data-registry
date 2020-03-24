@@ -1,0 +1,9 @@
+{
+  "id": "CATCHON",
+  "name": "CatchoOn",
+  "categories": ["ANALYTICS", "EDUCATION"],
+  "organization": "CATCHON",
+  "iconUrl": "https://iplsin.trustvault.ena.com/catchon/assets/img/logo.png",
+  "sourceUrl": "https://www.catchon.com/",
+  "dataVisibility": ["PRIVATE"]
+}
