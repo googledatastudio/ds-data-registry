@@ -1,0 +1,9 @@
+{
+  "id": "ARBOR-EDUCATION",
+  "name": "Arbor-Education",
+  "categories": ["EDUCATION"],
+  "organization": "ARBOR-EDUCATION",
+  "iconUrl": "https://arbor-education.com/wp-content/themes/arbor/images/arbor-education-logo.svg",
+  "sourceUrl": "https://arbor-education.com/",
+  "dataVisibility": ["PRIVATE"]
+}
