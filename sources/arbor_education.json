@@ -1,8 +1,8 @@
 {
-  "id": "ARBOR-EDUCATION",
+  "id": "ARBOR_EDUCATION",
   "name": "Arbor-Education",
   "categories": ["EDUCATION"],
-  "organization": "ARBOR-EDUCATION",
+  "organization": "ARBOR_EDUCATION",
   "iconUrl": "https://arbor-education.com/wp-content/themes/arbor/images/arbor-education-logo.svg",
   "sourceUrl": "https://arbor-education.com/",
   "dataVisibility": ["PRIVATE"]
