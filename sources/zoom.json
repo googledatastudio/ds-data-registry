@@ -1,0 +1,9 @@
+{
+  "id": "ZOOM",
+  "name": "Zoom",
+  "categories": ["CLOUD_COMMUNICATIONS"],
+  "organization": "ZOOM",
+  "iconUrl": "https://d24cgw3uvb9a9h.cloudfront.net/static/93909/image/new/ZoomLogo.png",
+  "sourceUrl": "https://zoom.us/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "APEX_CHAT",
+  "name": "ApexChat",
+  "categories": ["ANALYTICS", "CHAT_TRACKING"],
+  "organization": "APEXCHAT",
+  "iconUrl": "https://www.apexchat.com/wp-content/uploads/2017/01/logo-1.png",
+  "sourceUrl": "https://www.apexchat.com/",
+  "dataVisibility": ["PRIVATE"]
+}
