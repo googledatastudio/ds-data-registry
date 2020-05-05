@@ -96,6 +96,10 @@
     "name": "Call Tracking"
   },
   {
+    "id": "CHAT_TRACKING",
+    "name": "Chat Tracking"
+  },
+  {
     "id": "CRM",
     "name": "Customer Relationship Management"
   },
