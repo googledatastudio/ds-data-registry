@@ -1,6 +1,7 @@
 {
   "id": "QONTO",
   "name": "Qonto",
-  "iconUrl": "https://www.blueprint-analytics.com/wp-content/uploads/2020/02/18053493-e1580747217209.png",
+  "iconUrl":
+    "https://www.blueprint-analytics.com/wp-content/uploads/2020/02/18053493-e1580747217209.png",
   "orgUrl": "https://qonto.eu/"
 }
