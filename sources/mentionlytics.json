@@ -1,0 +1,14 @@
+{
+    "id": "MENTIONLYTICS",
+    "name": "Mentionlytics",
+    "categories": [
+        "SOCIAL",
+        "ANALYTICS"
+    ],
+    "organization": "MENTIONLYTICS",
+    "iconUrl": "https://www.mentionlytics.com/wp-content/uploads/2017/08/Mentionlytics-Vector-logo-icon.png",
+    "sourceUrl": "https://www.mentionlytics.com",
+    "dataVisibility": [
+        "PRIVATE"
+    ]
+}
