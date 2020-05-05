@@ -1,0 +1,10 @@
+{
+  "id": "AVANSER",
+  "name": "Avanser",
+  "categories": ["ANALYTICS", "CALL_TRACKING"],
+  "organization": "AVANSER",
+  "iconUrl":
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPHMNkPReAIxa2AsOLXf7Ku16SMMVVXaOkairvj3EH6XWTDje61uu0AO4&s",
+  "sourceUrl": "https://www.avanser.com/",
+  "dataVisibility": ["PRIVATE"]
+}
