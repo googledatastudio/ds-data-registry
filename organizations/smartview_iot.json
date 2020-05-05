@@ -1,6 +1,7 @@
 {
-    "id": "SMARTVIEW_IOT",
-    "name": "SmartView Technology",
-    "iconUrl": "https://connector-dot-smart-view-iot-management.appspot.com/static/images/smartviewlogo.png",
-    "orgUrl": "https://www.smartviewtechnology.co.za/"
-  }
+  "id": "SMARTVIEW_IOT",
+  "name": "SmartView Technology",
+  "iconUrl":
+    "https://connector-dot-smart-view-iot-management.appspot.com/static/images/smartviewlogo.png",
+  "orgUrl": "https://www.smartviewtechnology.co.za/"
+}
