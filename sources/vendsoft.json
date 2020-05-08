@@ -1,0 +1,9 @@
+{
+  "id": "VENDSOFT",
+  "name": "VendSoft",
+  "categories": ["SALES"],
+  "organization": "VENDSOFT",
+  "iconUrl": "https://www.vendsoft.com/vendsoft-logo.png",
+  "sourceUrl": "https://www.vendsoft.com/",
+  "dataVisibility": ["PRIVATE"]
+}
