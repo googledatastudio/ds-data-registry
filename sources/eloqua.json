@@ -1,0 +1,11 @@
+{
+  "id": "ELOQUA",
+  "name": "Eloqua",
+  "categories": ["MARKETING", "ADVERTISING"],
+  "organization": "ORACLE",
+  "iconUrl":
+    "https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1397181971/cde15996e0f6ff3bafbe6070f2a947f9.png",
+  "sourceUrl":
+    "https://www.oracle.com/marketingcloud/products/marketing-automation/",
+  "dataVisibility": ["PRIVATE"]
+}

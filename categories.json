@@ -8,6 +8,10 @@
     "name": "Analytics"
   },
   {
+    "id": "CDR",
+    "name": "Call Detail Record"
+  },
+  {
     "id": "CUSTOM",
     "name": "Custom"
   },
@@ -60,6 +64,10 @@
     "name": "Social media"
   },
   {
+    "id": "SPORTS",
+    "name": "Sports"
+  },
+  {
     "id": "STORAGE",
     "name": "File Storage"
   },
@@ -88,6 +96,10 @@
     "name": "Call Tracking"
   },
   {
+    "id": "CHAT_TRACKING",
+    "name": "Chat Tracking"
+  },
+  {
     "id": "CRM",
     "name": "Customer Relationship Management"
   },
@@ -98,5 +110,9 @@
   {
     "id": "CHMS",
     "name": "Church Manangement System"
+  },
+  {
+    "id": "IOT",
+    "name": "IoT Reporting"
   }
 ]

@@ -1,6 +1,7 @@
 {
   "id": "FYLE",
   "name": "Fyle",
-  "iconUrl": "https://app.fyle.in/app/accounts/assets/images/icons/fyle_logo_new.png",
+  "iconUrl":
+    "https://app.fyle.in/app/accounts/assets/images/icons/fyle_logo_new.png",
   "orgUrl": "https://www.fylehq.com/"
 }

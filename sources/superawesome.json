@@ -1,0 +1,9 @@
+{
+  "id": "SUPERAWESOME",
+  "name": "SuperAwesome",
+  "categories": ["ADVERTISING"],
+  "organization": "SUPERAWESOME",
+  "iconUrl": "https://dashboard.superawesome.tv/images/favicon.png",
+  "sourceUrl": "https://www.superawesome.com/",
+  "dataVisibility": ["PRIVATE"]
+}

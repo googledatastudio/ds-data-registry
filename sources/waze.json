@@ -1,0 +1,9 @@
+{
+  "id": "WAZE",
+  "name": "Waze",
+  "categories": ["TOOLS"],
+  "organization": "GOOGLE",
+  "iconUrl": "https://www.waze.com/favicon.ico",
+  "sourceUrl": "https://www.waze.com/",
+  "dataVisibility": ["PRIVATE"]
+}

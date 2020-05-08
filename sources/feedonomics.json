@@ -1,0 +1,9 @@
+{
+  "id": "FEEDONOMICS",
+  "name": "Feedonomics",
+  "categories": ["ECOMMERCE", "ADVERTISING"],
+  "organization": "FEEDONOMICS",
+  "iconUrl": "https://feedonomics.com/favicon-32x32.png",
+  "sourceUrl": "https://feedonomics.com/",
+  "dataVisibility": ["PRIVATE"]
+}

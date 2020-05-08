@@ -3,7 +3,8 @@
   "name": "Integral Ad Science",
   "categories": ["ADVERTISING"],
   "organization": "INTEGRAL_AD_SCIENCE",
-  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/integral_ad_science.png",
+  "iconUrl":
+    "https://adverity-gds-static.s3.amazonaws.com/icons/integral_ad_science.png",
   "sourceUrl": "https://integralads.com/",
   "dataVisibility": ["PRIVATE"]
 }

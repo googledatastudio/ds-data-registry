@@ -1,0 +1,10 @@
+{
+  "id": "RIVALIQ",
+  "name": "Rival IQ",
+  "categories": ["ANALYTICS", "SOCIAL", "MARKETING", "ADVERTISING"],
+  "organization": "RIVALIQ",
+  "iconUrl":
+    "https://www.rivaliq.com/wp-content/uploads/2018/01/logo-sq-40-40.png",
+  "sourceUrl": "https://www.rivaliq.com/",
+  "dataVisibility": ["PRIVATE"]
+}

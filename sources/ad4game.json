@@ -1,0 +1,9 @@
+{
+  "id": "AD4GAME",
+  "name": "Ad4Game",
+  "categories": ["ADVERTISING"],
+  "organization": "AD4GAME",
+  "iconUrl": "https://www.ad4game.com/assets/images/favicon.ico?v1",
+  "sourceUrl": "https://www.ad4game.com/",
+  "dataVisibility": ["PRIVATE"]
+}

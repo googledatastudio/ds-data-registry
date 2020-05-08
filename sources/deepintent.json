@@ -1,0 +1,10 @@
+{
+  "id": "DEEPINTENT",
+  "name": "DeepIntent",
+  "categories": ["ADVERTISING", "MARKETING"],
+  "organization": "DEEPINTENT",
+  "iconUrl":
+    "https://storage.googleapis.com/deepintent-cdn/website/favicon.ico",
+  "sourceUrl": "https://www.deepintent.com/",
+  "dataVisibility": ["PRIVATE"]
+}
