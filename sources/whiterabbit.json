@@ -1,0 +1,10 @@
+{
+  "id": "WHITERABBIT",
+  "name": "White Rabbit",
+  "categories": ["MARKETING"],
+  "organization": "WHITERABBIT",
+  "iconUrl":
+    "https://s3-eu-west-1.amazonaws.com/whiterabbitsuite.com/img/logo_icon.png",
+  "sourceUrl": "https://www.whiterabbitsuite.com/",
+  "dataVisibility": ["PRIVATE"]
+}
