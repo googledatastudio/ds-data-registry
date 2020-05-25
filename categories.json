@@ -114,5 +114,9 @@
   {
     "id": "IOT",
     "name": "IoT Reporting"
+  },
+  {
+    "id": "CDP",
+    "name": "Customer Data Platform"
   }
 ]
