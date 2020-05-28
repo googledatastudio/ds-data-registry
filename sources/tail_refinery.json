@@ -1,0 +1,9 @@
+{
+  "id": "TAIL_REFINERY",
+  "name": "Tail Refinery",
+  "categories": ["ANALYTICS", "CDP", "TOOLS"],
+  "organization": "TAIL",
+  "iconUrl": "https://www.tail.digital/imgs/logo-ico.png",
+  "sourceUrl": "https://refinery.tail.digital/",
+  "dataVisibility": ["PRIVATE"]
+}
