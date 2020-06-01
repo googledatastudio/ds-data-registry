@@ -118,5 +118,9 @@
   {
     "id": "CDP",
     "name": "Customer Data Platform"
+  },
+  {
+    "id": "MARKETING_AUTOMATION",
+    "name": "Marketing Automation"
   }
 ]

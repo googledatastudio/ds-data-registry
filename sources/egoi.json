@@ -1,0 +1,10 @@
+{
+  "id": "EGOI",
+  "name": "E-goi",
+  "categories": ["EMAIL", "MARKETING", "MARKETING_AUTOMATION"],
+  "organization": "EGOI",
+  "iconUrl": "https://www.e-goi.com/e/xperience/images/e-goi.png",
+  "sourceUrl":
+    "https://www.e-goi.com/features/",
+  "dataVisibility": ["PRIVATE"]
+}
