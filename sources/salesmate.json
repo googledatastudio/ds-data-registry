@@ -1,0 +1,10 @@
+{
+  "id": "SALESMATE",
+  "name": "Salesmate",
+  "categories": ["CRM"],
+  "organization": "Salesmate",
+  "iconUrl":
+    "http://www.salesmate.io/wp-content/themes/salesmate_v2/library/images/square-logo.png",
+  "sourceUrl": "https://www.salesmate.io",
+  "dataVisibility": ["PRIVATE"]
+}
