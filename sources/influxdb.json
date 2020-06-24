@@ -1,0 +1,9 @@
+{
+  "id": "INFLUXDB",
+  "name": "InfluxDB",
+  "categories": ["TIME_SERIES", "DATABASE", "IOT", "CLOUD"],
+  "organization": "INFLUXDATA",
+  "iconUrl": "https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--white.png",
+  "sourceUrl": "https://www.influxdata.com/products/influxdb-cloud/",
+  "dataVisibility": ["PRIVATE"]
+}
