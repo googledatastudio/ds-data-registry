@@ -1,0 +1,9 @@
+{
+  "id": "ZEFO",
+  "name": "ZEFO",
+  "categories": ["SEO", "TOOLS"],
+  "organization": "ZEFO",
+  "iconUrl": "https://il02.zefo.com/media/images/zefo-google-logo.png",
+  "sourceUrl": "https://www.zefo.com",
+  "dataVisibility": ["PRIVATE"]
+}
