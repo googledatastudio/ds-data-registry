@@ -1,0 +1,10 @@
+{
+  "id": "WISEPOPS",
+  "name": "WisePops",
+  "categories": ["EMAIL", "MARKETING"],
+  "organization": "WISEPOPS",
+  "iconUrl":
+    "https://app.wisepops.com/static/images/branding/m-icon-wisepops-new.svg",
+  "sourceUrl": "https://wisepops.com/",
+  "dataVisibility": ["PRIVATE"]
+}
