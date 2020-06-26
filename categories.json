@@ -118,5 +118,9 @@
   {
     "id": "CDP",
     "name": "Customer Data Platform"
+  },
+  {
+    "id": "TIME_SERIES",
+    "name": "Time Series"
   }
 ]
