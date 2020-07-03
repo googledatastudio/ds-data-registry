@@ -3,7 +3,8 @@
   "name": "Automated Lighthouse Check",
   "categories": ["ANALYTICS", "SEO", "TOOLS"],
   "organization": "FOO",
-  "iconUrl": "https://lighthouse-check.s3.amazonaws.com/images/logo-simple-blue-light-512.png",
+  "iconUrl":
+    "https://lighthouse-check.s3.amazonaws.com/images/logo-simple-blue-light-512.png",
   "sourceUrl": "https://www.automated-lighthouse-check.com",
   "dataVisibility": ["PUBLIC"]
 }
