@@ -1,0 +1,9 @@
+{
+  "id": "RAMPFY",
+  "name": "Rampfy",
+  "categories": ["CDP", "TIME_SERIES"],
+  "organization": "RAMPFY",
+  "iconUrl": "https://www.rampfy.com/wp-content/uploads/2020/07/Rampfy40x40.png",
+  "sourceUrl": "https://www.rampfy.com/google-data-studio",
+  "dataVisibility": ["PRIVATE"]
+}
