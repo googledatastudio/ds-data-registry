@@ -1,7 +1,7 @@
 {
   "id": "MINERVA",
   "name": "Minerva",
-  "categories": ["DATABASE","DATA_COLLECTION","STORAGE","SOCIAL"],
+  "categories": ["DATABASE", "DATA_COLLECTION", "STORAGE", "SOCIAL"],
   "organization": "MINERVA",
   "iconUrl": "https://mnrva.io/imgs/logo_minerva.svg",
   "sourceUrl": "https://mnrva.io",
