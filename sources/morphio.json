@@ -1,0 +1,9 @@
+{
+  "id": "MORPHIO",
+  "name": "Morphio",
+  "categories": ["MORPHIO"],
+  "organization": "Morphio Inc.",
+  "iconUrl": "https://firebasestorage.googleapis.com/v0/b/morphio-kpi-171314.appspot.com/o/Morphio_Images%2Fmorpio_purp_icon_300.png?alt=media&token=3b34d1dc-d574-4446-ac56-e5c802162cae",
+  "sourceUrl": "https://morphio.ai",
+  "dataVisibility": ["PRIVATE"]
+}
