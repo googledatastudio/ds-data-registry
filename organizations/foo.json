@@ -1,0 +1,7 @@
+{
+  "id": "FOO",
+  "name": "Foo",
+  "iconUrl":
+    "https://lighthouse-check.s3.amazonaws.com/images/logo-simple-blue-light-512.png",
+  "orgUrl": "https://www.foo.software"
+}

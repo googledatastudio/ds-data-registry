@@ -1,0 +1,10 @@
+{
+  "id": "ADOBE_ADVERTISING_CLOUD",
+  "name": "Adobe Advertising Cloud",
+  "categories": ["ADVERTISING"],
+  "organization": "ADOBE",
+  "iconUrl":
+    "https://static.funnel.io/logos/icon48x48/adobeadvertisingcloud.png",
+  "sourceUrl": "https://www.adobe.com/advertising/adobe-advertising-cloud.html",
+  "dataVisibility": ["PRIVATE"]
+}
