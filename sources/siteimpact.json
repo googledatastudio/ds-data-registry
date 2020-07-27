@@ -1,0 +1,10 @@
+{
+  "id": "SITEIMPACT",
+  "name": "Site Impact",
+  "categories": ["MARKETING", "CRM"],
+  "organization": "SITEIMPACT",
+  "iconUrl":
+    "https://www.tapclicks.com/wp-content/uploads/2016/08/SiteImpact.svg",
+  "sourceUrl": "https://www.siteimpact.com/",
+  "dataVisibility": ["PRIVATE"]
+}

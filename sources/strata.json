@@ -1,0 +1,10 @@
+{
+  "id": "STRATA",
+  "name": "Strata",
+  "categories": ["PAYMENTS", "FINANCE", "ANALYTICS"],
+  "organization": "FREEWHEEl",
+  "iconUrl":
+    "https://www.tapclicks.com/wp-content/uploads/strata-freewheel-logo.svg",
+  "sourceUrl": "https://www.freewheel.com/strata",
+  "dataVisibility": ["PRIVATE"]
+}

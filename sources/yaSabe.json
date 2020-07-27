@@ -1,0 +1,10 @@
+{
+  "id": "YA_SABE",
+  "name": "YaSabe",
+  "categories": ["MARKETING", "SEO", "JOBS", "ADVERTISING"],
+  "organization": "YaSabe",
+  "iconUrl":
+    "https://images-yasabe.netdna-ssl.com/o/5M/s-location_logo-512x512__png.png",
+  "sourceUrl": "https://www.yasabe.com/",
+  "dataVisibility": ["PRIVATE"]
+}
