@@ -122,5 +122,9 @@
   {
     "id": "TIME_SERIES",
     "name": "Time Series"
+  },
+  {
+    "id": "POS",
+    "name": "Point of Sales"
   }
 ]
