@@ -1,0 +1,10 @@
+{
+  "id": "MARKETRON",
+  "name": "Marketron",
+  "categories": ["MARKETING", "TOOLS", "ADVERTISING"],
+  "organization": "MARKETRON",
+  "iconUrl":
+    "http://www.marketron.com/wp-content/uploads/2020/06/Marketron-blk.png",
+  "sourceUrl": "http://www.marketron.com/",
+  "dataVisibility": ["PRIVATE"]
+}

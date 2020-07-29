@@ -1,0 +1,10 @@
+{
+  "id": "MATCHCRAFT",
+  "name": "Matchcraft",
+  "categories": ["MARKETING", "ADVERTISING", "ANALYTICS"],
+  "organization": "MATCHCRAFT",
+  "iconUrl":
+    "https://www.tapclicks.com/wp-content/uploads/2017/04/MatchCraft.svg",
+  "sourceUrl": "https://www.matchcraft.com/",
+  "dataVisibility": ["PRIVATE"]
+}

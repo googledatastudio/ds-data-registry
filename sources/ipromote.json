@@ -1,0 +1,9 @@
+{
+  "id": "IPROMOTE",
+  "name": "iPromote",
+  "categories": ["ADVERTISING"],
+  "organization": "IPROMOTE",
+  "iconUrl": "https://media.ipromote.com/focus/public_html/images/logo.min.svg",
+  "sourceUrl": "https://www.ipromote.com/",
+  "dataVisibility": ["PRIVATE"]
+}

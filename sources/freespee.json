@@ -1,0 +1,10 @@
+{
+  "id": "FREESPACE",
+  "name": "FreeSpace",
+  "categories": ["CALL_TRACKING", "ANALYTICS"],
+  "organization": "FREESPACE",
+  "iconUrl":
+    "https://www.freespee.com/wp-content/uploads/2019/07/Vector-Logo_White.png",
+  "sourceUrl": "https://www.freespee.com/",
+  "dataVisibility": ["PRIVATE"]
+}
