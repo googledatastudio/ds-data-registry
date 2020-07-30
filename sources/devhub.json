@@ -1,0 +1,9 @@
+{
+  "id": "DEVHUB",
+  "name": "DevHub",
+  "categories": ["ANALYTICS", "MARKETING"],
+  "organization": "DEVHUB",
+  "iconUrl": "https://www.devhub.com/img/upload/dh-logo-copy-white-4.png",
+  "sourceUrl": "hhttps://www.devhub.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "VERIZON_MEDIA_DSP",
+  "name": "Verizon Media DSP",
+  "categories": ["ADVERTISING", "ANALYTICS", "MARKETING"],
+  "organization": "VERIZON_MEDIA",
+  "iconUrl":
+    "https://www.tapclicks.com/wp-content/uploads/2020/06/VerizonMediaDSP.svg",
+  "sourceUrl": "https://www.verizonmedia.com/",
+  "dataVisibility": ["PRIVATE"]
+}

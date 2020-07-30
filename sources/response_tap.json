@@ -1,0 +1,10 @@
+{
+  "id": "RESPONSE_TAP",
+  "name": "ResponseTap",
+  "categories": ["ANALYTICS", "CALL_TRACKING"],
+  "organization": "RESPONSE_TAP",
+  "iconUrl":
+    "https://www.tapclicks.com/wp-content/uploads/2020/06/ResponseTap.svg",
+  "sourceUrl": "https://www.responsetap.com/",
+  "dataVisibility": ["PRIVATE"]
+}

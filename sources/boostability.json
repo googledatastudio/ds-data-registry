@@ -1,0 +1,10 @@
+{
+  "id": "BOOSTABILITY",
+  "name": "Boostability",
+  "categories": ["SEO"],
+  "organization": "BOOSTABILITY",
+  "iconUrl":
+    "https://www.boostability.com/wp-content/uploads/2015/02/BoostLogo_White.png",
+  "sourceUrl": "https://www.boostability.com/",
+  "dataVisibility": ["PRIVATE"]
+}

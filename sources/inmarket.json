@@ -1,0 +1,10 @@
+{
+  "id": "INMARKET",
+  "name": "InMarket",
+  "categories": ["ADVERTISING", "ANALYTICS"],
+  "organization": "INMARKET",
+  "iconUrl":
+    "https://inmarket.com/wp-content/uploads/2020/01/LOGO-2-768x136.png",
+  "sourceUrl": "https://inmarket.com/",
+  "dataVisibility": ["PRIVATE"]
+}

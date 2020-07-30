@@ -1,0 +1,10 @@
+{
+  "id": "ADVANCED_WEB_RANKING_TRACKER",
+  "name": "Advanced Web Ranking Rank Tracker",
+  "categories": ["SEO", "ANALYTICS"],
+  "organization": "ADVANCED_WEB_RANKING",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/awr.png",
+  "sourceUrl": "https://www.advancedwebranking.com/rank-tracker.html",
+  "dataVisibility": ["PUBLIC"]
+}

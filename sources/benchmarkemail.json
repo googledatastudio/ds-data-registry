@@ -1,0 +1,10 @@
+{
+  "id": "BENCHMARKEMAIL",
+  "name": "Benchmark Email",
+  "categories": ["MARKETING", "EMAIL"],
+  "organization": "BENCHMARKEMAIL",
+  "iconUrl":
+    "https://www.benchmarkemail.com/wp-content/uploads/2019/09/benchmark-logo.svg",
+  "sourceUrl": "https://www.benchmarkemail.com/",
+  "dataVisibility": ["PRIVATE"]
+}

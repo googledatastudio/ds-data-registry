@@ -1,0 +1,10 @@
+{
+  "id": "TELMETRICS",
+  "name": "Telmetrics",
+  "categories": ["CALL_TRACKING", "CLOUD_COMMUNICATIONS"],
+  "organization": "TELMETRICS",
+  "iconUrl":
+    "https://www.tapclicks.com/wp-content/uploads/2016/10/Telmetrics.svg",
+  "sourceUrl": "https://telmetrics.com/",
+  "dataVisibility": ["PRIVATE"]
+}
