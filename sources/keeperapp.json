@@ -1,0 +1,10 @@
+{
+  "id": "KEEPERAPP",
+  "name": "KeeperApp.io",
+  "categories": ["ANALYTICS"],
+  "organization": "MACHTIG",
+  "iconUrl":
+    "https://keeperapp.io/favicon.ico",
+  "sourceUrl": "https://keeperapp.io/",
+  "dataVisibility": ["PRIVATE"]
+}
