@@ -4,7 +4,7 @@
   "name": "Facebook Audience Network",
   "categories": ["MARKETING"],
   "organization": "FACEBOOK",
-  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/FB.png",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/FAN.png",
   "sourceUrl": "https://www.facebook.com/business/marketing/audience-network",
   "dataVisibility": ["PRIVATE"]
 }
