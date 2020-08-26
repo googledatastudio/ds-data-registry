@@ -1,0 +1,9 @@
+{
+  "id": "SLYMETRIX_V1_3",
+  "name": "Slymetrix V1.3",
+  "categories": ["ANALYTICS"],
+  "organization": "SLYMETRIX_SRL",
+  "iconUrl": "https://www.slymetrix.com/images/slymetrix_1000x722.png",
+  "sourceUrl": "https://www.slymetrix.com/",
+  "dataVisibility": ["PRIVATE"]
+}
