@@ -1,0 +1,9 @@
+{
+    "id": "ATTRIBUTZ",
+    "name": "Attributz",
+    "categories": ["ADVERTISING", "ANALYTICS", "MARKETING", "TOOLS"],
+    "organization": "Attributz",
+    "iconUrl": "https://raw.githubusercontent.com/attributz/attributz.github.io/master/favicon.ico",
+    "sourceUrl": "https://attributz.github.io/data-studio-connector.html",
+    "dataVisibility": ["PUBLIC"]
+  }
