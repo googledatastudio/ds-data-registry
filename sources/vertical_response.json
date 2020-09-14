@@ -1,0 +1,10 @@
+{
+  "id": "VERTICAL_RESPONSE",
+  "name": "VerticalResponse",
+  "categories": ["MARKETING", "CRM"],
+  "organization": "VERTICAL_RESPONSE",
+  "iconUrl":
+    "https://www.verticalresponse.com/sites/all/themes/bootstrap/VRLogoTag.2C.svg",
+  "sourceUrl": "https://www.verticalresponse.com/",
+  "dataVisibility": ["PRIVATE"]
+}

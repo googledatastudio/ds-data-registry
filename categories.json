@@ -16,6 +16,10 @@
     "name": "Custom"
   },
   {
+    "id": "CUSTOMER_SUPPORT",
+    "name": "Customer Support"
+  },
+  {
     "id": "DATABASE",
     "name": "Database"
   },
@@ -122,5 +126,9 @@
   {
     "id": "TIME_SERIES",
     "name": "Time Series"
+  },
+  {
+    "id": "POS",
+    "name": "Point of Sales"
   }
 ]

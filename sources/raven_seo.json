@@ -1,0 +1,10 @@
+{
+  "id": "RAVEN_SEO",
+  "name": "Raven SEO",
+  "categories": ["ADVERTISING", "SEO", "ANALYTICS"],
+  "organization": "RAVEN_TOOLS",
+  "iconUrl":
+    "https://www.tapclicks.com/wp-content/uploads/2020/06/RavenSiteAuditor-1.svg",
+  "sourceUrl": "https://raventools.com/seo-tools/",
+  "dataVisibility": ["PRIVATE"]
+}

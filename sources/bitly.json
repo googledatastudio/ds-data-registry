@@ -1,0 +1,10 @@
+{
+  "id": "BITLY",
+  "name": "Bitly",
+  "categories": ["ANALYTICS", "TOOLS"],
+  "organization": "BITLY",
+  "iconUrl":
+    "https://docrdsfx76ssb.cloudfront.net/static/1594843646/pages/wp-content/uploads/2019/02/bitly.png",
+  "sourceUrl": "https://bitly.com/",
+  "dataVisibility": ["PRIVATE"]
+}
