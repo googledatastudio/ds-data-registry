@@ -1,0 +1,9 @@
+{
+  "id": "CALLTRACKING",
+  "name": "CallTracking",
+  "categories": ["CALL_TRACKING", "ANALYTICS"],
+  "organization": "GETONTOP",
+  "iconUrl": "https://app.calltracking.net/General/Logos/calltracking_logo.png",
+  "sourceUrl": "https://www.calltracking.at/",
+  "dataVisibility": ["PRIVATE"]
+}
