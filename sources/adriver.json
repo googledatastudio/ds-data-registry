@@ -1,0 +1,9 @@
+{
+  "id": "ADRIVER",
+  "name": "AdRiver",
+  "categories": ["ADVERTISING"],
+  "organization": "ADRIVER",
+  "iconUrl": "https://www.adriver.ru/files/logo/adriver-logo.png",
+  "sourceUrl": "https://www.adriver.ru/",
+  "dataVisibility": ["PRIVATE"]
+}
