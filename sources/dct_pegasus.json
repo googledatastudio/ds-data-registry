@@ -1,0 +1,9 @@
+{
+  "id": "DCT_PEGASUS",
+  "name": "Pegasus Gateway",
+  "categories": ["IOT", "ANALYTICS", "TIME_TRACKING", "TIME_SERIES"],
+  "organization": "DCT",
+  "iconUrl": "https://cdn.pegasusgateway.com/images/apps/icon.png",
+  "sourceUrl": " https://www.digitalcomtech.com/products/application-enablement-platform/",
+  "dataVisibility": ["PRIVATE"]
+}
