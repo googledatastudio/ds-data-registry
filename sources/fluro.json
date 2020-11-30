@@ -1,0 +1,9 @@
+{
+  "id": "FLURO",
+  "name": "Fluro",
+  "categories": ["CHMS","CRM","DATABASE","CDP"],
+  "organization": "FLURO",
+  "iconUrl": "https://avatars0.githubusercontent.com/u/43832769?s\u003d200\u0026v\u003d4",
+  "sourceUrl": "https://Fluro.io",
+  "dataVisibility": ["PRIVATE"]
+}
