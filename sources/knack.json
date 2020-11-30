@@ -1,0 +1,9 @@
+{
+  "id": "KNACK",
+  "name": "Knack",
+  "categories": ["DATABASE"],
+  "organization": "KNACK",
+  "iconUrl": "https://www.knack.com/favicon.ico",
+  "sourceUrl": "https://knack.com",
+  "dataVisibility": "PRIVATE"
+}
