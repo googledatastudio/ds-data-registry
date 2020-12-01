@@ -1,9 +1,9 @@
 {
   "id": "PRICERUNNER",
   "name": "PriceRunner",
-  "categories": ["ADVERTISING"],
+  "categories": ["ANALYTICS", "ADVERTISING"],
   "organization": "PRICERUNNER",
-  "iconUrl": "https://static.funnel.io/logos/icon48x48/pricerunner.png",
+  "iconUrl": "https://www.pricerunner.com/images/icons/large/pr-logo-dark.png",
   "sourceUrl": "https://www.pricerunner.se/",
   "dataVisibility": ["PRIVATE"]
 }
