@@ -1,9 +1,0 @@
-{
-  "id": "PRICERUNNER_DATA",
-  "name": "PriceRunner Data",
-  "categories": ["ANALYTICS"],
-  "organization": "PRICERUNNER",
-  "iconUrl": "https://www.pricerunner.com/images/icons/large/pr-logo-dark.png",
-  "sourceUrl": "https://www.pricerunner.se/",
-  "dataVisibility": ["PRIVATE"]
-}
