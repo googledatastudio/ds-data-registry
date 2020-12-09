@@ -1,6 +1,6 @@
 {
-  "id": "GOOGLE_TABLES",
-  "name": "Google Tables by Area 120 (Beta)",
+  "id": "GOOGLE_TABLES_AREA120",
+  "name": "Google Tables by Area 120",
   "categories": ["DATABASE"],
   "organization": "GOOGLE",
   "iconUrl":
