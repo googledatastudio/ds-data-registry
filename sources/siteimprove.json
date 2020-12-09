@@ -1,0 +1,9 @@
+{
+  "id": "SITEIMPROVE",
+  "name": "Siteimprove",
+  "categories": ["TOOLS", "MARKETING", "SEO"],
+  "organization": "SITEIMPROVE",
+  "iconUrl": "https://siteimprove.com/images/global/siteimprove-logo.png",
+  "sourceUrl": "https://siteimprove.com/",
+  "dataVisibility": ["PRIVATE"]
+}
