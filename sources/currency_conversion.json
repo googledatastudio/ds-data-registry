@@ -1,0 +1,9 @@
+{
+  "id": "CURRENCY_EXCHANGE",
+  "name": "CURRENCY EXCHANGE",
+  "categories": [ "FINANCE" ],
+  "organization": "EUROPEAN_CENTRAL_BANK",
+  "iconUrl": "https://exchangeratesapi.io/static/logo.svg",
+  "sourceUrl": "https://exchangeratesapi.io/",
+  "dataVisibility": [ "PUBLIC" ]
+}
