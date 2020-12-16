@@ -1,9 +1,0 @@
-{
-  "id": "PEPPERJAM",
-  "name": "Pepperjam",
-  "categories": ["ADVERTISING"],
-  "organization": "PEPPERJAM_NETWORK",
-  "iconUrl": "https://www.pepperjam.com/hubfs/pepperjam_ico_40x40.png",
-  "sourceUrl": "https://pepperjam.com/",
-  "dataVisibility": ["PRIVATE"]
-}

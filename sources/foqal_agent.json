@@ -1,9 +1,0 @@
-{
-  "id": "FOQAL_AGENT",
-  "name": "Foqal Agent",
-  "categories": ["CHAT_TRACKING", "TIME_TRACKING", "CUSTOMER_SUPPORT"],
-  "organization": "FOQAL",
-  "iconUrl": "http://static.foqal.io/agent/logo/logo-64.png",
-  "sourceUrl": "https://foqal.io",
-  "dataVisibility": ["PRIVATE"]
-}

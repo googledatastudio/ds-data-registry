@@ -1,9 +1,0 @@
-{
-  "id": "AFAS_PROFIT",
-  "name": "AFAS Profit",
-  "categories": ["FINANCE", "CRM"],
-  "organization": "AFAS",
-  "iconUrl": "https://cdn.gladior.com/afas_profit.png",
-  "sourceUrl": "https://www.afas.nl/software/",
-  "dataVisibility": ["PRIVATE"]
-}
