@@ -16,6 +16,10 @@
     "name": "Custom"
   },
   {
+    "id": "CUSTOMER_SUPPORT",
+    "name": "Customer Support"
+  },
+  {
     "id": "DATABASE",
     "name": "Database"
   },
