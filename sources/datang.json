@@ -1,0 +1,9 @@
+{
+  "id": "DATANG",
+  "name": "Datang.my",
+  "categories": ["TIME_TRACKING"],
+  "organization": "BAYAM",
+  "iconUrl": "https://datang.my/img/icon.png",
+  "sourceUrl": "https://datang.my",
+  "dataVisibility": ["PRIVATE"]
+}
