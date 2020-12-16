@@ -1,0 +1,10 @@
+{
+    "id": "SMARTSHEET",
+    "name": "Smartsheet",
+    "categories": ["TOOLS"],
+    "organization": "SMARTSHEET",
+    "iconUrl": "https://www.smartsheet.com/themes/custom/valinor/images/smartsheet-logo-horizontal.svg",
+    "sourceUrl": "https://www.smartsheet.com",
+    "dataVisibility": ["PRIVATE"]
+  }
+  
