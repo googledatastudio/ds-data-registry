@@ -1,6 +1,6 @@
 {
-  "id": "CURRENCY_EXCHANGE",
-  "name": "CURRENCY EXCHANGE",
+  "id": "CURRENCY_CURRENCY",
+  "name": "CURRENCY CURRENCY",
   "categories": [ "FINANCE" ],
   "organization": "EUROPEAN_CENTRAL_BANK",
   "iconUrl": "https://exchangeratesapi.io/static/logo.svg",
