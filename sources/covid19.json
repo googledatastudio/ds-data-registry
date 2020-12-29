@@ -1,0 +1,9 @@
+{
+  "id": "COVID19",
+  "name": "Covid19",
+  "categories": ["PUBLIC_DATA"],
+  "organization": "COVID19",
+  "iconUrl": "http://apps-script.ninja/images/covid_40x40.png",
+  "sourceUrl": "https://covid19api.com/",
+  "dataVisibility": ["PUBLIC"]
+}
