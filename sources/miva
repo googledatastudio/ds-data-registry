@@ -1,0 +1,10 @@
+{
+  "id": "MIVA",
+  "name": "Miva",
+  "categories": ["ECOMMERCE"],
+  "organization": "MIVA",
+  "iconUrl":
+    "https://www.miva.com/forums/images/quarto/asphalt_light/misc/vbulletin5_logo.svg",
+  "sourceUrl": "https://www.miva.com",
+  "dataVisibility": ["PRIVATE"]
+}
