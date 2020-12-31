@@ -1,0 +1,9 @@
+{
+  "id": "PLANNING_CENTER",
+  "name": "PLaning Center",
+  "categories": ["CHMS"],
+  "organization": "PLANNING_CENTER",
+  "iconUrl": "https://www.planningcenter.com/icons-05cd21fb9d4d4d5dc0d2a8075ae742f5/favicon.ico",
+  "sourceUrl": "https://www.planningcenter.com/",
+  "dataVisibility": ["PRIVATE"]
+}
