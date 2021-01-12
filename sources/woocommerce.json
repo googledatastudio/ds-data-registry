@@ -1,0 +1,10 @@
+{
+  "id": "WOOCOMMERCE",
+  "name": "WooCommerce",
+  "categories": ["ECOMMERCE"],
+  "organization": "WOOCOMMERCE",
+  "iconUrl":
+    "https://woocommerce.com/wp-content/themes/woo/images/logo-woocommerce.svg",
+  "sourceUrl": "https://www.woocommerce.com/",
+  "dataVisibility": ["PRIVATE"]
+}
