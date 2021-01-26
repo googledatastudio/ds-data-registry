@@ -1,0 +1,9 @@
+{
+  "id": "HOLMES ADS",
+  "name": "HOLMES ADS",
+  "categories": ["ADVERTISING"],
+  "organization": "Clickforce",
+  "iconUrl": "https://dsp.holmesmind.com/image/HOLMES-icon.png",
+  "sourceUrl": "https://dsp.holmesmind.com",
+  "dataVisibility": ["PRIVATE"]
+}
