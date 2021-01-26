@@ -1,0 +1,10 @@
+{
+  "id": "DAKTELA",
+  "name": "Daktela V6",
+  "categories": ["ANALYTICS", "CDR", "CRM"],
+  "organization": "DAKTELA",
+  "iconUrl":
+    "https://www.daktela.com/wp-content/uploads/2019/08/BarevnePositive.png",
+  "sourceUrl": "https://www.daktela.com/",
+  "dataVisibility": ["PRIVATE"]
+}

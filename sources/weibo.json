@@ -1,0 +1,9 @@
+{
+  "id": "WEIBO",
+  "name": "Weibo",
+  "categories": ["SOCIAL"],
+  "organization": "WEIBO",
+  "iconUrl": "https://www.flaticon.com/free-icon/weibo_408769",
+  "sourceUrl": "https://www.weibo.com",
+  "dataVisibility": ["PRIVATE"]
+}

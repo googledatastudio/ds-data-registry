@@ -1,0 +1,10 @@
+{
+  "id": "CRAIGSLIST",
+  "name": "Craigslist",
+  "categories": ["ADVERTISING", "SALES"],
+  "organization": "CRAIGSLIST",
+  "iconUrl":
+    "https://www.tapclicks.com/wp-content/uploads/2020/05/craigslist-01.svg",
+  "sourceUrl": "hhttp://www.craigslist.org/",
+  "dataVisibility": ["PRIVATE"]
+}

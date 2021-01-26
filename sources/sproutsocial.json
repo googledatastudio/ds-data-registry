@@ -1,0 +1,9 @@
+{
+  "id": "SPROUTSOCIAL",
+  "name": "Sprout Social",
+  "categories": ["TOOLS", "SOCIAL"],
+  "organization": "SPROUT_SOCIAL",
+  "iconUrl": "https://media.sproutsocial.com/uploads/favicon_2015-07-29.ico",
+  "sourceUrl": "https://sproutsocial.com/",
+  "dataVisibility": ["PRIVATE"]
+}

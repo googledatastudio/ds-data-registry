@@ -1,0 +1,9 @@
+{
+  "id": "RANK_RANGER",
+  "name": "Rank Ranger Campaign Stats",
+  "categories": ["ANALYTICS", "DATA_COLLECTION"],
+  "organization": "RANK_RANGER",
+  "iconUrl": "https://img.rankranger.com/web/logos/icon_40.png",
+  "sourceUrl": "https://www.rankranger.com/",
+  "dataVisibility": ["PRIVATE"]
+}

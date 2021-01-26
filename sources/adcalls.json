@@ -1,0 +1,9 @@
+{
+  "id": "ADCALLS",
+  "name": "AdCalls",
+  "categories": ["CALL_TRACKING", "ANALYTICS", "CDR"],
+  "organization": "ADCALLS",
+  "iconUrl": "https://adcalls.nl/wp-content/uploads/2019/11/logo-adcalls.png",
+  "sourceUrl": "https://adcalls.nl",
+  "dataVisibility": ["PRIVATE"]
+}

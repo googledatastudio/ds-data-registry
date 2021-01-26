@@ -1,0 +1,9 @@
+{
+  "id": "ZILLOW",
+  "name": "Zillow",
+  "categories": ["ADVERTISING", "SEARCH"],
+  "organization": "ZILLOW",
+  "iconUrl": "https://www.zillow.com/favicon.ico",
+  "sourceUrl": "https://www.zillow.com/",
+  "dataVisibility": ["PRIVATE"]
+}

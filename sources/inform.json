@@ -1,0 +1,9 @@
+{
+  "id": "INFORM",
+  "name": "Inform",
+  "categories": ["ADVERTISING", "ANALYTICS"],
+  "organization": "INFORM",
+  "iconUrl": "http://inform.com/assets/images/inform-logo.svg",
+  "sourceUrl": "http://inform.com/",
+  "dataVisibility": ["PRIVATE"]
+}

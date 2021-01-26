@@ -1,0 +1,10 @@
+{
+  "id": "SHOUTABOUTUS",
+  "name": "Shout About Us",
+  "categories": ["ANALYTICS", "MARKETING", "ADVERTISING"],
+  "organization": "SHOUT_ABOUT_US",
+  "iconUrl":
+    "https://www.tapclicks.com/wp-content/uploads/2020/06/ShoutAboutUS.svg",
+  "sourceUrl": "https://shoutaboutus.com/",
+  "dataVisibility": ["PRIVATE"]
+}

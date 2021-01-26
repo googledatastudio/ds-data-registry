@@ -1,0 +1,9 @@
+{
+  "id": "TWIAGO",
+  "name": "twiago",
+  "categories": ["ADVERTISING"],
+  "organization": "TWIAGO",
+  "iconUrl": "https://www.twiago.com/favicon.ico",
+  "sourceUrl": "https://www.twiago.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "SOLEO",
+  "name": "Soleo",
+  "categories": [
+    "CALL_TRACKING",
+    "CLOUD_COMMUNICATIONS",
+    "ADVERTISING",
+    "ANALYTICS"
+  ],
+  "organization": "SOLEO",
+  "iconUrl": "https://www.soleo.com/static/images/logo.png?v=1566428387",
+  "sourceUrl": "https://www.soleo.com/",
+  "dataVisibility": ["PRIVATE"]
+}

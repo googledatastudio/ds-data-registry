@@ -1,0 +1,9 @@
+{
+  "id": "WUFOO",
+  "name": "Wufoo",
+  "categories": ["TOOLS", "ANALYTICS", "DATA_COLLECTION", "DATABASE"],
+  "organization": "WUFOO",
+  "iconUrl": "https://www.tapclicks.com/wp-content/uploads/2020/06/WUFOO.svg",
+  "sourceUrl": "https://www.wufoo.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "HOUZZ",
+  "name": "houzz",
+  "categories": ["ADVERTISING", "SEARCH"],
+  "organization": "HOUZZ",
+  "iconUrl": "https://www.houzz.com/favicon.ico",
+  "sourceUrl": "https://www.houzz.com",
+  "dataVisibility": ["PRIVATE"]
+}

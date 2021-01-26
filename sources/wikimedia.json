@@ -1,0 +1,10 @@
+{
+  "id": "WIKIMEDIA",
+  "name": "Wikimedia",
+  "categories": ["PUBLIC_DATA"],
+  "organization": "WIKIMEDIA_FOUNDATION",
+  "iconUrl":
+    "https://upload.wikimedia.org/wikipedia/commons/7/75/Wikimedia_Community_Logo.svg",
+  "sourceUrl": "https://wikimedia.org",
+  "dataVisibility": ["PUBLIC"]
+}

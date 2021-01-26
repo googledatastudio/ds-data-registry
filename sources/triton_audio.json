@@ -1,0 +1,10 @@
+{
+  "id": "TRITON_AUDIO",
+  "name": "tritonaudio",
+  "categories": ["ADVERTISING", "MARKETING"],
+  "organization": "TRITON_AUDIO",
+  "iconUrl":
+    "https://www.tapclicks.com/wp-content/uploads/2020/06/TritonDigital.svg",
+  "sourceUrl": "https://www.tritonaudio.com/",
+  "dataVisibility": ["PRIVATE"]
+}

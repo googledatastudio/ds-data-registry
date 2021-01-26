@@ -1,0 +1,9 @@
+{
+  "id": "TRACKAD",
+  "name": "TrackAd",
+  "categories": ["ADVERTISING"],
+  "organization": "TRACKAD",
+  "iconUrl": "https://tms-st.cdn.ngenix.net/logo_sources/trackad_logo_48x48.png",
+  "sourceUrl": "https://trackad.ai/",
+  "dataVisibility": ["PRIVATE"]
+}

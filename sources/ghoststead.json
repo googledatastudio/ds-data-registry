@@ -1,0 +1,10 @@
+{
+  "id": "GHOSTSTEAD",
+  "name": "GhostStead",
+  "categories": ["CLOUD", "ANALYTICS"],
+  "organization": "GHOSTSTEAD",
+  "iconUrl":
+    "https://static.ghoststead.com/assets/images/ghoststead-color-icon.svg",
+  "sourceUrl": "https://www.ghoststead.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -3,8 +3,7 @@
   "name": "CartStack",
   "categories": ["EMAIL"],
   "organization": "CARTSTACK",
-  "iconUrl":
-    "https://www.cartstack.com/assets/img/icon.png",
+  "iconUrl": "https://www.cartstack.com/assets/img/icon.png",
   "sourceUrl": "https://www.cartstack.com/",
   "dataVisibility": ["PRIVATE"]
 }

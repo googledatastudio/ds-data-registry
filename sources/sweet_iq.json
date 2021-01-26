@@ -1,0 +1,10 @@
+{
+  "id": "SWEET_IQ",
+  "name": "SweetIq",
+  "categories": ["ADVERTISING", "MARKETING", "ANALYTICS"],
+  "organization": "SWEET_IQ",
+  "iconUrl":
+    "https://www.tapclicks.com/wp-content/uploads/2020/06/SweetIQ-1.svg",
+  "sourceUrl": "https://sweetiq.com/",
+  "dataVisibility": ["PRIVATE"]
+}

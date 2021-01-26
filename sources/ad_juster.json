@@ -1,0 +1,9 @@
+{
+  "id": "AD_JUSTER",
+  "name": "Ad-Juster",
+  "categories": ["ADVERTISING", "ANALYTICS"],
+  "organization": "AD_JUSTER",
+  "iconUrl": "https://www.ad-juster.com/images/ajlogo-dv-white.svg",
+  "sourceUrl": "https://www.ad-juster.com/",
+  "dataVisibility": ["PRIVATE"]
+}

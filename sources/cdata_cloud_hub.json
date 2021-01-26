@@ -1,0 +1,9 @@
+{
+  "id": "CDATA_CLOUD_HUB",
+  "name": "CData Cloud Hub",
+  "categories": ["CLOUD", "DATABASE"],
+  "organization": "CDATA",
+  "iconUrl": "http://www.cdata.com/ui/img/cdata_reverse_100x100.png",
+  "sourceUrl": "https://www.cdata.com/cloudhub/",
+  "dataVisibility": ["PRIVATE"]
+}

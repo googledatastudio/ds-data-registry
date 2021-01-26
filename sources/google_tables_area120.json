@@ -1,0 +1,10 @@
+{
+  "id": "GOOGLE_TABLES_AREA120",
+  "name": "Google Tables by Area 120",
+  "categories": ["DATABASE"],
+  "organization": "GOOGLE",
+  "iconUrl":
+    "https://gstatic.com/tables/images/logo-beta-240-opti.png",
+  "sourceUrl": "https://tables.area120.google.com/",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}

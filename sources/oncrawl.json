@@ -1,0 +1,9 @@
+{
+  "id": "ONCRAWL",
+  "name": "OnCrawl",
+  "categories": ["SEO", "TOOLS"],
+  "organization": "ONCRAWL",
+  "iconUrl": "https://static2.oncrawl.com/favicon-oncrawl-40px.jpg",
+  "sourceUrl": "https://www.oncrawl.com/",
+  "dataVisibility": ["PRIVATE"]
+}

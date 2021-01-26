@@ -1,0 +1,10 @@
+{
+  "id": "CONTENTSQUARE",
+  "name": "Contentsquare",
+  "categories": ["ANALYTICS"],
+  "organization": "CONTENTSQUARE",
+  "iconUrl":
+    "https://gds-connector-assets.s3-eu-west-1.amazonaws.com/connector-icon.png",
+  "sourceUrl": "https://www.contentsquare.com",
+  "dataVisibility": ["PRIVATE"]
+}
