@@ -1,0 +1,9 @@
+{
+  "id": "SMARP",
+  "name": "Smarp",
+  "categories": ["CLOUD_COMMUNICATIONS"],
+  "organization": "SMARP",
+  "iconUrl": "https://assets.supermetrics.com/images/dsLogos/Smarp.png"
+  "sourceUrl": "https://smarp.com/",
+  "dataVisibility": ["PRIVATE"]
+}
