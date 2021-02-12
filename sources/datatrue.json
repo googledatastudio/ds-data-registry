@@ -1,0 +1,9 @@
+{
+  "id": "DATATRUE",
+  "name": "DataTrue",
+  "categories": ["ANALYTICS", "TOOLS"],
+  "organization": "DATATRUE",
+  "iconUrl": "https://datatrue.com/favicon.ico",
+  "sourceURL": "https://datatrue.com",
+  "dataVisibility": "PRIVATE"
+}
