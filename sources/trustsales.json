@@ -1,0 +1,9 @@
+{
+  "id": "TRUSTSALE",
+  "name": "TRUSTSALE",
+  "categories": ["CRM"],
+  "organization": "TRUSTSALE",
+  "iconUrl": "https://trustsales.vn/Content/Image/logo.png",
+  "sourceUrl": "https://trustsales.vn/",
+  "dataVisibility": ["PRIVATE"]
+}
