@@ -1,0 +1,10 @@
+{
+  "id": "ORTEC_ADSCIENCE",
+  "name": "Ortec Adscience",
+  "categories": ["ADVERTISING"],
+  "organization": "ORTEC_MARKETING",
+  "iconUrl":
+    "https://www.ortecadscience.com/wp-content/uploads/2018/02/cropped-Optimized-By-ORTEC-mark-32x32.png",
+  "sourceUrl": "https://www.ortecadscience.com/",
+  "dataVisibility": ["PRIVATE"]
+}

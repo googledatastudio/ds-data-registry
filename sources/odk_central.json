@@ -1,0 +1,9 @@
+{
+  "id": "ODK_CENTRAL",
+  "name": "ODK Central",
+  "categories": ["DATA_COLLECTION"],
+  "organization": "ODK",
+  "iconUrl": "https://getodk.org/assets/img/logo/40x40.png",
+  "sourceUrl": "https://docs.getodk.org/central-intro/",
+  "dataVisibility": ["PRIVATE"]
+}

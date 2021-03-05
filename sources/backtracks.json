@@ -1,0 +1,10 @@
+{
+  "id": "BACKTRACKS",
+  "name": "Backtracks",
+  "categories": ["ANALYTICS", "ADVERTISING", "MARKETING"],
+  "organization": "BACKTRACKS",
+  "iconUrl":
+    "https://public-cdn.backtracks.fm/static/site/img/logos/backtracks-256x256-logo.png",
+  "sourceUrl": "https://backtracks.fm/",
+  "dataVisibility": ["PRIVATE"]
+}

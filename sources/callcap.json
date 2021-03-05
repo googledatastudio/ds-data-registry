@@ -1,0 +1,9 @@
+{
+  "id": "CALLCAP",
+  "name": "CallCap",
+  "categories": ["ANALYTICS", "CALL_TRACKING", "CDR"],
+  "organization": "CALLCAP",
+  "iconUrl": "https://www.tapclicks.com/wp-content/uploads/2017/01/CallCap.svg",
+  "sourceUrl": "https://callcap.com/",
+  "dataVisibility": ["PRIVATE"]
+}

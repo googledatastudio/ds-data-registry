@@ -1,0 +1,9 @@
+{
+  "id": "GENIUSMONKEY",
+  "name": "GeniusMonkey",
+  "categories": ["ADVERTISING"],
+  "organization": "GENIUSMONKEY",
+  "iconUrl": "https://geniusmonkey.com/img/logos/geniusmonkey-logo.png",
+  "sourceUrl": "https://geniusmonkey.com/",
+  "dataVisibility": ["PRIVATE"]
+}

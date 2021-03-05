@@ -1,0 +1,9 @@
+{
+  "id": "CUSTOBAR",
+  "name": "Custobar",
+  "categories": ["MARKETING"],
+  "organization": "CUSTOBAR",
+  "iconUrl": "https://www.custobar.com/images-theme/favicon.ico",
+  "sourceUrl": "https://www.custobar.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "WIDEORBIT",
+  "name": "WideOrbit",
+  "categories": ["ADVERTISING"],
+  "organization": "WIDEORBIT",
+  "iconUrl":
+    "https://www.wideorbit.com/wp-content/themes/wo-2/favicon/favicon-32x32.png",
+  "sourceUrl": "https://www.wideorbit.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+    "id": "SONARCLOUD",
+    "name": "SonarCloud",
+    "categories": ["TOOLS", "CLOUD"],
+    "organization": "SONARCLOUD",
+    "iconUrl": "https://sonarsource.gallerycdn.vsassets.io/extensions/sonarsource/sonarcloud/1.20.1/1605882496771/Microsoft.VisualStudio.Services.Icons.Default",
+    "sourceUrl": "https://sonarcloud.io/",
+    "dataVisibility": [ "PRIVATE" ]
+}

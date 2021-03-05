@@ -2,5 +2,6 @@
   "id": "RUBICON",
   "name": "Rubicon",
   "orgUrl": "https://resources.rubiconproject.com/",
-  "iconUrl": "https://resources.rubiconproject.com/wp-content/themes/trp-child/img/logos/256x42_RPRC_logo_aqua.png"
+  "iconUrl":
+    "https://resources.rubiconproject.com/wp-content/themes/trp-child/img/logos/256x42_RPRC_logo_aqua.png"
 }

@@ -1,0 +1,10 @@
+{
+  "id": "NETSERTIVE",
+  "name": "Netsertive",
+  "categories": ["ADVERTISING", "ANALYTICS", "SEO", "MARKETING"],
+  "organization": "NETSERTIVE",
+  "iconUrl":
+    "https://assets-global.website-files.com/5ce6deb1a2a5c37ca13b0b8d/5d0957b788760785b15b795b_logo-netsertive-color.svg",
+  "sourceUrl": "https://www.netsertive.com/",
+  "dataVisibility": ["PRIVATE"]
+}

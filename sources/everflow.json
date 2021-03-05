@@ -1,0 +1,9 @@
+{
+  "id": "EVERFLOW",
+  "name": "Everflow",
+  "categories": ["MARKETING", "ANALYTICS"],
+  "organization": "EVERFLOW",
+  "iconUrl": "https://static.everflowclient.io/assets/img/favicon_black.png",
+  "sourceUrl": "https://everflow.io/",
+  "dataVisibility": ["PRIVATE"]
+}

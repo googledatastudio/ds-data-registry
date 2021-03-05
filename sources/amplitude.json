@@ -1,0 +1,9 @@
+{
+  "id": "AMPLITUDE",
+  "name": "Amplitude",
+  "categories": ["ANALYTICS"],
+  "organization": "AMPLITUDE",
+  "iconUrl": "https://amplitude.com/favicon.ico",
+  "sourceUrl": "https://amplitude.com/",
+  "dataVisibility": ["PRIVATE"]
+}

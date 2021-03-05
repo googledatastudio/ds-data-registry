@@ -1,0 +1,9 @@
+{
+  "id": "IPINYOU",
+  "name": "iPinYou",
+  "categories": ["ADVERTISING"],
+  "organization": "IPINYOU",
+  "iconUrl": "https://www.ipinyou.com.cn/favicon.ico",
+  "sourceUrl": "https://www.ipinyou.com.cn/",
+  "dataVisibility": ["PRIVATE"]
+}

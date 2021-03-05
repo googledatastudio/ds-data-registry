@@ -1,0 +1,10 @@
+{
+  "id": "ICONOSQUARE",
+  "name": "Iconosquare",
+  "categories": ["SOCIAL", "TOOLS"],
+  "organization": "ICONOSQUARE",
+  "iconUrl":
+    "https://cdn.iconosquare.com/themes/2018-logged/img/favicons/favicon-32.png",
+  "sourceUrl": "iconosquare.com/",
+  "dataVisibility": ["PRIVATE"]
+}

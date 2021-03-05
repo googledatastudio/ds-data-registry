@@ -1,0 +1,9 @@
+{
+  "id": "RAPIDPRO",
+  "name": "RapidPro",
+  "categories": ["DATA_COLLECTION"],
+  "organization": "NYARUKA",
+  "iconUrl": "http://app.rapidpro.io/sitestatic//brands/rapidpro/rapidpro.ico",
+  "sourceUrl": "https://community.rapidpro.io/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "LOOPME",
+  "name": "LoopMe",
+  "categories": ["MARKETING", "ADVERTISING", "ANALYTICS", "VIDEO"],
+  "organization": "LOOPME",
+  "iconUrl": "https://loopme.com/wp-content/uploads/2018/08/new_red.png",
+  "sourceUrl": "https://loopme.com/",
+  "dataVisibility": ["PRIVATE"]
+}

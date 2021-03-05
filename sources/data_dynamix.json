@@ -1,0 +1,10 @@
+{
+  "id": "DATA_DYNAMIX",
+  "name": "Data Dynamix",
+  "categories": ["MARKETING", "ADVERTISING"],
+  "organization": "DATA_DYNAMIX",
+  "iconUrl":
+    "https://datadynamix.wpengine.com/wp-content/uploads/2018/10/Data-Dynamix.png",
+  "sourceUrl": "https://www.data-dynamix.com/",
+  "dataVisibility": ["PRIVATE"]
+}

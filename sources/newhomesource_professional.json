@@ -1,0 +1,10 @@
+{
+  "id": "NEWHOMESOURCE_PROFESSIONAL",
+  "name": "NewHomeSource Professional",
+  "categories": ["SEARCH"],
+  "organization": "BDX",
+  "iconUrl":
+    "https://resources.newhomesourceprofessional.com/globalresources/images/favicon.ico",
+  "sourceUrl": "https://www.newhomesourceprofessional.com/",
+  "dataVisibility": ["PRIVATE"]
+}

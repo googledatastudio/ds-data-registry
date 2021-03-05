@@ -1,0 +1,9 @@
+{
+  "id": "SCALYR_QUERY",
+  "name": "Scalyr Query",
+  "categories": ["DATABASE"],
+  "organization": "SCALYR",
+  "iconUrl": "https://www.scalyr.com/favicon.ico",
+  "sourceUrl": "https://www.scalyr.com/help/api",
+  "dataVisibility": ["PRIVATE"]
+}

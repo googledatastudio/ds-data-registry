@@ -1,0 +1,9 @@
+{
+  "id": "COMAGIC",
+  "name": "CoMagic",
+  "category": ["ANALYTICS", "CALL_TRACKING", "DATA_COLLECTION", "ADVERTISING"],
+  "organizations": "COMAGIC",
+  "iconUrl": "https://www.comagic.ru/local/templates/main/images/42FN3df.png",
+  "sourceUrl": "https://www.comagic.ru/support/integration/google_data_studio/",
+  "dataVisibility": ["PRIVATE"]
+}

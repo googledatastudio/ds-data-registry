@@ -1,0 +1,10 @@
+{
+  "id": "GROUPON",
+  "name": "Groupon",
+  "categories": ["ECOMMERCE", "MARKETING"],
+  "organization": "GROUPON",
+  "iconUrl":
+    "https://www2.grouponcdn.com/layout/assets/grpn-favicon-966d694a73.ico",
+  "sourceUrl": "https://www.groupon.com/",
+  "dataVisibility": ["PRIVATE"]
+}

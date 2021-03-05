@@ -1,0 +1,10 @@
+{
+  "id": "QONTO",
+  "name": "Qonto API",
+  "categories": ["FINANCE"],
+  "organization": "QONTO",
+  "iconUrl":
+    "https://www.blueprint-analytics.com/wp-content/uploads/2020/02/18053493-e1580747217209.png",
+  "sourceUrl": "https://api-doc.qonto.eu/2.0",
+  "dataVisibility": ["PRIVATE"]
+}

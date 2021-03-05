@@ -1,0 +1,10 @@
+{
+  "id": "SHOPPERS_MIND",
+  "name": "Shopper's Mind",
+  "categories": ["SOCIAL"],
+  "organization": "SHOPPERS_MIND",
+  "iconUrl":
+    "https://smind.si/wp-content/uploads/2017/09/Favicon-ShoppersMind-16X16.png",
+  "sourceUrl": "https://smind.si/",
+  "dataVisibility": ["PRIVATE"]
+}

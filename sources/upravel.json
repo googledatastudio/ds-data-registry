@@ -1,0 +1,10 @@
+{
+  "id": "UPRAVEL",
+  "name": "Upravel",
+  "categories": ["TOOLS"],
+  "organization": "UPRAVEL",
+  "iconUrl":
+    "https://static.tildacdn.com/tild3338-3662-4336-b265-366562383564/favicon.ico",
+  "sourceUrl": "http://upravel.com/",
+  "dataVisibility": ["PRIVATE"]
+}

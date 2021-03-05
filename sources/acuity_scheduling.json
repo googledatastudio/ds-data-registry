@@ -1,0 +1,9 @@
+{
+  "id": "ACUITY_SCHEDULING",
+  "name": "Acuity Scheduling",
+  "categories": ["MARKETING"],
+  "organization": "SQUARESPACE",
+  "iconUrl": "https://secure.acuityscheduling.com/favicon.ico",
+  "sourceUrl": "https://secure.acuityscheduling.com/",
+  "dataVisibility": ["PRIVATE"]
+}

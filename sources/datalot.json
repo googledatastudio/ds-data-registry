@@ -1,0 +1,10 @@
+{
+  "id": "DATALOT",
+  "name": "Datalot",
+  "categories": ["MARKETING"],
+  "organization": "DATALOT",
+  "iconUrl":
+    "https://www.datalot.com/wp-content/themes/datalot.com/favicon.ico",
+  "sourceUrl": "https://www.datalot.com/",
+  "dataVisibility": ["PRIVATE"]
+}

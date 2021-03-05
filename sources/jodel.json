@@ -1,0 +1,9 @@
+{
+  "id": "JODEL",
+  "name": "Jodel",
+  "categories": ["SOCIAL"],
+  "organization": "JODEL",
+  "iconUrl": "https://website.cdn.jodel.com/assets/favicons/favicon.ico",
+  "sourceUrl": "https://jodel.com/",
+  "dataVisibility": ["PRIVATE"]
+}

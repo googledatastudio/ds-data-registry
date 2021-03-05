@@ -1,0 +1,9 @@
+{
+  "id": "AHREFS",
+  "name": "Ahrefs",
+  "categories": ["ANALYTICS", "SEO"],
+  "organization": "AHREFS",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/Ahrefs.png",
+  "sourceUrl": "https://ahrefs.com/",
+  "dataVisibility": ["PRIVATE"]
+}

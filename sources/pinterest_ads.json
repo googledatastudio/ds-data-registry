@@ -1,0 +1,9 @@
+{
+  "id": "PINTEREST_ADS",
+  "name": "Pinterest Ads",
+  "categories": ["ADVERTISING"],
+  "organization": "PINTEREST",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/PIA.png",
+  "sourceUrl": "https://ads.pinterest.com",
+  "dataVisibility": ["PRIVATE"]
+}

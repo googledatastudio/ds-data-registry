@@ -1,0 +1,10 @@
+{
+  "id": "VERIZON_MEDIA_NATIVE",
+  "name": "Verizon Media Native",
+  "categories": ["ADVERTISING", "ANALYTICS", "MARKETING"],
+  "organization": "VERIZON_MEDIA",
+  "iconUrl":
+    "https://www.tapclicks.com/wp-content/uploads/2016/09/VerizonMediaNative-1.svg",
+  "sourceUrl": "https://www.verizonmedia.com/",
+  "dataVisibility": ["PRIVATE"]
+}

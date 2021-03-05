@@ -1,0 +1,9 @@
+{
+  "id": "OWNERIQ",
+  "name": "ownerIQ",
+  "categories": ["ADVERTISING", "DATA_COLLECTION", "ANALYTICS"],
+  "organization": "OWNERIQ",
+  "iconUrl": "https://www.owneriq.com/favicon.ico",
+  "sourceUrl": "https://www.owneriq.com/",
+  "dataVisibility": ["PRIVATE"]
+}

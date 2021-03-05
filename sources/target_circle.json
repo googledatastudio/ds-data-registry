@@ -1,0 +1,9 @@
+{
+  "id": "TARGET_CIRCLE",
+  "name": "Target Circle",
+  "categories": ["TOOLS", "ADVERTISING"],
+  "organization": "TARGET_CIRCLE",
+  "iconUrl": "https://targetcircle.com/assets/images/favicon.ico",
+  "sourceUrl": "https://targetcircle.com/#/",
+  "dataVisibility": ["PRIVATE"]
+}

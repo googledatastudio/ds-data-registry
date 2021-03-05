@@ -1,0 +1,10 @@
+{
+  "id": "CLIPCENTRIC",
+  "name": "ClipCentric",
+  "categories": ["MARKETING", "ADVERTISING"],
+  "organization": "CLIPCENTRIC",
+  "iconUrl":
+    "https://clipcentric-a.akamaihd.net/img/logo_header.png?q=2019080901",
+  "sourceUrl": "https://clipcentric.com/",
+  "dataVisibility": ["PRIVATE"]
+}

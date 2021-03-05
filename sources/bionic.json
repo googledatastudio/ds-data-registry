@@ -1,0 +1,10 @@
+{
+  "id": "BIONIC",
+  "name": "Bionic Advertising Systems",
+  "categories": ["MARKETING", "ADVERTISING"],
+  "organization": "BIONIC",
+  "iconUrl":
+    "https://www.bionic-ads.com/wp-content/uploads/2013/09/Bionic-Logo-123x40-2.png",
+  "sourceUrl": "https://www.bionic-ads.com/",
+  "dataVisibility": ["PRIVATE"]
+}

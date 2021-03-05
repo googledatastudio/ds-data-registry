@@ -1,0 +1,10 @@
+{
+  "id": "OATH",
+  "name": "Oath",
+  "categories": ["ADVERTISING"],
+  "organization": "VERIZON_MEDIA",
+  "iconUrl":
+    "https://s.blogsmithmedia.com/www.oath.com/assets-hd74d3bd3d5f33ae7b92f4074325a5145/images/favicons/oathfavicon_32x32_aa_v2.png?h=d25852b6d1192559e10a591238552633",
+  "sourceUrl": "https://www.oath.com/",
+  "dataVisibility": ["PRIVATE"]
+}
