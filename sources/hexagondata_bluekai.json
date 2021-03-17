@@ -1,0 +1,11 @@
+{
+    "id": "HEXAGONDATA_BK",
+    "name": "Hexagon Data BK",
+    "categories": ["ADVERTISING", "MARKETING", "CDP"],
+    "organization": "HEXAGONDATA",
+    "iconUrl":
+      "https://www.hexagondata.com/wp-content/uploads/2021/01/Logo_HD_b.png",
+    "sourceUrl": "https://www.hexagondata.com/",
+    "dataVisibility": ["PRIVATE"]
+  }
+  
