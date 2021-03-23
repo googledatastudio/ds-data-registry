@@ -1,0 +1,10 @@
+{
+  "id": "DSTILLERY",
+  "name": "dstillery",
+  "categories": ["MARKETING"],
+  "organization": "DSTILLERY",
+  "iconUrl":
+    "https://dstillery.com/wp-content/uploads/2018/05/cropped-dstillery-favicon-32x32.png",
+  "sourceUrl": "https://dstillery.com/",
+  "dataVisibility": ["PRIVATE"]
+}

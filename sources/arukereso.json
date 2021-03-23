@@ -1,0 +1,9 @@
+{
+  "id": "ARUKERESO",
+  "name": "Árukereső",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "ARUKERESO",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/arukereso.png",
+  "sourceUrl": "https://www.arukereso.hu/",
+  "dataVisibility": ["PRIVATE"]
+}

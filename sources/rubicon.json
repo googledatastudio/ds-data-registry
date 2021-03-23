@@ -1,0 +1,10 @@
+{
+  "id": "RUBICON",
+  "name": "Rubicon",
+  "categories": ["ADVERTISING"],
+  "organization": "RUBICON",
+  "iconUrl":
+    "https://resources.rubiconproject.com/wp-content/themes/trp-child/img/logos/256x42_RPRC_logo_aqua.png",
+  "sourceUrl": "https://resources.rubiconproject.com/",
+  "dataVisibility": ["PRIVATE"]
+}

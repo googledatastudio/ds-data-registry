@@ -1,0 +1,10 @@
+{
+  "id": "SOVENDUS",
+  "name": "Sovendus",
+  "categories": ["MARKETING", "ECOMMERCE"],
+  "organization": "SOVENDUS",
+  "iconUrl":
+    "https://www.sovendus.com/typo3conf/ext/sovendus_templates/Resources/Public/favicon.ico",
+  "sourceUrl": "https://www.sovendus.com/en/",
+  "dataVisibility": ["PRIVATE"]
+}

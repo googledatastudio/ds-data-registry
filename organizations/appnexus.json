@@ -1,6 +1,7 @@
 {
   "id": "APPNEXUS",
   "name": "AppNexus",
-  "orgUrl": "https://www.appnexus.com/",
-  "iconUrl": "https://static.funnel.io/logos/icon48x48/appnexus_api.png"
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/appnexus.png",
+  "orgUrl": "https://www.appnexus.com/"
 }

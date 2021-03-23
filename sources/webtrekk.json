@@ -1,0 +1,10 @@
+{
+  "id": "WEBTREKK",
+  "name": "Webtrekk",
+  "categories": ["ANALYTICS"],
+  "organization": "WEBTREKK",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/webtrekk.png",
+  "sourceUrl": "https://www.webtrekk.com/",
+  "dataVisibility": ["PRIVATE"]
+}

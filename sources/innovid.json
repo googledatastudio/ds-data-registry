@@ -1,0 +1,9 @@
+{
+  "id": "INNOVID",
+  "name": "Innovid",
+  "categories": ["MARKETING", "VIDEO"],
+  "organization": "INNOVID",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/innovid.png",
+  "sourceUrl": "https://www.innovid.com/",
+  "dataVisibility": ["PRIVATE"]
+}

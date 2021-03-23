@@ -1,0 +1,10 @@
+{
+  "id": "AOL_ONE",
+  "name": "One by AOL",
+  "categories": ["ADVERTISING"],
+  "organization": "OATH",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/aol_one.png",
+  "sourceUrl": "https://www.onebyaol.com/",
+  "dataVisibility": ["PRIVATE"]
+}

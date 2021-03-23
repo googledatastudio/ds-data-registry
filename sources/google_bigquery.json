@@ -1,0 +1,10 @@
+{
+  "id": "GOOGLE_BIGQUERY",
+  "name": "Google BigQuery",
+  "categories": ["DATABASE"],
+  "organization": "GOOGLE",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/google_bigquery.png",
+  "sourceUrl": "https://cloud.google.com/bigquery/",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}

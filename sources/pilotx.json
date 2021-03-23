@@ -1,0 +1,10 @@
+{
+  "id": "PILOTX",
+  "name": "PilotX",
+  "categories": ["VIDEO", "ANALYTICS"],
+  "organization": "PILOTX",
+  "iconUrl":
+    "https://pilotx.tv/wp-content/uploads/2018/04/PilotX_Hor_Black.png",
+  "sourceUrl": "https://pilotx.tv/",
+  "dataVisibility": ["PRIVATE"]
+}

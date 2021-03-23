@@ -1,0 +1,10 @@
+{
+  "id": "LAMARKMEDIA",
+  "name": "Lamarkmedia",
+  "categories": ["ADVERTISING", "SEO", "EMAIL", "MARKETING"],
+  "organization": "LAMARKMEDIA",
+  "iconUrl":
+    "https://www.lamarkmedia.com/wp-content/themes/lamark/images/logo.svg",
+  "sourceUrl": "https://www.lamarkmedia.com/",
+  "dataVisibility": ["PRIVATE"]
+}

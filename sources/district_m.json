@@ -1,0 +1,10 @@
+{
+  "id": "DISTRICT_M",
+  "name": "district m",
+  "categories": ["ADVERTISING"],
+  "organization": "DISTRICT_M",
+  "iconUrl":
+    "https://www.districtm.net/wp-content/uploads/2019/09/cropped-cropped-DM_Symbol_Color-32x32.png",
+  "sourceUrl": "https://www.districtm.net/",
+  "dataVisibility": ["PRIVATE"]
+}

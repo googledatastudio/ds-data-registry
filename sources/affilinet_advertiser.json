@@ -1,0 +1,11 @@
+{
+  "id": "AFFILINET_ADVERTISER",
+  "name": "Affilinet Advertiser Webservices",
+  "categories": ["ADVERTISING"],
+  "organization": "AWIN",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/affilinet.png",
+  "sourceUrl":
+    "http://developer.affili.net/advertiser-webservices/documentation/",
+  "dataVisibility": ["PRIVATE"]
+}

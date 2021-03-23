@@ -1,0 +1,9 @@
+{
+  "id": "MAILEON",
+  "name": "Maileon",
+  "categories": ["EMAIL", "TOOLS"],
+  "organization": "MAILEON",
+  "iconUrl": "https://www.maileon.co.uk",
+  "sourceUrl": "https://www.maileon.co.uk/wp-content/uploads/favicon.ico",
+  "dataVisibility": ["PRIVATE"]
+}

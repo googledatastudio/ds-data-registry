@@ -1,0 +1,9 @@
+{
+  "id": "CONTENTAD",
+  "name": "content.ad",
+  "categories": ["ADVERTISING", "MARKETING"],
+  "organization": "CONTENTAD",
+  "iconUrl": "https://www.content.ad/theme-assets/favicons/favicon-32x32.png",
+  "sourceUrl": "https://www.content.ad/",
+  "dataVisibility": ["PRIVATE"]
+}

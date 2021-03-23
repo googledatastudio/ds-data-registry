@@ -1,0 +1,9 @@
+{
+  "id": "PARTNERIZE",
+  "name": "Partnerize",
+  "categories": ["ADVERTISING"],
+  "organization": "PARTNERIZE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/partnerize.png",
+  "sourceUrl": "https://partnerize.com",
+  "dataVisibility": ["PRIVATE"]
+}

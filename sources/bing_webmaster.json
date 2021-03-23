@@ -1,0 +1,10 @@
+{
+  "id": "BING_WEBMASTER",
+  "name": "Bing Webmaster Tools",
+  "categories": ["SEO", "ANALYTICS"],
+  "organization": "MICROSOFT",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/bing.png",
+  "sourceUrl": "https://www.bing.com/toolbox/webmaster",
+  "dataVisibility": ["PRIVATE"]
+}

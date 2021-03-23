@@ -3,7 +3,8 @@
   "name": "StackAdapt",
   "categories": ["ADVERTISING"],
   "organization": "STACKADAPT",
-  "iconUrl": "https://static.funnel.io/logos/icon48x48/stackadapt.png",
+  "iconUrl":
+    "https://cdn.stackadapt.com/public/notifications/google-data-studio-icon.png",
   "sourceUrl": "https://www.stackadapt.com/",
   "dataVisibility": ["PRIVATE"]
 }

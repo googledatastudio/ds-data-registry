@@ -1,0 +1,10 @@
+{
+  "id": "ICONTACT",
+  "name": "iContact",
+  "categories": ["MARKETING", "CRM", "EMAIL"],
+  "organization": "ICONTACT",
+  "iconUrl":
+    "https://www.tapclicks.com/wp-content/uploads/2016/08/iContact.svg",
+  "sourceUrl": "https://www.icontact.com/",
+  "dataVisibility": ["PRIVATE"]
+}

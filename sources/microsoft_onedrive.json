@@ -1,0 +1,10 @@
+{
+  "id": "MICROSOFT_ONEDRIVE",
+  "name": "Microsoft OneDrive",
+  "categories": ["STORAGE"],
+  "organization": "MICROSOFT",
+  "iconUrl":
+    "https://adverity-gds-static.s3.amazonaws.com/icons/microsoft_onedrive.png",
+  "sourceUrl": "https://onedrive.live.com/",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}

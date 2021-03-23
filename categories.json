@@ -8,12 +8,24 @@
     "name": "Analytics"
   },
   {
+    "id": "CDR",
+    "name": "Call Detail Record"
+  },
+  {
     "id": "CUSTOM",
     "name": "Custom"
   },
   {
+    "id": "CUSTOMER_SUPPORT",
+    "name": "Customer Support"
+  },
+  {
     "id": "DATABASE",
     "name": "Database"
+  },
+  {
+    "id": "DATA_COLLECTION",
+    "name": "Data Collection"
   },
   {
     "id": "ECOMMERCE",
@@ -56,6 +68,14 @@
     "name": "Social media"
   },
   {
+    "id": "SPORTS",
+    "name": "Sports"
+  },
+  {
+    "id": "STORAGE",
+    "name": "File Storage"
+  },
+  {
     "id": "TOOLS",
     "name": "Tools"
   },
@@ -68,6 +88,10 @@
     "name": "Video"
   },
   {
+    "id": "CLOUD",
+    "name": "Cloud"
+  },
+  {
     "id": "CLOUD_COMMUNICATIONS",
     "name": "Cloud Communications"
   },
@@ -76,11 +100,35 @@
     "name": "Call Tracking"
   },
   {
+    "id": "CHAT_TRACKING",
+    "name": "Chat Tracking"
+  },
+  {
     "id": "CRM",
     "name": "Customer Relationship Management"
   },
   {
     "id": "TIME_TRACKING",
     "name": "Time Tracking"
+  },
+  {
+    "id": "CHMS",
+    "name": "Church Manangement System"
+  },
+  {
+    "id": "IOT",
+    "name": "IoT Reporting"
+  },
+  {
+    "id": "CDP",
+    "name": "Customer Data Platform"
+  },
+  {
+    "id": "TIME_SERIES",
+    "name": "Time Series"
+  },
+  {
+    "id": "POS",
+    "name": "Point of Sales"
   }
 ]

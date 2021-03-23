@@ -1,0 +1,10 @@
+{
+  "id": "CALLSOURCE",
+  "name": "CallSource",
+  "categories": ["ANALYTICS", "CALL_TRACKING", "CDR"],
+  "organization": "CALLSOURCE",
+  "iconUrl":
+    "https://www.callsource.com/wp-content/themes/call-source/assets/img/call-source-logo.svg",
+  "sourceUrl": "https://www.callsource.com/",
+  "dataVisibility": ["PRIVATE"]
+}

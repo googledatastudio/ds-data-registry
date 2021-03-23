@@ -1,0 +1,8 @@
+{
+  "id": "CUSTOM_AVRO",
+  "name": "Custom AVRO",
+  "categories": ["CUSTOM"],
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/avro.png",
+  "sourceUrl": "https://avro.apache.org/",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}

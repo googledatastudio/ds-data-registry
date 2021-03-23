@@ -1,0 +1,10 @@
+{
+  "id": "CALLERREADY",
+  "name": "CallerReady",
+  "categories": ["CALL_TRACKING"],
+  "organization": "CALLERREADY",
+  "iconUrl":
+    "http://www.callerready.com/wp-content/uploads/2017/03/PPC-01-WEB.png",
+  "sourceUrl": "http://www.callerready.com/",
+  "dataVisibility": ["PRIVATE"]
+}

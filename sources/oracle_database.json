@@ -1,0 +1,10 @@
+{
+  "id": "ORACLE_DATABASE",
+  "name": "Oracle Database",
+  "categories": ["DATABASE"],
+  "organization": "ORACLE",
+  "iconUrl":
+    "https://adverity-gds-static.s3.amazonaws.com/icons/oracle_database.png",
+  "sourceUrl": "https://www.oracle.com/database/technologies/",
+  "dataVisibility": ["PRIVATE"]
+}

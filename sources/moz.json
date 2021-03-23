@@ -1,7 +1,7 @@
 {
   "id": "MOZ",
   "name": "Moz",
-  "categories": ["MARKETING", "TOOLS"],
+  "categories": ["MARKETING", "TOOLS", "SEO"],
   "organization": "MOZ",
   "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/MZ.png",
   "sourceUrl": "https://moz.com",

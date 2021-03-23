@@ -1,0 +1,9 @@
+{
+  "id": "FINANCEADS",
+  "name": "FinanceAds",
+  "categories": ["ADVERTISING"],
+  "organization": "FINANCEADS",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/financeads.png",
+  "sourceUrl": "https://www.financeads.net/",
+  "dataVisibility": ["PRIVATE"]
+}

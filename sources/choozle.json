@@ -1,0 +1,9 @@
+{
+  "id": "CHOOZLE",
+  "name": "Choozle",
+  "categories": ["ADVERTISING"],
+  "organization": "CHOOZLE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/choozle.png",
+  "sourceUrl": "https://choozle.com/",
+  "dataVisibility": ["PRIVATE"]
+}

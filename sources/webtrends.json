@@ -1,0 +1,10 @@
+{
+  "id": "WEBTRENDS",
+  "name": "Webtrends",
+  "categories": ["ANALYTICS"],
+  "organization": "WEBTRENDS",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/webtrends.png",
+  "sourceUrl": "https://www.webtrends.com/",
+  "dataVisibility": ["PRIVATE"]
+}

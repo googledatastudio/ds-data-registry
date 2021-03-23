@@ -1,0 +1,9 @@
+{
+  "id": "NEXTPERF",
+  "name": "Nextperf",
+  "categories": ["ADVERTISING"],
+  "organization": "NEXTPERF",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/nextperf.png",
+  "sourceUrl": "http://www.nextperf.com/",
+  "dataVisibility": ["PRIVATE"]
+}

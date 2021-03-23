@@ -1,0 +1,9 @@
+{
+  "id": "MGID",
+  "name": "MGID",
+  "categories": ["ADVERTISING"],
+  "organization": "MGID",
+  "iconUrl": "https://static.mgid.com/images/favicon/mgid-32x32.png",
+  "sourceUrl": "https://www.mgid.com/",
+  "dataVisibility": ["PRIVATE"]
+}

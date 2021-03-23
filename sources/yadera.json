@@ -1,0 +1,9 @@
+{
+  "id": "YADERA",
+  "name": "Yadera",
+  "categories": ["TOOLS", "CRM", "TIME_TRACKING", "SALES", "FINANCE"],
+  "organization": "YADERA",
+  "iconUrl": "https://www.yadera.com/images/yadera-icon.png",
+  "sourceUrl": "https://www.yadera.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "UBERMEDIA",
+  "name": "UberMedia",
+  "categories": ["MARKETING", "ADVERTISING", "ANALYTICS"],
+  "organization": "UBERMEDIA",
+  "iconUrl":
+    "https://www.tapclicks.com/wp-content/uploads/2020/06/Ubermedia.svg",
+  "sourceUrl": "https://ubermedia.com/",
+  "dataVisibility": ["PRIVATE"]
+}

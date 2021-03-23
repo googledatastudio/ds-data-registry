@@ -1,0 +1,10 @@
+{
+  "id": "QUICKBOOKS_ONLINE",
+  "name": "Quickbooks online",
+  "categories": ["CRM"],
+  "organization": "INTUIT",
+  "iconUrl":
+    "https://www.intuit.com/content/dam/intuit/intuitcom/products/images/icom-featured-product-qb-logo-desktop.png",
+  "sourceUrl": "https://quickbooks.intuit.com/online/",
+  "dataVisibility": ["PRIVATE"]
+}

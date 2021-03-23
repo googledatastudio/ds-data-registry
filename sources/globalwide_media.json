@@ -1,0 +1,10 @@
+{
+  "id": "GLOBALWIDE_MEDIA",
+  "name": "GlobalWide Media",
+  "categories": ["MARKETING", "ADVERTISING", "ANALYTICS", "EMAIL"],
+  "organization": "GLOBALWIDE_MEDIA",
+  "iconUrl":
+    "https://globalwidemedia.com/assets/images/favicon/favicon-32x32.png",
+  "sourceUrl": "https://globalwidemedia.com/",
+  "dataVisibility": ["PRIVATE"]
+}

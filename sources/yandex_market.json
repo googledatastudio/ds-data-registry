@@ -1,0 +1,9 @@
+{
+  "id": "YANDEX_MARKET",
+  "name": "Yandex.Market",
+  "categories": ["ADVERTISING"],
+  "organization": "YANDEX",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/yandexmarket.png",
+  "sourceUrl": "https://market.yandex.ru",
+  "dataVisibility": ["PRIVATE"]
+}

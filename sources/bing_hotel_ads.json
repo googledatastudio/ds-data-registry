@@ -1,0 +1,9 @@
+{
+  "id": "BING_HOTEL_ADS",
+  "name": "Bing Hotel Ads",
+  "categories": ["ADVERTISING", "SEARCH"],
+  "organization": "MICROSOFT",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/AC.png",
+  "sourceUrl": "https://help.ads.microsoft.com/#apex/3/en/56880/1",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "JOBRAPIDO",
+  "name": "Jobrapido",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "JOBRAPIDO",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/jobrapido.png",
+  "sourceUrl": "https://jobrapido.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "ADJUST",
+  "name": "Adjust",
+  "categories": ["ANALYTICS"],
+  "organization": "ADJUST",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/adjust.png",
+  "sourceUrl": "https://www.adjust.com/",
+  "dataVisibility": ["PRIVATE"]
+}

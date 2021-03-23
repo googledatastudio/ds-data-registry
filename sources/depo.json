@@ -1,0 +1,9 @@
+{
+  "id": "DEPO",
+  "name": "Depo.hu",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "DEPO",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/depohu.png",
+  "sourceUrl": "https://www.depo.hu/",
+  "dataVisibility": ["PRIVATE"]
+}

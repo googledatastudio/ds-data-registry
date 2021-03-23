@@ -1,0 +1,9 @@
+{
+  "id": "FIXER",
+  "name": "Fixer",
+  "categories": ["FINANCE"],
+  "organization": "FIXER",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/fixer.png",
+  "sourceUrl": "https://fixer.io/",
+  "dataVisibility": ["PUBLIC"]
+}

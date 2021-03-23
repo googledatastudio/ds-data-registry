@@ -1,0 +1,9 @@
+{
+  "id": "SOURCEKNOWLEDGE",
+  "name": "SourceKnowledge",
+  "categories": ["ADVERTISING"],
+  "organization": "SOURCEKNOWLEDGE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/sourceknowledge.png",
+  "sourceUrl": "http://www.sourceknowledge.com/",
+  "dataVisibility": ["PRIVATE"]
+}

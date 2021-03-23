@@ -1,0 +1,9 @@
+{
+  "id": "MEUBLES",
+  "name": "Meubles",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "MEUBLES",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/meubles.png",
+  "sourceUrl": "https://www.meubles.fr/",
+  "dataVisibility": ["PRIVATE"]
+}

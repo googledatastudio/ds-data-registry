@@ -1,0 +1,9 @@
+{
+  "id": "CHINEASEAN",
+  "name": "ChineseAN.com",
+  "categories": ["ADVERTISING"],
+  "organization": "CHINEASEAN",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/chinesean.png",
+  "sourceUrl": "https://chinesean.com/affiliate/index.do",
+  "dataVisibility": ["PRIVATE"]
+}

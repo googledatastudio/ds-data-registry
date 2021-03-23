@@ -1,0 +1,9 @@
+{
+  "id": "COMSCORE",
+  "name": "comScore",
+  "categories": ["ADVERTISING", "ANALYTICS"],
+  "organization": "COMSCORE",
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/comscore.png",
+  "sourceUrl": "https://www.comscore.com/",
+  "dataVisibility": ["PRIVATE"]
+}

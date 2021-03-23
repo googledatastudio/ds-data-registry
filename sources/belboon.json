@@ -3,7 +3,8 @@
   "name": "Belboon",
   "categories": ["ADVERTISING"],
   "organization": "BELBOON",
-  "iconUrl": "https://static.funnel.io/logos/icon48x48/belboon.png",
-  "sourceUrl": "https://www.belboon.com/en/",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/belboon.png",
+  "sourceUrl": "https://www.belboon.com",
   "dataVisibility": ["PRIVATE"]
 }

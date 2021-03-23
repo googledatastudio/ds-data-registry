@@ -1,0 +1,9 @@
+{
+  "id": "LISTENLOOP",
+  "name": "Listenloop",
+  "categories": ["MARKETING"],
+  "organization": "LISTENLOOP",
+  "iconUrl": "https://listenloop.com/images/ico/favicon.ico",
+  "sourceUrl": "https://listenloop.com/",
+  "dataVisibility": ["PRIVATE"]
+}

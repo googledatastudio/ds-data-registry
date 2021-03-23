@@ -1,0 +1,9 @@
+{
+  "id": "PEOPLEFINDER",
+  "name": "PeopleFinder.com",
+  "categories": ["ADVERTISING", "SEARCH"],
+  "organization": "PEOPLEFINDER",
+  "iconUrl": "https://www.peoplefinder.com/favicon.ico",
+  "sourceUrl": "https://www.peoplefinder.com/",
+  "dataVisibility": ["PRIVATE"]
+}

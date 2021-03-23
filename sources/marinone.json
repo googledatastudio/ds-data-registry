@@ -1,0 +1,10 @@
+{
+  "id": "MARINONE",
+  "name": "MarinOne",
+  "categories": ["ADVERTISING"],
+  "organization": "MARIN_SOFTWARE",
+  "iconUrl":
+    "https://adverity-gds-static.s3.amazonaws.com/icons/marin_software.png",
+  "sourceUrl": "http://www.marinsoftware.com/marinone",
+  "dataVisibility": ["PRIVATE"]
+}

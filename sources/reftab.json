@@ -1,0 +1,9 @@
+{
+  "id": "REFTAB",
+  "name": "Reftab",
+  "categories": ["TOOLS"],
+  "organization": "REFTAB",
+  "iconUrl": "https://www.reftab.com/img/logo-40x40.png",
+  "sourceUrl": "https://www.reftab.com/",
+  "dataVisibility": ["PRIVATE"]
+}

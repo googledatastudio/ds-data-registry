@@ -1,6 +1,7 @@
 {
   "id": "CHANNELPILOT",
   "name": "ChannelPilot",
-  "orgUrl": "https://www.channelpilot.com/",
-  "iconUrl": "https://static.funnel.io/logos/icon48x48/channelpilot.png"
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/channelpilot.png",
+  "orgUrl": "https://www.channelpilot.com/"
 }

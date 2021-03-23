@@ -1,0 +1,10 @@
+{
+  "id": "YARDI_VOYAGER",
+  "name": "Yardi Voyager",
+  "categories": ["MARKETING"],
+  "organization": "YARDI",
+  "iconUrl":
+    "https://media-yardicdn-com-rs.netdna-ssl.com/wp-content/themes/cmw-standard-theme/images/icons/favicon-32x32.png",
+  "sourceUrl": "https://www.yardi.com/products/yardi-voyager/",
+  "dataVisibility": ["PRIVATE"]
+}

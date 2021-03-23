@@ -1,0 +1,9 @@
+{
+  "id": "MOLOCO",
+  "name": "Moloco",
+  "categories": ["ADVERTISING"],
+  "organization": "MOLOCO",
+  "iconUrl": "http://www.molocoads.com/favicon-32x32.png",
+  "sourceUrl": "http://www.molocoads.com/",
+  "dataVisibility": ["PRIVATE"]
+}

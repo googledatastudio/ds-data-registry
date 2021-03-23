@@ -1,0 +1,9 @@
+{
+  "id": "SETSTER",
+  "name": "Setser",
+  "categories": ["TOOLS", "MARKETING"],
+  "organization": "BOXADOR",
+  "iconUrl": "https://www.setster.com/landing-page/images/favicon.ico",
+  "sourceUrl": "https://www.setster.com/",
+  "dataVisibility": ["PRIVATE"]
+}

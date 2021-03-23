@@ -1,0 +1,8 @@
+{
+  "id": "CUSTOM_ZIP",
+  "name": "Custom ZIP",
+  "categories": ["CUSTOM"],
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/custom_zip.png",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}

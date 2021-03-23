@@ -1,0 +1,9 @@
+{
+  "id": "TECHNOLUTIONS_SLATE",
+  "name": "Technolutions Slate",
+  "categories": ["CRM"],
+  "organization": "TECHNOLUTIONS_SLATE",
+  "iconUrl": "https://technolutions-com.cdn.technolutions.net/favicon.ico",
+  "sourceUrl": "https://technolutions.com/",
+  "dataVisibility": ["PRIVATE"]
+}

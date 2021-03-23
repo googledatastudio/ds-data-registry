@@ -1,0 +1,10 @@
+{
+  "id": "SQUARE",
+  "name": "Square",
+  "categories": ["POS"],
+  "organization": "SQUARE",
+  "iconUrl":
+    "https://storage.googleapis.com/ipaas-on-gae.appspot.com/icons/production/providers/26.svg",
+  "sourceUrl": "https://squareup.com/",
+  "dataVisibility": ["PRIVATE"]
+}

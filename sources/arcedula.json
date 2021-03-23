@@ -1,0 +1,9 @@
+{
+  "id": "ARCEDULA",
+  "name": "Árcédula",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "ARCEDULA",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/arcedula.png",
+  "sourceUrl": "https://www.arcedula.hu/",
+  "dataVisibility": ["PRIVATE"]
+}

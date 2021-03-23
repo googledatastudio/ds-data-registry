@@ -1,0 +1,10 @@
+{
+  "id": "DROPBOX",
+  "name": "Dropbox",
+  "categories": ["STORAGE"],
+  "organization": "DROPBOX",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/dropbox.png",
+  "sourceUrl": "https://www.dropbox.com/",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}

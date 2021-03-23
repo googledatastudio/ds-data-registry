@@ -1,0 +1,9 @@
+{
+  "id": "MARIN_SOFTWARE",
+  "name": "Marin Software",
+  "categories": ["MARKETING", "TOOLS"],
+  "organization": "MARIN_SOFTWARE",
+  "iconUrl": "https://www.marinsoftware.com/favicon.ico",
+  "sourceUrl": "https://www.marinsoftware.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "REMAILME",
+  "name": "ReMailMe",
+  "categories": ["ADVERTISING", "EMAIL"],
+  "organization": "REMAILME",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/remailme.png",
+  "sourceUrl": "https://remailme.fr",
+  "dataVisibility": ["PRIVATE"]
+}

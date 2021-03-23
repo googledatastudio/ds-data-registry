@@ -1,0 +1,10 @@
+{
+  "id": "JSWIPE",
+  "name": "JSwipe",
+  "categories": ["SOCIAL"],
+  "organization": "SPARK_NETWORKS",
+  "iconUrl":
+    "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/b7/0b/c0/b70bc060-004c-19c7-5831-71d68e27c452/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/230x0w.jpg",
+  "sourceUrl": "https://jswipeapp.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "MONETISE",
+  "name": "Monetise",
+  "categories": ["ADVERTISING"],
+  "organization": "MONETISE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/monetise.png",
+  "sourceUrl": "https://www.monetise.co.uk/",
+  "dataVisibility": ["PRIVATE"]
+}

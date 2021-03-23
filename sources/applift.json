@@ -1,0 +1,9 @@
+{
+  "id": "APPLIFT",
+  "name": "Applift",
+  "categories": ["ADVERTISING"],
+  "organization": "APPLIFT",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/applift.png",
+  "sourceUrl": "https://www.applift.com/",
+  "dataVisibility": ["PRIVATE"]
+}

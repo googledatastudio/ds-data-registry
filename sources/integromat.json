@@ -1,0 +1,9 @@
+{
+  "id": "INTEGROMAT",
+  "name": "Integromat",
+  "categories": ["TOOLS"],
+  "organization": "INTEGROMAT",
+  "iconUrl": "https://static.integromat.com/logo/256_transparent.png",
+  "sourceUrl": "https://www.integromat.com/",
+  "dataVisibility": ["PRIVATE"]
+}

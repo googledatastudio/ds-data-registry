@@ -1,0 +1,9 @@
+{
+  "id": "LEAD_ALLIANCE",
+  "name": "Lead Alliance",
+  "categories": ["ADVERTISING"],
+  "organization": "LEAD_ALLIANCE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/leadalliance.png",
+  "sourceUrl": "https://www.lead-alliance.net/",
+  "dataVisibility": ["PRIVATE"]
+}

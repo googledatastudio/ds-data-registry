@@ -1,0 +1,9 @@
+{
+  "id": "TREMOR_VIDEO",
+  "name": "Tremor Video",
+  "categories": ["ADVERTISING"],
+  "organization": "TREMOR_INTERNATIONAL",
+  "iconUrl": "https://www.tremorvideo.com/favicon.ico",
+  "sourceUrl": "https://www.tremorvideo.com/",
+  "dataVisibility": ["PRIVATE"]
+}

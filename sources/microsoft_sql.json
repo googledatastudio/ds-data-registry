@@ -1,0 +1,10 @@
+{
+  "id": "MICROSOFT_SQL",
+  "name": "Microsoft SQL Server",
+  "categories": ["DATABASE"],
+  "organization": "MICROSOFT",
+  "iconUrl":
+    "https://adverity-gds-static.s3.amazonaws.com/icons/microsoft_sql.png",
+  "sourceUrl": "https://www.microsoft.com/sql-server/",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}

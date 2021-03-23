@@ -1,0 +1,9 @@
+{
+  "id": "INSIDE_RESPONSE",
+  "name": "Inside Response",
+  "categories": ["MARKETING"],
+  "organization": "INSIDE_RESPONSE",
+  "iconUrl": "https://www.insideresponse.com/assets/img/Logo_32x32.png",
+  "sourceUrl": "https://www.insideresponse.com/",
+  "dataVisibility": ["PRIVATE"]
+}

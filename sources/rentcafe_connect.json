@@ -1,0 +1,9 @@
+{
+  "id": "RENTCAFE_CONNECT",
+  "name": "RENTCafé Connect",
+  "categories": ["CALL_TRACKING"],
+  "organization": "YARDI",
+  "iconUrl": "https://www.rentcafe.com/favicon.ico",
+  "sourceUrl": "https://www.yardi.com/products/rentcafe-connect/",
+  "dataVisibility": ["PRIVATE"]
+}

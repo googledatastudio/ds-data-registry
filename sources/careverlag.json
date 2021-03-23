@@ -1,0 +1,9 @@
+{
+  "id": "CAREVERLAG",
+  "name": "Care Verlag",
+  "categories": ["EMAIL", "MARKETING"],
+  "organization": "CAREVERLAG",
+  "iconUrl": "https://care-verlag.de/favicon.ico",
+  "sourceUrl": "https://care-verlag.de/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "COMMUNICATIONADS",
+  "name": "CommunicationAds",
+  "categories": ["ADVERTISING"],
+  "organization": "COMMUNICATIONADS",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/communicationads.png",
+  "sourceUrl": "https://www.communicationads.net/",
+  "dataVisibility": ["PRIVATE"]
+}
