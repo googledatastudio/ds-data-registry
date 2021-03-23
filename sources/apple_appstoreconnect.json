@@ -1,0 +1,9 @@
+{
+  "id": "APPLE_APPSTORECONNECT",
+  "name": "App Store Connect",
+  "categories": ["ANALYTICS"],
+  "organization": "APPLE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/applesearchads_api.png",
+  "sourceUrl": "https://developer.apple.com/documentation/appstoreconnectapi/download_sales_and_trends_reports",
+  "dataVisibility": ["PRIVATE"]
+}
