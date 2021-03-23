@@ -1,0 +1,9 @@
+{
+  "id": "SEODO",
+  "name": "seo.do",
+  "categories": ["SEO"],
+  "organization": "SEODO",
+  "iconUrl": "https://seo.do/datastudio/assets/logo_40x40.png",
+  "sourceUrl": "https://seo.do/",
+  "dataVisibility": ["PRIVATE"]
+}
