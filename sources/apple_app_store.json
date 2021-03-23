@@ -1,0 +1,9 @@
+{
+  "id": "APPLE_APP_STORE",
+  "name": "Apple App Store",
+  "categories": ["ECOMMERCE"],
+  "organization": "APPLE",
+  "iconUrl": "https://assets.supermetrics.com/images/dsLogos/ASA.png",
+  "sourceUrl": "https://www.apple.com/app-store/",
+  "dataVisibility": ["PUBLIC"]
+}
