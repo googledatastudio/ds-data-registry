@@ -3,7 +3,7 @@
   "name": "TRUSTSALES",
   "categories": ["CUSTOM"],
   "organization": "TRUSTSALES",
-  "iconUrl": "https://trustsales.vn/Content/Image/logo.png,
+  "iconUrl": "https://trustsales.vn/Content/Image/logo.png",
   "sourceUrl": "https://trustsales.vn",
   "dataVisibility": ["PRIVATE"]
 }
