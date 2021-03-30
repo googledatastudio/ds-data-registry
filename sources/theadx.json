@@ -1,0 +1,9 @@
+{
+  "id": "THEADX",
+  "name": "Theadx",
+  "categories": ["ADVERTISING"],
+  "organization": "TURKTICARET",
+  "iconUrl": "https://www.theadx.com/images/theadx-logo.png",
+  "sourceUrl": "https://www.theadx.com/",
+  "dataVisibility": ["PRIVATE"]
+}
