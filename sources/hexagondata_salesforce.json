@@ -1,6 +1,6 @@
 {
     "id": "HEXAGONDATA_SALESFORCE",
-    "name": "Hexagon Data SF",
+    "name": "Salesforce Audience Studio Connector",
     "categories": ["ADVERTISING", "MARKETING", "CDP"],
     "organization": "HEXAGONDATA",
     "iconUrl":
