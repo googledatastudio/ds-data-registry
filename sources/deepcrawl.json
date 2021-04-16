@@ -1,10 +1,10 @@
 {
   "id": "DEEPCRAWL",
-  "name": "DeepCrawl",
+  "name": "Deepcrawl",
   "categories": ["SEO"],
   "organization": "DEEPCRAWL",
   "iconUrl":
-    "https://www.deepcrawl.com/wp-content/uploads/2019/05/cropped-cropped-favicon-270x270.png",
+    "https://www.deepcrawl.com/wp-content/uploads/2021/03/cropped-favicon-180x180.png",
   "sourceUrl": "https://www.deepcrawl.com/",
   "dataVisibility": ["PRIVATE"]
 }

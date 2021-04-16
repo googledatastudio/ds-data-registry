@@ -1,0 +1,9 @@
+{
+  "id": "APPLE_ITUNES",
+  "name": "Apple iTunes",
+  "categories": ["ECOMMERCE"],
+  "organization": "APPLE",
+  "iconUrl": "https://assets.supermetrics.com/images/dsLogos/ASA.png",
+  "sourceUrl": "https://www.apple.com/itunes/",
+  "dataVisibility": ["PUBLIC"]
+}
