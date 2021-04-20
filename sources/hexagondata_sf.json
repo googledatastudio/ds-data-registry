@@ -1,11 +1,11 @@
 {
-    "id": "HEXAGONDATA_SALESFORCE",
-    "name": "Salesforce Audience Studio Connector",
+    "id": "HEXAGONDATA_SF",
+    "name": "HexagonData SF",
     "categories": ["ADVERTISING", "MARKETING", "CDP"],
     "organization": "HEXAGONDATA",
     "iconUrl":
       "https://www.hexagondata.com/wp-content/uploads/2021/01/Logo_HD_b.png",
-    "sourceUrl": "https://www.hexagondata.com/",
+    "sourceUrl": "https://salesforce-api.hexagondata.com/",
     "dataVisibility": ["PRIVATE"]
   }
   

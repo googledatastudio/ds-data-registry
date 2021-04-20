@@ -1,11 +1,11 @@
 {
-    "id": "HEXAGONDATA_BLUEKAI",
-    "name": "Oracle Bluekai Connector",
+    "id": "HEXAGONDATA_BK",
+    "name": "HexagonData BK",
     "categories": ["ADVERTISING", "MARKETING", "CDP"],
     "organization": "HEXAGONDATA",
     "iconUrl":
       "https://www.hexagondata.com/wp-content/uploads/2021/01/Logo_HD_b.png",
-    "sourceUrl": "https://www.hexagondata.com/",
+    "sourceUrl": "https://bluekai-api.hexagondata.com/",
     "dataVisibility": ["PRIVATE"]
   }
   
