@@ -1,8 +1,8 @@
 {
-  "id": "kpi_indicators",
+  "id": "KPI_INDICATORS",
   "name": "KPI: Indicators",
   "categories": ["DATA_COLLECTION"],
-  "organization": "vashkpi",
+  "organization": "VASHKPI",
   "iconUrl":
     "https://storage.yandexcloud.net/vashkpi/Your_KPI_logo_%D0%BF%D1%80%D0%BE%D0%B7%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B8%CC%86.png",
   "sourceUrl": "https://indicators.vashkpi.ru/",
