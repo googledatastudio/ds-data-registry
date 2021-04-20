@@ -8,6 +8,10 @@
     "name": "Analytics"
   },
   {
+    "id": "API",
+    "name": "Application Programming Interface"
+  },
+  {
     "id": "CDR",
     "name": "Call Detail Record"
   },
