@@ -1,0 +1,10 @@
+{
+  "id": "DROPSOLID",
+  "name": "Dropsolid",
+  "categories": ["DATA_COLLECTION", "MARKETING", "CDP"],
+  "organization": "DROPSOLID",
+  "iconUrl":
+    "https://dropsolid.com/themes/dropsolid/favicons/generated/android-chrome-192x192.png",
+  "sourceUrl": "https://dropsolid.com/en/agency/",
+  "dataVisibility": ["PRIVATE"]
+}
