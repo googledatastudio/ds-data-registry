@@ -1,0 +1,9 @@
+{
+  "id": "XANO",
+  "name": "Xano",
+  "categories": ["DATABASE", "API", "CLOUD", "TOOLS"],
+  "organization": "XANO",
+  "iconUrl": "https://cdn.xano.com/assets/xano_x_40x40.png",
+  "sourceUrl": "https://xano.io",
+  "dataVisibility": ["PRIVATE"]
+}
