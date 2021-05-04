@@ -1,0 +1,9 @@
+{
+  "id": "IQM_REPORTING",
+  "name": "IQM Reporting Data Source",
+  "categories": ["ADVERTISING"],
+  "organization": "IQM",
+  "iconUrl": "https://iqm.com/assets/favicon-40x40.png",
+  "sourceUrl": "https://www.iqm.com",
+  "dataVisibility": ["PRIVATE"]
+}
