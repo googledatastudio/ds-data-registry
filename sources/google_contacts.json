@@ -1,0 +1,9 @@
+{
+  "id": "GOOGLE_CONTACTS",
+  "name": "Google Contacts",
+  "categories": ["TOOLS"],
+  "organization": "GOOGLE",
+  "iconUrl": "https://www.gstatic.com/images/branding/product/2x/contacts_48dp.png",
+  "sourceUrl": "https://contacts.google.com",
+  "dataVisibility": ["PUBLIC", "PRIVATE"]
+}

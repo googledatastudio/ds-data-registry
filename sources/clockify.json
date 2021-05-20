@@ -1,0 +1,9 @@
+{
+  "id": "CLOCKIFY",
+  "name": "Clockify",
+  "categories": ["TIME_TRACKING"],
+  "organization": "CLOCKIFY",
+  "iconUrl": "https://clockify.me/assets/images/brand-assets/clockify-icon.svg",
+  "sourceUrl": "https://clockify.me/",
+  "dataVisibility": ["PRIVATE"]
+}

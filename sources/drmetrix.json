@@ -1,0 +1,9 @@
+{
+  "id": "DRMETRIX",
+  "name": "DRMetrix",
+  "categories": ["MARKETING"],
+  "organization": "DRMETRIX",
+  "iconUrl": "https://www.drmetrix.com/images/drmetrix_icon.png",
+  "sourceUrl": "https://www.drmetrix.com/",
+  "dataVisibility": ["PRIVATE"]
+}
