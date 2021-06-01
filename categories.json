@@ -134,5 +134,9 @@
   {
     "id": "POS",
     "name": "Point of Sales"
+  },
+  {
+    "id": "ISSUE_TRACKING",
+    "name": "Issue Tracking"
   }
 ]
