@@ -1,0 +1,9 @@
+{
+  "id": "WINCHER",
+  "name": "Wincher",
+  "categories": ["SEO"],
+  "organization": "WINCHER",
+  "iconUrl": "https://cdn.gladior.com/wincher.png",
+  "sourceUrl": "https://www.wincher.com/",
+  "dataVisibility": ["PRIVATE"]
+}
