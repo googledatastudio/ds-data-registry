@@ -1,9 +1,0 @@
-{
-  "id": "HUBSTAFF",
-  "name": "Hubstaff",
-  "categories": ["TIME_TRACKING"],
-  "organization": "HUBSTAFF",
-  "iconUrl": "https://pbs.twimg.com/profile_images/846134406636986368/6nO0IsRw.jpg",
-  "sourceUrl": "https://www.hubstaff.com",
-  "dataVisibility": ["PRIVATE"]
-}
