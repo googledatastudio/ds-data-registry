@@ -1,0 +1,10 @@
+{
+  "id": "KPI6_COM",
+  "name": "KPI6.com",
+  "categories": ["SOCIAL", "ANALYTICS", "MARKETING"],
+  "organization": "KPI6.com",
+  "iconUrl":
+    "https://app.kpi6.com/assets/images/datastudio/kpi6_datastudio_icon_40x40.png",
+  "sourceUrl": "https://kpi6.com/meshboard/",
+  "dataVisibility": ["PRIVATE"]
+}
