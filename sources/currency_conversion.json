@@ -1,7 +1,7 @@
 {
   "id": "CURRENCY_CONVERSION",
   "name": "Currency Conversion",
-  "categories": [ "FINANCE" ],
+  "categories": ["FINANCE"],
   "iconUrl": "https://exchangeratesapi.io/static/logo.svg",
-  "dataVisibility": [ "PUBLIC" ]
+  "dataVisibility": ["PUBLIC"]
 }

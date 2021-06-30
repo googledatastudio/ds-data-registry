@@ -1,0 +1,10 @@
+{
+  "id": "PERINITY",
+  "name": "Perinity",
+  "categories": ["ANALYTICS"],
+  "organization": "PERINITY",
+  "iconUrl":
+    "https://media-exp1.licdn.com/dms/image/C4D0BAQGNE_Fil977Vw/company-logo_200_200/0/1606080343007?e=2159024400&v=beta&t=3bcKX0xYWf_3xEDp-DZmN4DyZ6kQcMjLPL8U6RBXmuY",
+  "sourceUrl": "https://www.perinity.com/",
+  "dataVisibility": ["PRIVATE"]
+}
