@@ -1,0 +1,9 @@
+{
+  "id": "AIR360",
+  "name": "Air360",
+  "categories": ["ECOMMERCE"],
+  "organization": "AIR360",
+  "iconUrl": "https://www.air360.io/assets/images/2-90x99.png",
+  "sourceUrl": "https://air360.io",
+  "dataVisibility": ["PRIVATE"]
+}
