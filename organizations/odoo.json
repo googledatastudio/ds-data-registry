@@ -1,7 +1,6 @@
 {
   "id": "ODOO",
   "name": "Odoo",
-  "iconUrl":
-    "https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo_small.png",
+  "iconUrl": "https://cdn.o2sheet.com/odoo-logo-40.png",
   "orgUrl": "https://www.odoo.com/"
 }
