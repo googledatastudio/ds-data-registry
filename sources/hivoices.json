@@ -1,0 +1,9 @@
+{
+  "id": "HIVOICES",
+  "name": "Hi Voices",
+  "categories": ["CRM"],
+  "organization": "HIPLATFORM",
+  "iconUrl": "https://yv-misc.s3.us-east-1.amazonaws.com/logos/hivoices4040.png",
+  "sourceUrl": "https://www.hiplatform.com/",
+  "dataVisibility": ["PRIVATE"]
+}
