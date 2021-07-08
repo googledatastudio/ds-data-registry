@@ -3,8 +3,7 @@
   "name": "Odoo",
   "categories": ["ECOMMERCE", "FINANCE", "MARKETING", "SALES", "CRM", "DATABASE"],
   "organization": "ODOO",
-  "iconUrl":
-    "https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png",
+  "iconUrl": "https://cdn.o2sheet.com/odoo-logo-40.png",
   "sourceUrl": "https://www.odoo.com/",
   "dataVisibility": ["PRIVATE"]
 }
