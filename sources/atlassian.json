@@ -1,0 +1,13 @@
+{
+"id": "ATLASSIAN",
+"name": "Atlassian Software",
+"categories": [
+"PUBLIC_DATA"
+],
+"organization": "Atlassian",
+"iconUrl": "https://www.atlassian.com/dam/jcr:93075b1a-484c-4fe5-8a4f-942710e51760/Atlassian-horizontal-blue@2x-rgb.png",
+"sourceUrl": "https://www.atlassian.com/",
+"dataVisibility": [
+"PRIVATE"
+]
+}
