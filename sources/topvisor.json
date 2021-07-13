@@ -1,0 +1,9 @@
+{
+  "id": "TOPVISOR",
+  "name": "Topvisor",
+  "categories": ["ANALYTICS"],
+  "organization": "TOPVISOR",
+  "iconUrl": "https://topvisor.com/images/logo.png",
+  "sourceUrl": "https://topvisor.com/",
+  "dataVisibility": ["PRIVATE"]
+}
