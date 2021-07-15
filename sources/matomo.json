@@ -1,0 +1,9 @@
+{
+  "id": "MATOMO",
+  "name": "Matomo Analytics",
+  "categories": ["ANALYTICS"],
+  "organization": "Matomo",
+  "iconUrl": "https://img.matomo.org/spai/q_lossless+ret_img/https://static.matomo.org/wp-content/uploads/2018/11/cropped-DefaultIcon-32x32.png",
+  "sourceUrl": "https://matomo.org/",
+  "dataVisibility": ["PRIVATE"]
+}

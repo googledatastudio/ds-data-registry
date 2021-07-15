@@ -1,0 +1,10 @@
+{
+  "id": "TRYBOOKING",
+  "name": "TryBooking",
+  "categories": ["API", "SALES", "CDP"],
+  "organization": "TRYBOOKING",
+  "iconUrl":
+    "https://www.trybooking.com/media/5pnlflem/trybooking-icon1.png",
+  "sourceUrl": "https://www.trybooking.com/",
+  "dataVisibility": ["PRIVATE"]
+}

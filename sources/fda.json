@@ -1,0 +1,9 @@
+{
+  "id": "FDA",
+  "name": "Food and Drug Administration",
+  "categories": ["PUBLIC_DATA"],
+  "organization": "FDA",
+  "iconUrl": "https://www.fda.gov/about-fda/website-policies/fda-logo-policy#officialFDAlogo",
+  "sourceUrl": "https://www.fda.gov/",
+  "dataVisibility": ["PRIVATE"]
+}
