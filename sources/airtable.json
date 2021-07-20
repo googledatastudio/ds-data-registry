@@ -1,0 +1,10 @@
+{
+  "id": "AIRTABLE",
+  "name": "Airtable",
+  "categories": ["DATABASE","DATA_COLLECTION"],
+  "organization": "AIRTABLE",
+  "iconUrl":
+    "https://support.airtable.com/hc/article_attachments/360001025028/airtable_logo_256.png",
+  "sourceUrl": "https://www.airtable.com/",
+  "dataVisibility": ["PRIVATE"]
+}
