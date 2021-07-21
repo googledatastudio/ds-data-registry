@@ -1,0 +1,10 @@
+{
+  "id": "KAWO",
+  "name": "KAWO",
+  "categories": ["SOCIAL", "ANALYTICS", "MARKETING"],
+  "organization": "KAWO",
+  "iconUrl":
+    "https://kawo-icons.s3-ap-northeast-1.amazonaws.com/kawo-blue-40-40.png",
+  "sourceUrl": "https://www.kawo.com/",
+  "dataVisibility": ["PRIVATE"]
+}

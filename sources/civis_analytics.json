@@ -1,0 +1,9 @@
+{
+  "id": "CIVIS_ANALYTICS",
+  "name": "Civis Analytics",
+  "categories": ["DATABASE", "ANALYTICS"],
+  "organization": "CIVIS_ANALYTICS",
+  "iconUrl": "https://avatars.githubusercontent.com/u/3299743",
+  "sourceUrl": "https://www.civisanalytics.com/civis-platform/",
+  "dataVisibility": ["PRIVATE"]
+}

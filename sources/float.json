@@ -1,0 +1,9 @@
+{
+  "id": "FLOAT",
+  "name": "float",
+  "categories": ["TIME_TRACKING"],
+  "organization": "FLOAT",
+  "iconUrl": "https://www.xlab.be/assets/float-data-studio.png",
+  "sourceUrl": "https://www.float.com",
+  "dataVisibility": ["PRIVATE"]
+}

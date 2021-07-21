@@ -1,0 +1,10 @@
+{
+  "id": "SOCIALINSIDER",
+  "name": "Socialinsider",
+  "categories": ["ANALYTICS", "SOCIAL", "MARKETING", "ADVERTISING"],
+  "organization": "SOCIALINSIDER",
+  "iconUrl":
+    "https://www.socialinsider.io/assets/img/socialinsider/sigla_40x40.png",
+  "sourceUrl": "https://www.socialinsider.io/",
+  "dataVisibility": ["PRIVATE"]
+}

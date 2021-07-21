@@ -1,0 +1,10 @@
+{
+  "id": "BRIGHTEDGE",
+  "name": "BrightEdge",
+  "categories": ["ANALYTICS", "SEO"],
+  "organization": "BRIGHTEDGE",
+  "iconUrl":
+    "https://videos.brightedge.com/assets/website/product/brightedge-full-logo-square-40X40.png",
+  "sourceUrl": "https://www.brightedge.com/",
+  "dataVisibility": ["PRIVATE"]
+}
