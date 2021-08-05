@@ -1,0 +1,9 @@
+{
+  "id": "METRIQL",
+  "name": "Metriql datasets in your data warehouse",
+  "categories": ["DATABASE", "API"],
+  "organization": "METRIQL",
+  "iconUrl": "https://metriql.com/img/logo.svg",
+  "sourceUrl": "https://metriql.com/",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}
