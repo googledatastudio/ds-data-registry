@@ -1,0 +1,10 @@
+{
+  "id": "WHITEBOX",
+  "name": "WHITEBOX",
+  "categories": ["ECOMMERCE"],
+  "organization": "WHITEBOX",
+  "iconUrl":
+    "https://longnguyen1012.github.io/whiteboxapi/assets/favicon.png",
+  "sourceUrl": "https://longnguyen1012.github.io/whiteboxapi/",
+  "dataVisibility": ["PRIVATE"]
+}
