@@ -1,0 +1,10 @@
+{
+  "id": "AUTOMOTUS_INSIGHTS",
+  "name": "Automotus Insights",
+  "categories": ["ANALYTICS", "TIME_SERIES"],
+  "organization": "AUTOMOTUS_INC",
+  "iconUrl":
+    "https://drive.google.com/file/d/1rSlfAEGajl0f9HDH87NKqV0KWiEZr53c/view?usp=sharing",
+  "sourceUrl": "https://www.automotus.co/",
+  "dataVisibility": ["PRIVATE"]
+}
