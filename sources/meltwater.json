@@ -1,0 +1,9 @@
+{
+  "id": "MELTWATER",
+  "name": "Meltwater",
+  "categories": ["NEWS", "SOCIAL", "MARKETING", "PUBLIC_RELATIONS"],
+  "organization": "MELTWATER",
+  "iconUrl": "https://developer.meltwater.com/assets/images/connector-logo.png",
+  "sourceUrl": "https://developer.meltwater.com/docs/meltwater-api",
+  "dataVisibility": ["PRIVATE"]
+}

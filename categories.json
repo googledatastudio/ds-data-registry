@@ -138,5 +138,13 @@
   {
     "id": "ISSUE_TRACKING",
     "name": "Issue Tracking"
+  },
+  {
+    "id": "NEWS",
+    "name": "News"
+  },
+  {
+    "id": "PUBLIC_RELATIONS",
+    "name": "Public Relations"
   }
 ]
