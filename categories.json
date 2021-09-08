@@ -138,5 +138,9 @@
   {
     "id": "ISSUE_TRACKING",
     "name": "Issue Tracking"
+  },
+  {
+    "id": "FACILITY_MANAGEMENT_OS",
+    "name": "Facility Management OS"
   }
 ]
