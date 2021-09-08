@@ -1,0 +1,9 @@
+{
+  "id": "GAANNOTATIONS",
+  "name": "GA Annotations",
+  "categories": ["MARKETING", "TOOLS"],
+  "organization": "GAANNOTATIONS",
+  "iconUrl": "https://app.gaannotations.com/images/company_logo.png",
+  "sourceUrl": "https://app.gaannotations.com",
+  "dataVisibility": ["PRIVATE"]
+}
