@@ -8,5 +8,6 @@
     "sourceUrl": "https://pipes.dentsu.com/",
     "dataVisibility": [
         "PRIVATE"
-    ]
+    ],
+    "organization": "DENTSU"
 }
