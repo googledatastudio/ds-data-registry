@@ -1,9 +1,9 @@
 {
-  "id"             : "EULERIAN_ANALYTICS",
-  "name"           : "Eulerian Analytics",
-  "categories"     : ["ANALYTICS","ADVERTISING"],
-  "organization"   : "Eulerian",
-  "iconUrl"        : "https://eu.global-cdn.net/ea-ui/api/eulerian.png",
-  "sourceUrl"      : "https://www.eulerian.com/",
-  "dataVisibility" : ["PRIVATE"]
+  "id": "EULERIAN_ANALYTICS",
+  "name": "Eulerian Analytics",
+  "categories": ["ANALYTICS","ADVERTISING"],
+  "organization": "Eulerian",
+  "iconUrl": "https://eu.global-cdn.net/ea-ui/api/eulerian.png",
+  "sourceUrl": "https://www.eulerian.com/",
+  "dataVisibility": ["PRIVATE"]
 }
