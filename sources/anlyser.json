@@ -1,0 +1,9 @@
+{
+  "id": "ANLYSER_DATA",
+  "name": "Anlyser Data",
+  "categories": ["ANALYTICS"],
+  "organization": "ANLYSER",
+  "iconUrl": "https://anlyser.com/static/website/img/logo.png",
+  "sourceUrl": "https://anlyser.com/",
+  "dataVisibility": ["PRIVATE"]
+}
