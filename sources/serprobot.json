@@ -5,5 +5,5 @@
   "organization": "SERPROBOT",
   "iconUrl": "https://serprobot.com/img/serprobot-connector-logo_40_40.png",
   "sourceUrl": "https://serprobot.com/",
-  "dataVisibility": ["PUBLIC"]
+  "dataVisibility": ["PRIVATE"]
 }
