@@ -1,0 +1,9 @@
+{
+  "id": "PAPERCUT_HIVE",
+  "name": "Papercut Hive",
+  "categories": ["ANALYTICS"],
+  "organization": "PAPERCUT",
+  "iconUrl": "https://cdn.papercut.com/web/img/icon/favicon@32.png",
+  "sourceUrl": "https://www.papercut.com/products/papercut-hive/",
+  "dataVisibility": ["PRIVATE"]
+}
