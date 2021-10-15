@@ -1,0 +1,9 @@
+{
+  "id": "ZOHO_INVENTORY",
+  "name": "Zoho Inventory",
+  "categories": ["FINANCE"],
+  "organization": "ZOHO",
+  "iconUrl":"https://www.zoho.com/inventory/images/inventory-icon-default.svg",
+  "sourceUrl": "https://www.zoho.com/in/inventory/",
+  "dataVisibility": ["PRIVATE"]
+}
