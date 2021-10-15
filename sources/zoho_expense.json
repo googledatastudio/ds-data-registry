@@ -1,0 +1,9 @@
+{
+  "id": "ZOHO_EXPENSE",
+  "name": "Zoho Expense",
+  "categories": ["FINANCE"],
+  "organization": "ZOHO",
+  "iconUrl":"https://www.zoho.com/expense/index/expense-logo-white.png",
+  "sourceUrl": "https://www.zoho.com/in/expense/",
+  "dataVisibility": ["PRIVATE"]
+}
