@@ -1,0 +1,14 @@
+{
+  "id": "SEOTESTING",
+  "name": "SEOTesting.com",
+  "categories": [
+    "SEO",
+    "ANALYTICS"
+  ],
+  "organization": "SEOTESTING",
+  "iconUrl": "https://seotesting.com/favicon/favicon-96x96.png",
+  "sourceUrl": "https://seotesting.com/api/",
+  "dataVisibility": [
+    "PRIVATE"
+  ]
+}
