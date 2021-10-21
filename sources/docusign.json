@@ -1,0 +1,9 @@
+{
+    "id": "DOCUSIGN",
+    "name": "DocuSign",
+    "categories": ["API"],
+    "organization": "DOCUSIGN",
+    "iconUrl": "https://www.docusign.ca/themes/custom/cubic/patternLibraryAssets/images/logos/logo-main.svg",
+    "sourceUrl": "https://www.docusign.ca/",
+    "dataVisibility": ["PRIVATE"]
+  }
