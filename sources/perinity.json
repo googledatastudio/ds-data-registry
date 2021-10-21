@@ -3,8 +3,8 @@
   "name": "Perinity",
   "categories": ["ANALYTICS"],
   "organization": "PERINITY",
-  "iconUrl": "https://www.perinity.com/wp-content/uploads/2021/06/logo-perinity.jpeg",
+  "iconUrl":
+    "https://www.perinity.com/wp-content/uploads/2021/06/logo-perinity.jpeg",
   "sourceUrl": "https://www.perinity.com/",
   "dataVisibility": ["PRIVATE"]
 }
-  

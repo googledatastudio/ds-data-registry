@@ -1,6 +1,7 @@
 {
   "id": "DOCUSIGN",
   "name": "DocuSign, Inc.",
-  "iconUrl": "https://www.docusign.ca/themes/custom/cubic/patternLibraryAssets/images/logos/logo-main.svg",
+  "iconUrl":
+    "https://www.docusign.ca/themes/custom/cubic/patternLibraryAssets/images/logos/logo-main.svg",
   "orgUrl": "https://www.docusign.ca/"
 }

@@ -3,7 +3,8 @@
   "name": "Smartlook",
   "categories": ["ANALYTICS"],
   "organization": "SMARTLOOK",
-  "iconUrl": "https://drive.google.com/a/digitalniarchitekti.cz/thumbnail?id=1pmsKBLNUMBRfit_T7Er1m3TpkZmOHjSg",
+  "iconUrl":
+    "https://drive.google.com/a/digitalniarchitekti.cz/thumbnail?id=1pmsKBLNUMBRfit_T7Er1m3TpkZmOHjSg",
   "sourceUrl": "https://www.smartlook.com/",
   "dataVisibility": ["PRIVATE"]
 }

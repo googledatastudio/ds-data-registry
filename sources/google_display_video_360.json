@@ -1,11 +1,10 @@
 {
-    "id": "GOOGLE_DISPLAY_VIDEO_360",
-    "name": "Google Display & Video 360",
-    "categories": ["ANALYTICS","VIDEO"],
-    "organization": "GOOGLE",
-    "iconUrl":
-      "https://commondatastorage.googleapis.com/support-kms-prod/npKBKDZfr8jv4D2a6LJXVcpwA9i0KaHwMGyB",
-    "sourceUrl": "https://marketingplatform.google.com/about/display-video-360/",
-    "dataVisibility": ["PRIVATE"]
-  }
-  
+  "id": "GOOGLE_DISPLAY_VIDEO_360",
+  "name": "Google Display & Video 360",
+  "categories": ["ANALYTICS", "VIDEO"],
+  "organization": "GOOGLE",
+  "iconUrl":
+    "https://commondatastorage.googleapis.com/support-kms-prod/npKBKDZfr8jv4D2a6LJXVcpwA9i0KaHwMGyB",
+  "sourceUrl": "https://marketingplatform.google.com/about/display-video-360/",
+  "dataVisibility": ["PRIVATE"]
+}

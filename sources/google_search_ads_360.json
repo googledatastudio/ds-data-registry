@@ -1,7 +1,7 @@
 {
   "id": "GOOGLE_SEARCH_ADS_360",
   "name": "Google Search Ads 360",
-  "categories": ["SEARCH","ADVERTISING"],
+  "categories": ["SEARCH", "ADVERTISING"],
   "organization": "GOOGLE",
   "iconUrl":
     "https://www.gstatic.com/images/branding/product/1x/search_ads_360_24dp.png",

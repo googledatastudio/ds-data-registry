@@ -1,9 +1,9 @@
 {
-    "id": "NEXTROLL",
-    "name": "NextRoll",
-    "categories": ["ANALYTICS"],
-    "organization": "NEXTROLL",
-    "iconUrl": "https://www.nextroll.com/assets/img/nextroll-logo-2x.png",
-    "sourceUrl": "https://www.nextroll.com/",
-    "dataVisibility": ["PRIVATE"]
-  }
+  "id": "NEXTROLL",
+  "name": "NextRoll",
+  "categories": ["ANALYTICS"],
+  "organization": "NEXTROLL",
+  "iconUrl": "https://www.nextroll.com/assets/img/nextroll-logo-2x.png",
+  "sourceUrl": "https://www.nextroll.com/",
+  "dataVisibility": ["PRIVATE"]
+}
