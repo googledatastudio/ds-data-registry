@@ -1,7 +1,14 @@
 {
   "id": "ODOO",
   "name": "Odoo",
-  "categories": ["ECOMMERCE", "FINANCE", "MARKETING", "SALES", "CRM", "DATABASE"],
+  "categories": [
+    "ECOMMERCE",
+    "FINANCE",
+    "MARKETING",
+    "SALES",
+    "CRM",
+    "DATABASE"
+  ],
   "organization": "ODOO",
   "iconUrl": "https://cdn.o2sheet.com/odoo-logo-40.png",
   "sourceUrl": "https://www.odoo.com/",

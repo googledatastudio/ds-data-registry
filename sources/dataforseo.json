@@ -3,7 +3,8 @@
   "name": "DataForSEO",
   "categories": ["MARKETING", "TOOLS", "SEO"],
   "organization": "DATAFORSEO",
-  "iconUrl": "https://dataforseo.com/wp-content/uploads/2016/11/Favicon_512-40x40.png",
+  "iconUrl":
+    "https://dataforseo.com/wp-content/uploads/2016/11/Favicon_512-40x40.png",
   "sourceUrl": "https://dataforseo.com/",
   "dataVisibility": ["PRIVATE"]
 }
