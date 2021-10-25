@@ -1,0 +1,10 @@
+{
+  "id": "PIWIK_PRO_ANALYTICS",
+  "name": "Piwik PRO Analytics",
+  "categories": ["ANALYTICS"],
+  "organization": "PIWIK_PRO",
+  "iconUrl":
+    "https://lh3.googleusercontent.com/-VX8VzYO_fBA/YVMbaYs5S-I/AAAAAAAAARg/vsDH43JgtKs_ALPWRh_1UgwtrTaMr5klgCLcBGAsYHQ/s400/piwik-pro-40x40.png",
+  "sourceUrl": "https://piwik.pro/",
+  "dataVisibility": ["PRIVATE"]
+}
