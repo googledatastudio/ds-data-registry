@@ -1,0 +1,9 @@
+{
+  "id": "GOOGLE_APPS_SCRIPT",
+  "name": "Google Apps Script",
+  "categories": ["ANALYTICS"],
+  "organization": "GOOGLE",
+  "iconUrl": "https://cdn.gladior.com/google-apps-script-logo.png",
+  "sourceUrl": "https://developers.google.com/apps-script/guides/dashboard#monitor_projects",
+  "dataVisibility": ["PRIVATE"]
+}
