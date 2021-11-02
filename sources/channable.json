@@ -1,0 +1,9 @@
+{
+  "id": "CHANNABLE",
+  "name": "Channable",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "CHANNABLE",
+  "iconUrl": "https://cdn.gladior.com/channable-logo.png",
+  "sourceUrl": "https://www.channable.com/",
+  "dataVisibility": ["PRIVATE"]
+}
