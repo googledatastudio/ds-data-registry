@@ -3,7 +3,8 @@
   "name": "Zoho Projects",
   "categories": ["TIME_TRACKING"],
   "organization": "ZOHO",
-  "iconUrl":"https://www.zohowebstatic.com/sites/default/files/projects-logo.png",
+  "iconUrl":
+    "https://www.zohowebstatic.com/sites/default/files/projects-logo.png",
   "sourceUrl": "https://www.zoho.com/projects/",
   "dataVisibility": ["PRIVATE"]
 }

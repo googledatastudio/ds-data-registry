@@ -1,11 +1,9 @@
-
 {
   "id": "SPOORS",
   "name": "SPOORS",
-  "categories": ["ANALYTICS","DATA_COLLECTION"],
+  "categories": ["ANALYTICS", "DATA_COLLECTION"],
   "organization": "SPOORS",
-  "iconUrl":
-    "https://spoors.io/effortx/resources/img/EFFORTLOGO.png",
+  "iconUrl": "https://spoors.io/effortx/resources/img/EFFORTLOGO.png",
   "sourceUrl": "https://spoors.io/",
   "dataVisibility": ["PRIVATE"]
 }

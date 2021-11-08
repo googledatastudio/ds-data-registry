@@ -1,7 +1,7 @@
 {
-    "name": "SalesCloud",
-    "id": "SALESCLOUD",
-    "iconUrl": "https://admin.salescloud.is/sites/all/themes/flatkit/logo_login.png",
-    "orgUrl": "https://www.salescloud.com/"
-  }
-  
+  "name": "SalesCloud",
+  "id": "SALESCLOUD",
+  "iconUrl":
+    "https://admin.salescloud.is/sites/all/themes/flatkit/logo_login.png",
+  "orgUrl": "https://www.salescloud.com/"
+}

@@ -3,7 +3,8 @@
   "name": "Semactic",
   "categories": ["MARKETING", "TOOLS"],
   "organization": "Semactic",
-  "iconUrl": "https://kevin-coppens.net/wp-content/uploads/2020/05/logo-semactic-yellow-square-large2.png",
+  "iconUrl":
+    "https://kevin-coppens.net/wp-content/uploads/2020/05/logo-semactic-yellow-square-large2.png",
   "sourceUrl": "https://semactic.com",
   "dataVisibility": ["PRIVATE"]
 }

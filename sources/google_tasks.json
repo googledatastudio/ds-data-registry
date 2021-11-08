@@ -3,7 +3,8 @@
   "name": "Google Tasks",
   "categories": ["TOOLS"],
   "organization": "GOOGLE",
-  "iconUrl": "https://www.gstatic.com/images/branding/product/1x/tasks_96dp.png",
+  "iconUrl":
+    "https://www.gstatic.com/images/branding/product/1x/tasks_96dp.png",
   "sourceUrl": "https://calendar.google.com",
   "dataVisibility": ["PUBLIC", "PRIVATE"]
 }
