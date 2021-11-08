@@ -3,8 +3,7 @@
   "name": "Clickie",
   "categories": ["IOT", "TIME_SERIES"],
   "organization": "CLICKIE_SPA",
-  "iconUrl":
-    "https://clickie-public.s3-sa-east-1.amazonaws.com/icon.png",
+  "iconUrl": "https://clickie-public.s3-sa-east-1.amazonaws.com/icon.png",
   "sourceUrl": "https://clickie.io/",
   "dataVisibility": ["PRIVATE"]
 }

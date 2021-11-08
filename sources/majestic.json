@@ -3,8 +3,7 @@
   "name": "Majestic",
   "categories": ["SEO"],
   "organization": "MAJESTIC",
-  "iconUrl":
-    "https://cdn.gladior.com/majestic.png",
+  "iconUrl": "https://cdn.gladior.com/majestic.png",
   "sourceUrl": "https://majestic.com/",
   "dataVisibility": ["PRIVATE", "PUBLIC"]
 }

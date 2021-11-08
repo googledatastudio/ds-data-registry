@@ -3,7 +3,8 @@
   "name": "Zoho DESK",
   "categories": ["CUSTOMER_SUPPORT"],
   "organization": "ZOHO",
-  "iconUrl":"https://www.zohowebstatic.com/sites/default/files/styles/product-home-page/public/Desk-logo.png?itok=NW1geavh",
+  "iconUrl":
+    "https://www.zohowebstatic.com/sites/default/files/styles/product-home-page/public/Desk-logo.png?itok=NW1geavh",
   "sourceUrl": "https://www.zoho.com/desk/",
   "dataVisibility": ["PRIVATE"]
 }

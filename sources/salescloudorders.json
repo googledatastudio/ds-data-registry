@@ -1,10 +1,10 @@
 {
-    "id": "SALESCLOUDORDERS",
-    "name": "SalesCloudOrders",
-    "categories": ["SALES"],
-    "organization": "SALESCLOUD",
-    "iconUrl": "https://admin.salescloud.is/sites/all/themes/flatkit/logo_login.png",
-    "sourceUrl": "https://graph.salescloud.is/",
-    "dataVisibility": ["PRIVATE"]
- }
-  
+  "id": "SALESCLOUDORDERS",
+  "name": "SalesCloudOrders",
+  "categories": ["SALES"],
+  "organization": "SALESCLOUD",
+  "iconUrl":
+    "https://admin.salescloud.is/sites/all/themes/flatkit/logo_login.png",
+  "sourceUrl": "https://graph.salescloud.is/",
+  "dataVisibility": ["PRIVATE"]
+}
