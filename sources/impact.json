@@ -5,7 +5,5 @@
   "organization": "IMPACT",
   "iconUrl": "https://static.funnel.io/logos/icon48x48/impact.png",
   "sourceUrl": "https://impact.com/",
-  "dataVisibility": [
-    "PRIVATE"
-  ]
+  "dataVisibility": ["PRIVATE"]
 }

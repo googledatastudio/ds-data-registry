@@ -5,7 +5,5 @@
   "organization": "LINKWISE",
   "iconUrl": "https://static.funnel.io/logos/icon48x48/linkwise.png",
   "sourceUrl": "https://linkwi.se/",
-  "dataVisibility": [
-    "PRIVATE"
-  ]
+  "dataVisibility": ["PRIVATE"]
 }
