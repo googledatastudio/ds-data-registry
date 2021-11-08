@@ -3,7 +3,8 @@
   "name": "MongoDB",
   "categories": ["DATABASE"],
   "organization": "MONGODB",
-  "iconUrl": "https://images.prismic.io/experiencelab/f5b86ee3-6f32-481b-a083-bf6e75a9d57b_mongodb-leaf_512x512.png",
+  "iconUrl":
+    "https://images.prismic.io/experiencelab/f5b86ee3-6f32-481b-a083-bf6e75a9d57b_mongodb-leaf_512x512.png",
   "sourceUrl": "https://www.mongodb.com/",
   "dataVisibility": ["PRIVATE", "PUBLIC"]
 }

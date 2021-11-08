@@ -1,9 +1,10 @@
 {
   "id": "SHARP_SPRING",
   "name": "Sharp Spring Marketing and CRM data",
-  "categories": ["CRM","MARKETING"],
+  "categories": ["CRM", "MARKETING"],
   "organization": "SHARP_SPRING",
-  "iconUrl": "https://wp.static-cdn-shsp.com/wp-content/uploads/2016/03/SharpSpring_Color_WhiteTXT_RGB.png",
+  "iconUrl":
+    "https://wp.static-cdn-shsp.com/wp-content/uploads/2016/03/SharpSpring_Color_WhiteTXT_RGB.png",
   "sourceUrl": "https://www.sharpspring.com/",
   "dataVisibility": ["PRIVATE"]
 }

@@ -3,7 +3,8 @@
   "name": "Wicked Reports",
   "categories": ["ADVERTISING", "ANALYTICS", "MARKETING"],
   "organization": "WICKED_REPORTS",
-  "iconUrl": "https://www.wickedreports.com/hs-fs/hubfs/WickedReports-flame-site-icon.png",
+  "iconUrl":
+    "https://www.wickedreports.com/hs-fs/hubfs/WickedReports-flame-site-icon.png",
   "sourceUrl": "https://www.wickedreports.com/",
   "dataVisibility": ["PRIVATE"]
 }
