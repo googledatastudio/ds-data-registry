@@ -1,6 +1,7 @@
 {
-    "id": "MORPHIO_INC",
-    "name": "Morphio Inc.",
-    "iconUrl": "https://firebasestorage.googleapis.com/v0/b/morphio-kpi-171314.appspot.com/o/Morphio_Images%2Fmorpio_purp_icon_300.png?alt\u003dmedia\u0026token\u003d3b34d1dc-d574-4446-ac56-e5c802162cae",
-    "orgUrl": "https://morphio.ai"
+  "id": "MORPHIO_INC",
+  "name": "Morphio Inc.",
+  "iconUrl":
+    "https://firebasestorage.googleapis.com/v0/b/morphio-kpi-171314.appspot.com/o/Morphio_Images%2Fmorpio_purp_icon_300.png?alt\u003dmedia\u0026token\u003d3b34d1dc-d574-4446-ac56-e5c802162cae",
+  "orgUrl": "https://morphio.ai"
 }

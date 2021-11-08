@@ -3,7 +3,8 @@
   "name": "Zoho CRM",
   "categories": ["CRM"],
   "organization": "ZOHO",
-  "iconUrl":"https://www.zohowebstatic.com/sites/default/files/styles/product-home-page/public/icon-crm_blue.png",
+  "iconUrl":
+    "https://www.zohowebstatic.com/sites/default/files/styles/product-home-page/public/icon-crm_blue.png",
   "sourceUrl": "https://www.zoho.com/in/crm/",
   "dataVisibility": ["PRIVATE"]
 }

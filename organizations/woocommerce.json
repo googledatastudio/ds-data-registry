@@ -2,5 +2,6 @@
   "id": "WOOCOMMERCE",
   "name": "WooCommerce",
   "orgUrl": "https://www.woocommerce.com/",
-  "iconUrl": "https://woocommerce.com/wp-content/themes/woo/images/logo-woocommerce.svg"
+  "iconUrl":
+    "https://woocommerce.com/wp-content/themes/woo/images/logo-woocommerce.svg"
 }

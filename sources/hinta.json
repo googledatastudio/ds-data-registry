@@ -5,7 +5,5 @@
   "organization": "HINTA",
   "iconUrl": "https://static.funnel.io/logos/icon48x48/hinta.png",
   "sourceUrl": "https://hinta.fi/",
-  "dataVisibility": [
-    "PRIVATE"
-  ]
+  "dataVisibility": ["PRIVATE"]
 }
