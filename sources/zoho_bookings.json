@@ -3,7 +3,8 @@
   "name": "Zoho Bookings",
   "categories": ["SALES"],
   "organization": "ZOHO",
-  "iconUrl":"https://www.zohowebstatic.com/sites/default/files/styles/product-home-page/public/bookings/bookings-icon.png",
+  "iconUrl":
+    "https://www.zohowebstatic.com/sites/default/files/styles/product-home-page/public/bookings/bookings-icon.png",
   "sourceUrl": "https://www.zoho.com/bookings/",
   "dataVisibility": ["PRIVATE"]
 }

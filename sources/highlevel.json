@@ -3,8 +3,7 @@
   "name": "HighLevel",
   "categories": ["CRM", "SALES"],
   "organization": "HIGHLEVEL",
-  "iconUrl":
-    "https://viewthis.us/highlevel200px.png",
+  "iconUrl": "https://viewthis.us/highlevel200px.png",
   "sourceUrl": "https://www.gohighlevel.com",
   "dataVisibility": ["PRIVATE"]
 }

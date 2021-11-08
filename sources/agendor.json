@@ -1,9 +1,9 @@
 {
   "id": "AGENDOR",
   "name": "AGENDOR",
-  "categories": [ "DATA_COLLECTION" ],
+  "categories": ["DATA_COLLECTION"],
   "organization": "AGENDOR",
   "iconUrl": "https://api.agendor.com.br/docs/logo.png",
   "sourceUrl": "https://www.agendor.com.br/",
-  "dataVisibility": [ "PRIVATE" ]
+  "dataVisibility": ["PRIVATE"]
 }

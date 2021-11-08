@@ -1,8 +1,7 @@
 {
-   "id": "ADL",
-   "name": "Advanced Distributed Learning Initiative",
-   "iconUrl":
-   "https://adlnet.gov/assets/images/ADL-Advanced-Distributed-Learning.png",
-   "orgUrl": "https://adlnet.gov"
-
-  }
+  "id": "ADL",
+  "name": "Advanced Distributed Learning Initiative",
+  "iconUrl":
+    "https://adlnet.gov/assets/images/ADL-Advanced-Distributed-Learning.png",
+  "orgUrl": "https://adlnet.gov"
+}

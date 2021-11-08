@@ -1,6 +1,7 @@
 {
-    "id": "MEISTERPLAN",
-    "name": "Meisterplan Inc.",
-    "iconUrl": "https://meisterplan-static.s3.eu-central-1.amazonaws.com/web/images/google-data-studio/connector.png",
-    "orgUrl": "https://meisterplan.com"
+  "id": "MEISTERPLAN",
+  "name": "Meisterplan Inc.",
+  "iconUrl":
+    "https://meisterplan-static.s3.eu-central-1.amazonaws.com/web/images/google-data-studio/connector.png",
+  "orgUrl": "https://meisterplan.com"
 }
