@@ -1,0 +1,9 @@
+{
+  "id": "ZOHO_COMMERCE",
+  "name": "Zoho Commerce",
+  "categories": ["ECOMMERCE"],
+  "organization": "ZOHO",
+  "iconUrl": "https://www.zohowebstatic.com/sites/default/files/commerce-product-icon.png",
+  "sourceUrl": "https://www.zoho.com/commerce/",
+  "dataVisibility": ["PRIVATE"]
+}
