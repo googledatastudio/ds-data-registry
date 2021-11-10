@@ -1,0 +1,9 @@
+{
+  "id": "ZOHO_MARKETING_AUTOMATION",
+  "name": "Zoho Marketing Automation",
+  "categories": ["MARKETING"],
+  "organization": "ZOHO",
+  "iconUrl": "https://www.zohowebstatic.com/sites/default/files/marketing-automation-icon.png",
+  "sourceUrl": "https://www.zoho.com/marketingautomation/",
+  "dataVisibility": ["PRIVATE"]
+}
