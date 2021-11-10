@@ -1,0 +1,9 @@
+{
+  "id": "EGOI",
+  "name": "E-goi",
+  "categories": ["MARKETING", "ANALYTICS", "API"],
+  "organization": "EGOI",
+  "iconUrl": "https://www.e-goi.com/e/xperience/images/e-goi.png",
+  "sourceUrl": "https://www.e-goi.com/",
+  "dataVisibility": ["PRIVATE"]
+}

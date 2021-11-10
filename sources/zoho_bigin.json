@@ -3,7 +3,8 @@
   "name": "Zoho Bigin",
   "categories": ["SALES"],
   "organization": "ZOHO",
-  "iconUrl":"https://www.zohowebstatic.com/sites/default/files/styles/product-home-page/public/bigin/icon-bigin.png",
+  "iconUrl":
+    "https://www.zohowebstatic.com/sites/default/files/styles/product-home-page/public/bigin/icon-bigin.png",
   "sourceUrl": "https://www.zoho.com/bigin/",
   "dataVisibility": ["PRIVATE"]
 }

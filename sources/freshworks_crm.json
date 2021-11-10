@@ -3,7 +3,8 @@
   "name": "Freshworks CRM",
   "categories": ["CRM"],
   "organization": "FRESHWORKS",
-  "iconUrl": "https://www.freshworks.com/static-assets/images/common/company/logos/logo-fwcrm-black.svg",
+  "iconUrl":
+    "https://www.freshworks.com/static-assets/images/common/company/logos/logo-fwcrm-black.svg",
   "sourceUrl": "https://www.freshworks.com/crm/",
   "dataVisibility": ["PRIVATE"]
 }

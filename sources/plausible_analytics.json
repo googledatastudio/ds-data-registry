@@ -1,0 +1,10 @@
+{
+  "id": "PLAUSIBLE_ANALYTICS",
+  "name": "Plausible Analytics",
+  "categories": ["ANALYTICS"],
+  "organization": "PLAUSIBLE",
+  "iconUrl":
+    "https://images.epilocal.com/plausible_icon.png",
+  "sourceUrl": "https://plausible.io",
+  "dataVisibility": ["PRIVATE"]
+}
