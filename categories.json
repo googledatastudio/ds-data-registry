@@ -142,5 +142,9 @@
   {
     "id": "FACILITY_MANAGEMENT_OS",
     "name": "Facility Management OS"
+  },
+  {
+    "id": "HRMS",
+    "name": "Human Resources Management System"
   }
 ]
