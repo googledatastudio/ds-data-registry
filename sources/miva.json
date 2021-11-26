@@ -3,8 +3,7 @@
   "name": "Miva",
   "categories": ["ECOMMERCE"],
   "organization": "MIVA",
-  "iconUrl":
-    "https://www.miva.com/images/new-images/miva-large-square.png",
+  "iconUrl": "https://www.miva.com/images/new-images/miva-large-square.png",
   "sourceUrl": "https://www.miva.com/",
   "dataVisibility": ["PRIVATE"]
 }

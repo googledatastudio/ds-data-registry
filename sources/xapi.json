@@ -3,7 +3,8 @@
   "name": "xAPI data",
   "categories": ["DATA_COLLECTION"],
   "organization": "ADL",
-  "iconUrl": "https://adlnet.gov/assets/images/ADL-Advanced-Distributed-Learning.png",
+  "iconUrl":
+    "https://adlnet.gov/assets/images/ADL-Advanced-Distributed-Learning.png",
   "sourceUrl": "https://github.com/adlnet/xAPI-Spec",
   "dataVisibility": ["PRIVATE"]
 }

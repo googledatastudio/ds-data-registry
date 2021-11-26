@@ -3,7 +3,8 @@
   "name": "Google Calendar",
   "categories": ["TOOLS"],
   "organization": "GOOGLE",
-  "iconUrl": "https://ssl.gstatic.com/calendar/images/dynamiclogo_2020q4/calendar_12_2x.png",
+  "iconUrl":
+    "https://ssl.gstatic.com/calendar/images/dynamiclogo_2020q4/calendar_12_2x.png",
   "sourceUrl": "https://calendar.google.com",
   "dataVisibility": ["PUBLIC", "PRIVATE"]
 }

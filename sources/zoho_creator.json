@@ -1,0 +1,9 @@
+{
+  "id": "ZOHO_CREATOR",
+  "name": "Zoho Creator",
+  "categories": ["TOOLS"],
+  "organization": "ZOHO",
+  "iconUrl":"https://www.zohowebstatic.com/sites/default/files/styles/product-home-page/public/creator_3.png",
+  "sourceUrl": "https://www.zoho.com/creator/",
+  "dataVisibility": ["PRIVATE"]
+}
