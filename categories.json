@@ -146,5 +146,13 @@
   {
     "id": "HRMS",
     "name": "Human Resources Management System"
+  },
+  {
+    "id": "NEWS",
+    "name": "News"
+  },
+  {
+    "id": "PUBLIC_RELATIONS",
+    "name": "Public Relations"
   }
 ]
