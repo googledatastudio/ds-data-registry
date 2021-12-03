@@ -146,5 +146,17 @@
   {
     "id": "HRMS",
     "name": "Human Resources Management System"
+  },
+  {
+    "id": "RISK_MANAGEMENT",
+    "name": "Risk Management"
+  },
+  {
+    "id": "NEWS",
+    "name": "News"
+  },
+  {
+    "id": "PUBLIC_RELATIONS",
+    "name": "Public Relations"
   }
 ]
