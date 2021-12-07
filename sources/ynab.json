@@ -1,0 +1,9 @@
+{
+  "id": "YNAB",
+  "name": "YNAB",
+  "categories": ["FINANCE"],
+  "organization": "YNAB",
+  "iconUrl": "https://pbs.twimg.com/profile_images/806621598195159040/ATxBPogp_400x400.jpg",
+  "sourceUrl": "https://www.youneedabudget.com/",
+  "dataVisibility": ["PRIVATE"]
+}
