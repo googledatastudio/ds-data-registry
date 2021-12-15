@@ -1,0 +1,10 @@
+{
+  "id": "NEWSLETTER2GO",
+  "name": "Newsletter2go",
+  "categories": ["EMAIL"],
+  "organization": "NEWSLETTER2GO",
+  "iconUrl":
+    "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10106_1639491368_newsletter2go.png",
+  "sourceUrl": "https://newsletter2go.com/",
+  "dataVisibility": ["PRIVATE"]
+}
