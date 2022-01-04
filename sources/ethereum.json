@@ -1,0 +1,9 @@
+{
+  "id": "ETHEREUM",
+  "name": "Ethereum",
+  "categories": ["CRYPTO"],
+  "organization": "GOTHAM_GADGET",
+  "iconUrl": "https://34.102.134.49/ethereum_logo.png",
+  "sourceUrl": "https://gothamgadget.com/google-data-studio",
+  "dataVisibility": ["PUBLIC"]
+}
