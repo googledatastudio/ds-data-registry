@@ -158,5 +158,10 @@
   {
     "id": "PUBLIC_RELATIONS",
     "name": "Public Relations"
+  },
+  {
+    "id": "LEAVE_TRACKING",
+    "name": "Leave Tracking",
+    "description": "Employee leave tracking"
   }
 ]
