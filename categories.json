@@ -163,5 +163,9 @@
     "id": "LEAVE_TRACKING",
     "name": "Leave Tracking",
     "description": "Employee leave tracking"
+  },
+  {
+    "id": "INVENTORY_MANAGEMENT",
+    "name": "Inventory Management"
   }
 ]
