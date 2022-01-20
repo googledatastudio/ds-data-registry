@@ -20,6 +20,10 @@
     "name": "Custom"
   },
   {
+    "id": "CRYPTO",
+    "name": "Crypto"
+  },
+  {
     "id": "CUSTOMER_SUPPORT",
     "name": "Customer Support"
   },
@@ -158,5 +162,14 @@
   {
     "id": "PUBLIC_RELATIONS",
     "name": "Public Relations"
+  },
+  {
+    "id": "LEAVE_TRACKING",
+    "name": "Leave Tracking",
+    "description": "Employee leave tracking"
+  },
+  {
+    "id": "INVENTORY_MANAGEMENT",
+    "name": "Inventory Management"
   }
 ]
