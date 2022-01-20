@@ -20,6 +20,10 @@
     "name": "Custom"
   },
   {
+    "id": "CRYPTO",
+    "name": "Crypto"
+  },
+  {
     "id": "CUSTOMER_SUPPORT",
     "name": "Customer Support"
   },

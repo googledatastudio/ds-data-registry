@@ -1,0 +1,10 @@
+{
+  "id": "OMNISEND",
+  "name": "Omnisend",
+  "categories": ["EMAIL"],
+  "organization": "OMNISEND",
+  "iconUrl":
+    "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10018_Omnisend.png",
+  "sourceUrl": "https://www.omnisend.com/",
+  "dataVisibility": ["PRIVATE"]
+}
