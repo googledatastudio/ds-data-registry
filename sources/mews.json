@@ -1,0 +1,13 @@
+{
+  "id": "MEWS",
+  "name": "Mews",
+  "categories": [
+    "ANALYTICS"
+  ],
+  "organization": "MEWS",
+  "iconUrl": "https://www.mews.com/hubfs/_Project_Phoenix/images/logo/Mews%20Logo.svg",
+  "sourceUrl": "https://mews-systems.gitbook.io/connector-api/",
+  "dataVisibility": [
+    "PRIVATE"
+  ]
+}
