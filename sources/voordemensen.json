@@ -1,0 +1,10 @@
+{
+  "id": "VOORDEMENSEN",
+  "name": "VoordeMensen",
+  "categories": ["ECOMMERCE"],
+  "organization": "VOORDEMENSEN",
+  "iconUrl":
+    "https://voordemensen.nl/images/vdm-v-icon-40x40.png",
+  "sourceUrl": "https://voordemensen.nl/",
+  "dataVisibility": ["PRIVATE"]
+}
