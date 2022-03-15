@@ -1,0 +1,10 @@
+{
+  "id": "AFFLUENT_IO",
+  "name": "Affluent",
+  "categories": ["AFFILIATE"],
+  "organization": "AFFLUENT_IO",
+  "iconUrl":
+    "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10099_1637772037_my_connector.png",
+  "sourceUrl": "https://www.affluent.io/",
+  "dataVisibility": ["PRIVATE"]
+}
