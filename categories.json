@@ -4,6 +4,10 @@
     "name": "Advertising"
   },
   {
+    "id": "AFFILIATE",
+    "name": "Affiliate"
+  },
+  {
     "id": "ANALYTICS",
     "name": "Analytics"
   },
