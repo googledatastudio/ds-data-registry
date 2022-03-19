@@ -2,7 +2,7 @@
     "id": "MARIADB",
     "name": "MariaDB",
     "categories": ["DATABASE"],
-    "iconUrl": "https://mariadb.org/wp-content/themes/twentynineteen-child/icons/logo_seal.svg",
+    "iconUrl": "https://goxai.s3.us-east-2.amazonaws.com/tmr/assets/logo/mariadb.png",
     "sourceUrl": "https://mariadb.org/",
     "dataVisibility": ["PRIVATE", "PUBLIC"]
   }
