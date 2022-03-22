@@ -1,7 +1,7 @@
 {
-    "id": "CUSTOM_API",
-    "name": "Custom API",
-    "categories": ["CUSTOM"],
+    "id": "REST_API",
+    "name": "REST API",
+    "categories": ["API"],
     "iconUrl": "https://goxai.s3.us-east-2.amazonaws.com/tmr/assets/logo/apibridge.png",
     "dataVisibility": ["PRIVATE", "PUBLIC"]
   }
