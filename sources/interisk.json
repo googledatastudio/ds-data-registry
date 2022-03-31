@@ -3,7 +3,8 @@
   "name": "Interisk",
   "categories": ["RISK_MANAGEMENT"],
   "organization": "BRASILIANO_INTERISK",
-  "iconUrl": "https://www.softwareinterisk.com.br/static/global/img/interisk-logo-branco.png",
+  "iconUrl":
+    "https://www.softwareinterisk.com.br/static/global/img/interisk-logo-branco.png",
   "sourceUrl": "https://www.brasiliano.com.br/",
   "dataVisibility": ["PRIVATE"]
 }
