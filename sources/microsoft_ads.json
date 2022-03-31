@@ -1,0 +1,10 @@
+{
+    "id": "MICROSOFT_ADS",
+    "name": "Microsoft Ads",
+    "categories": ["ADVERTISING"],
+    "organization": "MICROSOFT",
+    "iconUrl": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31",
+    "sourceUrl": "https://ads.microsoft.com/",
+    "dataVisibility": ["PRIVATE"]
+  }
+  

@@ -1,0 +1,9 @@
+{
+  "id": "FOWCRM",
+  "name": "FowCRM",
+  "categories": ["CRM", "SALES"],
+  "organization": "FOWAPPS",
+  "iconUrl": "https://fowcrm.com/wp-content/uploads/2021/04/fow_CRM-logo.png",
+  "sourceUrl": "https://www.fowcrm.com",
+  "dataVisibility": ["PRIVATE"]
+}

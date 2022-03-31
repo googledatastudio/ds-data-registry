@@ -1,0 +1,10 @@
+{
+  "id": "LEADINFO",
+  "name": "Leadinfo",
+  "categories": ["SALES", "MARKETING"],
+  "organization": "LEADINFO",
+  "iconUrl":
+    "https://cdn.leadinfo.net/assets/leadinfo-logo-1024-data-studio.png",
+  "sourceUrl": "https://www.leadinfo.com",
+  "dataVisibility": ["PRIVATE"]
+}

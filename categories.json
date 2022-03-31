@@ -4,6 +4,10 @@
     "name": "Advertising"
   },
   {
+    "id": "AFFILIATE",
+    "name": "Affiliate"
+  },
+  {
     "id": "ANALYTICS",
     "name": "Analytics"
   },
@@ -18,6 +22,10 @@
   {
     "id": "CUSTOM",
     "name": "Custom"
+  },
+  {
+    "id": "CRYPTO",
+    "name": "Crypto"
   },
   {
     "id": "CUSTOMER_SUPPORT",
@@ -150,5 +158,22 @@
   {
     "id": "RISK_MANAGEMENT",
     "name": "Risk Management"
+  },
+  {
+    "id": "NEWS",
+    "name": "News"
+  },
+  {
+    "id": "PUBLIC_RELATIONS",
+    "name": "Public Relations"
+  },
+  {
+    "id": "LEAVE_TRACKING",
+    "name": "Leave Tracking",
+    "description": "Employee leave tracking"
+  },
+  {
+    "id": "INVENTORY_MANAGEMENT",
+    "name": "Inventory Management"
   }
 ]
