@@ -1,0 +1,15 @@
+{
+  "id": "CONVERSIONOMICS",
+  "name": "Conversionomics",
+  "categories": [
+    "ANALYTICS",
+    "MARKETING",
+    "TOOLS",
+    "SOCIAL",
+    "ADVERTISING"
+  ],
+  "organization": "CONVERSIONOMICS",
+  "iconUrl": "https://app.conversionomics.com/assets/conx-icon.png",
+  "sourceUrl": "https://conversionomics.com",
+  "dataVisibility": ["PRIVATE"]
+}
