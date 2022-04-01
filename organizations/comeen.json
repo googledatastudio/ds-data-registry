@@ -2,5 +2,6 @@
   "id": "COMEEN",
   "name": "Comeen",
   "orgUrl": "https://getcomeen.com/",
-  "iconUrl": "https://comeenprodstorageacc.blob.core.windows.net/addin-media/icon-96x96.png"
+  "iconUrl":
+    "https://comeenprodstorageacc.blob.core.windows.net/addin-media/icon-96x96.png"
 }

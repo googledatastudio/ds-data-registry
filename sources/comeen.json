@@ -3,7 +3,8 @@
   "name": "Comeen",
   "categories": ["HRMS"],
   "organization": "COMEEN",
-  "iconUrl": "https://comeenprodstorageacc.blob.core.windows.net/addin-media/icon-96x96.png",
+  "iconUrl":
+    "https://comeenprodstorageacc.blob.core.windows.net/addin-media/icon-96x96.png",
   "sourceUrl": "https://getcomeen.com",
   "dataVisibility": ["PRIVATE"]
 }
