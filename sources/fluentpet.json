@@ -1,0 +1,9 @@
+{
+  "id": "FLUENTPET",
+  "name": "FluentPet",
+  "categories": ["ANIMALS", "HARDWARE", "RESEARCH"],
+  "organization": "FLUENTPET",
+  "iconUrl": "https://cdn.shopify.com/s/files/1/0562/8785/4775/files/FluentPet-Wordmark-2022_100x.png?v\u003d1643395194",
+  "sourceUrl": "https://fluent.pet/",
+  "dataVisibility": ["PRIVATE"]
+}
