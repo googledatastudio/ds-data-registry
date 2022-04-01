@@ -175,5 +175,13 @@
   {
     "id": "INVENTORY_MANAGEMENT",
     "name": "Inventory Management"
+  },
+  {
+    "id": "HARDWARE",
+    "name": "Hardware"
+  },
+  {
+    "id": "ANIMALS",
+    "name": "Animals"
   }
 ]
