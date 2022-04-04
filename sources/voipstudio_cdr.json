@@ -1,0 +1,9 @@
+{
+  "id": "VOIPSTUDIO_CDR",
+  "name": "VoIPstudio CDRs",
+  "categories": ["CDR", "CALL_TRACKING", "CLOUD_COMMUNICATIONS", "CUSTOMER_SUPPORT"],
+  "organization": "VOIPSTUDIO",
+  "iconUrl": "https://voipstudio.com/images/voipstudio/logo-vertical.png",
+  "sourceUrl": "https://voipstudio.com/docs/administrator/integrations/googledatastudio/",
+  "dataVisibility": ["PRIVATE"]
+}
