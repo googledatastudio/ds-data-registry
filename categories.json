@@ -12,10 +12,6 @@
     "name": "Analytics"
   },
   {
-    "id": "ANIMALS",
-    "name": "Animals"
-  },
-  {
     "id": "API",
     "name": "Application Programming Interface"
   },
@@ -58,10 +54,6 @@
   {
     "id": "FINANCE",
     "name": "Finance"
-  },
-  {
-    "id": "HARDWARE",
-    "name": "Hardware"
   },
   {
     "id": "JOBS",
