@@ -175,5 +175,9 @@
   {
     "id": "INVENTORY_MANAGEMENT",
     "name": "Inventory Management"
+  },
+  {
+    "id": "DJMS",
+    "name": "Door James Office Space Management System"
   }
 ]
