@@ -1,0 +1,10 @@
+{
+  "id": "LILIGO",
+  "name": "Liligo.com",
+  "categories": ["ADVERTISING", "SEARCH"],
+  "organization": "LILIGO",
+  "iconUrl":
+    "https://www.liligo.fr/img/llg-icon/xfavicon-32x32.png.pagespeed.ic.fbVKahRBeY.webp",
+  "sourceUrl": "https://www.liligo.fr",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "MONITORANK",
+  "name": "Monitorank",
+  "categories": ["TOOLS", "SEO", "ANALYTICS", "RANKING"],
+  "organization": "MONITORANK",
+  "iconUrl": "https://www.monitorank.com/img/logo/logo_750_750.png",
+  "sourceUrl": "https://www.monitorank.com",
+  "dataVisibility": ["PRIVATE"]
+}

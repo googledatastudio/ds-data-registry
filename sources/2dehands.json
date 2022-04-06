@@ -1,0 +1,10 @@
+{
+  "id": "2DEHANDS",
+  "name": "2dehands",
+  "categories": ["ECOMMERCE"],
+  "organization": "EBAY",
+  "iconUrl":
+    "https://s.2dehands.be/z/dist/bower_components/design-sdk/themes/twh/favicons/favicon.ico",
+  "sourceUrl": "https://www.2dehands.be/",
+  "dataVisibility": ["PRIVATE"]
+}

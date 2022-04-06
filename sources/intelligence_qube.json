@@ -1,0 +1,10 @@
+{
+  "id": "INTELLIGENCE_QUBE",
+  "name": "Intelligence Qube",
+  "categories": ["ADVERTISING", "ANALYTICS"],
+  "organization": "DIGITAL_CONTROL",
+  "iconUrl":
+    "https://storage.googleapis.com/cdn-iq/Corporate%20Identity/dc_logo_small_without_caption_40x40.png",
+  "sourceUrl": "https://www.digital-control.biz/intelligence-qube/",
+  "dataVisibility": ["PRIVATE"]
+}

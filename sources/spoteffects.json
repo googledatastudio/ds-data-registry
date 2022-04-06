@@ -1,0 +1,10 @@
+{
+  "id": "SPOTEFFECTS",
+  "name": "spoteffects",
+  "categories": ["ANALYTICS"],
+  "organization": "SPOTEFFECTS",
+  "iconUrl":
+    "http://tv-monitoring.pro/wp-content/uploads/2016/03/logo-spoteffects-220x220.png",
+  "sourceUrl": "https://www.spoteffects.com/home/",
+  "dataVisibility": ["PRIVATE"]
+}

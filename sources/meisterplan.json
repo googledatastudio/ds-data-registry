@@ -1,0 +1,10 @@
+{
+  "id": "MEISTERPLAN",
+  "name": "Meisterplan",
+  "categories": ["TOOLS"],
+  "organization": "Meisterplan Inc.",
+  "iconUrl":
+    "https://meisterplan-static.s3.eu-central-1.amazonaws.com/web/images/google-data-studio/connector.png",
+  "sourceUrl": "https://meisterplan.com",
+  "dataVisibility": ["PRIVATE"]
+}

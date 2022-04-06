@@ -1,0 +1,9 @@
+{
+  "id": "IMEDIA",
+  "name": "imedia",
+  "categories": ["ADVERTISING"],
+  "organization": "IMEDIA",
+  "iconUrl": "https://www.imediaconnection.com/favicon.ico",
+  "sourceUrl": "https://www.imediaconnection.com/",
+  "dataVisibility": ["PRIVATE"]
+}

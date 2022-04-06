@@ -1,0 +1,9 @@
+{
+  "id": "SPYDIALER",
+  "name": "Spy Dialer",
+  "categories": ["ADVERTISING"],
+  "organization": "SPYDIALER",
+  "iconUrl": "https://www.spydialer.com/favicon.ico",
+  "sourceUrl": "https://www.spydialer.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "BEETLEEYE",
+  "name": "Beetle Eye",
+  "categories": ["CRM", "MARKETING"],
+  "organization": "BEETLEEYE",
+  "iconUrl":
+    "https://beetle-eye-public.s3.amazonaws.com/beetle-eye-assets/be_40x40.png",
+  "sourceUrl": "https://www.beetle-eye.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "LIVECHAT",
+  "name": "LiveChat",
+  "categories": [
+    "CHAT_TRACKING"
+  ],
+  "organization": "LIVECHAT",
+  "iconUrl": "https://www.livechat.com/favicon.ico",
+  "sourceUrl": "https://www.livechat.com/",
+  "dataVisibility": [
+    "PRIVATE"
+  ]
+}

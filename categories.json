@@ -4,16 +4,40 @@
     "name": "Advertising"
   },
   {
+    "id": "AFFILIATE",
+    "name": "Affiliate"
+  },
+  {
     "id": "ANALYTICS",
     "name": "Analytics"
+  },
+  {
+    "id": "API",
+    "name": "Application Programming Interface"
+  },
+  {
+    "id": "CDR",
+    "name": "Call Detail Record"
   },
   {
     "id": "CUSTOM",
     "name": "Custom"
   },
   {
+    "id": "CRYPTO",
+    "name": "Crypto"
+  },
+  {
+    "id": "CUSTOMER_SUPPORT",
+    "name": "Customer Support"
+  },
+  {
     "id": "DATABASE",
     "name": "Database"
+  },
+  {
+    "id": "DATA_COLLECTION",
+    "name": "Data Collection"
   },
   {
     "id": "ECOMMERCE",
@@ -56,6 +80,10 @@
     "name": "Social media"
   },
   {
+    "id": "SPORTS",
+    "name": "Sports"
+  },
+  {
     "id": "STORAGE",
     "name": "File Storage"
   },
@@ -84,11 +112,68 @@
     "name": "Call Tracking"
   },
   {
+    "id": "CHAT_TRACKING",
+    "name": "Chat Tracking"
+  },
+  {
     "id": "CRM",
     "name": "Customer Relationship Management"
   },
   {
     "id": "TIME_TRACKING",
     "name": "Time Tracking"
+  },
+  {
+    "id": "CHMS",
+    "name": "Church Manangement System"
+  },
+  {
+    "id": "IOT",
+    "name": "IoT Reporting"
+  },
+  {
+    "id": "CDP",
+    "name": "Customer Data Platform"
+  },
+  {
+    "id": "TIME_SERIES",
+    "name": "Time Series"
+  },
+  {
+    "id": "POS",
+    "name": "Point of Sales"
+  },
+  {
+    "id": "ISSUE_TRACKING",
+    "name": "Issue Tracking"
+  },
+  {
+    "id": "FACILITY_MANAGEMENT_OS",
+    "name": "Facility Management OS"
+  },
+  {
+    "id": "HRMS",
+    "name": "Human Resources Management System"
+  },
+  {
+    "id": "RISK_MANAGEMENT",
+    "name": "Risk Management"
+  },
+  {
+    "id": "NEWS",
+    "name": "News"
+  },
+  {
+    "id": "PUBLIC_RELATIONS",
+    "name": "Public Relations"
+  },
+  {
+    "id": "LEAVE_TRACKING",
+    "name": "Leave Tracking",
+    "description": "Employee leave tracking"
+  },
+  {
+    "id": "INVENTORY_MANAGEMENT",
+    "name": "Inventory Management"
   }
 ]

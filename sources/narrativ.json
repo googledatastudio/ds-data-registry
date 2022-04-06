@@ -1,0 +1,10 @@
+{
+  "id": "NARRATIV",
+  "name": "Narrativ",
+  "categories": ["TOOLS", "MARKETING"],
+  "organization": "NARRATIV",
+  "iconUrl":
+    "https://static1.squarespace.com/static/55db494de4b0f408c8e00f07/t/59ee733b80bd5e36ab2f252c/favicon.ico",
+  "sourceUrl": "https://narrativ.com/",
+  "dataVisibility": ["PRIVATE"]
+}

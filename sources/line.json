@@ -1,0 +1,9 @@
+{
+  "id": "LINE",
+  "name": "Line",
+  "categories": ["SOCIAL"],
+  "organization": "LINE",
+  "iconUrl": "https://line.me/favicon.ico",
+  "sourceUrl": "https://line.me/en/",
+  "dataVisibility": ["PRIVATE"]
+}

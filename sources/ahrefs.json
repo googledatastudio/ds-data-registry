@@ -1,0 +1,9 @@
+{
+  "id": "AHREFS",
+  "name": "Ahrefs",
+  "categories": ["ANALYTICS", "SEO"],
+  "organization": "AHREFS",
+  "iconUrl": "https://cdn.ahrefs.com/images/ahrefs-logo-data-studio.png",
+  "sourceUrl": "https://ahrefs.com/",
+  "dataVisibility": ["PRIVATE"]
+}

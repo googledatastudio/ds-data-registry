@@ -1,0 +1,9 @@
+{
+  "id": "WORKFRONT",
+  "name": "Workfront",
+  "categories": ["TOOLS"],
+  "organization": "WORKFRONT",
+  "iconUrl": "https://www.workfront.com/sites/default/files/favicon_1.ico",
+  "sourceUrl": "https://www.workfront.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "AGENDIZE",
+  "name": "Agendize",
+  "categories": ["ANALYTICS", "CRM", "CALL_TRACKING"],
+  "organization": "AGENDIZE",
+  "iconUrl": "https://www.agendize.com/hubfs/logoagendize-31.svg",
+  "sourceUrl": "https://www.agendize.com/",
+  "dataVisibility": ["PRIVATE"]
+}

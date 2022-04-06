@@ -1,0 +1,10 @@
+{
+  "id": "SMARTER_TRAVEL",
+  "name": "Smarter Travel",
+  "categories": ["ADVERTISING"],
+  "organization": "SMARTER_TRAVEL_MEDIA",
+  "iconUrl":
+    "https://www.smartertravel.com/wp-content/themes/smarter-travel/images/favicon.png",
+  "sourceUrl": "https://www.smartertravel.com/",
+  "dataVisibility": ["PRIVATE"]
+}

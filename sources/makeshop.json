@@ -1,0 +1,10 @@
+{
+  "id": "MAKESHOP",
+  "name": "Makeshop",
+  "categories": ["ECOMMERCE"],
+  "organization": "GMO_INTERNET",
+  "iconUrl":
+    "https://www.makeshop.co.jp/wp-content/themes/twentyseventeen/images/logo-makeshop.png",
+  "sourceUrl": "https://www.makeshop.jp/",
+  "dataVisibility": ["PRIVATE"]
+}

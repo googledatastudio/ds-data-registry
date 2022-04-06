@@ -1,0 +1,10 @@
+{
+  "id": "RANKACTIVE",
+  "name": "RankActive",
+  "categories": ["ANALYTICS", "SEO", "TOOLS"],
+  "organization": "RANKACTIVE",
+  "iconUrl":
+    "https://app.rankactive.com/assets/pwa-icons/app.rankactive/icon-512x512.png",
+  "sourceUrl": "https://rankactive.com/",
+  "dataVisibility": ["PRIVATE"]
+}

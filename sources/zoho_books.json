@@ -1,0 +1,10 @@
+{
+  "id": "ZOHO_BOOKS",
+  "name": "Zoho Books",
+  "categories": ["FINANCE"],
+  "organization": "ZOHO",
+  "iconUrl":
+    "https://www.vhv.rs/dpng/d/356-3560958_zoho-books-logo-hd-png-download.png",
+  "sourceUrl": "https://www.zoho.com/in/books/",
+  "dataVisibility": ["PRIVATE"]
+}

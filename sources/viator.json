@@ -1,0 +1,9 @@
+{
+  "id": "VIATOR",
+  "name": "viator",
+  "categories": ["ADVERTISING", "SEARCH"],
+  "organization": "VIATOR",
+  "iconUrl": "https://cache.vtrcdn.com//orion/images/favicon.ico",
+  "sourceUrl": "https://www.viator.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "MOBVISTA",
+  "name": "Mobvista",
+  "categories": ["ADVERTISING"],
+  "organization": "MOBVISTA",
+  "iconUrl":
+    "https://www.mobvista.com/wp-content/themes/mobvista/dist/favicon.ico",
+  "sourceUrl": "https://www.mobvista.com/en/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "CONTENTKING",
+  "name": "ContentKing",
+  "categories": ["SEO"],
+  "organization": "CONTENTKING",
+  "iconUrl":
+    "https://assets.contentkingapp.com/public_assets/images/kevin-40x40.png",
+  "sourceUrl": "https://www.contentkingapp.com/",
+  "dataVisibility": ["PRIVATE"]
+}

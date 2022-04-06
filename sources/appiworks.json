@@ -1,0 +1,10 @@
+{
+  "id": "APPIWORKS",
+  "name": "AppiWorks",
+  "categories": ["CLOUD"],
+  "organization": "JIVRUS",
+  "iconUrl":
+    "https://storage.googleapis.com/jivrus-web-images/products/appiworks/appiworks-logo.png",
+  "sourceUrl": "https://www.appiworks.com/",
+  "dataVisibility": ["PRIVATE"]
+}

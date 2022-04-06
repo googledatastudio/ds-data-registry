@@ -1,0 +1,9 @@
+{
+  "id": "FARECOMPARE",
+  "name": "FareCompare",
+  "categories": ["ADVERTISING", "SEARCH"],
+  "organization": "FARECOMPARE",
+  "iconUrl": "https://www.farecompare.com/favicon.ico",
+  "sourceUrl": "https://www.farecompare.com/",
+  "dataVisibility": ["PRIVATE"]
+}

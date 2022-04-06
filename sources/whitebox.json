@@ -1,0 +1,9 @@
+{
+  "id": "WHITEBOX",
+  "name": "WHITEBOX",
+  "categories": ["ECOMMERCE"],
+  "organization": "WHITEBOX",
+  "iconUrl": "https://atlas-data.net/assets/favicon.png",
+  "sourceUrl": "https://atlas-data.net/",
+  "dataVisibility": ["PRIVATE"]
+}

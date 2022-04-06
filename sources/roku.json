@@ -1,0 +1,9 @@
+{
+  "id": "ROKU",
+  "name": "Roku Advertising",
+  "categories": ["ADVERTISING"],
+  "organization": "ROKU_ADVERTISING_SOLUTIONS",
+  "iconUrl": "https://advertising.roku.com/hubfs/favicon.png",
+  "sourceUrl": "https://advertising.roku.com/",
+  "dataVisibility": ["PRIVATE"]
+}

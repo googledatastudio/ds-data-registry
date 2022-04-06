@@ -1,0 +1,10 @@
+{
+  "id": "CATCHYS",
+  "name": "CATCHYS",
+  "categories": ["ADVERTISING", "SEARCH", "ECOMMERCE"],
+  "organization": "CATCHYS",
+  "iconUrl":
+    "https://cdn.catchys.com/uploads/2018/02/7b7d5a1c-cropped-734cd918-hand-32x32.png",
+  "sourceUrl": "https://www.catchys.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "MERZ_OEE",
+  "name": "Merz OEE",
+  "categories": ["CUSTOM", "TOOLS", "CLOUD"],
+  "organization": "MERZ",
+  "iconUrl":
+    "https://www.millennium.cz/wp-content/uploads/2018/05/merz-portfolio-image.png",
+  "sourceUrl": "https://portaloee.merz.cz",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "SEALMETRICS",
+  "name": "SealMetrics",
+  "categories": ["MARKETING", "ANALYTICS", "ECOMMERCE", "SALES", "ADVERTISING"],
+  "organization": "SEALMETRICS",
+  "iconUrl":
+    "https://sealmetrics.com/wp-content/uploads/2021/04/cropped-favicon-32x32.png",
+  "sourceUrl": "https://sealmetrics.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "MAGENTO",
+  "name": "Magento",
+  "categories": ["ECOMMERCE"],
+  "organization": "ADOBE",
+  "iconUrl": "https://magento.com/sites/all/themes/magento/favicon.ico",
+  "sourceUrl": "https://magento.com/",
+  "dataVisibility": ["PRIVATE"]
+}

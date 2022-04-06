@@ -1,0 +1,10 @@
+{
+  "id": "AIRSHIP",
+  "name": "Airship",
+  "categories": ["MARKETING"],
+  "organization": "AIRSHIP",
+  "iconUrl":
+    "https://www.airship.com/wp-content/themes/airship/images/favicon/favicon.ico",
+  "sourceUrl": "https://www.airship.com/",
+  "dataVisibility": ["PRIVATE"]
+}

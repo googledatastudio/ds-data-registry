@@ -1,0 +1,10 @@
+{
+  "id": "ADPERIO",
+  "name": "Adperio",
+  "categories": ["ADVERTISING"],
+  "organization": "ADPERIO",
+  "iconUrl":
+    "https://www.adperio.com/wp-content/themes/adperio/assets/images/favicons/favicon-32x32.png",
+  "sourceUrl": "https://www.adperio.com/",
+  "dataVisibility": ["PRIVATE"]
+}

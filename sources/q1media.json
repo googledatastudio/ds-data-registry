@@ -1,0 +1,9 @@
+{
+  "id": "Q1MEDIA",
+  "name": "Q1MEDIA",
+  "categories": ["ADVERTISING"],
+  "organization": "Q1MEDIA",
+  "iconUrl": "https://q1media.io/assets/images/q1media.jpg",
+  "sourceUrl": "https://www.q1media.com/",
+  "dataVisibility": ["PRIVATE"]
+}

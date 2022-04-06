@@ -1,0 +1,10 @@
+{
+  "id": "DIGITAL_ADVISOR",
+  "name": "Digital Advisor",
+  "categories": ["ADVERTISING"],
+  "organization": "DIGITAL_ADVISOR",
+  "iconUrl":
+    "https://digitaladvisor.dk/wp-content/uploads/2016/08/cropped-Digital-Advisor-logo-1024x1024-32x32.png",
+  "sourceUrl": "https://digitaladvisor.dk/",
+  "dataVisibility": ["PRIVATE"]
+}

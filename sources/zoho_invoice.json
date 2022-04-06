@@ -1,0 +1,9 @@
+{
+  "id": "ZOHO_INVOICE",
+  "name": "Zoho Invoice",
+  "categories": ["FINANCE"],
+  "organization": "ZOHO",
+  "iconUrl": "https://www.zoho.com/invoice/images/invoice-logo.svg",
+  "sourceUrl": "https://www.zoho.com/in/invoice/",
+  "dataVisibility": ["PRIVATE"]
+}

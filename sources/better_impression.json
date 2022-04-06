@@ -1,0 +1,10 @@
+{
+  "id": "BETTER_IMPRESSION",
+  "name": "Better Impression",
+  "categories": ["MARKETING"],
+  "organization": "BETTER_IMPRESSION",
+  "iconUrl":
+    "https://www.bimpression.com/wp-content/uploads/2018/04/cropped-Favicon-1-32x32.png",
+  "sourceUrl": "https://www.bimpression.com/",
+  "dataVisibility": ["PRIVATE"]
+}

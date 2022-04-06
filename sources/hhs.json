@@ -1,0 +1,10 @@
+{
+  "id": "HHS",
+  "name": "Health and Human Services",
+  "categories": ["PUBLIC_DATA"],
+  "organization": "HHS",
+  "iconUrl":
+    "https://www.hhs.gov/sites/default/files/dhhs-logo-reflex-blue-cmyk.tiff",
+  "sourceUrl": "https://www.hhs.gov/",
+  "dataVisibility": ["PRIVATE"]
+}

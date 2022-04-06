@@ -1,0 +1,9 @@
+{
+  "id": "SKYSCANNER",
+  "name": "skyscanner",
+  "categories": ["ADVERTISING", "SEARCH"],
+  "organization": "SKYSCANNER",
+  "iconUrl": "https://www.skyscanner.se/favicon.ico",
+  "sourceUrl": "https://www.skyscanner.com",
+  "dataVisibility": ["PRIVATE"]
+}

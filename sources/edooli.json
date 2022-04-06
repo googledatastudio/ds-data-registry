@@ -1,0 +1,9 @@
+{
+  "id": "EDOOLI",
+  "name": "edooli",
+  "categories": ["FINANCE"],
+  "organization": "ROWISOFT",
+  "iconUrl": "https://my.edooli.com/images/logo40.png",
+  "sourceUrl": "https://www.edooli.com",
+  "dataVisibility": ["PRIVATE"]
+}

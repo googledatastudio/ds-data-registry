@@ -1,0 +1,10 @@
+{
+  "id": "GIMBAL",
+  "name": "Gimbal",
+  "categories": ["ADVERTISING", "ANALYTICS", "SEO"],
+  "organization": "GIMBAL",
+  "iconUrl":
+    "https://www.tapclicks.com/wp-content/uploads/2020/06/gimbal-logo-250.png",
+  "sourceUrl": "https://gimbal.com/",
+  "dataVisibility": ["PRIVATE"]
+}

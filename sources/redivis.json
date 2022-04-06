@@ -1,0 +1,10 @@
+{
+  "id": "REDIVIS",
+  "name": "Redivis",
+  "categories": ["EDUCATION", "TOOLS"],
+  "organization": "REDIVIS",
+  "iconUrl":
+    "https://storage.googleapis.com/redivis-public/icon-square-40px.png",
+  "sourceUrl": "https://redivis.com",
+  "dataVisibility": ["PRIVATE"]
+}

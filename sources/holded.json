@@ -1,0 +1,10 @@
+{
+  "id": "HOLDED",
+  "name": "Holded",
+  "categories": ["CDP", "CRM", "SALES"],
+  "organization": "HOLDED",
+  "iconUrl":
+    "https://www.holded.com/wp-content/uploads/2020/05/Holded-logo.png",
+  "sourceUrl": "https://www.holded.com",
+  "dataVisibility": ["PRIVATE"]
+}

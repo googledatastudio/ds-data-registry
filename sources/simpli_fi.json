@@ -1,0 +1,9 @@
+{
+  "id": "SIMPLI_FI",
+  "name": "Simpli.fi",
+  "categories": ["ADVERTISING"],
+  "organization": "SIMPLI_FI",
+  "iconUrl": "https://www.simpli.fi/wp-content/themes/simplifi/favicon.ico",
+  "sourceUrl": "https://simpli.fi/",
+  "dataVisibility": ["PRIVATE"]
+}

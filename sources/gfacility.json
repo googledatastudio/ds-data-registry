@@ -1,0 +1,10 @@
+{
+  "id": "GFACILITY",
+  "name": "gfacility",
+  "categories": ["FACILITY_MANAGEMENT_OS"],
+  "organization": "GFACILITY",
+  "iconUrl":
+    "https://storage.googleapis.com/gfacility-prod.appspot.com/logo/gfacility-512x512.png",
+  "sourceUrl": "https://gfacility.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "JIRA_CLOUD",
+  "name": "Jira Cloud",
+  "categories": ["PROJECT_MANAGEMENT"],
+  "organization": "ATLASSIAN",
+  "iconUrl":
+    "https://brandslogos.com/wp-content/uploads/images/large/jira-logo.png",
+  "sourceUrl": "https://www.atlassian.com/software/jira",
+  "dataVisibility": ["PRIVATE"]
+}

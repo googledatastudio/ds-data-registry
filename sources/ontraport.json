@@ -1,0 +1,10 @@
+{
+  "id": "ONTRAPORT",
+  "name": "Ontraport",
+  "categories": ["MARKETING"],
+  "organization": "ONTRAPORT",
+  "iconUrl":
+    "https://s3.amazonaws.com/ontraport-brand/ontraport-logo/primary/1_ONTRAPORT_rgb.png",
+  "sourceUrl": "https://www.ontraport.com/",
+  "dataVisibility": ["PRIVATE"]
+}

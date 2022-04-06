@@ -1,0 +1,10 @@
+{
+  "id": "AMOBEE",
+  "name": "Amobee",
+  "categories": ["ADVERTISING"],
+  "organization": "SINGTEL",
+  "iconUrl":
+    "https://www.amobee.com/wp-content/themes/amobee/assets/images/favicons/favicon.ico",
+  "sourceUrl": "https://www.amobee.com/",
+  "dataVisibility": ["PRIVATE"]
+}

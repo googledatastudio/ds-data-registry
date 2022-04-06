@@ -1,0 +1,9 @@
+{
+  "id": "TEADS",
+  "name": "Teads",
+  "categories": ["ADVERTISING", "MARKETING", "SEO"],
+  "organization": "TEADS",
+  "iconUrl": "https://www.tapclicks.com/wp-content/uploads/2020/06/Teads.svg",
+  "sourceUrl": "https://www.teads.com/",
+  "dataVisibility": ["PRIVATE"]
+}
