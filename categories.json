@@ -68,6 +68,10 @@
     "name": "Payments"
   },
   {
+    "id": "RESEARCH",
+    "name": "Research"
+  },
+  {
     "id": "SALES",
     "name": "Sales"
   },
