@@ -1,0 +1,9 @@
+{
+  "id": "QUINTLY",
+  "name": "quintly",
+  "categories": ["ANALYTICS"],
+  "organization": "QUINTLY",
+  "iconUrl": "https://www.quintly.com/hubfs/favicon-1.ico",
+  "sourceUrl": "https://www.quintly.com/",
+  "dataVisibility": ["PRIVATE"]
+}

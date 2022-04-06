@@ -1,0 +1,9 @@
+{
+  "id": "READPEAK",
+  "name": "ReadPeak",
+  "categories": ["ADVERTISING"],
+  "organization": "READPEAK",
+  "iconUrl": "https://www.readpeak.com/favicon.ico",
+  "sourceUrl": "https://www.readpeak.com/",
+  "dataVisibility": ["PRIVATE"]
+}

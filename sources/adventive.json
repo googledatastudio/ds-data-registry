@@ -1,0 +1,10 @@
+{
+  "id": "ADVENTIVE",
+  "name": "Adventive",
+  "categories": ["ADVERTISING", "MARKETING"],
+  "organization": "ADVENTIVE",
+  "iconUrl":
+    "https://www.tapclicks.com/wp-content/uploads/2017/01/Adventive.svg",
+  "sourceUrl": "https://www.adventive.com/",
+  "dataVisibility": ["PRIVATE"]
+}

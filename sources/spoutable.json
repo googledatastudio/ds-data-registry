@@ -1,0 +1,9 @@
+{
+  "id": "SPOUTABLE",
+  "name": "Spoutable",
+  "categories": ["ADVERTISING"],
+  "organization": "PROPER_MEDIA",
+  "iconUrl": "https://www.spoutable.com/images/favicon.ico",
+  "sourceUrl": "https://www.spoutable.com/",
+  "dataVisibility": ["PRIVATE"]
+}

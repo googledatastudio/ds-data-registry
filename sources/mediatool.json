@@ -1,0 +1,9 @@
+{
+  "id": "MEDIATOOL",
+  "name": "mediatool",
+  "categories": ["TOOLS"],
+  "organization": "MEDIATOOL",
+  "iconUrl": "https://mediatool.com/favicon.ico",
+  "sourceUrl": "https://mediatool.com/",
+  "dataVisibility": ["PRIVATE"]
+}

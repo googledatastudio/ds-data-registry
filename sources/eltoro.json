@@ -1,0 +1,9 @@
+{
+  "id": "ELTORO",
+  "name": "El Toro",
+  "categories": ["ANALYTICS", "MARKETING"],
+  "organization": "ELTORO",
+  "iconUrl": "https://www.eltoro.com/wp-content/uploads/2017/09/web_red.png",
+  "sourceUrl": "hhttps://www.eltoro.com/",
+  "dataVisibility": ["PRIVATE"]
+}

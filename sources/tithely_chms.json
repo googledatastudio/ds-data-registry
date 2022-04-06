@@ -1,0 +1,10 @@
+{
+  "id": "TITHELY_CHMS",
+  "name": "Tithe.ly ChMS",
+  "categories": ["CHMS"],
+  "organization": "TITHELY",
+  "iconUrl":
+    "https://onthehill.life/wp-content/uploads/2018/03/tithely-icon.png",
+  "sourceUrl": "https://get.tithe.ly/church-management",
+  "dataVisibility": ["PRIVATE"]
+}

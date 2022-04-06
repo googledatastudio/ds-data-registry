@@ -1,0 +1,9 @@
+{
+  "id": "UPTIMEROBOT",
+  "name": "uptimerobot",
+  "categories": ["ANALYTICS"],
+  "organization": "UPTIMEROBOT",
+  "iconUrl": "https://uptimerobot.com/assets/img/logo_plain.png",
+  "sourceUrl": "https://uptimerobot.com/api",
+  "dataVisibility": ["PRIVATE"]
+}

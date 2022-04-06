@@ -1,0 +1,9 @@
+{
+  "id": "SUDONUM",
+  "name": "Sudonum",
+  "categories": ["CALL_TRACKING"],
+  "organization": "SUDONUM",
+  "iconUrl": "https://sudonum.com/favicon.png",
+  "sourceUrl": "https://www.sudonum.com/",
+  "dataVisibility": ["PRIVATE"]
+}

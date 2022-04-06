@@ -1,0 +1,10 @@
+{
+  "id": "TAPLEAD",
+  "name": "TapLead",
+  "categories": ["ADVERTISING", "MARKETING", "SEO", "ANALYTICS"],
+  "organization": "TAPLEAD",
+  "iconUrl":
+    "https://www.tapclicks.com/wp-content/uploads/2020/06/tapleads-logo-250.png",
+  "sourceUrl": "http://taplead.com/",
+  "dataVisibility": ["PRIVATE"]
+}

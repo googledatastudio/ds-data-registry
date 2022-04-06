@@ -1,0 +1,9 @@
+{
+  "id": "LINKWISE",
+  "name": "Linkwise",
+  "categories": ["ADVERTISING", "MARKETING"],
+  "organization": "LINKWISE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/linkwise.png",
+  "sourceUrl": "https://linkwi.se/",
+  "dataVisibility": ["PRIVATE"]
+}

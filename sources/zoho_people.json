@@ -1,0 +1,9 @@
+{
+  "id": "ZOHO_PEOPLE",
+  "name": "Zoho People",
+  "categories": ["HRMS"],
+  "organization": "ZOHO",
+  "iconUrl": "https://www.zohowebstatic.com/sites/default/files/styles/product-home-page/public/people-40.png",
+  "sourceUrl": "https://www.zoho.com/people/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "PUSHNAMI",
+  "name": "Pushnami",
+  "categories": ["MARKETING"],
+  "organization": "PUSHNAMI",
+  "iconUrl":
+    "https://pushnami.com/wp-content/themes/pushnami-com-v3-wp/images/pushicon.ico",
+  "sourceUrl": "https://pushnami.com/",
+  "dataVisibility": ["PRIVATE"]
+}

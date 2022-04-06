@@ -1,0 +1,9 @@
+{
+  "id": "SPOTLIST_MUSIC",
+  "name": "SpotList Music",
+  "categories": ["ADVERTISING"],
+  "organization": "SPOTLIST_MUSIC",
+  "iconUrl": "http://www.spotlistmusic.com/img/spotlist_icon.gif",
+  "sourceUrl": "http://www.spotlistmusic.com/",
+  "dataVisibility": ["PRIVATE"]
+}

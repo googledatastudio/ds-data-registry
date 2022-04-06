@@ -1,0 +1,9 @@
+{
+  "id": "CRUISE_CRITIC",
+  "name": "Cruise Critic",
+  "categories": ["ADVERTISING", "SEARCH"],
+  "organization": "INDEPENDENT_TRAVELLER",
+  "iconUrl": "https://www.cruisecritic.co.uk/favicon.ico",
+  "sourceUrl": "https://www.cruisecritic.co.uk/",
+  "dataVisibility": ["PRIVATE"]
+}

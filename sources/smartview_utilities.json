@@ -1,0 +1,11 @@
+{
+  "id": "SMARTVIEW_UTILITIES",
+  "name": "Smart-View Utilities",
+  "categories": ["IOT"],
+  "organization": "SMARTVIEW_IOT",
+  "iconUrl":
+    "https://connector-dot-smart-view-iot-management.appspot.com/static/images/smartviewlogo.png",
+  "sourceUrl":
+    "https://iot.smartviewtechnology.co.za/documentation/docs/connector.html",
+  "dataVisibility": ["PUBLIC"]
+}

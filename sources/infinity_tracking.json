@@ -1,0 +1,9 @@
+{
+  "id": "INFINITY_TRACKING",
+  "name": "Infinity Tracking",
+  "categories": ["ANALYTICS", "CALL_TRACKING", "MARKETING"],
+  "organization": "INFINITY_TRACKING",
+  "iconUrl": "https://www.infinity.co/apple-touch-icon-76x76.png?v=2.15.14",
+  "sourceUrl": "https://www.infinity.co/uk",
+  "dataVisibility": ["PRIVATE"]
+}

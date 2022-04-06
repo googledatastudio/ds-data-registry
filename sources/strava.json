@@ -1,0 +1,10 @@
+{
+  "id": "STRAVA",
+  "name": "Strava",
+  "categories": ["SPORTS"],
+  "organization": "Strava",
+  "iconUrl":
+    "https://storage.cloud.google.com/dscv/public/images/Strava-logo-icon.png",
+  "sourceUrl": "https://www.strava.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "NETHUNT",
+  "name": "NetHunt",
+  "categories": ["CRM", "SALES", "MARKETING"],
+  "organization": "NETHUNT",
+  "iconUrl": "https://nethunt.com/res/images/logos/logo-white-filled-128.png",
+  "sourceUrl": "https://nethunt.com",
+  "dataVisibility": ["PRIVATE"]
+}

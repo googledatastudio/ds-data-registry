@@ -1,0 +1,9 @@
+{
+  "id": "ODYSSEY_ATTRIBUTION",
+  "name": "Odyssey Attribution",
+  "categories": ["ANALYTICS"],
+  "organization": "ODYSSEY_BV",
+  "iconUrl": "https://odysseyattribution.co/assets/img/icons/odyssey_icon.png",
+  "sourceUrl": "https://odysseyattribution.co/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "GOOGLE_CLOUD_SPANNER",
+  "name": "Google Cloud Spanner",
+  "categories": ["DATABASE"],
+  "organization": "GOOGLE",
+  "iconUrl":
+    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/google_cloud_spanner.png",
+  "sourceUrl": "https://cloud.google.com/spanner/",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}

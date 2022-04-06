@@ -1,0 +1,10 @@
+{
+  "id": "NATURAL_INTELLIGENCE",
+  "name": "Natural Intelligence",
+  "categories": ["MARKETING"],
+  "organization": "NATURAL_INTELLIGENCE",
+  "iconUrl":
+    "https://www.naturalint.com/wp-content/uploads/2019/05/favicon.png",
+  "sourceUrl": "https://www.naturalint.com/",
+  "dataVisibility": ["PRIVATE"]
+}

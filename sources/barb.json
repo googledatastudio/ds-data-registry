@@ -1,0 +1,10 @@
+{
+  "id": "BARB",
+  "name": "BARB",
+  "categories": ["ADVERTISING"],
+  "organization": "BARB",
+  "iconUrl":
+    "https://www.barb.co.uk/wp-content/themes/barb_tk/images/favicon.png?1547837137",
+  "sourceUrl": "https://www.barb.co.uk/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "PREISDE",
+  "name": "Preis.de",
+  "categories": ["ADVERTISING"],
+  "organization": "COMPARADO",
+  "iconUrl": "https://www.preis.de/favicon.png",
+  "sourceUrl": "https://www.preis.de/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "GOOGLE_PLAY_CONSOLE",
+  "name": "Google Play Console",
+  "categories": ["ANALYTICS"],
+  "organization": "GOOGLE",
+  "iconUrl":
+    "https://www.gstatic.com/images/branding/product/2x/googleg_64dp.png",
+  "sourceUrl":
+    "https://support.google.com/googleplay/android-developer/answer/6135870?hl=en",
+  "dataVisibility": ["PRIVATE"]
+}

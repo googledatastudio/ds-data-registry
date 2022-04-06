@@ -1,0 +1,10 @@
+{
+  "id": "HARPERDB",
+  "name": "HarperDB",
+  "categories": ["DATABASE"],
+  "organization": "HARPERDB",
+  "iconUrl": "https://ds5zz9rfvzuta.cloudfront.net/images/favicon_purple.png",
+  "sourceUrl":
+    "https://harperdb.io/developers/documentation/add-ons-sdks/google-data-studio/",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}

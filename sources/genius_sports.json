@@ -1,0 +1,9 @@
+{
+  "id": "GENIUS_SPORTS",
+  "name": "Genius Sports",
+  "categories": ["SPORTS"],
+  "organization": "GENIUS_SPORTS_GROUP",
+  "iconUrl": "https://www.geniussports.com/favicon.ico",
+  "sourceUrl": "https://www.geniussports.com/",
+  "dataVisibility": ["PRIVATE"]
+}

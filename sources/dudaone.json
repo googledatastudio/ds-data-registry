@@ -1,0 +1,9 @@
+{
+  "id": "DUDAONE",
+  "name": "DudaOne",
+  "categories": ["MARKETING", "CRM"],
+  "organization": "DUDA",
+  "iconUrl": "https://www.tapclicks.com/wp-content/uploads/2016/08/DudaOne.svg",
+  "sourceUrl": "https://www.duda.co/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "SIZMEK_ADVERTISING_SUITE",
+  "name": "Sizmek Advertising Suite",
+  "categories": ["ADVERTISING", "MARKETING"],
+  "organization": "SIZMEK",
+  "iconUrl":
+    "https://static.funnel.io/logos/icon48x48/sizmek_advertising_suite.png",
+  "sourceUrl": "https://www.sizmek.com",
+  "dataVisibility": ["PRIVATE"]
+}

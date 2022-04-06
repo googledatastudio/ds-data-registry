@@ -1,0 +1,10 @@
+{
+  "id": "SENDINBLUE",
+  "name": "Sendinblue",
+  "categories": ["EMAIL"],
+  "organization": "SENDINBLUE",
+  "iconUrl":
+    "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10124_1643276793_sendinblue.png",
+  "sourceUrl": "https://www.sendinblue.com/",
+  "dataVisibility": ["PRIVATE"]
+}

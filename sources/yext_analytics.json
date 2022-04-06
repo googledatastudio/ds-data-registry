@@ -1,0 +1,10 @@
+{
+  "id": "YEXT_ANALYTICS",
+  "name": "Yext Analytics",
+  "categories": ["ANALYTICS"],
+  "organization": "YEXT",
+  "iconUrl":
+    "http://a.mktgcdn.com/p/bwlgvhidgzkBGkjGj1Voj90qLX9ev_ZKD_osttwfAuE/1200x1200.png",
+  "sourceUrl": "https://www.yext.com/",
+  "dataVisibility": ["PRIVATE"]
+}

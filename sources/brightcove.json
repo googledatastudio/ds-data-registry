@@ -1,0 +1,10 @@
+{
+  "id": "BRIGHTCOVE",
+  "name": "Brightcove Video Cloud",
+  "categories": ["CLOUD", "VIDEO"],
+  "organization": "BRIGHTCOVE",
+  "iconUrl":
+    "https://www.tapclicks.com/wp-content/uploads/2020/05/bright-cove.jpeg",
+  "sourceUrl": "https://www.brightcove.com/en/online-video-platform",
+  "dataVisibility": ["PRIVATE"]
+}

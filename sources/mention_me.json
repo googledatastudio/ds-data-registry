@@ -1,0 +1,9 @@
+{
+  "id": "MENTION_ME",
+  "name": "Mention Me",
+  "categories": ["MARKETING"],
+  "organization": "MENTION_ME",
+  "iconUrl": "https://static.mention-me.com/favicons/favicon.ico",
+  "sourceUrl": "https://mention-me.com/",
+  "dataVisibility": ["PRIVATE"]
+}

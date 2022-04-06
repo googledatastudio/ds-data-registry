@@ -1,0 +1,9 @@
+{
+  "id": "SURVEYMONKEY",
+  "name": "SurveyMonkey",
+  "categories": ["TOOLS"],
+  "organization": "SURVEYMONKEY",
+  "iconUrl":"https://prod.smassets.net/assets/cms/cc/app/2.161.0/images/logo-surveymonkey.svg",
+  "sourceUrl": "https://www.surveymonkey.com/",
+  "dataVisibility": ["PRIVATE"]
+}

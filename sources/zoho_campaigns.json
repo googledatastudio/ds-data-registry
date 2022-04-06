@@ -1,0 +1,9 @@
+{
+  "id": "ZOHO_CAMPAIGNS",
+  "name": "Zoho Campaigns",
+  "categories": ["MARKETING"],
+  "organization": "ZOHO",
+  "iconUrl": "https://www.zohowebstatic.com/sites/default/files/styles/product-home-page/public/icon-campaigns.png",
+  "sourceUrl": "https://www.zoho.com/campaigns/",
+  "dataVisibility": ["PRIVATE"]
+}

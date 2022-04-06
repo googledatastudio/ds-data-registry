@@ -1,0 +1,9 @@
+{
+  "id": "EVERYSIZE",
+  "name": "everysize.",
+  "categories": ["ADVERTISING"],
+  "organization": "EVERYSIZE",
+  "iconUrl": "https://cdn.everysize.com/favicon.ico",
+  "sourceUrl": "https://www.everysize.com/",
+  "dataVisibility": ["PRIVATE"]
+}

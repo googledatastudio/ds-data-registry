@@ -1,0 +1,9 @@
+{
+  "id": "HOMEFACTS",
+  "name": "homefacts",
+  "categories": ["ADVERTISING", "SEARCH"],
+  "organization": "HOMEFACTS",
+  "iconUrl": "https://www.homefacts.com/favicon.ico",
+  "sourceUrl": "https://www.homefacts.com/",
+  "dataVisibility": ["PRIVATE"]
+}

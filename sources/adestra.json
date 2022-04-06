@@ -1,0 +1,10 @@
+{
+  "id": "ADESTRA",
+  "name": "adestra",
+  "categories": ["MARKETING", "EMAIL"],
+  "organization": "ADESTRA",
+  "iconUrl":
+    "https://www.adestra.com/wp-content/uploads/2017/09/adestra_symbol_logo_CMYK-60x60.png",
+  "sourceUrl": "https://www.adestra.com/",
+  "dataVisibility": ["PRIVATE"]
+}

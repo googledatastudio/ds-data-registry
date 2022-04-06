@@ -1,0 +1,10 @@
+{
+  "id": "FRESHSALES",
+  "name": "Freshsales",
+  "categories": ["CRM"],
+  "organization": "FRESHWORKS",
+  "iconUrl":
+    "https://website-assets-fw.freshworks.com/attachments/ckrykhl510bm6hlg02akrbj33-fsales.svg",
+  "sourceUrl": "https://www.freshworks.com/crm/sales/",
+  "dataVisibility": ["PRIVATE"]
+}

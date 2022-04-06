@@ -1,9 +1,10 @@
 {
   "id": "HEUREKA_CZ",
   "name": "Heureka.cz",
-  "categories": ["ADVERTISING", "ECOMMERCE"],
-  "organization": "ROCKAWAY_CAPITAL",
-  "iconUrl": "https://static.funnel.io/logos/icon48x48/heurekacz.png",
+  "categories": ["ADVERTISING", "ANALYTICS", "ECOMMERCE", "MARKETING"],
+  "organization": "HEUREKA",
+  "iconUrl":
+    "http://onas.heureka.cz/upload/381-heureka-share-img-socialNetworks-ogImage-600x0.png",
   "sourceUrl": "https://www.heureka.cz/",
   "dataVisibility": ["PRIVATE"]
 }

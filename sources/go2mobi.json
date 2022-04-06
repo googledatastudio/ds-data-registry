@@ -1,0 +1,10 @@
+{
+  "id": "GO2MOBI",
+  "name": "GO2MOBI",
+  "categories": ["ADVERTISING"],
+  "organization": "GO2MOBI",
+  "iconUrl":
+    "https://pbs.twimg.com/profile_images/698279641413349376/yQP7w_pJ_400x400.png",
+  "sourceUrl": "https://www.go2mobi.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "WAVEAPPS",
+  "name": "WaveApps",
+  "categories": ["CRM"],
+  "organization": "WAVE",
+  "iconUrl": "https://www.waveapps.com/assets/img/logos/Wave_logo.svg",
+  "sourceUrl": "https://www.waveapps.com",
+  "dataVisibility": ["PRIVATE"]
+}

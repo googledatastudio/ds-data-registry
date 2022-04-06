@@ -1,0 +1,9 @@
+{
+  "id": "DATAFAN",
+  "name": "Datafan.pro",
+  "categories": ["ADVERTISING", "SOCIAL"],
+  "organization": "Datafan.pro",
+  "iconUrl": "https://datafan.pro/static/landing/logo.png",
+  "sourceUrl": "https://datafan.pro",
+  "dataVisibility": ["PRIVATE"]
+}

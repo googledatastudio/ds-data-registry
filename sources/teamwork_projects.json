@@ -1,0 +1,10 @@
+{
+  "id": "TEAMWORK_PROJECTS",
+  "name": "Teamwork Projects",
+  "categories": ["TOOLS"],
+  "organization": "TEAMWORKCOM",
+  "iconUrl":
+    "https://www.teamwork.com/app/themes/teamwork-theme/dist/images/favicon.ico",
+  "sourceUrl": "https://www.teamwork.com/project-management-software/",
+  "dataVisibility": ["PRIVATE"]
+}
