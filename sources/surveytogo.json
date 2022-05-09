@@ -1,0 +1,9 @@
+{
+  "id": "SURVEYTOGO",
+  "name": "SurveyToGo",
+  "categories": ["TOOLS"],
+  "organization": "DOOBLO",
+  "iconUrl":"https://www.dooblo.net/wp-content/uploads/2020/10/favicon2.png",
+  "sourceUrl": "https://www.dooblo.net/",
+  "dataVisibility": ["PRIVATE"]
+}
