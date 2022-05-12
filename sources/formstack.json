@@ -1,0 +1,9 @@
+{
+  "id": "FORMSTACK",
+  "name": "Formstack",
+  "categories": ["TOOLS"],
+  "organization": "FORMSTACK",
+  "iconUrl": "https://assets-global.website-files.com/5e84fbb7a2e28dc5497c62f3/5f89c453ab7da01bba858ae2_element-formstack-dark-logo.svg",
+  "sourceUrl": "https://www.formstack.com",
+  "dataVisibility": ["PRIVATE"]
+}
