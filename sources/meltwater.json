@@ -3,7 +3,8 @@
   "name": "Meltwater",
   "categories": ["NEWS", "SOCIAL", "MARKETING", "PUBLIC_RELATIONS"],
   "organization": "MELTWATER",
-  "iconUrl": "https://developer.meltwater.com/assets/images/connector-logos/logo-40.png",
+  "iconUrl":
+    "https://developer.meltwater.com/assets/images/connector-logos/logo-40.png",
   "sourceUrl": "https://developer.meltwater.com/docs/meltwater-api",
   "dataVisibility": ["PRIVATE"]
 }

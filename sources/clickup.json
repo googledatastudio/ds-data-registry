@@ -3,7 +3,7 @@
   "name": "Clickup",
   "categories": ["TOOLS"],
   "organization": "CLICKUP",
-  "iconUrl":"https://www.clickup.com/landing/images/logo-clickup_color.svg",
+  "iconUrl": "https://www.clickup.com/landing/images/logo-clickup_color.svg",
   "sourceUrl": "https://www.clickup.com/",
   "dataVisibility": ["PRIVATE"]
 }
