@@ -3,8 +3,7 @@
   "name": "Google Classroom",
   "categories": ["EDUCATION"],
   "organization": "GOOGLE",
-  "iconUrl":
-    "https://edu.google.com/assets/icons/google-brands/classroom.svg",
+  "iconUrl": "https://edu.google.com/assets/icons/google-brands/classroom.svg",
   "sourceUrl": "https://contacts.google.com",
   "dataVisibility": ["PUBLIC", "PRIVATE"]
 }

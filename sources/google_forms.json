@@ -3,7 +3,8 @@
   "name": "Google Forms",
   "categories": ["TOOLS"],
   "organization": "GOOGLE",
-  "iconUrl": "https://www.gstatic.com/images/branding/product/2x/forms_2020q4_48dp.png",
+  "iconUrl":
+    "https://www.gstatic.com/images/branding/product/2x/forms_2020q4_48dp.png",
   "sourceUrl": "https://forms.google.com",
   "dataVisibility": ["PUBLIC", "PRIVATE"]
 }
