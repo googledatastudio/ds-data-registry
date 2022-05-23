@@ -1,13 +1,9 @@
 {
   "id": "TIMETASTIC",
   "name": "Timetastic",
-  "categories": [
-    "LEAVE_TRACKING"
-  ],
+  "categories": ["LEAVE_TRACKING"],
   "organization": "TIMETASTIC",
   "iconUrl": "https://timetastic.co.uk/images/favicon-32x32.png",
   "sourceUrl": "https://timetastic.co.uk/",
-  "dataVisibility": [
-    "PRIVATE"
-  ]
+  "dataVisibility": ["PRIVATE"]
 }

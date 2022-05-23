@@ -1,6 +1,7 @@
 {
-    "name": "Improvado",
-    "id": "IMPROVADO",
-    "iconUrl": "https://uploads-ssl.webflow.com/593ed35b7e7f144e5e0ec373/6079d259771c42e9efaeef1d_emblem_p_23_1%201%20%281%29.png",
-    "orgUrl": "https://improvado.io/"
-  }
+  "name": "Improvado",
+  "id": "IMPROVADO",
+  "iconUrl":
+    "https://uploads-ssl.webflow.com/593ed35b7e7f144e5e0ec373/6079d259771c42e9efaeef1d_emblem_p_23_1%201%20%281%29.png",
+  "orgUrl": "https://improvado.io/"
+}

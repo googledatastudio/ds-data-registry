@@ -1,11 +1,10 @@
 {
-    "id": "FIREBASE_CLOUD_FIRESTORE",
-    "name": "Firebase Cloud Firestore",
-    "categories": ["STORAGE"],
-    "organization": "GOOGLE",
-    "iconUrl":
-      "https://www.gstatic.com/devrel-devsite/prod/v2484c9574f819dcf3d7ffae39fb3001f4498b2ece38cec22517931d550e19e7d/firebase/images/lockup.svg",
-    "sourceUrl": "https://firebase.google.com/products/firestore",
-    "dataVisibility": ["PRIVATE"]
-  }
-  
+  "id": "FIREBASE_CLOUD_FIRESTORE",
+  "name": "Firebase Cloud Firestore",
+  "categories": ["STORAGE"],
+  "organization": "GOOGLE",
+  "iconUrl":
+    "https://www.gstatic.com/devrel-devsite/prod/v2484c9574f819dcf3d7ffae39fb3001f4498b2ece38cec22517931d550e19e7d/firebase/images/lockup.svg",
+  "sourceUrl": "https://firebase.google.com/products/firestore",
+  "dataVisibility": ["PRIVATE"]
+}

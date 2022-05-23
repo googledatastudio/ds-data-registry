@@ -3,7 +3,8 @@
   "name": "Gravity Forms",
   "categories": ["TOOLS"],
   "organization": "GRAVITY_FORMS",
-  "iconUrl":"https://s38924.pcdn.co/wp-content/themes/gfcom-voyager/dist/images/logo-black.svg",
+  "iconUrl":
+    "https://s38924.pcdn.co/wp-content/themes/gfcom-voyager/dist/images/logo-black.svg",
   "sourceUrl": "https://www.gravityforms.com/",
   "dataVisibility": ["PRIVATE"]
 }

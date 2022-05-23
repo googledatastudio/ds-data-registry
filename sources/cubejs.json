@@ -1,0 +1,9 @@
+{
+  "id": "CUBEJS",
+  "name": "Source name",
+  "categories": ["ANALYTICS"],
+  "organization": "CUBEJS",
+  "iconUrl": "https://cube.dev/favicon.ico",
+  "sourceUrl": "https://cube.dev/",
+  "dataVisibility": ["PRIVATE"]
+}
