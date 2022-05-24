@@ -1,6 +1,7 @@
 # Data Studio Data Registry
 A registry of data sources, categories, and organizations to use with [Data Studio Community Connectors](https://developers.google.com/datastudio/connector/overview).
 
+
 The registry contains the following resources:
 
 | Path                  | Description |
