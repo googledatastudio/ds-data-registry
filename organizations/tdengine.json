@@ -1,6 +1,6 @@
 {
     "id": "TDENGINE",
-    "name": "TDengine.com",
+    "name": "TDengine",
     "iconUrl":
       "https://raw.githubusercontent.com/taosdata/gds-connector/master/resource/logo.png",
     "orgUrl": "https://tdengine.com"
