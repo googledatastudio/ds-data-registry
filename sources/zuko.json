@@ -1,0 +1,9 @@
+{
+  "id": "ZUKO",
+  "name": "Zuko",
+  "categories": ["ANALYTICS", "TOOLS", "TIME_SERIES"],
+  "organization": "ZUKO",
+  "iconUrl": "https://app.zuko.io/apple-touch-icon.png",
+  "sourceUrl": "https://www.zuko.io/",
+  "dataVisibility": ["PRIVATE"]
+}
