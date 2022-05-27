@@ -1,0 +1,9 @@
+{
+  "id": "DQOAI_ALERTS",
+  "name": "Data Quality Alerts",
+  "categories": ["ANALYTICS", "TOOLS", "TIME_SERIES", "ISSUE_TRACKING"],
+  "organization": "DQOAI",
+  "iconUrl": "https://dqo.ai/wp-content/uploads/2022/05/dqo_logo192.png",
+  "sourceUrl": "https://dqo.ai/",
+  "dataVisibility": ["PRIVATE"]
+}
