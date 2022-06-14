@@ -3,8 +3,7 @@
   "name": "OpenB Open Banking Data",
   "categories": ["TOOLS", "FINANCE"],
   "organization": "OPENB",
-  "iconUrl":
-    "https://www.openb.com.br/static/images/openb_logo_120_120.png",
+  "iconUrl": "https://www.openb.com.br/static/images/openb_logo_120_120.png",
   "sourceUrl": "https://www.openb.com.br",
   "dataVisibility": ["PRIVATE"]
 }

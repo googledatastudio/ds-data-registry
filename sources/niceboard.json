@@ -1,13 +1,9 @@
 {
   "id": "NICEBOARD",
   "name": "Niceboard",
-  "categories": [
-    "JOBS"
-  ],
+  "categories": ["JOBS"],
   "organization": "NICEBOARD",
   "iconUrl": "https://niceboard.co/static/img/favicon-32x32.png",
   "sourceUrl": "https://niceboard.co/",
-  "dataVisibility": [
-    "PRIVATE"
-  ]
+  "dataVisibility": ["PRIVATE"]
 }

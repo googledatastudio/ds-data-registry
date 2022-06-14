@@ -1,13 +1,10 @@
 {
   "id": "THINKIFIC",
   "name": "Thinkific",
-  "categories": [
-    "EDUCATION"
-  ],
+  "categories": ["EDUCATION"],
   "organization": "THINKIFIC",
-  "iconUrl": "https://www.thinkific.com/wp-content/themes/thinkific/favicon-32x32.png",
+  "iconUrl":
+    "https://www.thinkific.com/wp-content/themes/thinkific/favicon-32x32.png",
   "sourceUrl": "https://www.thinkific.com/",
-  "dataVisibility": [
-    "PRIVATE"
-  ]
+  "dataVisibility": ["PRIVATE"]
 }

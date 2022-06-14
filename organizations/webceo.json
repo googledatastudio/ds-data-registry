@@ -1,6 +1,7 @@
 {
   "id": "WEBCEO",
   "name": "WebCEO",
-  "iconUrl": "https://service.wstatic.net/static/images/logos/google_data_studio/logo-small.png",
-  "orgUrl": "https://webceo.com/" 
+  "iconUrl":
+    "https://service.wstatic.net/static/images/logos/google_data_studio/logo-small.png",
+  "orgUrl": "https://webceo.com/"
 }

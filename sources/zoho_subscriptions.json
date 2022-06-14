@@ -3,7 +3,8 @@
   "name": "Zoho Subscriptions",
   "categories": ["CRM"],
   "organization": "ZOHO",
-  "iconUrl": "https://www.zoho.com/subscriptions/svgs/subscriptions-icons/icon-blue.svg",
+  "iconUrl":
+    "https://www.zoho.com/subscriptions/svgs/subscriptions-icons/icon-blue.svg",
   "sourceUrl": "https://www.zoho.com/in/subscriptions/",
   "dataVisibility": ["PRIVATE"]
 }
