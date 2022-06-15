@@ -3,7 +3,8 @@
   "name": "WebCEO",
   "categories": ["SEO"],
   "organization": "WEBCEO",
-  "iconUrl": "https://service.wstatic.net/static/images/logos/google_data_studio/logo-small.png",
+  "iconUrl":
+    "https://service.wstatic.net/static/images/logos/google_data_studio/logo-small.png",
   "sourceUrl": "https://webceo.com/",
   "dataVisibility": ["PRIVATE"]
 }

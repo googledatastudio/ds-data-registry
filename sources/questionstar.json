@@ -10,7 +10,8 @@
     "EDUCATION"
   ],
   "organization": "QUESTIONSTAR",
-  "iconUrl": "https://www.questionstar.com/assets/logo/questionstar-logo-square-48.png",
+  "iconUrl":
+    "https://www.questionstar.com/assets/logo/questionstar-logo-square-48.png",
   "sourceUrl": "https://www.questionstar.com/",
   "dataVisibility": ["PRIVATE"]
 }

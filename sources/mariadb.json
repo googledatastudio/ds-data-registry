@@ -1,9 +1,9 @@
 {
-    "id": "MARIADB",
-    "name": "MariaDB",
-    "categories": ["DATABASE"],
-    "iconUrl": "https://goxai.s3.us-east-2.amazonaws.com/tmr/assets/logo/mariadb.png",
-    "sourceUrl": "https://mariadb.org/",
-    "dataVisibility": ["PRIVATE", "PUBLIC"]
-  }
-  
+  "id": "MARIADB",
+  "name": "MariaDB",
+  "categories": ["DATABASE"],
+  "iconUrl":
+    "https://goxai.s3.us-east-2.amazonaws.com/tmr/assets/logo/mariadb.png",
+  "sourceUrl": "https://mariadb.org/",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}
