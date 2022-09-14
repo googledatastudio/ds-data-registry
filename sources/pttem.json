@@ -1,0 +1,9 @@
+{
+    "id": "PTTEM",
+    "name": "PTTEM",
+    "categories": ["ECOMMERCE", "API"],
+    "organization": "PTTEM",
+    "iconUrl": "https://www.pttem.com/images/logo.png",
+    "sourceUrl": "http://api.v2.ready2sale.com",
+    "dataVisibility": ["PRIVATE"]
+  }
