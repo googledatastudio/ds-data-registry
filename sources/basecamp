@@ -1,0 +1,10 @@
+{
+  "id": "BASECAMP",
+  "name": "Basecamp",
+  "categories": ["TOOLS"],
+  "organization": "Basecamp",
+  "iconUrl":
+    "https://avatars.githubusercontent.com/u/13131?s=200&v=4",
+  "sourceUrl": "https://basecamp.com/",
+  "dataVisibility": ["PRIVATE"]
+}
