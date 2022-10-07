@@ -1,0 +1,9 @@
+{
+	"id": "KENTICO",
+	"name": "Kentico Xperience",
+	"categories": [ "CDP", "CRM", "ANALYTICS" ],
+	"organization": "KENTICO",
+	"iconUrl": "https://github.com/Kentico/devnet.kentico.com/raw/master/marketplace/assets/kentico-icon.png",
+	"sourceUrl": "https://www.kentico.com/",
+	"dataVisibility": [ "PRIVATE" ]
+}
