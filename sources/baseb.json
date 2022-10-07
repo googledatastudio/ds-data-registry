@@ -1,0 +1,9 @@
+{
+  "id": "BASEB",
+  "name": "Base-B",
+  "categories": ["API", "ANALYTICS"],
+  "organization": "BASEB",
+  "iconUrl": "https://baseb.app/assets/images/newlogo.png",
+  "sourceUrl": "https://baseb.com.br/",
+  "dataVisibility": ["PRIVATE"]
+}
