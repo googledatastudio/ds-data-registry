@@ -1,0 +1,9 @@
+{
+  "id": "LOCAL_VIKING",
+  "name": "Local Viking",
+  "categories": ["SEO","ANALYTICS"],
+  "organization": "LOCAL_VIKING",
+  "iconUrl": "https://localviking.com/icons/lv-logo-gds-48.png",
+  "sourceUrl": "https://localviking.com/geogrids-gds-connector-support",
+  "dataVisibility": ["PRIVATE"]
+}

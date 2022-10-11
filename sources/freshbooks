@@ -1,0 +1,10 @@
+{
+  "id": "FRESHBOOKS",
+  "name": "Freshbooks",
+  "categories": ["TOOLS"],
+  "organization": "FRESHBOOKS",
+  "iconUrl":
+    "https://media-exp1.licdn.com/dms/image/C4E0BAQF2TxrAaOUtag/company-logo_200_200/0/1625230231929?e=1672272000&v=beta&t=S-Jk2z5Iw8pnESJsp2G0VwgHXgV89oXjMTM0-N2i3PI",
+  "sourceUrl": "https://www.freshbooks.com/",
+  "dataVisibility": ["PRIVATE"]
+}
