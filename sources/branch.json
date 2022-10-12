@@ -1,0 +1,9 @@
+{
+  "id": "BRANCH",
+  "name": "Branch",
+  "categories": ["ANALYTICS"],
+  "organization": "Branch",
+  "iconUrl": "https://branch.io/img/press/kit/branch-badge-dark.jpg",
+  "sourceUrl": "https://branch.io/",
+  "dataVisibility": ["PRIVATE"]
+}
