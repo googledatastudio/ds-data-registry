@@ -2,5 +2,5 @@
     "id" : "SCHOOLBI",
     "name" : "SchoolBI",
     "orgUrl" : "https://schoolbi.com",
-    "iconUrl" : "[https://schoolbi-public-static.s3.us-east-2.amazonaws.com/logo_new.jpg](https://schoolbi-public-static.s3.us-east-2.amazonaws.com/logo_new.jpg)"
+    "iconUrl" : "https://schoolbi-public-static.s3.us-east-2.amazonaws.com/logo_new.jpg"
 }
