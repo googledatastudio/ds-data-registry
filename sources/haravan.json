@@ -1,0 +1,10 @@
+{
+    "id": "HARAVAN",
+    "name": "Haravan",
+    "categories": ["ECOMMERCE"],
+    "organization": "HARAVAN",
+    "iconUrl":
+      "https://hstatic.net/haravan-marketing_assets/static/32.png",
+    "sourceUrl": "https://www.haravan.com",
+    "dataVisibility": ["PRIVATE"]
+  }
