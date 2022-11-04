@@ -1,0 +1,9 @@
+{
+  "id": "KINTONE",
+  "name": "kintone",
+  "categories": ["STORAGE"],
+  "organization": "KINTONE",
+  "iconUrl": "https://s.potara.net/ls/connector-for-kintone/logo.png",
+  "sourceUrl": "https://www.kintone.com/jp/",
+  "dataVisibility": ["PRIVATE"]
+}
