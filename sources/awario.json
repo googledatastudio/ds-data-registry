@@ -1,0 +1,9 @@
+{
+  "id": "AWARIO",
+  "name": "Awario",
+  "categories": ["SOCIAL"],
+  "organization": "AWARIO",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/awario.svg",
+  "sourceUrl": "https://awario.com/",
+  "dataVisibility": ["PRIVATE"]
+}
