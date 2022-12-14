@@ -1,0 +1,9 @@
+{
+  "id": "BAIDU_BULK_DATA",
+  "name": "Baidu Bulk Data",
+  "categories": ["ADVERTISING"],
+  "organization": "BAIDU_BULK_DATA",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/baidu.svg",
+  "sourceUrl": "https://www.baidu.com/",
+  "dataVisibility": ["PRIVATE"]
+}
