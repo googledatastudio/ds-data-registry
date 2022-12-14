@@ -1,0 +1,9 @@
+{
+  "id": "APPFOLLOW",
+  "name": "AppFollow",
+  "categories": ["CUSTOM"],
+  "organization": "APPFOLLOW",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/appfollow.svg",
+  "sourceUrl": "https://appfollow.io/",
+  "dataVisibility": ["PRIVATE"]
+}
