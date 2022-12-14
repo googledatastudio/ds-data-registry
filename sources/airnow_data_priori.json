@@ -1,0 +1,9 @@
+{
+  "id": "AIRNOW_DATA_PRIORI",
+  "name": "Airnow Data (Priori)",
+  "categories": ["CUSTOM"],
+  "organization": "AIRNOW_DATA_PRIORI",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/airnowlogo.svg",
+  "sourceUrl": "https://airnowdata.com/",
+  "dataVisibility": ["PRIVATE"]
+}
