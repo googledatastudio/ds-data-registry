@@ -1,0 +1,9 @@
+{
+  "id": "YAHOO_DSP",
+  "name": "Yahoo DSP",
+  "categories": ["ADVERTISING"],
+  "organization": "YAHOO_DSP",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/yahoo_square.svg",
+  "sourceUrl": "https://www.yahoo.com/",
+  "dataVisibility": ["PRIVATE"]
+}
