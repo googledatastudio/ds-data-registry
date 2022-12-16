@@ -1,0 +1,9 @@
+{
+  "id": "REAL_DE",
+  "name": "real.de",
+  "categories": ["AFFILIATE"],
+  "organization": "REAL_DE",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/real_de.svg",
+  "sourceUrl": "https://www.real.de/",
+  "dataVisibility": ["PRIVATE"]
+}
