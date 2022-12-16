@@ -1,0 +1,9 @@
+{
+  "id": "SOVRN",
+  "name": "Sovrn",
+  "categories": ["ADVERTISING"],
+  "organization": "SOVRN",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/sovrn.svg",
+  "sourceUrl": "https://www.sovrn.com/",
+  "dataVisibility": ["PRIVATE"]
+}
