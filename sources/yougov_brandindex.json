@@ -1,0 +1,9 @@
+{
+  "id": "YOUGOV_BRANDINDEX",
+  "name": "YouGov BrandIndex",
+  "categories": ["RESEARCH"],
+  "organization": "YOUGOV_BRANDINDEX",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/yougovbrandindex.svg",
+  "sourceUrl": "https://business.yougov.com/product/brandindex",
+  "dataVisibility": ["PRIVATE"]
+}
