@@ -1,0 +1,9 @@
+{
+  "id": "QUALTRICS",
+  "name": "Qualtrics",
+  "categories": ["RESEARCH"],
+  "organization": "QUALTRICS",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/qualtrics.svg",
+  "sourceUrl": "https://www.qualtrics.com/",
+  "dataVisibility": ["PRIVATE"]
+}
