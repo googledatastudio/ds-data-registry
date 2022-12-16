@@ -1,0 +1,9 @@
+{
+  "id": "KEYHOLE",
+  "name": "Keyhole",
+  "categories": ["SOCIAL"],
+  "organization": "KEYHOLE",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/Keyhole_optimized.svg",
+  "sourceUrl": "https://keyhole.co/",
+  "dataVisibility": ["PRIVATE"]
+}
