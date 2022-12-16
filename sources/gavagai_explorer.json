@@ -1,0 +1,10 @@
+{
+  "id": "GAVAGAI_EXPLORER",
+  "name": "Gavagai Explorer",
+  "categories": ["ANALYTICS"],
+  "organization": "GAVAGAI",
+  "iconUrl":
+    "https://www.gavagai.io/app/uploads/2021/04/cropped-favicon-192x192.png",
+  "sourceUrl": "https://www.gavagai.io/looker-studio-connector/",
+  "dataVisibility": ["PRIVATE"]
+}
