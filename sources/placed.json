@@ -1,0 +1,9 @@
+{
+  "id": "PLACED",
+  "name": "Placed",
+  "categories": ["ANALYTICS"],
+  "organization": "PLACED",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/placed.svg",
+  "sourceUrl": "https://www.placed.com/",
+  "dataVisibility": ["PRIVATE"]
+}
