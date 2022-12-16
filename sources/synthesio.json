@@ -1,0 +1,9 @@
+{
+  "id": "SYNTHESIO",
+  "name": "Synthesio",
+  "categories": ["SOCIAL"],
+  "organization": "SYNTHESIO",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/synthesio.svg",
+  "sourceUrl": "https://www.synthesio.com/",
+  "dataVisibility": ["PRIVATE"]
+}
