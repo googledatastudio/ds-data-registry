@@ -1,7 +1,6 @@
 {
   "id": "SISTRIX",
   "name": "Sistrix",
-  "iconUrl":
-    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/sistrix.png",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/sistrix.svg",
   "orgUrl": "https://www.sistrix.com/"
 }
