@@ -1,0 +1,9 @@
+{
+  "id": "LAZADA",
+  "name": "Lazada",
+  "categories": ["ECOMMERCE"],
+  "organization": "LAZADA",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/lazada.svg",
+  "sourceUrl": "https://www.lazada.com/",
+  "dataVisibility": ["PRIVATE"]
+}
