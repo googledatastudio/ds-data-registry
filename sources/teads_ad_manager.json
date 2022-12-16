@@ -1,0 +1,9 @@
+{
+  "id": "TEADS_AD_MANAGER",
+  "name": "Teads Ad Manager",
+  "categories": ["MARKETING"],
+  "organization": "TEADS_AD_MANAGER",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/teadsconnect.svg",
+  "sourceUrl": "https://www.teads.com/teads-ad-manager/",
+  "dataVisibility": ["PRIVATE"]
+}
