@@ -1,0 +1,9 @@
+{
+  "id": "IPSOS_STATEX",
+  "name": "Ipsos statex",
+  "categories": ["CUSTOM"],
+  "organization": "IPSOS_STATEX",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/ipsos_logo.svg",
+  "sourceUrl": "https://www.statexmonitoring.com/",
+  "dataVisibility": ["PRIVATE"]
+}
