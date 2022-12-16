@@ -1,0 +1,9 @@
+{
+  "id": "LINKFLUENCE_RADARLY",
+  "name": "Linkfluence Radarly",
+  "categories": ["SOCIAL"],
+  "organization": "LINKFLUENCE_RADARLY",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/linkfluence_radarly.svg",
+  "sourceUrl": "https://radarly.linkfluence.com/login",
+  "dataVisibility": ["PRIVATE"]
+}
