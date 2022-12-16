@@ -1,0 +1,9 @@
+{
+  "id": "PIWIK_PRO",
+  "name": "Piwik PRO",
+  "categories": ["ANALYTICS"],
+  "organization": "PIWIK_PRO",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/piwik_pro.svg",
+  "sourceUrl": "https://piwik.pro/",
+  "dataVisibility": ["PRIVATE"]
+}
