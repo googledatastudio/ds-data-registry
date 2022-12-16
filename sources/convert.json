@@ -1,0 +1,9 @@
+{
+  "id": "CONVERT",
+  "name": "Convert",
+  "categories": ["ANALYTICS"],
+  "organization": "CONVERT",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/convert.svg",
+  "sourceUrl": "https://www.convert.com/",
+  "dataVisibility": ["PRIVATE"]
+}
