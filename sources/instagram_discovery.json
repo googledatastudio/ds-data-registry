@@ -1,0 +1,9 @@
+{
+  "id": "INSTAGRAM_DISCOVERY",
+  "name": "Instagram Discovery",
+  "categories": ["SOCIAL"],
+  "organization": "INSTAGRAM_DISCOVERY",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/instagram.svg",
+  "sourceUrl": "https://www.instagram.com/",
+  "dataVisibility": ["PRIVATE"]
+}
