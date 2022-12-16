@@ -1,0 +1,9 @@
+{
+  "id": "EXTREME_REACH",
+  "name": "Extreme Reach",
+  "categories": ["ADVERTISING"],
+  "organization": "EXTREME_REACH",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/extremereach.svg",
+  "sourceUrl": "https://extremereach.com/",
+  "dataVisibility": ["PRIVATE"]
+}
