@@ -1,0 +1,9 @@
+{
+  "id": "MAILWORX",
+  "name": "Mailworx",
+  "categories": ["MARKETING"],
+  "organization": "MAILWORX",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/mailworx.svg",
+  "sourceUrl": "https://www.eworx.at/marketing-suite/produkte/mailworx/",
+  "dataVisibility": ["PRIVATE"]
+}
