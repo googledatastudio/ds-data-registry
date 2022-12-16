@@ -1,0 +1,9 @@
+{
+  "id": "WEATHERSTACK",
+  "name": "Weatherstack",
+  "categories": ["CUSTOM"],
+  "organization": "WEATHERSTACK",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/weatherstack.svg",
+  "sourceUrl": "https://weatherstack.com/",
+  "dataVisibility": ["PRIVATE"]
+}
