@@ -1,0 +1,9 @@
+{
+  "id": "KANBANIZE",
+  "name": "Kanbanize",
+  "categories": ["PROJECT_MANAGEMENT"],
+  "organization": "KANBANIZE",
+  "iconUrl": "https://kanbanize.com/images/favicon.ico",
+  "sourceUrl": "https://kanbanize.com/",
+  "dataVisibility": ["PRIVATE"]
+}
