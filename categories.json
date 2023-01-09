@@ -183,5 +183,10 @@
   {
     "id": "PROJECT_MANAGEMENT",
     "name": "Project Management"
+  },
+  {
+    "id": "SPREADSHEET",
+    "name": "Spreadsheet",
+    "description": "Data sources that are spreadsheets."
   }
 ]
