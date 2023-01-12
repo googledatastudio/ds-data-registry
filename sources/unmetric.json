@@ -1,0 +1,9 @@
+{
+  "id": "UNMETRIC",
+  "name": "Unmetric",
+  "categories": ["SOCIAL"],
+  "organization": "UNMETRIC",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/unmetric.svg",
+  "sourceUrl": "https://unmetric.com/",
+  "dataVisibility": ["PRIVATE"]
+}
