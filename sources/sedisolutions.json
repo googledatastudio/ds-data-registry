@@ -1,0 +1,9 @@
+{
+  "id": "sedi_solutions",
+  "name": "Sedi Solutions",
+  "categories": ["TOOLS"],
+  "organization": "Sedi Solutions",
+  "iconUrl": "https://www.sedi.com.co/assets/images/logo.svg",
+  "sourceUrl": "https://sedierp.com/",
+  "dataVisibility": ["PRIVATE"]
+}
