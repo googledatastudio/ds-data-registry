@@ -1,0 +1,9 @@
+{
+  "id": "ACCELO",
+  "name": "Accelo",
+  "categories": ["CRM"],
+  "organization": "ACCELO",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/accelo_optimized.svg",
+  "sourceUrl": "https://www.accelo.com/",
+  "dataVisibility": ["PRIVATE"]
+}
