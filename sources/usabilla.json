@@ -1,0 +1,9 @@
+{
+  "id": "USABILLA",
+  "name": "Usabilla",
+  "categories": ["CUSTOM"],
+  "organization": "USABILLA",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/usabilla.svg",
+  "sourceUrl": "https://www.getfeedback.com/resources/cx/usabilla/",
+  "dataVisibility": ["PRIVATE"]
+}
