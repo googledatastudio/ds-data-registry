@@ -1,0 +1,10 @@
+{
+  "id": "GETRESPONSE",
+  "name": "GetResponse",
+  "categories": ["EMAIL"],
+  "organization": "GETRESPONSE",
+  "iconUrl":
+    "https://media-exp1.licdn.com/dms/image/D560BAQG7JxQbrGIvBw/company-logo_200_200/0/1664815979236?e=1676505600&v=beta&t=bxzH_qSvD0Gy7UWvaEirYBbYQG6f3Xay3S7jYFeW9qQ",
+  "sourceUrl": "https://www.getresponse.com/",
+  "dataVisibility": ["PRIVATE"]
+}
