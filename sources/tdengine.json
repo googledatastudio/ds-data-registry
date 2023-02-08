@@ -1,10 +1,10 @@
 {
-    "id": "TDENGINE",
-    "name": "TDengine",
-    "categories": ["TIME_SERIES", "DATABASE", "IOT", "CLOUD"],
-    "organization": "TDENGINE",
-    "iconUrl":
-      "https://raw.githubusercontent.com/taosdata/gds-connector/master/resource/logo.png",
-    "sourceUrl": "https://tdengine.com/products#cloud-edition-link",
-    "dataVisibility": ["PRIVATE"]
-  }
+  "id": "TDENGINE",
+  "name": "TDengine",
+  "categories": ["TIME_SERIES", "DATABASE", "IOT", "CLOUD"],
+  "organization": "TDENGINE",
+  "iconUrl":
+    "https://raw.githubusercontent.com/taosdata/gds-connector/master/resource/logo.png",
+  "sourceUrl": "https://tdengine.com/products#cloud-edition-link",
+  "dataVisibility": ["PRIVATE"]
+}
