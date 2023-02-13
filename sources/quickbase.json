@@ -1,0 +1,9 @@
+{
+  "id": "QUICKBASE",
+  "name": "Quickbase",
+  "categories": ["DATABASE"],
+  "organization": "QUICKBASE",
+  "iconUrl": "https://www.quickbase.com/favicon.ico",
+  "sourceUrl": "https://quickbase.com",
+  "dataVisibility": "PRIVATE"
+}
