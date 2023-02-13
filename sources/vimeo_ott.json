@@ -1,0 +1,9 @@
+{
+  "id": "VIMEO_OTT",
+  "name": "Vimeo OTT",
+  "categories": ["VIDEO", "ANALYTICS"],
+  "organization": "VIMEO",
+  "iconUrl": "https://vimeo.com/favicon.ico",
+  "sourceUrl": "https://vimeo.com/ott/",
+  "dataVisibility": ["PRIVATE"]
+}
