@@ -1,0 +1,10 @@
+{
+  "id": "MICROSOFT_EXCEL",
+  "name": "Microsoft Excel",
+  "categories": ["CUSTOM"],
+  "organization": "MICROSOFT",
+  "iconUrl":
+    "https://store-images.s-microsoft.com/image/apps.61809.9007199266252410.0fe7d25b-a481-457b-af73-1a5783cc902f.35f25177-b120-4743-a9a0-10525ab235ac",
+  "sourceUrl": "https://www.microsoft.com/en-ww/microsoft-365/excel",
+  "dataVisibility": ["PRIVATE"]
+}
