@@ -1,11 +1,10 @@
 {
-    "id": "GLASSDOOR",
-    "name": "Glassdoor",
-    "categories": ["JOBS"],
-    "organization": "GLASSDOOR",
-    "iconUrl": "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10266_1667559115_glassdoor_reviews.png",
-    "sourceUrl": "https://www.glassdoor.com",
-    "dataVisibility": [
-        "PUBLIC"
-    ]
+  "id": "GLASSDOOR",
+  "name": "Glassdoor",
+  "categories": ["JOBS"],
+  "organization": "GLASSDOOR",
+  "iconUrl":
+    "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10266_1667559115_glassdoor_reviews.png",
+  "sourceUrl": "https://www.glassdoor.com",
+  "dataVisibility": ["PUBLIC"]
 }
