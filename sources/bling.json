@@ -3,7 +3,8 @@
   "name": "Bling",
   "categories": ["API"],
   "organization": "Bling",
-  "iconUrl": "https://d2r9epyceweg5n.cloudfront.net/apps/35-pt_BR-small-Logo-Bling-400x400px-com-fundo.png",
+  "iconUrl":
+    "https://d2r9epyceweg5n.cloudfront.net/apps/35-pt_BR-small-Logo-Bling-400x400px-com-fundo.png",
   "sourceUrl": "https://bling.com.br",
   "dataVisibility": ["PRIVATE"]
 }

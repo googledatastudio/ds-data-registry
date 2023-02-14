@@ -1,9 +1,10 @@
 {
-    "id": "EGESTOR",
-    "name": "eGestor",
-    "categories": ["CUSTOM"],
-    "organization": "ZIPLINE_TECNOLOGIA",
-    "iconUrl": "https://blog.egestor.com.br/wp-content/uploads/2017/06/cropped-icon-32x32.png",
-    "sourceUrl": "https://www.egestor.com.br/docs/googleDataStudio.php?afl=15",
-    "dataVisibility": ["PRIVATE"]
+  "id": "EGESTOR",
+  "name": "eGestor",
+  "categories": ["CUSTOM"],
+  "organization": "ZIPLINE_TECNOLOGIA",
+  "iconUrl":
+    "https://blog.egestor.com.br/wp-content/uploads/2017/06/cropped-icon-32x32.png",
+  "sourceUrl": "https://www.egestor.com.br/docs/googleDataStudio.php?afl=15",
+  "dataVisibility": ["PRIVATE"]
 }
