@@ -1,6 +1,7 @@
 {
   "id": "KENTICO",
   "name": "Kentico",
-  "iconUrl": "https://github.com/Kentico/devnet.kentico.com/raw/master/marketplace/assets/kentico-icon.png",
+  "iconUrl":
+    "https://github.com/Kentico/devnet.kentico.com/raw/master/marketplace/assets/kentico-icon.png",
   "orgUrl": "https://www.kentico.com/"
 }
