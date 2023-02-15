@@ -3,7 +3,8 @@
   "name": "Wrike",
   "categories": ["TOOLS"],
   "organization": "WRIKE",
-  "iconUrl": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_40069cbcfe4ddc48e08632a802f42244/wrike.png",
+  "iconUrl":
+    "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_40069cbcfe4ddc48e08632a802f42244/wrike.png",
   "sourceUrl": "https://www.wrike.com/",
   "dataVisibility": ["PRIVATE"]
 }
