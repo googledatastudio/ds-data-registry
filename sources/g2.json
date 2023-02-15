@@ -1,11 +1,10 @@
 {
-    "id": "G2",
-    "name": "G2",
-    "categories": ["ADVERTISING"],
-    "organization": "G2",
-    "iconUrl": "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10264_1667213050_g2_reviews.png",
-    "sourceUrl": "https://www.g2.com",
-    "dataVisibility": [
-        "PRIVATE"
-    ]
+  "id": "G2",
+  "name": "G2",
+  "categories": ["ADVERTISING"],
+  "organization": "G2",
+  "iconUrl":
+    "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10264_1667213050_g2_reviews.png",
+  "sourceUrl": "https://www.g2.com",
+  "dataVisibility": ["PRIVATE"]
 }
