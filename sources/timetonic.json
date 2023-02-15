@@ -1,0 +1,10 @@
+{
+  "id": "TIMETONIC",
+  "name": "TimeTonic",
+  "categories": ["DATABASE", "DATA_COLLECTION"],
+  "organization": "TIMETONIC",
+  "iconUrl":
+    "https://uploads-ssl.webflow.com/5dc29b28f67939b38882b698/5e342339cb627fe8d538b8cc_timetonic-webclip.png",
+  "sourceUrl": "https://home.timetonic.com",
+  "dataVisibility": ["PRIVATE"]
+}

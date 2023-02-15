@@ -1,8 +1,6 @@
 {
-	"id": "MEDIASMART",
-	"name": "mediasmart",
-	"iconUrl":
-	  "https://mediasmart.io/images/logo-mediasmart.svg",
-	"orgUrl": "https://mediasmart.io/"
-  }
-  
+  "id": "MEDIASMART",
+  "name": "mediasmart",
+  "iconUrl": "https://mediasmart.io/images/logo-mediasmart.svg",
+  "orgUrl": "https://mediasmart.io/"
+}
