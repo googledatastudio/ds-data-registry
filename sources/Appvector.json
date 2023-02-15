@@ -3,7 +3,8 @@
   "name": "Appvector",
   "categories": ["PUBLIC_DATA"],
   "organization": "multivariate",
-  "iconUrl": "https://appvector.io/static/assets/images/appvector_addon_logo.png",
+  "iconUrl":
+    "https://appvector.io/static/assets/images/appvector_addon_logo.png",
   "sourceUrl": "https://appvector.io/",
   "dataVisibility": ["PUBLIC"]
 }
