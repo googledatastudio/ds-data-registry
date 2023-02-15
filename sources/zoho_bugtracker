@@ -1,0 +1,10 @@
+{
+  "id": "ZOHO_BUGTRACKER",
+  "name": "Zoho Bugtracker",
+  "categories": ["TOOLS"],
+  "organization": "ZOHO",
+  "iconUrl":
+    "https://www.zohowebstatic.com/sites/zweb/images/producticon/bugtracker.svg",
+  "sourceUrl": "https://www.zoho.com/bugtracker/",
+  "dataVisibility": ["PRIVATE"]
+}
