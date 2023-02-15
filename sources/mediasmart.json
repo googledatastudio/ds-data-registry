@@ -1,11 +1,9 @@
 {
-	"id": "MEDIASMART",
-	"name": "mediasmart",
-	"categories": ["API", "ANALYTICS"],
-	"organization": "mediasmart",
-	"iconUrl":
-	  "https://mediasmart.io/images/logo-mediasmart.svg",
-	"sourceUrl": "https://documentation.mediasmart.io/#introduction",
-	"dataVisibility": ["PRIVATE"]
-  }
-  
+  "id": "MEDIASMART",
+  "name": "mediasmart",
+  "categories": ["API", "ANALYTICS"],
+  "organization": "mediasmart",
+  "iconUrl": "https://mediasmart.io/images/logo-mediasmart.svg",
+  "sourceUrl": "https://documentation.mediasmart.io/#introduction",
+  "dataVisibility": ["PRIVATE"]
+}
