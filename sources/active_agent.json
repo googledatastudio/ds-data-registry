@@ -1,0 +1,9 @@
+{
+  "id": "ACTIVE_AGENT",
+  "name": "Active Agent",
+  "categories": ["ADVERTISING"],
+  "organization": "ACTIVE_AGENT",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/activeagent_updated.svg",
+  "sourceUrl": "https://www.adition.com/en/",
+  "dataVisibility": ["PRIVATE"]
+}
