@@ -1,9 +1,10 @@
 {
   "id": "LOCAL_FALCON",
   "name": "Local Falcon",
-  "categories": ["SEO","ANALYTICS"],
+  "categories": ["SEO", "ANALYTICS"],
   "organization": "LOCAL_FALCON",
-  "iconUrl": "https://www.localfalcon.com/uploads/layout/localfalcon-full-logo-2022.png",
+  "iconUrl":
+    "https://www.localfalcon.com/uploads/layout/localfalcon-full-logo-2022.png",
   "sourceUrl": "https://localfalcon.com/",
   "dataVisibility": ["PRIVATE"]
 }
