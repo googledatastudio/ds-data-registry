@@ -1,0 +1,10 @@
+{
+    "id": "MMS",
+    "name": "MarketingMaster",
+    "categories": ["ANALYTICS", "CALL_TRACKING"],
+    "organization": "TUFS",
+    "iconUrl": "https://tufsoftware.com/wp-content/uploads/2020/11/TUFSO_Logo_MM-min.png",
+    "sourceUrl": "https://tufsoftware.com/en/marketing-master-software-en/",
+    "dataVisibility": ["PRIVATE"]
+  }
+  

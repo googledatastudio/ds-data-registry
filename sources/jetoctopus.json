@@ -3,7 +3,8 @@
   "name": "JetOctopus",
   "categories": ["ANALYTICS", "SEO", "TOOLS"],
   "organization": "JETOCTOPUS",
-  "iconUrl": "https://jetoctopus.com/wp-content/themes/jetoctopus/assets/images/logo.png",
+  "iconUrl":
+    "https://jetoctopus.com/wp-content/themes/jetoctopus/assets/images/logo.png",
   "sourceUrl": "https://jetoctopus.com/",
   "dataVisibility": ["PRIVATE"]
 }
