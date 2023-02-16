@@ -1,7 +1,7 @@
 {
   "id": "ECOMAIL",
   "name": "Ecomail",
-  "categories": ["ANALYTICS","EMAIL"],
+  "categories": ["ANALYTICS", "EMAIL"],
   "organization": "ECOMAIL",
   "iconUrl": "https://ecomail-assets.s3.amazonaws.com/old/images/logo-tiny.png",
   "sourceUrl": "https://ecomail.cz",
