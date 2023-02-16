@@ -1,9 +1,9 @@
 {
   "id": "SITEBULB",
   "name": "Sitebulb",
-  "categories": [ "TOOLS", "SEO" ],
+  "categories": ["TOOLS", "SEO"],
   "organization": "SITEBULB",
   "iconUrl": "https://sitebulb.com/images/square-logo.png",
   "sourceUrl": "https://sitebulb.com/",
-  "dataVisibility": [ "PRIVATE" ]
+  "dataVisibility": ["PRIVATE"]
 }
