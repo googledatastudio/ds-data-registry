@@ -1,0 +1,10 @@
+{
+  "id": "SENDPULSE",
+  "name": "SendPulse",
+  "categories": ["CRM"],
+  "organization": "SENDPULSE",
+  "iconUrl":
+    "https://media.licdn.com/dms/image/C4E0BAQGrSv-2ftFXpg/company-logo_200_200/0/1519876899096?e=1683158400&v=beta&t=mBYzOVF0Bw9acEbR8OpiUOw58sXS4Rp8GFQU3nXRfi8",
+  "sourceUrl": "https://sendpulse.com/",
+  "dataVisibility": ["PRIVATE"]
+}
