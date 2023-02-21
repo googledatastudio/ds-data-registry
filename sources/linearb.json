@@ -1,7 +1,7 @@
 {
   "id": "LINEARB",
   "name": "LinearB",
-  "categories": ["TBD"],
+  "categories": ["API", "CUSTOM", "ANALYTICS"],
   "organization": "LinearB",
   "iconUrl":
     "https://linearb.io/wp-content/uploads/LinearB-Logo-Official.png",
