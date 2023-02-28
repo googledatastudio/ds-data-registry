@@ -1,0 +1,11 @@
+{
+    "id": "TRUSTPILOT",
+    "name": "Trustpilot",
+    "categories": ["PUBLIC_RELATIONS"],
+    "organization": "TRUSTPILOT",
+    "iconUrl": "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10159_1675332803.png",
+    "sourceUrl": "https://www.trustpilot.com",
+    "dataVisibility": [
+        "PUBLIC"
+    ]
+}
