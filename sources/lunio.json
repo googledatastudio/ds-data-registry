@@ -1,0 +1,10 @@
+{
+  "id": "LUNIO",
+  "name": "Lunio",
+  "categories": ["ADVERTISING"],
+  "organization": "LUNIO",
+  "iconUrl":
+    "https://dashboard.lunio.ai/assets/images/branding/favicon/v3_android-chrome-192x192.png",
+  "sourceUrl": "https://lunio.ai/",
+  "dataVisibility": ["PRIVATE"]
+}
