@@ -1,0 +1,9 @@
+{
+  "id": "MICROSOFT_EXCEL",
+  "name": "Microsoft Excel",
+  "categories": ["SPREADSHEET", "CUSTOM"],
+  "organization": "MICROSOFT",
+  "iconUrl": "https://www.coupler.io/images/destinations/microsoft_excel.svg",
+  "sourceUrl": "https://www.microsoft.com/en-ww/microsoft-365/excel",
+  "dataVisibility": ["PRIVATE"]
+}
