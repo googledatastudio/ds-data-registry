@@ -1,0 +1,10 @@
+{
+  "id": "PIPELINER_CRM",
+  "name": "Pipeliner CRM",
+  "categories": ["CRM"],
+  "organization": "PIPELINER_CRM",
+  "iconUrl":
+    "https://media-exp1.licdn.com/dms/image/C4E0BAQE71ibvP9zTaA/company-logo_200_200/0/1649265359903?e=1678924800&v=beta&t=3qZVjJ9iKZwkgASX1du0_3P1EAxfIKVapmYgGF2g3tk",
+  "sourceUrl": "https://www.pipelinersales.com/",
+  "dataVisibility": ["PRIVATE"]
+}
