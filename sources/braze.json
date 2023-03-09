@@ -1,0 +1,9 @@
+{
+  "id": "BRAZE",
+  "name": "Braze",
+  "categories": ["MARKETING"],
+  "organization": "BRAZE",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/braze.svg",
+  "sourceUrl": "https://www.braze.com/",
+  "dataVisibility": ["PRIVATE"]
+}
