@@ -1,0 +1,9 @@
+{
+  "id": "ROWS",
+  "name": "Rows",
+  "categories": ["TOOLS"],
+  "organization": "ROWS",
+  "iconUrl": "https://rows.com/media/icon_rounded.png",
+  "sourceUrl": "https://www.rows.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,6 +1,7 @@
 {
-    "id": "SIMPLESAT",
-    "name": "Simplesat",
-    "iconUrl": "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10128_1647419762_simplesat.png",
-    "orgUrl": "https://www.simplesat.io"
+  "id": "SIMPLESAT",
+  "name": "Simplesat",
+  "iconUrl":
+    "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10128_1647419762_simplesat.png",
+  "orgUrl": "https://www.simplesat.io"
 }
