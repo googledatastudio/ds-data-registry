@@ -1,0 +1,9 @@
+{
+  "id": "ADBOOK",
+  "name": "Adbook +",
+  "categories": ["CUSTOM"],
+  "organization": "ADBOOK",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/adbookplus.svg",
+  "sourceUrl": "https://www.fattail.com/",
+  "dataVisibility": ["PRIVATE"]
+}

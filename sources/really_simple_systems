@@ -1,0 +1,10 @@
+{
+  "id": "REALLY_SIMPLE_SYSTEMS",
+  "name": "Really Simple Systems",
+  "categories": ["CRM"],
+  "organization": "REALLY_SIMPLE_SYSTEMS",
+  "iconUrl":
+    "https://media-exp1.licdn.com/dms/image/C4E0BAQH4sf2GLc9nKA/company-logo_100_100/0/1581502387825?e=1678924800&v=beta&t=Lo8BA-KDb4i-KZnEoywthvLHwYHujdYXvDO6EYfJ0hg",
+  "sourceUrl": "https://www.reallysimplesystems.com/",
+  "dataVisibility": ["PRIVATE"]
+}
