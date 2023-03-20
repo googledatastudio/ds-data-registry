@@ -1,0 +1,9 @@
+{
+  "id": "CLASSY",
+  "name": "Classy",
+  "categories": ["PAYMENTS"],
+  "organization": "Classy",
+  "iconUrl": "https://www.classy.org/wp-content/uploads/2021/02/Vector.svg",
+  "sourceUrl": "https://www.classy.org/",
+  "dataVisibility": ["PRIVATE"]
+}
