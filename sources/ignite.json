@@ -1,0 +1,11 @@
+{
+  "id": "IGNITE",
+  "name": "Ignite",
+  "categories": ["ADVERTISING"],
+  "organization": "IGNITE",
+  "iconUrl": "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10286_1675332779.png",
+  "sourceUrl": "https://ignite.realestate.com.au",
+  "dataVisibility": [
+    "PRIVATE"
+  ]
+}
