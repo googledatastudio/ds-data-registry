@@ -5,6 +5,6 @@
   "organization": "RUBII",
   "iconUrl":
     "https://rubii-images.s3-ap-southeast-2.amazonaws.com/rubii_logo.png",
-  "sourceUrl": "https://www.rubii.io/",
+  "sourceUrl": "https://www.rubii.io/rubii-google-looker",
   "dataVisibility": ["PRIVATE"]
 }
