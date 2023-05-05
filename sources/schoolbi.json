@@ -1,0 +1,9 @@
+{
+    "id" : "SCHOOLBI",
+    "name" : "SchoolBI",
+    "categories" : ["ANALYTICS"],
+    "organization" : "SCHOOLBI",
+    "iconUrl" : "https://schoolbi-public-static.s3.us-east-2.amazonaws.com/logo_new.jpg",
+    "sourceUrl" : "https://schoolbi.com",
+    "dataVisibility" : ["PRIVATE"]
+}
