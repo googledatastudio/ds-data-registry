@@ -1,0 +1,13 @@
+{
+    "id": "APPVECTOR",
+    "name": "Appvector",
+    "categories": [
+        "PUBLIC_DATA", "ANALYTICS"
+    ],
+    "organization": "MULTIVARIATE",
+    "iconUrl": "https://appvector.io/static/assets/images/appvector_addon_logo.png",
+    "sourceUrl": "https://appvector.io/",
+    "dataVisibility": [
+        "PUBLIC"
+    ]
+}
