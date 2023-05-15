@@ -1,0 +1,9 @@
+{
+  "id": "WORDPRESS",
+  "name": "Wordpress",
+  "categories": ["MARKETING", "TOOLS"],
+  "organization": "WORDPRESS",
+  "iconUrl": "https://s1.wp.com/i/webclip.png",
+  "sourceUrl": "https://wordpress.com/",
+  "dataVisibility": ["PRIVATE"]
+}
