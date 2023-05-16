@@ -1,0 +1,10 @@
+{
+  "id": "STOCK_AND_TRACE",
+  "name": "Stock&Trace",
+  "categories": ["WAREHOUSE_MANAGEMENT"],
+  "organization": "SPERANTUS",
+  "iconUrl": "https://st-prod-assets.s3.us-west-2.amazonaws.com/public-assets-for-plugins/ic_looker-studio-ST.png",
+  "sourceUrl":
+  "https://www.stockandtrace.com/",
+  "dataVisibility": ["PRIVATE"]
+}
