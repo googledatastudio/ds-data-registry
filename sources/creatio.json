@@ -1,0 +1,9 @@
+{
+  "id": "CREATIO",
+  "name": "Creatio",
+  "categories": ["CRM"],
+  "organization": "Creatio",
+  "iconUrl": "https://assets.stickpng.com/images/62a096e9c8796a42e0a62c87.png",
+  "sourceUrl": "https://www.creatio.com/crm/",
+  "dataVisibility": ["PRIVATE"]
+}
