@@ -1,0 +1,9 @@
+{
+  "id": "QUICKIN",
+  "name": "Quickin",
+  "categories": ["JOBS"],
+  "organization": "QUICKIN",
+  "iconUrl": "https://www.quickin.io/wp-content/uploads/2021/01/icon-70x70.png",
+  "sourceUrl": "https://www.quickin.io/",
+  "dataVisibility": ["PRIVATE"]
+}
