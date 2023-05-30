@@ -1,11 +1,10 @@
 {
-    "id": "LOGICGATE",
-    "name": "LogicGate Risk Cloud",
-    "categories": ["TOOLS"],
-    "organization": "LogicGate",
-    "iconUrl":
-      "https://cdn.logicgate.com/google-looker-marketplace/logicgate-logo.ico",
-    "sourceUrl": "https://www.logicgate.com",
-    "dataVisibility": ["PRIVATE"]
-  }
-  
+  "id": "LOGICGATE",
+  "name": "LogicGate Risk Cloud",
+  "categories": ["TOOLS"],
+  "organization": "LogicGate",
+  "iconUrl":
+    "https://cdn.logicgate.com/google-looker-marketplace/logicgate-logo.ico",
+  "sourceUrl": "https://www.logicgate.com",
+  "dataVisibility": ["PRIVATE"]
+}
