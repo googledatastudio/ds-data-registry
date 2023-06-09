@@ -1,0 +1,9 @@
+{
+    "id": "CONTELE GESTOR DE EQUIPES",
+    "name": "Contele Gestor de Equipes",
+    "categories": ["API", "TOOLS"],
+    "organization": "CONTELE",
+    "iconUrl": "https://static.contele.com.br/cge/landing/images/favicon.webp",
+    "sourceUrl": "https://contele.io",
+    "dataVisibility": ["PRIVATE"]
+}
