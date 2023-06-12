@@ -1,0 +1,9 @@
+{
+  "id": "ASKEMO",
+  "name": "askemo",
+  "categories": ["ANALYTICS, DATA_COLLECTION"],
+  "organization": "ASKEMO",
+  "iconUrl": "https://askemo.nl/wp-content/uploads/2022/03/Favicon-askemo.png",
+  "sourceUrl": "https://askemo.nl/",
+  "dataVisibility": ["PRIVATE"]
+}

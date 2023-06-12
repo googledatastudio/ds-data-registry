@@ -1,0 +1,10 @@
+{
+  "id": "REZERVE_COMMERCE",
+  "name": "Rezerve Commerce",
+  "categories": ["ECOMMERCE"],
+  "organization": "REZERVE",
+  "iconUrl":
+    "https://www.rezerve.com.br/wp-content/uploads/2022/06/cropped-favico-192x192.png",
+  "sourceUrl": "https://www.rezerve.com.br/",
+  "dataVisibility": ["PRIVATE"]
+}
