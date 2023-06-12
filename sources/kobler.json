@@ -1,0 +1,10 @@
+{
+    "id": "KOBLER",
+    "name": "Kobler Analytics",
+    "categories": ["ANALYTICS"],
+    "organization": "KOBLER",
+    "iconUrl":
+      "https://kobler.no/favicon.ico",
+    "sourceUrl": "https://kobler.no",
+    "dataVisibility": ["PRIVATE"]
+  }
