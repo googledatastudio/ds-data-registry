@@ -1,0 +1,11 @@
+{
+  "id": "SCOBY",
+  "name": "scoby",
+  "categories": ["ANALYTICS"],
+  "organization": "SCOBY",
+  "iconUrl": "https://raw.githubusercontent.com/scobyio/logos/main/scoby-logo-48x48.png",
+  "sourceUrl": "https://scoby.io",
+  "dataVisibility": [
+    "PRIVATE"
+  ]
+}

@@ -183,5 +183,9 @@
   {
     "id": "PROJECT_MANAGEMENT",
     "name": "Project Management"
+  },
+  {
+    "id": "WAREHOUSE_MANAGEMENT",
+    "name": "Warehouse Management"
   }
 ]
