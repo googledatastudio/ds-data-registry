@@ -1,0 +1,9 @@
+{
+  "id": "CALENDLY",
+  "name": "Calendly",
+  "categories": ["CALL_TRACKING", "CDR", "SALES", "TOOLS"],
+  "organization": "CALENDLY",
+  "iconUrl": "https://calendly.com/icons/icon-48x48.png",
+  "sourceUrl": "https://calendly.com/",
+  "dataVisibility": ["PRIVATE"]
+}
