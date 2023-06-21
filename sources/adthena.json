@@ -1,0 +1,9 @@
+{
+  "id": "ADTHENA",
+  "name": "Adthena",
+  "categories": ["MARKETING", "TOOLS"],
+  "organization": "ADTHENA",
+  "iconUrl": "https://s3.eu-west-1.amazonaws.com/adthena.public/adthena64.png",
+  "sourceUrl": "https://www.adthena.com/",
+  "dataVisibility": ["PRIVATE"]
+}
