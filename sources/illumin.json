@@ -1,0 +1,9 @@
+{
+  "id": "ILLUMIN",
+  "name": "Illumin",
+  "categories": ["ADVERTISING", "MARKETING"],
+  "organization": "ILLUMIN",
+  "iconUrl": "https://illumin.com/wp-content/themes/illumin/images/logo.svg",
+  "sourceUrl": "https://illumin.com",
+  "dataVisibility": ["PRIVATE"]
+}
