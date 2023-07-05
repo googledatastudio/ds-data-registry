@@ -1,0 +1,10 @@
+{
+  "id": "TWITTER_ENGAGEMENTS",
+  "name": "Twitter Engagements",
+  "categories": ["SOCIAL"],
+  "organization": "TWITTER_ENGAGEMENTS",
+  "iconUrl":
+    "https://cdn.adverity.com/datatap_svg/twitter_engagement_optimized.svg",
+  "sourceUrl": "https://twitter.com/",
+  "dataVisibility": ["PRIVATE"]
+}
