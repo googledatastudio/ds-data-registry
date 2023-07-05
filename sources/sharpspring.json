@@ -1,0 +1,9 @@
+{
+  "id": "SHARPSPRING",
+  "name": "SharpSpring",
+  "categories": ["MARKETING"],
+  "organization": "SHARPSPRING",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/sharpspring.svg",
+  "sourceUrl": "https://sharpspring.com/",
+  "dataVisibility": ["PRIVATE"]
+}
