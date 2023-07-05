@@ -1,0 +1,9 @@
+{
+  "id": "INVOCA",
+  "name": "Invoca",
+  "categories": ["CUSTOM"],
+  "organization": "INVOCA",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/invoca.svg",
+  "sourceUrl": "https://www.invoca.com/",
+  "dataVisibility": ["PRIVATE"]
+}
