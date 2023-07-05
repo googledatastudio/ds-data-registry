@@ -1,0 +1,9 @@
+{
+  "id": "STACKLINE",
+  "name": "Stackline",
+  "categories": ["ECOMMERCE"],
+  "organization": "STACKLINE",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/stackline.svg",
+  "sourceUrl": "https://www.stackline.com/",
+  "dataVisibility": ["PRIVATE"]
+}
