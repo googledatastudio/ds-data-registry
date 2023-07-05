@@ -1,0 +1,9 @@
+{
+  "id": "KHOROS",
+  "name": "Khoros",
+  "categories": ["SOCIAL"],
+  "organization": "KHOROS",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/khoros.svg",
+  "sourceUrl": "https://khoros.com/",
+  "dataVisibility": ["PRIVATE"]
+}
