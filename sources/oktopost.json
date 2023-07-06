@@ -1,0 +1,9 @@
+{
+  "id": "OKTOPOST",
+  "name": "Oktopost",
+  "categories": ["TOOLS", "SOCIAL"],
+  "organization": "OKTOPOST",
+  "iconUrl": "https://cdn-www.oktopost.com/uploads/web/originals/7288055f-c84a-43cf-95fc-fd2474a031bf.png",
+  "sourceUrl": "https://www.oktopost.com/",
+  "dataVisibility": ["PRIVATE"]
+}
