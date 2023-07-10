@@ -1,0 +1,10 @@
+{
+  "id": "STREAK_BOXES",
+  "name": "Streak Boxes",
+  "categories": ["TOOLS","SALES"],
+  "organization": "STREAK",
+  "iconUrl":
+    "https://assets.streak.com/clientjs-release-builds/assets/logo20@2x.852d83e56b0eb6d835f9.png",
+  "sourceUrl": "https://support.streak.com/en/collections/1475853-boxes",
+  "dataVisibility": ["PRIVATE"]
+}
