@@ -1,0 +1,10 @@
+{
+  "id": "LINEARB",
+  "name": "LinearB",
+  "categories": ["API", "CUSTOM", "ANALYTICS"],
+  "organization": "LINEARB",
+  "iconUrl":
+    "https://linearb.io/wp-content/uploads/LinearB-Logo-Official.png",
+  "sourceUrl": "https://linearb.io",
+  "dataVisibility": ["PRIVATE"]
+}
