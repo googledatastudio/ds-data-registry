@@ -1,0 +1,9 @@
+{
+  "id": "ZETARIS",
+  "name": "Zetaris",
+  "categories": ["DATA_ANALYTICS"],
+  "organization": "ZETARIS",
+  "iconUrl": "https://zetarislogo.s3.ap-southeast-2.amazonaws.com/zetlogolarge.png",
+  "sourceUrl": "https://www.zetaris.com/",
+  "dataVisibility": ["PRIVATE"]
+}
