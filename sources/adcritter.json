@@ -3,7 +3,7 @@
   "name": "AdCritter",
   "categories": ["ADVERTISING"],
   "organization": "ADCRITTER",
-  "iconUrl": "https://adcritter.com/favicon.ico",
+  "iconUrl": "https://adcritter.com/favicon.ico/",
   "sourceUrl": "https://adcritter.com/",
   "dataVisibility": ["PRIVATE"]
 }
