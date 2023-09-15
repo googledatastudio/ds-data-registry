@@ -1,0 +1,9 @@
+{
+    "id": "MAPIFY_DATASET",
+    "name": "Mapify Dataset",
+    "categories": ["IOT"],
+    "organization": "MAPIFY",
+    "iconUrl": "https://storage.googleapis.com/mapify-demos/mapify/mapifylogo_simple_32x32.png",
+    "sourceUrl": "https://www.mapify.ai",
+    "dataVisibility": ["PRIVATE"]
+  }
