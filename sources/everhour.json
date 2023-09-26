@@ -1,0 +1,11 @@
+{
+    "id": "EVERHOUR",
+    "name": "Everhour",
+    "categories": ["TIME_TRACKING"],
+    "organization": "EVERHOUR",
+    "iconUrl":
+      "https://media.licdn.com/dms/image/C4D0BAQERRM76E_OtDQ/company-logo_200_200/0/1622104619094?e=1696464000&v=beta&t=bzan1xb0zLuUyVc-y9k6xbtuaQV9v3XNxnLqflinW9k",
+    "sourceUrl": "https://everhour.com/",
+    "dataVisibility": ["PRIVATE"]
+  }
+  
