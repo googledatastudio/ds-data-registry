@@ -1,0 +1,13 @@
+{
+  "id": "YOOM",
+  "name": "Yoom",
+  "categories": [
+    "DATABASE"
+  ],
+  "organization": "Yoom",
+  "iconUrl": "https://yoom.fun//packs/images/Yoom_horizontal.png",
+  "sourceUrl": "https://lp.yoom.fun/",
+  "dataVisibility": [
+    "PRIVATE"
+  ]
+}
