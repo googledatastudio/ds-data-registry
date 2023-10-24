@@ -1,11 +1,11 @@
 {
-  "id": "YOOM",
-  "name": "Yoom",
+  "id": "YOOM_DATABASE",
+  "name": "Yoom Database",
   "categories": [
     "DATABASE"
   ],
   "organization": "Yoom",
-  "iconUrl": "https://yoom.fun//packs/images/Yoom_horizontal.png",
+  "iconUrl": "https://yoom.fun/yoom_looker_studio_logo.png",
   "sourceUrl": "https://lp.yoom.fun/",
   "dataVisibility": [
     "PRIVATE"
