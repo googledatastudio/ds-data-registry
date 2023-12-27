@@ -1,0 +1,9 @@
+{
+  "id": "SNAPCHAT_MARKETING",
+  "name": "Snapchat Marketing",
+  "categories": ["MARKETING"],
+  "organization": "SNAP",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/snapchat.png",
+  "sourceUrl": "https://businesshelp.snapchat.com/s/article/api-apply",
+  "dataVisibility": ["PRIVATE"]
+}
