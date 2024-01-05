@@ -1,0 +1,10 @@
+{
+  "id": "DATABRICKS",
+  "name": "Databricks",
+  "categories": ["DATABASE"],
+  "organization": "DATABRICKS",
+  "iconUrl":
+    "https://storage.googleapis.com/databricks_logo/Databricks64.png",
+  "sourceUrl": "https://www.databricks.com",
+  "dataVisibility": ["PRIVATE"]
+}
