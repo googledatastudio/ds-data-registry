@@ -1,0 +1,9 @@
+{
+  "id": "FATHOM_ANALYTICS",
+  "name": "Fathom Analytics",
+  "categories": ["ANALYTICS"],
+  "organization": "Conva Ventures Inc.FATHOM",
+  "iconUrl": "https://usefathom.com/assets/src/favicon-dark.svg",
+  "sourceUrl": "https://usefathom.com",
+  "dataVisibility": ["PRIVATE"]
+}
