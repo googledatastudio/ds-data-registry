@@ -1,0 +1,10 @@
+{
+  "id": "DYNOMAPPER",
+  "name": "DYNO Mapper",
+  "categories": ["PROJECT_MANAGEMENT", "SEO", "TOOLS"],
+  "organization": "DYNOMAPPER",
+  "iconUrl":
+    "https://d31ninron5tttf.cloudfront.net/images/logo_icon.0a738fc6.png",
+  "sourceUrl": "https://dynomapper.com/",
+  "dataVisibility": ["PRIVATE"]
+}

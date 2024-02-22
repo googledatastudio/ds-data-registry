@@ -1,0 +1,9 @@
+{
+  "id": "APRESENTAME",
+  "name": "Apresenta.me",
+  "categories": ["CRM", "ANALYTICS"],
+  "organization": "APRESENTAME",
+  "iconUrl": "https://a.apresenta.me/images/fav/36x36.png",
+  "sourceUrl": "https://www.apresenta.me/",
+  "dataVisibility": ["PRIVATE"]
+}
