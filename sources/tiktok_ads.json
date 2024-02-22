@@ -1,0 +1,9 @@
+{
+  "id": "TIKTOK_ADS",
+  "name": "TikTok Ads",
+  "categories": ["SOCIAL"],
+  "organization": "TIKTOK_ADS",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/tiktok.svg",
+  "sourceUrl": "https://ads.tiktok.com/i18n/",
+  "dataVisibility": ["PRIVATE"]
+}
