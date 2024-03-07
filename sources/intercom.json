@@ -1,0 +1,9 @@
+{
+  "id": "INTERCOM",
+  "name": "Intercom",
+  "categories": ["CUSTOMER_SUPPORT", "MARKETING"],
+  "organization": "INTERCOM",
+  "iconUrl": "https://cdn.worldvectorlogo.com/logos/intercom-2.svg",
+  "sourceUrl": "https://www.intercom.com/",
+  "dataVisibility": ["PRIVATE"]
+}

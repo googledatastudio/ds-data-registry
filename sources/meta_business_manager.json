@@ -1,0 +1,9 @@
+{
+  "id": "META_BUSINESS_MANAGER",
+  "name": "Meta Business Manager",
+  "categories": ["ADVERTISING", "MARKETING", "SOCIAL"],
+  "organization": "META",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/Meta_logo_small.png",
+  "sourceUrl": "https://business.facebook.com/",
+  "dataVisibility": ["PRIVATE"]
+}

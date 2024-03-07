@@ -1,0 +1,10 @@
+{
+  "id": "MYCITY",
+  "name": "mycity",
+  "categories": ["API"],
+  "organization": "EDSITECH",
+  "iconUrl":
+    "https://static.mycity.travel/manage/uploads/2/2/440366/1/logo-mycity.png",
+  "sourceUrl": "https://mycity.travel",
+  "dataVisibility": ["PUBLIC"]
+}
