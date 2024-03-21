@@ -1,0 +1,10 @@
+{
+  "id": "TRAWLINGWEBNEWS",
+  "name": "TrawlingWeb News",
+  "categories": ["NEWS", "SOCIAL", "MARKETING", "PUBLIC_RELATIONS"],
+  "organization": "TRAWLINGWEB",
+  "iconUrl":
+    "https://img1.wsimg.com/isteam/ip/00c0b242-8ce8-4225-b57c-67776c326bad/logo%20drop.png/:/",
+  "sourceUrl": "https://trawlingweb.com/",
+  "dataVisibility": ["PRIVATE"]
+}

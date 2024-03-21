@@ -1,0 +1,9 @@
+{
+  "id": "OEE_BOX_DASHZOOM",
+  "name": "OEE Box Dashzoom",
+  "categories": ["IOT", "API", "ANALYTICS"],
+  "organization": "DASHZOOM",
+  "iconUrl": "https://dashzoom.com.br/imagens/icon.png",
+  "sourceUrl": "https://dashzoom.com.br",
+  "dataVisibility": ["PRIVATE"]
+}
