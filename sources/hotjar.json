@@ -1,0 +1,13 @@
+{
+    "id": "HOTJAR",
+    "name": "Hotjar",
+    "categories": [
+        "ANALYTICS"
+      ],    
+      "organization": "Hotjar Ltd.",
+    "iconUrl": "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10372_1687956141.png",
+    "sourceUrl": "https://www.hotjar.com",
+    "dataVisibility": [
+        "PRIVATE"
+    ]
+}
