@@ -1,0 +1,9 @@
+{
+  "id": "CONFLUENCE",
+  "name": "Confluence",
+  "categories": ["TOOLS", "DATA_COLLECTION"],
+  "organization": "ATLASSIAN",
+  "iconUrl": "https://windsor.ai/wp-content/uploads/2024/02/confluence.png",
+  "sourceUrl": "https://www.atlassian.com/software/confluence",
+  "dataVisibility": ["PRIVATE"]
+}
