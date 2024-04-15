@@ -1,0 +1,9 @@
+{
+  "id": "AHA",
+  "name": "Aha!",
+  "categories": ["ECOMMERCE"],
+  "organization": "AHA",
+  "iconUrl": "https://windsor.ai/wp-content/uploads/2024/02/aha.png",
+  "sourceUrl": "https://www.aha.io/",
+  "dataVisibility": ["PUBLIC"]
+}
