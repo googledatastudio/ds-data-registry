@@ -1,0 +1,9 @@
+{
+    "id": "RIDDLE",
+    "name": "Riddle",
+    "categories": ["MARKETING", "DATA_COLLECTION"],
+    "organization": "RIDDLE",
+    "iconUrl": "https://cdn.riddle.com/website/assets-2023/logos/svg/logo.svg",
+    "sourceUrl": "https://www.riddle.com/",
+    "dataVisibility": ["PRIVATE"]
+}
