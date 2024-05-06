@@ -1,0 +1,9 @@
+{
+  "id": "GITLAB",
+  "name": "GitLab",
+  "categories": ["TOOLS", "DATA_COLLECTION"],
+  "organization": "GITLAB",
+  "iconUrl": "https://windsor.ai/wp-content/uploads/2024/02/gitlab-1.png",
+  "sourceUrl": "https://www.gitlab.com",
+  "dataVisibility": ["PRIVATE"]
+}

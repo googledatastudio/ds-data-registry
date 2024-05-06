@@ -1,0 +1,13 @@
+{a
+  "id": "CHARGEBEE",
+  "name": "Chargebee",
+  "categories": [
+    "PAYMENTS"
+  ],
+  "organization": "CHARGEBEE",
+  "iconUrl": "https://www.chargebee.com/static/resources/brand/favicon.png",
+  "sourceUrl": "https://www.chargebee.com/",
+  "dataVisibility": [
+    "PRIVATE"
+  ]
+}

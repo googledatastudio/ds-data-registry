@@ -1,0 +1,9 @@
+{
+  "id": "STREAMLIKE_ANALYTICS",
+  "name": "STREAMLIKE Analytics",
+  "categories": ["ANALYTICS", "API"],
+  "organization": "MEDIATECH",
+  "iconUrl": "https://hector.streamlike.com/streamlike/logo/spirale.jpg",
+  "sourceUrl": "https://www.streamlike.fr/",
+  "dataVisibility": ["PUBLIC"]
+}

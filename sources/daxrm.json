@@ -1,0 +1,9 @@
+{
+  "id": "DAXRM_RANK_TRACKER",
+  "name": "DAXRM Rank Tracker",
+  "organization": "DAXRM",
+  "sourceUrl": "https://www.daxrm.com/",
+  "iconUrl": "https://www.daxrm.com/assets/daxrm_dstudio_40px.png",
+  "categories": ["SEO"],
+  "dataVisibility": ["PRIVATE"]
+}
