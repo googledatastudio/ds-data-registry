@@ -1,0 +1,9 @@
+{
+  "id": "APPNALYSIS",
+  "name": "Appnalysis",
+  "categories": ["ANALYTICS", "MARKETING"],
+  "organization": "APPNALYSIS",
+  "iconUrl": "https://appnalysis.com/images/imgLogoMin.png",
+  "sourceUrl": "https://appnalysis.com",
+  "dataVisibility": ["PRIVATE"]
+}

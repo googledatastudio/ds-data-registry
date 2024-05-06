@@ -1,0 +1,9 @@
+{
+  "id": "TIKTOK_ADS",
+  "name": "TikTok Ads",
+  "categories": ["ADVERTISING"],
+  "organization": "BYTEDANCE",
+  "iconUrl": "https://static.funnel.io/logos/icon48x48/tiktok.png",
+  "sourceUrl": "https://www.tiktok.com/business/en/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "VENIO",
+  "name": "Venio",
+  "categories": ["CRM", "SALES"],
+  "organization": "GOFIVE",
+  "iconUrl": "https://portal.veniocrm.com/assets/favicons/favicon-96x96.png",
+  "sourceUrl": "https://api.gofive.co.th/",
+  "dataVisibility": ["PRIVATE"]
+}
