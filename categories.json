@@ -187,5 +187,9 @@
   {
     "id": "WAREHOUSE_MANAGEMENT",
     "name": "Warehouse Management"
+  },
+  {
+    "id": "QUALITY_AND_COMPLIANCE_MANAGEMENT",
+    "name": "Quality and Compliance management"
   }
 ]
