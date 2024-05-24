@@ -1,0 +1,9 @@
+{
+  "id": "META_ADS",
+  "name": "Meta Ads",
+  "categories": ["ADVERTISING"],
+  "organization": "META",
+  "iconUrl": "https://adzviser.com/assets/images/metaLogoSmall.png",
+  "sourceUrl": "https://www.facebook.com/business/ads",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "KAWAK",
+  "name": "KAWAK COL SAS",
+  "categories": ["QUALITY_AND_COMPLIANCE_MANAGEMENT"],
+  "organization": "KAWAK",
+  "iconUrl": "https://kawak.com.co/kawak/favicon_kawak.png",
+  "sourceUrl": "https://www.kawak.net",
+  "dataVisibility": ["PRIVATE"]
+}
