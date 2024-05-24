@@ -1,0 +1,9 @@
+{
+  "id": "APPFOLLOW",
+  "name": "AppFollow",
+  "categories": ["ADVERTISING", "ECOMMERCE"],
+  "organization": "APPFOLLOW",
+  "iconUrl": "https://windsor.ai/wp-content/uploads/2024/02/appfollow.png",
+  "sourceUrl": "https://appfollow.io/",
+  "dataVisibility": ["PRIVATE"]
+}

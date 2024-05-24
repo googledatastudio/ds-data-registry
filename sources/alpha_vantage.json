@@ -1,0 +1,9 @@
+{
+  "id": "ALPHA_VANTAGE",
+  "name": "Alpha Vantage",
+  "categories": ["FINANCE"],
+  "organization": "ALPPHA VANTAGE",
+  "iconUrl": "https://windsor.ai/wp-content/uploads/2024/02/alpha_vantage.png",
+  "sourceUrl": "https://www.alphavantage.co/",
+  "dataVisibility": ["PRIVATE"]
+}
