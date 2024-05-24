@@ -1,0 +1,10 @@
+{
+  "id": "MAILERLITE",
+  "name": "MailerLite",
+  "categories": ["EMAIL"],
+  "organization": "MailerLite",
+  "iconUrl":
+    "https://windsor.ai/wp-content/uploads/2024/02/mailerlite.png",
+  "sourceUrl": "https://www.mailerlite.com/",
+  "dataVisibility": ["PRIVATE"]
+}
