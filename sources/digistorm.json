@@ -1,0 +1,10 @@
+{
+  "id": "DIGISTORM",
+  "name": "Digistorm",
+  "categories": ["CRM"],
+  "organization": "DIGISTORM",
+  "iconUrl":
+    "https://windsor.ai/wp-content/uploads/2024/04/digistorm.png",
+  "sourceUrl": "https://www.digistorm.com/",
+  "dataVisibility": ["PRIVATE"]
+}
