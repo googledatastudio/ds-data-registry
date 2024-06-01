@@ -1,0 +1,9 @@
+{
+  "id": "VAULTLYTICS",
+  "name": "Vaultlytics",
+  "categories": ["DATA_COLLECTION", "ANALYTICS"],
+  "organization": "VAULTLYTICS",
+  "iconUrl": "https://s3.eu-west-2.amazonaws.com/media.vaultlytics.com/circle.png",
+  "sourceUrl": "https://www.vaultlytics.com",
+  "dataVisibility": ["PRIVATE"]
+}
