@@ -1,0 +1,10 @@
+{
+  "id": "COINMARKETCAP",
+  "name": "CoinMarketCap",
+  "categories": ["FINANCE"],
+  "organization": "COINMARKETCAP",
+  "iconUrl":
+    "https://windsor.ai/wp-content/uploads/2024/06/coinmarketcap.png",
+  "sourceUrl": "https://coinmarketcap.com/",
+  "dataVisibility": ["PRIVATE"]
+}
