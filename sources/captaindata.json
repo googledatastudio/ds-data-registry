@@ -1,0 +1,10 @@
+{
+  "id": "CAPTAINDATA",
+  "name": "Captain Data",
+  "categories": ["DATA_COLLECTION"],
+  "organization": "CAPTAINDATA",
+  "iconUrl":
+    "https://windsor.ai/wp-content/uploads/2024/02/captain_data.png.webp",
+  "sourceUrl": "https://www.captaindata.co/",
+  "dataVisibility": ["PRIVATE"]
+}
