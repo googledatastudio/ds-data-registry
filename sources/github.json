@@ -1,0 +1,10 @@
+{
+  "id": "GITHUB",
+  "name": "Github",
+  "categories": ["TOOLS"],
+  "organization": "MICROSOFT",
+  "iconUrl":
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/256px-Github-desktop-logo-symbol.svg.png?20200316183539",
+  "sourceUrl": "https://github.com/",
+  "dataVisibility": ["PRIVATE"]
+}
