@@ -1,0 +1,9 @@
+{
+  "id": "QODLY",
+  "name": "Qodly API",
+  "categories": ["DATABASE"],
+  "organization": "4D",
+  "iconUrl": "https://cdn.qodly.com/console/public/Q-1.svg",
+  "sourceUrl": "https://qodly.com/platform",
+  "dataVisibility": ["PRIVATE"]
+}
