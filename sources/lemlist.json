@@ -1,0 +1,10 @@
+{
+  "id": "LEMLIST",
+  "name": "lemlist",
+  "categories": ["EMAIL"],
+  "organization": "LEMLIST",
+  "iconUrl":
+    "hhttps://windsor.ai/wp-content/uploads/2024/02/lemlist.png",
+  "sourceUrl": "https://www.lemlist.com/",
+  "dataVisibility": ["PRIVATE"]
+}
