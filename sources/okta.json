@@ -1,0 +1,10 @@
+{
+  "id": "OKTA",
+  "name": "Okta",
+  "categories": ["TOOLS"],
+  "organization": "OKTA",
+  "iconUrl":
+    "https://windsor.ai/wp-content/uploads/2024/06/okta.png",
+  "sourceUrl": "https://www.okta.com/",
+  "dataVisibility": ["PRIVATE"]
+}
