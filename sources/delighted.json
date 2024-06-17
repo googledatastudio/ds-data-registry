@@ -1,0 +1,10 @@
+{
+  "id": "DELIGTHED",
+  "name": "Delighted",
+  "categories": ["TOOLS"],
+  "organization": "QUALTRICS",
+  "iconUrl":
+    "https://windsor.ai/wp-content/uploads/2024/02/delighted.png",
+  "sourceUrl": "https://delighted.com/",
+  "dataVisibility": ["PRIVATE"]
+}
