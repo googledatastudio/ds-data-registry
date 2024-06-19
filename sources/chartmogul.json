@@ -1,0 +1,10 @@
+{
+  "id": "CHARTMOGUL",
+  "name": "ChartMogul",
+  "categories": ["FINANCE"],
+  "organization": "CHARTMOGUL",
+  "iconUrl":
+    "https://windsor.ai/wp-content/uploads/2024/02/chartmogul.png",
+  "sourceUrl": "https://chartmogul.com/",
+  "dataVisibility": ["PRIVATE"]
+}
