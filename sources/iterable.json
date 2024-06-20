@@ -4,6 +4,6 @@
   "categories": ["MARKETING"],
   "organization": "ITERABLE",
   "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkUh0RCP_g7J2GqazxH50Pb-keNRLVpcaybrN9uj1zeQ&s",
-  "sourceUrl": "https://api.iterable.com/api/campaigns/metrics",
+  "sourceUrl": "https://api.iterable.com/api/docs#campaigns_metrics",
   "dataVisibility": ["PRIVATE"]
 }
