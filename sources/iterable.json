@@ -1,0 +1,9 @@
+{
+  "id": "ITERABLE",
+  "name": "Iterable",
+  "categories": ["MARKETING"],
+  "organization": "ITERABLE",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/iterable.svg",
+  "sourceUrl": "https://iterable.com/en-GB/",
+  "dataVisibility": ["PRIVATE"]
+}
