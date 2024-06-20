@@ -1,0 +1,10 @@
+{
+  "id": "Netsuite",
+  "name": "NetSuite",
+  "categories": ["FINANCE"],
+  "organization": "ORACLE",
+  "iconUrl":
+    "https://upload.wikimedia.org/wikipedia/en/1/17/2024_NetSuite_logo.png",
+  "sourceUrl": "https://www.netsuite.com/",
+  "dataVisibility": ["PRIVATE"]
+}
