@@ -1,0 +1,9 @@
+{
+  "id": "KEYWORDTOOL",
+  "name": "KeywordTool",
+  "categories": ["SEO"],
+  "organization": "KEYWORDTOOL",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/keywordtool.svg",
+  "sourceUrl": "https://keywordtool.io/",
+  "dataVisibility": ["PRIVATE"]
+}
