@@ -1,0 +1,9 @@
+{
+  "id": "SPLICKY",
+  "name": "Splicky",
+  "categories": ["CUSTOM"],
+  "organization": "SPLICKY",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/splicky.svg",
+  "sourceUrl": "https://www.splicky.com/",
+  "dataVisibility": ["PRIVATE"]
+}
