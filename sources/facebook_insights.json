@@ -3,7 +3,7 @@
   "name": "Facebook Page Insights",
   "categories": ["SOCIAL"],
   "organization": "FACEBOOK",
-  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/FB.png",
-  "sourceUrl": "https://www.facebook.com/business/a/page/page-insights",
+  "iconUrl": "https://adzviser.com/assets/images/fbLogoSmall.png",
+  "sourceUrl": "https://www.facebook.com/business/help/144825579583746?id=939256796236247",
   "dataVisibility": ["PRIVATE"]
 }
