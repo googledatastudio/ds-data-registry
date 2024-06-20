@@ -1,0 +1,9 @@
+{
+  "id": "SEEDINGALLIANCE",
+  "name": "SeedingAlliance",
+  "categories": ["ADVERTISING"],
+  "organization": "SEEDINGALLIANCE",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/seedingalliance.svg",
+  "sourceUrl": "https://seeding-alliance.de/en/",
+  "dataVisibility": ["PRIVATE"]
+}
