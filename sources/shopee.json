@@ -1,0 +1,9 @@
+{
+  "id": "SHOPEE",
+  "name": "Shopee",
+  "categories": ["ECOMMERCE"],
+  "organization": "SHOPEE",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/shopee.svg",
+  "sourceUrl": "https://shopee.com/",
+  "dataVisibility": ["PRIVATE"]
+}
