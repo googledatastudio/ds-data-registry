@@ -1,0 +1,9 @@
+{
+  "id": "INFEGY_ATLAS",
+  "name": "Infegy Atlas",
+  "categories": ["SOCIAL"],
+  "organization": "INFEGY_ATLAS",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/infegy_atlas.svg",
+  "sourceUrl": "https://atlas.infegy.com/",
+  "dataVisibility": ["PRIVATE"]
+}
