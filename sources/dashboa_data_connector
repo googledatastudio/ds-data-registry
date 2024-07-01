@@ -1,0 +1,10 @@
+{
+  "id": "DASHBOA_DATA_CONNECTOR",
+  "name": "Dashboa data connector",
+  "categories": ["TOOLS, MARKETING"],
+  "organization": "AI Marketing Oy",
+  "iconUrl":
+    "https://firebasestorage.googleapis.com/v0/b/crono-291610.appspot.com/o/logo_light_blue.png?alt=media&token=d7bedb2d-6d31-4f63-8bf2-5f597cfd5c4d",
+  "sourceUrl": "https://dashboa.com/",
+  "dataVisibility": ["PRIVATE"]
+}
