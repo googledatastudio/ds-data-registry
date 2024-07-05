@@ -1,6 +1,7 @@
 {
   "id": "IGNITE",
   "name": "Ignite",
-  "iconUrl": "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10286_1675332779.png",
+  "iconUrl":
+    "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10286_1675332779.png",
   "orgUrl": "https://ignite.realestate.com.au"
 }

@@ -3,8 +3,7 @@
   "name": "Courier",
   "categories": ["EMAIL"],
   "organization": "COURIER",
-  "iconUrl":
-    "https://windsor.ai/wp-content/uploads/2024/02/courier.png",
+  "iconUrl": "https://windsor.ai/wp-content/uploads/2024/02/courier.png",
   "sourceUrl": "https://www.courier.com/",
   "dataVisibility": ["PRIVATE"]
 }

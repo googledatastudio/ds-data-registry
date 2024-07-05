@@ -1,10 +1,9 @@
 {
-    "id": "LINKEDIN_BUSINESS_MANAGER",
-    "name": "LinkedIn Business Manager",
-    "categories": ["ADVERTISING"],
-    "organization": "MICROSOFT",
-    "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/LI.png",
-    "sourceUrl": "https://business.linkedin.com/marketing-solutions/ads",
-    "dataVisibility": ["PRIVATE"]
-  }
-  
+  "id": "LINKEDIN_BUSINESS_MANAGER",
+  "name": "LinkedIn Business Manager",
+  "categories": ["ADVERTISING"],
+  "organization": "MICROSOFT",
+  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/LI.png",
+  "sourceUrl": "https://business.linkedin.com/marketing-solutions/ads",
+  "dataVisibility": ["PRIVATE"]
+}

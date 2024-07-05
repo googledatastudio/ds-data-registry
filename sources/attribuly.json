@@ -1,7 +1,14 @@
 {
   "id": "ATTRIBULY",
   "name": "Attribuly",
-  "categories": ["ADVERTISING", "ANALYTICS", "ECOMMERCE", "MARKETING", "SOCIAL", "CDP"],
+  "categories": [
+    "ADVERTISING",
+    "ANALYTICS",
+    "ECOMMERCE",
+    "MARKETING",
+    "SOCIAL",
+    "CDP"
+  ],
   "organization": "ATTRIBULY",
   "iconUrl": "https://app.attribuly.com/assets/image/1200_1200.png",
   "sourceUrl": "https://attribuly.com",

@@ -1,9 +1,10 @@
 {
-    "id": "MARKETINGTRACER",
-    "name": "MarketingTracer",
-    "categories": ["SEO", "ANALYTICS", "MARKETING"],
-    "organization": "MARKETINGTRACER",
-    "iconUrl": "https://www.marketingtracer.com/include/images/favicon/android-icon-192x192.png",
-    "sourceUrl": "https://www.marketingtracer.com",
-    "dataVisibility": ["PRIVATE"]
- }
+  "id": "MARKETINGTRACER",
+  "name": "MarketingTracer",
+  "categories": ["SEO", "ANALYTICS", "MARKETING"],
+  "organization": "MARKETINGTRACER",
+  "iconUrl":
+    "https://www.marketingtracer.com/include/images/favicon/android-icon-192x192.png",
+  "sourceUrl": "https://www.marketingtracer.com",
+  "dataVisibility": ["PRIVATE"]
+}

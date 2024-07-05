@@ -1,7 +1,7 @@
 {
-    "id": "TUFS",
-    "name": "TUF Software",
-    "iconUrl": "https://tufsoftware.com/wp-content/uploads/2020/08/TUFSO_Logo@300x-min.png",
-    "orgUrl": "https://tufsoftware.com/"
-  }
-  
+  "id": "TUFS",
+  "name": "TUF Software",
+  "iconUrl":
+    "https://tufsoftware.com/wp-content/uploads/2020/08/TUFSO_Logo@300x-min.png",
+  "orgUrl": "https://tufsoftware.com/"
+}

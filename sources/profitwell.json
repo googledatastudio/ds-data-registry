@@ -2,7 +2,7 @@
   "id": "PROFITWELL",
   "name": "ProfitWell",
   "categories": ["PAYMENTS"],
-"organization": "PROFITWELL",
+  "organization": "PROFITWELL",
   "iconUrl": "https://windsor.ai/wp-content/uploads/2023/04/profitwell.png",
   "sourceUrl": "https://www.profitwell.com/",
   "dataVisibility": ["PRIVATE"]

@@ -3,8 +3,7 @@
   "name": "BambooHR",
   "categories": ["HRMS"],
   "organization": "BAMBOOHR",
-  "iconUrl":
-    "https://windsor.ai/wp-content/uploads/2024/06/bamboo-hr.png",
+  "iconUrl": "https://windsor.ai/wp-content/uploads/2024/06/bamboo-hr.png",
   "sourceUrl": "https://www.bamboohr.com/",
   "dataVisibility": ["PRIVATE"]
 }

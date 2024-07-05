@@ -1,13 +1,9 @@
 {
   "id": "YOOM_DATABASE",
   "name": "Yoom Database",
-  "categories": [
-    "DATABASE"
-  ],
+  "categories": ["DATABASE"],
   "organization": "Yoom",
   "iconUrl": "https://yoom.fun/yoom_looker_studio_logo.png",
   "sourceUrl": "https://lp.yoom.fun/",
-  "dataVisibility": [
-    "PRIVATE"
-  ]
+  "dataVisibility": ["PRIVATE"]
 }

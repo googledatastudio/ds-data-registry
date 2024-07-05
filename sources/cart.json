@@ -3,8 +3,7 @@
   "name": "Cart.com",
   "categories": ["ECOMMERCE"],
   "organization": "CART",
-  "iconUrl":
-    "https://windsor.ai/wp-content/uploads/2024/02/cart.png",
+  "iconUrl": "https://windsor.ai/wp-content/uploads/2024/02/cart.png",
   "sourceUrl": "https://cart.com",
   "dataVisibility": ["PRIVATE"]
 }
