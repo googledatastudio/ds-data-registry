@@ -1,0 +1,9 @@
+{
+  "id": "INUMERO",
+  "name": "INUMERO",
+  "categories": ["API", "DATABASE"],
+  "organization": "INUMERO",
+  "iconUrl": "https://inumero.com.br/img/icons/android-chrome-192x192.png",
+  "sourceUrl": "https://www.inumero.com.br/",
+  "dataVisibility": ["PRIVATE"]
+}
