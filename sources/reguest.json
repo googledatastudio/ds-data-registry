@@ -1,0 +1,9 @@
+{
+  "id": "REGUEST",
+  "name": "ReGuest",
+  "categories": ["TOOLS", "CRM", "SALES"],
+  "organization": "REGUEST",
+  "iconUrl": "https://www.reguest.io/images/favicons/favicon-96x96.png",
+  "sourceUrl": "https://www.reguest.io",
+  "dataVisibility": ["PRIVATE"]
+}
