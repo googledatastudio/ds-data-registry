@@ -2,5 +2,6 @@
   "id": "META",
   "name": "Meta",
   "orgUrl": "http://meta.com/",
-  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/Meta_logo_small.png"
+  "iconUrl":
+    "https://s3.amazonaws.com/Supermetrics/images/dsLogos/Meta_logo_small.png"
 }

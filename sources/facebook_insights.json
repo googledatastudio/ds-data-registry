@@ -4,6 +4,7 @@
   "categories": ["SOCIAL"],
   "organization": "FACEBOOK",
   "iconUrl": "https://adzviser.com/assets/images/fbLogoSmall.png",
-  "sourceUrl": "https://www.facebook.com/business/help/144825579583746?id=939256796236247",
+  "sourceUrl":
+    "https://www.facebook.com/business/help/144825579583746?id=939256796236247",
   "dataVisibility": ["PRIVATE"]
 }

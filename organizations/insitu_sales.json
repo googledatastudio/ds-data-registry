@@ -1,7 +1,7 @@
 {
-   "id": "insitu_sales",
-   "name": "inSitu Sales",
-   "iconUrl": "https://insitusales.s3.amazonaws.com/logos/inSituSales_logo_S+big+white+background.png",
-   "orgUrl": "https://www.insitusales.com"
+  "id": "insitu_sales",
+  "name": "inSitu Sales",
+  "iconUrl":
+    "https://insitusales.s3.amazonaws.com/logos/inSituSales_logo_S+big+white+background.png",
+  "orgUrl": "https://www.insitusales.com"
 }
-

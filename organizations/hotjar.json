@@ -1,6 +1,7 @@
 {
-    "id": "HOTJAR",
-    "name": "Hotjar",
-    "iconUrl": "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10372_1687956141.png",
-    "orgUrl": "https://www.hotjar.com"
+  "id": "HOTJAR",
+  "name": "Hotjar",
+  "iconUrl":
+    "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10372_1687956141.png",
+  "orgUrl": "https://www.hotjar.com"
 }

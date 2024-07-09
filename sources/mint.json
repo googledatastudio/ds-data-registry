@@ -1,7 +1,7 @@
 {
   "id": "MINT_ARM",
   "name": "MINT ARM",
-  "categories": ["MARKETING","ADVERTISING"],
+  "categories": ["MARKETING", "ADVERTISING"],
   "organization": "MINT",
   "iconUrl": "https://s3.amazonaws.com/public.mint.ai/mint_logo_40.png",
   "sourceUrl": "https://www.mint.ai/what-is-advertising-resource-management ",

@@ -1,6 +1,7 @@
 {
-    "id": "KWAI",
-    "name": "Kwai",
-    "iconUrl": "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10608_1708608730.png",
-    "orgUrl": "https://www.kwai.com"
+  "id": "KWAI",
+  "name": "Kwai",
+  "iconUrl":
+    "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10608_1708608730.png",
+  "orgUrl": "https://www.kwai.com"
 }

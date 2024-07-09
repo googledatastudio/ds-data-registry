@@ -1,11 +1,10 @@
 {
-    "id": "KWAI",
-    "name": "Kwai",
-    "categories": ["SOCIAL"],
-    "organization": "KUAISHOU",
-    "iconUrl": "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10608_1708608730.png",
-    "sourceUrl": "https://www.kwai.com",
-    "dataVisibility": [
-        "PRIVATE"
-    ]
+  "id": "KWAI",
+  "name": "Kwai",
+  "categories": ["SOCIAL"],
+  "organization": "KUAISHOU",
+  "iconUrl":
+    "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10608_1708608730.png",
+  "sourceUrl": "https://www.kwai.com",
+  "dataVisibility": ["PRIVATE"]
 }

@@ -3,8 +3,7 @@
   "name": "Microsoft Ads",
   "categories": ["ADVERTISING"],
   "organization": "MICROSOFT",
-  "iconUrl":
-    "https://adzviser.com/assets/images/microsoftAdsLogoSmall.png",
+  "iconUrl": "https://adzviser.com/assets/images/microsoftAdsLogoSmall.png",
   "sourceUrl": "https://ads.microsoft.com/",
   "dataVisibility": ["PRIVATE"]
 }

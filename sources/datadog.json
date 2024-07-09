@@ -3,7 +3,8 @@
   "name": "DATADOG",
   "categories": ["ANALYTICS"],
   "organization": "CLICKFORCE",
-  "iconUrl": "https://imgix.datadoghq.com/img/about/presskit/logo-v/dd_vertical_purple.png",
+  "iconUrl":
+    "https://imgix.datadoghq.com/img/about/presskit/logo-v/dd_vertical_purple.png",
   "sourceUrl": "https://www.datadoghq.com/",
   "dataVisibility": ["PRIVATE"]
 }

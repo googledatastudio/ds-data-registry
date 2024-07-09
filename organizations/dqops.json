@@ -1,6 +1,7 @@
 {
   "id": "DQOPS",
   "name": "DQOps",
-  "iconUrl": "https://dqops.com/wp-content/uploads/2023/09/DQOps_logo_40x40-e1695381217173.png",
+  "iconUrl":
+    "https://dqops.com/wp-content/uploads/2023/09/DQOps_logo_40x40-e1695381217173.png",
   "orgUrl": "https://dqops.com/"
 }

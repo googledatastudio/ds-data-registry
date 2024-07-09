@@ -1,6 +1,7 @@
 {
-    "id": "MULTIVARIATE",
-    "name": "Multivariate",
-    "iconUrl": "https://uploads-ssl.webflow.com/62f354686d276bcc7cfe51a3/63524ffc506ca3039f715a38_631c1d1397fa669ba4cd3dc7_Screenshot%202022-09-09%20at%2012.00.37%20PM%20(3).png",
-    "orgUrl": "https://www.multivariate.tech/"
-  }
+  "id": "MULTIVARIATE",
+  "name": "Multivariate",
+  "iconUrl":
+    "https://uploads-ssl.webflow.com/62f354686d276bcc7cfe51a3/63524ffc506ca3039f715a38_631c1d1397fa669ba4cd3dc7_Screenshot%202022-09-09%20at%2012.00.37%20PM%20(3).png",
+  "orgUrl": "https://www.multivariate.tech/"
+}

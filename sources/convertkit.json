@@ -3,8 +3,7 @@
   "name": "ConvertKit",
   "categories": ["TOOLS"],
   "organization": "CONVERTKIT",
-  "iconUrl":
-    "https://windsor.ai/wp-content/uploads/2024/02/convertkit-1.png",
+  "iconUrl": "https://windsor.ai/wp-content/uploads/2024/02/convertkit-1.png",
   "sourceUrl": "https://convertkit.com/",
   "dataVisibility": ["PRIVATE"]
 }

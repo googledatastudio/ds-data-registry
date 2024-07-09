@@ -3,7 +3,8 @@
   "name": "Grade.us Reviews",
   "categories": ["ADVERTISING", "MARKETING"],
   "organization": "GRADE.US",
-  "iconUrl":"https://gradeus.wpengine.com/home/wp-content/uploads/sites/4/2021/04/gradeus-logo.png",
+  "iconUrl":
+    "https://gradeus.wpengine.com/home/wp-content/uploads/sites/4/2021/04/gradeus-logo.png",
   "sourceUrl": "https://www.grade.us/",
   "dataVisibility": ["PRIVATE"]
 }
