@@ -1,0 +1,10 @@
+{
+  "id": "FILLOUT",
+  "name": "Fillout",
+  "categories": ["TOOLS", "DATA_COLLECTION", "FORM"],
+  "organization": "FILLOUT",
+  "iconUrl":
+    "https://cdn.prod.website-files.com/62d4335c49ba53481bdf4fbf/65f85fd4f3a57c15ec92fb90_ubwx6TNTVApXx0huG_BR5YWbeEign_UQaHOdaTBZ2x0-p-500.png",
+  "sourceUrl": "https://www.fillout.com/",
+  "dataVisibility": ["PRIVATE"]
+}
