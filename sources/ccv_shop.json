@@ -1,0 +1,13 @@
+{
+  "id": "CCV_SHOP",
+  "name": "CCV Shop",
+  "categories": [
+    "ECOMMERCE"
+  ],
+  "organization": "CCV_SHOP",
+  "iconUrl": "https://www.ccvshop.nl/favicon-32x32.png",
+  "sourceUrl": "https://www.ccvshop.nl/",
+  "dataVisibility": [
+    "PRIVATE"
+  ]
+}
