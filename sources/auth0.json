@@ -1,0 +1,10 @@
+{
+  "id": "AUTH0",
+  "name": "Auth0",
+  "categories": ["ECOMMERCE"],
+  "organization": "TOOLS",
+  "iconUrl":
+    "https://windsor.ai/wp-content/uploads/2024/09/auth0.png",
+  "sourceUrl": "https://auth0.com/",
+  "dataVisibility": ["PRIVATE"]
+}
