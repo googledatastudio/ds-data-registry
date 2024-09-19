@@ -1,0 +1,8 @@
+{
+  "id": "WORKMETER",
+  "name": "WorkMeter",
+  "categories": ["BUSINESS TOOLS"],
+  "organization": "WORKMETER SL",
+  "iconUrl": "https://www.workmeter.com/wp-content/uploads/2024/09/Logo_WorkMeter.png",
+  "dataVisibility": ["PRIVATE"]
+}
