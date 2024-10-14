@@ -1,0 +1,10 @@
+{
+  "id": "CHURCHSUITE",
+  "name": "ChurchSuite",
+  "categories": ["CHMS"],
+  "organization": "CHURCHSUITE",
+  "iconUrl":
+    "https://website.assets.churchsuite.com/media/2020/05/churchsuite-logo-with-bg-sq-300x300.jpg",
+  "sourceUrl": "https://churchsuite.com",
+  "dataVisibility": ["PRIVATE"]
+}
