@@ -1,0 +1,10 @@
+{
+  "id": "MARCODE",
+  "name": "Marcode",
+  "categories": ["ADVERTISING"],
+  "organization": "MARCODE",
+  "iconUrl":
+    "https://marcode-public.s3.eu-west-2.amazonaws.com/marcode-square-logo.jpeg",
+  "sourceUrl": "https://www.marcode.ai/",
+  "dataVisibility": ["PRIVATE"]
+}
