@@ -1,0 +1,11 @@
+{
+    "id": "INCOME_ACCESS",
+    "name": "Income Access",
+    "categories": ["ADVERTISING"],
+    "organization": "INCOME_ACCESS",
+    "iconUrl":
+      "https://windsor.ai/wp-content/uploads/2024/08/income-access-1.png",
+    "sourceUrl": "https://www.incomeaccess.com/",
+    "dataVisibility": ["PRIVATE"]
+  }
+  
