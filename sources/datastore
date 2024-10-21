@@ -1,0 +1,10 @@
+{
+  "id": "DATASTORE",
+  "name": "Datastore",
+  "categories": ["DATABASE"],
+  "organization": "GOOGLE",
+  "iconUrl":
+    "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpnghut.com%2Fpng%2Fh9hf1jajK7%2Fgoogle-cloud-platform-storage-computing-microsoft-azure-business-transparent-png&psig=AOvVaw3ercMwy1tYww015UCAyozw&ust=1726311407438000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjB4q3hv4gDFQAAAAAdAAAAABAE",
+  "sourceUrl": "https://cloud.google.com/products/datastore",
+  "dataVisibility": ["PRIVATE"]
+}
