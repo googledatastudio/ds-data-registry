@@ -1,0 +1,10 @@
+{
+  "id": "ETSY",
+  "name": "Etsy",
+  "categories": ["ECOMMERCE"],
+  "organization": "ETSY",
+  "iconUrl":
+    "https://s22.q4cdn.com/941741262/files/design/etsy-logo.png",
+  "sourceUrl": "https://www.etsy.com/",
+  "dataVisibility": ["PRIVATE"]
+}
