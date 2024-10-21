@@ -1,0 +1,10 @@
+{
+  "id": "BUBBLE",
+  "name": "Bubble",
+  "categories": ["DATABASE", "DATA_COLLECTION", "TOOLS"],
+  "organization": "BUBBLE",
+  "iconUrl":
+    "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_a0c0df848f7bec900334406179f9beaf/bubble.png",
+  "sourceUrl": "https://bubble.io/",
+  "dataVisibility": ["PRIVATE"]
+}
