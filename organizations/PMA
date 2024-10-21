@@ -1,0 +1,7 @@
+{
+  "name": "PMA",
+  "id": "PMA",
+  "iconUrl":
+    "https://hub.powermyanalytics.com/assets/images/connectors/pma.png",
+  "orgUrl": "https://www.powermyanalytics.com"
+}
