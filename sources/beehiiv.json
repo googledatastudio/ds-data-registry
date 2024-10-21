@@ -1,0 +1,13 @@
+{
+  "id": "BEEHIIV",
+  "name": "beehiiv",
+  "categories": [
+    "EMAIL"
+  ],
+  "organization": "BEEHIIV",
+  "iconUrl": "https://beehiiv-marketing-images.s3.amazonaws.com/Redesign2023/favicon.png",
+  "sourceUrl": "https://www.beehiiv.com/",
+  "dataVisibility": [
+    "PRIVATE"
+  ]
+}
