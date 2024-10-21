@@ -1,0 +1,13 @@
+{
+  "id": "JOBBER",
+  "name": "Jobber",
+  "categories": [
+    "FIELD_SERVICE_MANAGEMENT"
+  ],
+  "organization": "JOBBER",
+  "iconUrl": "https://getjobber.com/wp-content/uploads/2024/04/cropped-favicon-2-32x32.png",
+  "sourceUrl": "https://getjobber.com/",
+  "dataVisibility": [
+    "PRIVATE"
+  ]
+}
