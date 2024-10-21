@@ -52,6 +52,10 @@
     "name": "Email"
   },
   {
+    "id": "FIELD_SERVICE_MANAGEMENT",
+    "name": "Field Service Management"
+  },
+  {
     "id": "FINANCE",
     "name": "Finance"
   },
