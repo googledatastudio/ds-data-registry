@@ -1,0 +1,9 @@
+{
+  "id": "PIANO",
+  "name": "Piano",
+  "categories": ["ANALYTICS"],
+  "organization": "PIANO",
+  "iconUrl": "https://avatars.githubusercontent.com/u/13114223?s=200&v=4",
+  "sourceUrl": "https://piano.io/",
+  "dataVisibility": ["PRIVATE"]
+}
