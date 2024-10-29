@@ -1,0 +1,10 @@
+{
+  "id": "SIMPLESAT",
+  "name": "Simplesat",
+  "categories": ["CUSTOMER_SUPPORT"],
+  "organization": "SIMPLESAT",
+  "iconUrl":
+    "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10128_1647419762_simplesat.png",
+  "sourceUrl": "https://www.simplesat.io",
+  "dataVisibility": ["PRIVATE"]
+}

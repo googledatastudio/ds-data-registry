@@ -1,0 +1,13 @@
+{
+  "id": "SQR",
+  "name": "SQR",
+  "categories": [
+    "TOOLS"
+  ],
+  "organization": "SQR",
+  "iconUrl": "https://sqr.co/uploads/main/b94d873887aa9eab884ac694dd98629c.png",
+  "sourceUrl": "https://sqr.co/",
+  "dataVisibility": [
+    "PRIVATE"
+  ]
+}

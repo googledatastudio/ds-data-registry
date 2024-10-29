@@ -1,0 +1,10 @@
+{
+  "id": "RUSH_ANALYTICS",
+  "name": "Rush Analytics",
+  "categories": ["SEO", "ANALYTICS"],
+  "organization": "RUSH_ANALYTICS",
+  "iconUrl":
+    "https://app.rush-analytics.ru/sites/all/themes/stat/images/back/logo-200.png",
+  "sourceUrl": "https://app.rush-analytics.com",
+  "dataVisibility": ["PRIVATE"]
+}

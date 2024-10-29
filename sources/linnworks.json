@@ -1,0 +1,10 @@
+{
+  "id": "LINNWORKS",
+  "name": "Linnworks",
+  "categories": ["ECOMMERCE"],
+  "organization": "LINNWORKS",
+  "iconUrl":
+    "https://windsor.ai/wp-content/uploads/2024/05/linnworks.png",
+  "sourceUrl": "https://www.linnworks.com/",
+  "dataVisibility": ["PRIVATE"]
+}

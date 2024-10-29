@@ -1,0 +1,14 @@
+{
+  "id": "GROWTHPLATFORM",
+  "name": "GrowthPlatform",
+  "categories": [
+    "ANALYTICS",
+    "MARKETING"
+  ],
+  "organization": "Bizspring",
+  "iconUrl": "https://img.bizspring.net/gp_symbol.png",
+  "sourceUrl": "https://growthplatform.ai/",
+  "dataVisibility": [
+    "PRIVATE"
+  ]
+}

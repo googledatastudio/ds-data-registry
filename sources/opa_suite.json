@@ -1,0 +1,10 @@
+{
+  "id": "OPA_SUITE",
+  "name": "Opa! Suite",
+  "categories": ["API"],
+  "organization": "IXC_SOFT",
+  "iconUrl":
+    "https://res.cloudinary.com/postman/image/upload/v1652969014/team/hczjpdx78h7vfmplvwin.ico",
+  "sourceUrl": "https://www.opasuite.com.br",
+  "dataVisibility": ["PRIVATE"]
+}

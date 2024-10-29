@@ -3,7 +3,7 @@
   "name": "Bing Ads",
   "categories": ["ADVERTISING"],
   "organization": "MICROSOFT",
-  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/AC.png",
-  "sourceUrl": "https://secure.bingads.microsoft.com/",
+  "iconUrl": "https://adzviser.com/assets/images/bingAdsLogoSmall.png",
+  "sourceUrl": "https://ads.microsoft.com/",
   "dataVisibility": ["PRIVATE"]
 }

@@ -1,0 +1,10 @@
+{
+  "id": "JOTFORM",
+  "name": "Jotform",
+  "categories": ["TOOLS"],
+  "organization": "JOTFORM",
+  "iconUrl":
+    "https://www.jotform.com/resources/assets/icon/jotform-icon-transparent-560x560.png",
+  "sourceUrl": "https://www.jotform.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "BIGCOMMERCE",
+  "name": "BIGCOMMERCE",
+  "categories": ["ECOMMERCE"],
+  "organization": "BIGCOMMERCE",
+  "iconUrl":
+    "https://www-cdn.bigcommerce.com/assets/bc-photo-branding-bigcommerce-primary-gray-background.png",
+  "sourceUrl": "https://www.bigcommerce.com/",
+  "dataVisibility": ["PRIVATE"]
+}

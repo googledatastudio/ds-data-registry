@@ -1,0 +1,10 @@
+{
+  "id": "BAMBUSER",
+  "name": "Bambuser",
+  "categories": ["VIDEO", "ECOMMERCE"],
+  "organization": "BAMBUSER",
+  "iconUrl":
+    "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10187_1657723838_bambuser.png",
+  "sourceUrl": "https://bambuser.com",
+  "dataVisibility": ["PRIVATE"]
+}

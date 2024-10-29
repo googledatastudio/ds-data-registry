@@ -1,0 +1,10 @@
+{
+  "id": "THANKYOU_MA",
+  "name": "Thank-You Marketing Analytics",
+  "categories": ["ANALYTICS"],
+  "organization": "THANKYOU",
+  "iconUrl":
+    "https://thank-you-assets.s3.eu-west-1.amazonaws.com/TY_logo_small.png",
+  "sourceUrl": "https://thank-you.io/",
+  "dataVisibility": ["PRIVATE"]
+}

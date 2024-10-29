@@ -1,6 +1,7 @@
 {
   "id": "SURVEYMONKEY",
   "name": "SurveyMonkey",
-  "iconUrl": "https://prod.smassets.net/assets/cms/cc/app/2.161.0/images/logo-surveymonkey.svg",
+  "iconUrl":
+    "https://prod.smassets.net/assets/cms/cc/app/2.161.0/images/logo-surveymonkey.svg",
   "orgUrl": "https://www.surveymonkey.com/"
 }

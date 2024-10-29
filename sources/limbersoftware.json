@@ -1,0 +1,9 @@
+{
+  "id": "LIMBERSOFTWARE",
+  "name": "Limber Software",
+  "categories": ["API", "ECOMMERCE", "DATABASE", "CUSTOM"],
+  "organization": "LIMBERSOFTWARE",
+  "iconUrl": "https://cdn.limber.net.br/uploads/limber-logo.png",
+  "sourceUrl": "https://limbersoftware.com.br/",
+  "dataVisibility": ["PRIVATE"]
+}

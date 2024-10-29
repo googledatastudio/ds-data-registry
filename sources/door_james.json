@@ -1,0 +1,10 @@
+{
+  "id": "DOOR_JAMES",
+  "name": "Door James",
+  "categories": ["HRMS"],
+  "organization": "DOOR_JAMES",
+  "iconUrl":
+    "https://doorjames-static-assets--main.web.app/brand/symbol_purple_background_40.png",
+  "sourceUrl": "https://help.doorjames.com/knowledgebase.php?article=38",
+  "dataVisibility": ["PRIVATE"]
+}

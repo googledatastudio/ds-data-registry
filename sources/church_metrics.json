@@ -1,0 +1,10 @@
+{
+  "id": "CHURCH_METRICS",
+  "name": "Church Metrics",
+  "categories": ["CHMS"],
+  "organization": "CHURCH_METRICS",
+  "iconUrl":
+    "https://churchmetrics.com/assets/cm_bug-c68dba010d18415f01ed5bab52327f171dfbf8099b8211e19783a99e7138e3af.png",
+  "sourceUrl": "https://www.churchmetrics.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "FLOWCH",
+  "name": "FLOWCH",
+  "categories": ["DATA_COLLECTION", "API"],
+  "organization": "FLOWCH",
+  "iconUrl": "https://www.flowch.com/assets/images/favicon-16x16-16x16.png",
+  "sourceUrl": "https://www.flowch.com/",
+  "dataVisibility": ["PRIVATE"]
+}

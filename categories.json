@@ -179,5 +179,21 @@
   {
     "id": "INVENTORY_MANAGEMENT",
     "name": "Inventory Management"
+  },
+  {
+    "id": "PROJECT_MANAGEMENT",
+    "name": "Project Management"
+  },
+  {
+    "id": "WAREHOUSE_MANAGEMENT",
+    "name": "Warehouse Management"
+  },
+  {
+    "id": "QUALITY_AND_COMPLIANCE_MANAGEMENT",
+    "name": "Quality and Compliance management"
+  },
+  {
+    "id": "FORM",
+    "name": "Form"
   }
 ]

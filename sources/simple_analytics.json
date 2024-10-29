@@ -1,0 +1,17 @@
+{
+  "id": "SIMPLE_ANALYTICS",
+  "name": "Simple Analytics",
+  "categories": [
+    "ANALYTICS",
+    "DATA_COLLECTION",
+    "TIME_SERIES",
+    "PUBLIC_DATA",
+    "SEO",
+    "TOOLS"
+  ],
+  "organization": "SIMPLE_ANALYTICS",
+  "iconUrl":
+    "https://assets.simpleanalytics.com/press/logo-ratio-1-1/rounded.png",
+  "sourceUrl": "https://www.simpleanalytics.com",
+  "dataVisibility": ["PRIVATE"]
+}

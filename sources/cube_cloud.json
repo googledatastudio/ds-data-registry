@@ -1,0 +1,9 @@
+{
+  "id": "CUBE_CLOUD",
+  "name": "Cube Cloud",
+  "categories": ["ANALYTICS"],
+  "organization": "CUBE_DEV",
+  "iconUrl": "https://cube.dev/favicon.ico",
+  "sourceUrl": "https://cube.dev/",
+  "dataVisibility": ["PRIVATE"]
+}

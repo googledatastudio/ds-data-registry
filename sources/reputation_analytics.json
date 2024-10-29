@@ -1,0 +1,14 @@
+{
+  "id": "REPUTATION_ANALYTICS",
+  "name": "Reputation Analytics",
+  "categories": [
+    "ANALYTICS",
+    "MARKETING"
+  ],
+  "organization": "REPUTATION",
+  "iconUrl": "https://reputation.com/wp-content/uploads/2021/01/cropped-Logo-Mark-For-Profile.png",
+  "sourceUrl": "https://reputation.com/",
+  "dataVisibility": [
+    "PRIVATE"
+  ]
+}

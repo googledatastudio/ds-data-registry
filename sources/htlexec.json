@@ -1,0 +1,9 @@
+{
+  "id": "HTLEXEC",
+  "name": "HTL Exec",
+  "categories": ["ANALYTICS"],
+  "organization": "HASHTAGLABS",
+  "iconUrl": "https://hashtag-labs.com/img/logoblue.png",
+  "sourceUrl": "https://htlexec.com",
+  "dataVisibility": ["PRIVATE"]
+}
