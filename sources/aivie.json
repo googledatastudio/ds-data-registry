@@ -1,0 +1,13 @@
+{
+    "id": "AIVIE",
+    "name": "Aivie",
+    "categories": [
+        "MARKETING", "CRM", "EMAIL"
+    ],
+    "organization": "AIVIE",
+    "iconUrl": "https://aivie.ch/wp-content/uploads/fbrfg/apple-touch-icon.png",
+    "sourceUrl": "https://aivie.ch/",
+    "dataVisibility": [
+        "PRIVATE"
+    ]
+}
