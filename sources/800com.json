@@ -1,0 +1,9 @@
+{
+  "id": "800COM",
+  "name": "800.com",
+  "categories": ["ANALYTICS", "CALL_TRACKING"],
+  "organization": "800COM",
+  "iconUrl": "https://www.800.com/build/assets/favicon-32x32-45f82078.png",
+  "sourceUrl": "https://www.800.com/",
+  "dataVisibility": ["PRIVATE"]
+}
