@@ -1,0 +1,9 @@
+{
+  "id": "NETBASE",
+  "name": "Netbase",
+  "categories": ["SOCIAL"],
+  "organization": "NETBASE",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/netbase.svg",
+  "sourceUrl": "https://netbasequid.com/",
+  "dataVisibility": ["PRIVATE"]
+}
