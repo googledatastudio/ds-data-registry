@@ -1,0 +1,9 @@
+{
+  "id": "SPIKE_ANALYTICS",
+  "name": "Spike Analytics",
+  "categories": [ "MARKETING", "TOOLS", "ANALYTICS" ],
+  "organization": "SPIKE_DIGITAL",
+  "iconUrl": "https://spike.digital/wp-content/uploads/2024/05/Combomark-line-pink-black_1@small-e1715251719181.png",
+  "sourceUrl": "https://analytics.spike.digital/",
+  "dataVisibility": [ "PRIVATE" ]
+}
