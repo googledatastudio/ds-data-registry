@@ -1,0 +1,9 @@
+{
+  "id": "TEAMLEADER",
+  "name": "Teamleader",
+  "categories": ["CRM"],
+  "organization": "TEAMLEADER",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/teamleader.svg",
+  "sourceUrl": "https://www.teamleader.eu/",
+  "dataVisibility": ["PRIVATE"]
+}
