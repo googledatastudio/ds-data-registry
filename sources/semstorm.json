@@ -1,0 +1,10 @@
+{
+  "id": "SEMSTORM",
+  "name": "Semstorm",
+  "categories": ["ANALYTICS", "SEO"],
+  "organization": "SEMSTORM",
+  "iconUrl":
+    "https://app.semstorm.com/sites/all/themes/semstorm/img/logo-xs.png",
+  "sourceUrl": "https://www.semstorm.com",
+  "dataVisibility": ["PRIVATE"]
+}
