@@ -1,0 +1,9 @@
+{
+  "id": "THREAD_INSIGHT",
+  "name": "Thread Insight",
+  "categories": ["SOCIAL"],
+  "organization": "FACEBOOK",
+  "iconUrl": "https://www.quickdash.com.tw/wp-content/uploads/2024/12/THREAD.png",
+  "sourceUrl": "https://www.threads.net/?hl=zh-tw",
+  "dataVisibility": ["PRIVATE"]
+}
