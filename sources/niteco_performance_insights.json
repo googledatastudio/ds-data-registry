@@ -1,0 +1,13 @@
+{
+  "id": "NITECO_PERFORMANCE_INSIGHTS",
+  "name": "Niteco Performance Insights",
+  "categories": [
+    "ANALYTICS"
+  ],
+  "organization": "NITECO",
+  "iconUrl": "https://niteco.com/static/img/logo.png",
+  "sourceUrl": "https://perf-doc.niteco.com/document/support-docs/doc/google-looker-studio-SlZ1pqpCTo",
+  "dataVisibility": [
+    "PRIVATE"
+  ]
+}
