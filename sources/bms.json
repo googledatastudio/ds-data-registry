@@ -1,0 +1,9 @@
+{
+    "id": "BMS",
+    "name": "Blue Media Services",
+    "categories": ["ADVERTISING"],
+    "organization": "BMS",
+    "iconUrl": "https://bluems.com/images/webclip.png",
+    "sourceUrl": "https://bluems.com",
+    "dataVisibility": ["PRIVATE"]
+}
