@@ -1,8 +1,8 @@
 {
-  "id": "DeepSeek",
-  "name": "Deep Seek",
+  "id": "DEEPSEEK",
+  "name": "DeepSeek",
   "categories": ["Artificial Intelligence"],
-  "organization": "Deep Seek",
+  "organization": "DeepSeek",
   "iconUrl": "https://www.deepseek.com/_next/image?url=https%3A%2F%2Fcdn.deepseek.com%2Flogo.png&w=828&q=75",
   "sourceUrl": "https://www.deepseek.com/",
   "dataVisibility": ["PRIVATE"]

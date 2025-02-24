@@ -1,0 +1,9 @@
+{
+  "id": "SMART_COPILOT",
+  "name": "Smart Copilot",
+  "categories": ["ANALYTICS"],
+  "organization": "MAKE_ME_WIN",
+  "iconUrl": "https://www.smart-copilot.com/wp-content/uploads/2024/09/smart-copilot-favicon.png",
+  "sourceUrl": "https://www.smart-copilot.com/",
+  "dataVisibility": ["PRIVATE"]
+}
