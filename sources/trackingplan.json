@@ -1,0 +1,9 @@
+{
+  "id": "TRACKINGPLAN",
+  "name": "Trackingplan",
+  "categories": ["ANALYTICS"],
+  "organization": "TRACKINGPLAN",
+  "iconUrl": "https://panel.trackingplan.com/favicon.ico",
+  "sourceUrl": "https://trackingplan.com/",
+  "dataVisibility": ["PRIVATE"]
+}

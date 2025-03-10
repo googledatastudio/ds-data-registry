@@ -1,0 +1,9 @@
+{
+  "id": "VERTEXAI",
+  "name": "Vertex AI",
+  "categories": ["Artificial Intelligence"],
+  "organization": "VERTEXAI",
+  "iconUrl": "https://www.gstatic.com/devrel-devsite/prod/v0e0f589edd85502a40d78d7d0825db8ea5ef3b99ab4070381ee86977c9168730/cloud/images/cloud-logo.svg",
+  "sourceUrl": "https://cloud.google.com/vertex-ai",
+  "dataVisibility": ["PRIVATE"]
+}

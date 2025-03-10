@@ -1,0 +1,10 @@
+{
+  "id": "AD_PERSONAM",
+  "name": "ad:personam",
+  "categories": ["ADVERTISING"],
+  "organization": "AD_PERSONAM",
+  "iconUrl":
+    "https://www.adpersonam.io/static/images/adpersonam_logo_icon40x40.png",
+  "sourceUrl": "https://www.adpersonam.io/",
+  "dataVisibility": ["PRIVATE"]
+}
