@@ -1,0 +1,9 @@
+{
+  "id": "SOURCE_ID",
+  "name": "Source name",
+  "categories": ["CATEGORIES"],
+  "organization": "ORG_NAME",
+  "iconUrl": "https://imageUrl",
+  "sourceUrl": "https://sourceUrl",
+  "dataVisibility": ["PRIVATE"]
+}
