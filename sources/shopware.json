@@ -1,0 +1,9 @@
+{
+  "id": "SHOPWARE",
+  "name": "Shopware",
+  "categories": ["E_COMMERCE"],
+  "organization": "SHOPWARE",
+  "iconUrl": "https://www.shopsy.de/wp-content/uploads/2025/03/shopware_logo.png",
+  "sourceUrl": "https://www.shopware.com/",
+  "dataVisibility": ["PRIVATE"]
+}
