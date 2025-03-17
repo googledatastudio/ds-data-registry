@@ -1,0 +1,9 @@
+{
+  "id": "SKAI",
+  "name": "Skai",
+  "categories": ["MARKETING"],
+  "organization": "SKAI",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/skai.svg",
+  "sourceUrl": "https://skai.io/",
+  "dataVisibility": ["PRIVATE"]
+}
