@@ -1,0 +1,9 @@
+{
+  "id": "TOGGL_TRACK",
+  "name": "Toggl Track",
+  "categories": ["TIME_TRACKING"],
+  "organization": "TOGGL_TRACK",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/toggl.svg",
+  "sourceUrl": "https://toggl.com/track/",
+  "dataVisibility": ["PRIVATE"]
+}
