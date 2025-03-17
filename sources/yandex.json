@@ -1,0 +1,9 @@
+{
+  "id": "YANDEX",
+  "name": "Yandex",
+  "categories": ["ADVERTISING"],
+  "organization": "YANDEX",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/yandex.svg",
+  "sourceUrl": "https://yandex.com/",
+  "dataVisibility": ["PRIVATE"]
+}
