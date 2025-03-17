@@ -1,0 +1,9 @@
+{
+  "id": "REPUTATION_COM",
+  "name": "Reputation.com",
+  "categories": ["RESEARCH"],
+  "organization": "REPUTATION_COM",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/reputation.svg",
+  "sourceUrl": "https://www.reputation.com/",
+  "dataVisibility": ["PRIVATE"]
+}
