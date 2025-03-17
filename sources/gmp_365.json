@@ -1,0 +1,9 @@
+{
+  "id": "GMP_365",
+  "name": "GMP 365",
+  "categories": ["CUSTOM"],
+  "organization": "GMP_365",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/gmp365.svg",
+  "sourceUrl": "https://www.gmp365.com/#/",
+  "dataVisibility": ["PRIVATE"]
+}
