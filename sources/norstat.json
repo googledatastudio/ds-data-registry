@@ -1,0 +1,9 @@
+{
+  "id": "NORSTAT",
+  "name": "Norstat",
+  "categories": ["CUSTOM"],
+  "organization": "NORSTAT",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/norstat.svg",
+  "sourceUrl": "https://norstat.se/",
+  "dataVisibility": ["PRIVATE"]
+}
