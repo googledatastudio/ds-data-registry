@@ -1,0 +1,9 @@
+{
+  "id": "RC_LOCAL",
+  "name": "RC Local",
+  "categories": ["SEO","ANALYTICS"],
+  "organization": "RATING_CAPTAIN",
+  "iconUrl": "https://ratingcaptain.com/storage/favicons/favicon-96x96.png",
+  "sourceUrl": "https://ratingcaptain.com/local/",
+  "dataVisibility": ["PRIVATE"]
+}
