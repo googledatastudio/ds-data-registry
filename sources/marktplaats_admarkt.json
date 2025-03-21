@@ -1,0 +1,9 @@
+{
+  "id": "MARKTPLAATS_ADMARKT",
+  "name": "Marktplaats Admarkt",
+  "categories": ["AFFILIATE"],
+  "organization": "MARKTPLAATS_ADMARKT",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/marktplaatsadmarkt.svg",
+  "sourceUrl": "https://admarkt.marktplaats.nl/",
+  "dataVisibility": ["PRIVATE"]
+}
