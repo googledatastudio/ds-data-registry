@@ -1,0 +1,9 @@
+{
+  "id": "DQOPS",
+  "name": "Data Quality Operations Center",
+  "categories": ["ANALYTICS", "TOOLS", "TIME_SERIES", "ISSUE_TRACKING"],
+  "organization": "DQOPS",
+  "iconUrl": "https://dqops.com/wp-content/uploads/2023/09/DQOps_logo_40x40-e1695381217173.png",
+  "sourceUrl": "https://dqops.com/",
+  "dataVisibility": ["PRIVATE"]
+}

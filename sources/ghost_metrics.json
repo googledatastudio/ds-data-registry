@@ -1,0 +1,9 @@
+{
+  "id": "GHOST_METRICS",
+  "name": "Ghost Metrics",
+  "categories": ["ANALYTICS"],
+  "organization": "GHOST_METRICS",
+  "iconUrl": "https://assets.ghostmetrics.io/ghostmetrics-icon.png",
+  "sourceUrl": "https://ghostmetrics.io",
+  "dataVisibility": ["PRIVATE"]
+}

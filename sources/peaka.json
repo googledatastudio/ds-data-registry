@@ -1,0 +1,10 @@
+{
+  "id": "PEAKA",
+  "name": "Peaka",
+  "categories": ["CDP"],
+  "organization": "PEAKA",
+  "iconUrl":
+    "https://www.peaka.com/assets/img/community-connector/peaka-logo.png",
+  "sourceUrl": "https://www.peaka.com",
+  "dataVisibility": ["PRIVATE"]
+}

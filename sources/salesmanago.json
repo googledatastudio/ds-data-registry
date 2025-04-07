@@ -1,0 +1,9 @@
+{
+  "id": "SALESMANAGO",
+  "name": "SALESmanago",
+  "categories": ["MARKETING", "CRM"],
+  "organization": "SALESMANAGO",
+  "iconUrl": "https://files.salesmanago.pl/smweb/logo/badge_green.png",
+  "sourceUrl": "https://www.salesmanago.com/",
+  "dataVisibility": ["PRIVATE"]
+}

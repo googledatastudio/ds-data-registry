@@ -1,0 +1,10 @@
+{
+  "id": "RECHARGE",
+  "name": "Recharge",
+  "categories": ["ECOMMERCE"],
+  "organization": "RECHARGE",
+  "iconUrl":
+    "https://windsor.ai/wp-content/uploads/2024/05/recharge.png",
+  "sourceUrl": "https://getrecharge.com/",
+  "dataVisibility": ["PRIVATE"]
+}
