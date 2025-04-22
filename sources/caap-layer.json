@@ -1,0 +1,9 @@
+{
+    "id": "CAAP_LAYER",
+    "name": "City as a Platform Layer",
+    "categories": ["API"],
+    "organization": "CAAP",
+    "iconUrl": "https://storage.googleapis.com/caap-temp/caap-logo-32px.png",
+    "sourceUrl": "https://www.city-platform.com",
+    "dataVisibility": ["PRIVATE"]
+  }
