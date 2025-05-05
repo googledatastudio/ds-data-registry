@@ -1,0 +1,9 @@
+{
+  "id": "DRIFT",
+  "name": "Drift",
+  "categories": ["MARKETING"],
+  "organization": "DRIFT",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/drift.svg",
+  "sourceUrl": "https://www.drift.com/",
+  "dataVisibility": ["PRIVATE"]
+}
