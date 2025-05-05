@@ -1,0 +1,9 @@
+{
+  "id": "CALLGEAR",
+  "name": "CallGear",
+  "categories": ["ANALYTICS"],
+  "organization": "CALLGEAR",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/callgear.svg",
+  "sourceUrl": "https://callgear.com/",
+  "dataVisibility": ["PRIVATE"]
+}
