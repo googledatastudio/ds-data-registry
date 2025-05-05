@@ -1,0 +1,9 @@
+{
+  "id": "LINK",
+  "name": "Link",
+  "categories": ["SEO"],
+  "organization": "LINK",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/link.svg",
+  "sourceUrl": "https://www.link.ch/en/",
+  "dataVisibility": ["PRIVATE"]
+}
