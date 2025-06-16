@@ -1,0 +1,9 @@
+{
+  "id": "MERCADO_LIBRE",
+  "name": "Mercado Libre",
+  "categories": ["ECOMMERCE"],
+  "organization": "ENGDATA",
+  "iconUrl": "https://api.engdatarg.com/static/logo_small.png",
+  "sourceUrl": "https://www.mercadolibre.com",
+  "dataVisibility": ["PRIVATE"]
+}
