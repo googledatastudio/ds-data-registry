@@ -1,0 +1,11 @@
+{
+    "id": "SQUARESPACE",
+    "name": "Squarespace",
+    "categories": ["ECOMMERCE, MARKETING"],
+    "organization": "SQUARESPACE",
+    "iconUrl": "https://storage.googleapis.com/central-prod-sm-custom-connector-external/12162_1744185960.png",
+    "sourceUrl": "https://www.squarespace.com/",
+    "dataVisibility": [
+        "PRIVATE"
+    ]
+}
