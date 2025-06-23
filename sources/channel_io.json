@@ -1,0 +1,9 @@
+{
+  "id": "Channel_io",
+  "name": "Channel.io",
+  "categories": ["CUSTOMER_SUPPORT", "MARKETING"],
+  "organization": "Channel Corp",
+  "iconUrl": "https://cf.channel.io/asset/app-icons/channel-avatar.webp",
+  "sourceUrl": "https://channel.io/",
+  "dataVisibility": ["PRIVATE"]
+}
