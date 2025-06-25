@@ -1,0 +1,9 @@
+{
+  "id": "CLUBSPEED",
+  "name": "Clubspeed",
+  "categories": ["CRM"],
+  "organization": "CLUBSPEED",
+  "iconUrl": "https://clubspeed.com/wp-content/uploads/2024/05/clubspeed-logo-main.png",
+  "sourceUrl": "https://clubspeed.com/",
+  "dataVisibility": ["PRIVATE"]
+}
