@@ -1,0 +1,9 @@
+{
+  "id": "PINTEREST",
+  "name": "Pinterest",
+  "categories": ["SOCIAL"],
+  "organization": "PINTEREST",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/pinterest.svg",
+  "sourceUrl": "https://www.pinterest.com",
+  "dataVisibility": ["PRIVATE"]
+}
