@@ -1,0 +1,9 @@
+{
+  "id": "ONFLEET",
+  "name": "Onfleet",
+  "categories": ["CUSTOMER_SUPPORT"],
+  "organization": "ONFLEET",
+  "iconUrl": "https://files.readme.io/59a7021-small-onfleet-logo-light.png",
+  "sourceUrl": "https://www.onfleet.com/",
+  "dataVisibility": ["PRIVATE"]
+}
