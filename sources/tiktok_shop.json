@@ -1,0 +1,9 @@
+{
+  "id": "TIKTOK_SHOP",
+  "name": "TikTok Shop",
+  "categories": ["ECOMMERCE"],
+  "organization": "BYTEDANCE",
+  "iconUrl": "https://storage.googleapis.com/central-prod-sm-custom-connector-external/14531_1745931072.png",
+  "sourceUrl": "https://www.tiktok.com/",
+  "dataVisibility": ["PRIVATE"]
+}
