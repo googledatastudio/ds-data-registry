@@ -3,7 +3,7 @@
   "name": "Hubspot",
   "categories": ["MARKETING", "CRM"],
   "organization": "HUBSPOT",
-  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/hubspot.png",
+  "iconUrl": "https://adzviser.com/assets/images/hubspot.svg",
   "sourceUrl": "https://www.hubspot.com/",
   "dataVisibility": ["PRIVATE"]
 }
