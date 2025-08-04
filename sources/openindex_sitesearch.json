@@ -1,0 +1,10 @@
+{
+  "id": "OPENINDEX_SITESEARCH",
+  "name": "Openindex Sitesearch",
+  "categories": ["TOOLS"],
+  "organization": "OPENINDEX",
+  "iconUrl":
+    "https://www.openindex.io/wp-content/uploads/2023/10/favicon-2.png",
+  "sourceUrl": "https://www.openindex.io/",
+  "dataVisibility": ["PRIVATE"]
+}
