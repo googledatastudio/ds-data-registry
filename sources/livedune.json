@@ -1,0 +1,9 @@
+{
+  "id": "LIVEDUNE",
+  "name": "livedune",
+  "categories": ["TOOLS", "SOCIAL"],
+  "organization": "LIVEDUNE",
+  "iconUrl": "https://livedune.com/apple-touch-icon.png",
+  "sourceUrl": "https://livedune.com",
+  "dataVisibility": ["PRIVATE"]
+}
