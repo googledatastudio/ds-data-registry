@@ -1,0 +1,10 @@
+{
+  "id": "REV79",
+  "name": "Rev79",
+  "categories": ["PROJECT_MANAGEMENT"],
+  "organization": "REV79",
+  "iconUrl":
+    "https://docs.rev79.app/img/logo.png",
+  "sourceUrl": "https://docs.rev79.app/",
+  "dataVisibility": ["PRIVATE"]
+}

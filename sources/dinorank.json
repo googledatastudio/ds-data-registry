@@ -1,0 +1,9 @@
+{
+  "id": "DINORANK",
+  "name": "DinoRANK",
+  "categories": ["MARKETING", "TOOLS"],
+  "organization": "DINORANK",
+  "iconUrl": "https://dinorank.com/img/informes-logo-h.png",
+  "sourceUrl": "https://DINORANK.com",
+  "dataVisibility": ["PRIVATE"]
+}
