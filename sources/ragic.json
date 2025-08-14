@@ -1,0 +1,9 @@
+{
+  "id": "RAGIC",
+  "name": "Ragic",
+  "categories": ["DATABASE"],
+  "organization": "RAGIC",
+  "iconUrl": "https://www.ragic.com/intl/common/img/fav/apple-touch-icon-57x57.png",
+  "sourceUrl": "https://www.ragic.com/",
+  "dataVisibility": ["PRIVATE"]
+}
