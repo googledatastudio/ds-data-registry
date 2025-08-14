@@ -1,0 +1,11 @@
+{
+  "id": "ODOO_INVOICING",
+  "name": "Odoo Invoicing",
+  "categories": [
+    "FINANCE"
+  ],
+  "organization": "ODOO",
+  "iconUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQF91OMQCIi4dQ/company-logo_100_100/company-logo_100_100/0/1691657301051/odoo_logo?e=1742428800&v=beta&t=IxAg6YS3ZlXao3j5sxakvfjCzRm4fref7-buiHO9_tY",
+  "sourceUrl": "https://www.odoo.com/",
+  "dataVisibility": ["PRIVATE"]
+}

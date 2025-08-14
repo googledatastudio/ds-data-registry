@@ -1,0 +1,10 @@
+{
+  "id": "FOLLOWORDS",
+  "name": "Followords",
+  "categories": ["MARKETING", "SEO", "TOOLS"],
+  "organization": "FOLLOWORDS",
+  "iconUrl":
+    "https://followords-ressources.s3.eu-west-3.amazonaws.com/favicon.png",
+  "sourceUrl": "https://followords.com/",
+  "dataVisibility": ["PRIVATE"]
+}
