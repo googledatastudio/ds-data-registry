@@ -1,0 +1,9 @@
+{
+  "id": "RESPONSETAP",
+  "name": "ResponseTap",
+  "categories": ["ANALYTICS"],
+  "organization": "RESPONSETAP",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/responsetap.svg",
+  "sourceUrl": "https://www.responsetap.com/gb/",
+  "dataVisibility": ["PRIVATE"]
+}
