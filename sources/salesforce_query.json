@@ -1,0 +1,9 @@
+{
+  "id": "SALESFORCE_QUERY",
+  "name": "Salesforce Query",
+  "categories": ["CRM"],
+  "organization": "SALESFORCE_QUERY",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/salesforce.svg",
+  "sourceUrl": "https://www.salesforce.com/",
+  "dataVisibility": ["PRIVATE"]
+}
