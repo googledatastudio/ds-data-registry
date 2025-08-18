@@ -1,7 +1,7 @@
 {
   "id": "ETRACKER",
-  "name": "etracker",
-  "iconUrl":
-    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/etracker.png",
-  "orgUrl": "https://www.etracker.com/"
+  "name": "eTracker",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/etracker.svg",
+  "orgUrl":
+    "https://www.etracker.com/en/docs/using-etracker/etracker-analytics/web-analytics/"
 }
