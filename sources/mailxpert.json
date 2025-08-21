@@ -1,0 +1,9 @@
+{
+  "id": "MAILXPERT",
+  "name": "mailXpert",
+  "categories": ["EMAIL"],
+  "organization": "MAILXPERT",
+  "iconUrl": "https://www.mailxpert.ch/logo.png",
+  "sourceUrl": "https://www.mailxpert.ch/",
+  "dataVisibility": ["PRIVATE"]
+}
