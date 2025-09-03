@@ -1,0 +1,10 @@
+{
+  "id": "OWOX_DATA_MART",
+  "name": "OWOX Data Mart",
+  "categories": ["ANALYTICS", "DATA_COLLECTION", "TOOLS"],
+  "organization": "OWOX",
+  "iconUrl":
+    "https://cdn.prod.website-files.com/676a9690ef4ec151a6957187/67925ebbadcf7cab0b202f0b_32619.svg",
+  "sourceUrl": "https://www.owox.com/product-features/data-mart-management",
+  "dataVisibility": ["PRIVATE"]
+}
