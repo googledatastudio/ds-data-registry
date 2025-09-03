@@ -1,0 +1,9 @@
+{
+    "id": "PACKAGIST",
+    "name": "Packagist",
+    "categories": ["API"],
+    "organization": "PACKAGIST",
+    "iconUrl": "https://packagist.org/img/logo-small.png",
+    "sourceUrl": "https://packagist.org",
+    "dataVisibility": ["PUBLIC"]
+}
