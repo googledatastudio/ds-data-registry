@@ -1,0 +1,10 @@
+{
+    "id": "TAG_CENTER",
+    "name": "Tag Center",
+    "categories": ["CRM"],
+    "organization": "TAG_CENTER",
+    "iconUrl":
+      "https://cdn-tagchat.nyc3.cdn.digitaloceanspaces.com/images/tag_logo_48x48.png",
+    "sourceUrl": "https://tagcenter.io/",
+    "dataVisibility": ["PUBLIC"]
+}
