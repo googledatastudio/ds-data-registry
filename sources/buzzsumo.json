@@ -1,0 +1,9 @@
+{
+  "id": "BUZZSUMO",
+  "name": "Buzzsumo",
+  "categories": ["SOCIAL"],
+  "organization": "BUZZSUMO",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/buzzsumo.svg",
+  "sourceUrl": "https://buzzsumo.com/",
+  "dataVisibility": ["PRIVATE"]
+}
