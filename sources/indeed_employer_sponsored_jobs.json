@@ -1,0 +1,9 @@
+{
+  "id": "INDEED_EMPLOYER_SPONSORED_JOBS",
+  "name": "Indeed Employer Sponsored Jobs",
+  "categories": ["ADVERTISING"],
+  "organization": "INDEED_EMPLOYER_SPONSORED_JOBS",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/indeed_employer.svg",
+  "sourceUrl": "https://indeed.com/",
+  "dataVisibility": ["PRIVATE"]
+}
