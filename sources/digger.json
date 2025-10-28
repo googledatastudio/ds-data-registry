@@ -1,0 +1,9 @@
+{
+  "id": "DIGGER",
+  "name": "Digger",
+  "categories": ["CUSTOM", "ANALYTICS"],
+  "organization": "Digtective",
+  "iconUrl": "https://digtective.com/wp-content/uploads/2025/04/Icon-Symbol-Optional-White-Background.png",
+  "sourceUrl": "https://digtective.com",
+  "dataVisibility": ["PRIVATE"]
+}
