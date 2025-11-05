@@ -1,0 +1,9 @@
+{
+  "id": "UOFX",
+  "name": "U Office Force X",
+  "categories": ["CUSTOM", "FORM"],
+  "organization": "EDE",
+  "iconUrl": "https://connect.uof.tw/publicfile/images/uofx-icon-120.png",
+  "sourceUrl": "https://www.edetw.com/",
+  "dataVisibility": ["PRIVATE"]
+}
