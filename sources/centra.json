@@ -1,0 +1,9 @@
+{
+  "id": "CENTRA",
+  "name": "Centra",
+  "categories": ["ECOMMERCE"],
+  "organization": "CENTRA",
+  "iconUrl": "https://storage.googleapis.com/central-prod-sm-custom-connector-external/16092_1754398105.png",
+  "sourceUrl": "https://centra.dev/",
+  "dataVisibility": ["PRIVATE"]
+}
