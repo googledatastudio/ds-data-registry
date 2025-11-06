@@ -1,0 +1,9 @@
+{
+  "id": "ECWID",
+  "name": "Ecwid",
+  "categories": ["ECOMMERCE"],
+  "organization": "LIGHTSPEED",
+  "iconUrl": "https://storage.googleapis.com/central-prod-sm-custom-connector-external/18060_1758037232.png",
+  "sourceUrl": "https://www.ecwid.com/",
+  "dataVisibility": ["PRIVATE"]
+}
