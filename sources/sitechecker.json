@@ -1,0 +1,10 @@
+{
+  "id": "SITECHECKER",
+  "name": "Sitechecker",
+  "categories": ["ANALYTICS", "SEO", "TOOLS"],
+  "organization": "SITECHECKER",
+  "iconUrl":
+    "https://sitechecker.pro/wp-content/themes/sitechecker/favicons/apple-touch-icon-180x180.png",
+  "sourceUrl": "https://sitechecker.pro/",
+  "dataVisibility": ["PRIVATE"]
+}

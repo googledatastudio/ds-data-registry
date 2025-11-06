@@ -1,0 +1,9 @@
+{
+    "id": "SHOPEE",
+    "name": "Shopee",
+    "categories": ["ECOMMERCE"],
+    "organization": "SHOPEE",
+    "iconUrl": "https://cdn.freelogovectors.net/wp-content/uploads/2023/04/shopeelogo-freelogovectors.net_.png",
+    "sourceUrl": "https://shopee.com/",
+    "dataVisibility": ["PRIVATE"]
+  }

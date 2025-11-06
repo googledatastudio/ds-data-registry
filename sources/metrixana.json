@@ -1,0 +1,9 @@
+{
+  "id": "METRIXANA",
+  "name": "Metrixana",
+  "categories": ["ADVERTISING", "ANALYTICS", "ECOMMERCE", "MARKETING"],
+  "organization": "METRIXANA",
+  "iconUrl": "https://www.metrixana.com/images/40x40.png",
+  "sourceUrl": "https://www.metrixana.com",
+  "dataVisibility": ["PRIVATE"]
+}

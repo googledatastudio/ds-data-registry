@@ -1,199 +1,203 @@
 [
-  {
-    "id": "ADVERTISING",
-    "name": "Advertising"
-  },
-  {
-    "id": "AFFILIATE",
-    "name": "Affiliate"
-  },
-  {
-    "id": "ANALYTICS",
-    "name": "Analytics"
-  },
-  {
-    "id": "API",
-    "name": "Application Programming Interface"
-  },
-  {
-    "id": "CDR",
-    "name": "Call Detail Record"
-  },
-  {
-    "id": "CUSTOM",
-    "name": "Custom"
-  },
-  {
-    "id": "CRYPTO",
-    "name": "Crypto"
-  },
-  {
-    "id": "CUSTOMER_SUPPORT",
-    "name": "Customer Support"
-  },
-  {
-    "id": "DATABASE",
-    "name": "Database"
-  },
-  {
-    "id": "DATA_COLLECTION",
-    "name": "Data Collection"
-  },
-  {
-    "id": "ECOMMERCE",
-    "name": "eCommerce"
-  },
-  {
-    "id": "EDUCATION",
-    "name": "Education"
-  },
-  {
-    "id": "EMAIL",
-    "name": "Email"
-  },
-  {
-    "id": "FINANCE",
-    "name": "Finance"
-  },
-  {
-    "id": "JOBS",
-    "name": "Jobs"
-  },
-  {
-    "id": "MARKETING",
-    "name": "Marketing"
-  },
-  {
-    "id": "PAYMENTS",
-    "name": "Payments"
-  },
-  {
-    "id": "RESEARCH",
-    "name": "Research"
-  },
-  {
-    "id": "SALES",
-    "name": "Sales"
-  },
-  {
-    "id": "SEO",
-    "name": "Search Engine Optimization"
-  },
-  {
-    "id": "SOCIAL",
-    "name": "Social media"
-  },
-  {
-    "id": "SPORTS",
-    "name": "Sports"
-  },
-  {
-    "id": "STORAGE",
-    "name": "File Storage"
-  },
-  {
-    "id": "TOOLS",
-    "name": "Tools"
-  },
-  {
-    "id": "PUBLIC_DATA",
-    "name": "Public Data"
-  },
-  {
-    "id": "VIDEO",
-    "name": "Video"
-  },
-  {
-    "id": "CLOUD",
-    "name": "Cloud"
-  },
-  {
-    "id": "CLOUD_COMMUNICATIONS",
-    "name": "Cloud Communications"
-  },
-  {
-    "id": "CALL_TRACKING",
-    "name": "Call Tracking"
-  },
-  {
-    "id": "CHAT_TRACKING",
-    "name": "Chat Tracking"
-  },
-  {
-    "id": "CRM",
-    "name": "Customer Relationship Management"
-  },
-  {
-    "id": "TIME_TRACKING",
-    "name": "Time Tracking"
-  },
-  {
-    "id": "CHMS",
-    "name": "Church Manangement System"
-  },
-  {
-    "id": "IOT",
-    "name": "IoT Reporting"
-  },
-  {
-    "id": "CDP",
-    "name": "Customer Data Platform"
-  },
-  {
-    "id": "TIME_SERIES",
-    "name": "Time Series"
-  },
-  {
-    "id": "POS",
-    "name": "Point of Sales"
-  },
-  {
-    "id": "ISSUE_TRACKING",
-    "name": "Issue Tracking"
-  },
-  {
-    "id": "FACILITY_MANAGEMENT_OS",
-    "name": "Facility Management OS"
-  },
-  {
-    "id": "HRMS",
-    "name": "Human Resources Management System"
-  },
-  {
-    "id": "RISK_MANAGEMENT",
-    "name": "Risk Management"
-  },
-  {
-    "id": "NEWS",
-    "name": "News"
-  },
-  {
-    "id": "PUBLIC_RELATIONS",
-    "name": "Public Relations"
-  },
-  {
-    "id": "LEAVE_TRACKING",
-    "name": "Leave Tracking",
-    "description": "Employee leave tracking"
-  },
-  {
-    "id": "INVENTORY_MANAGEMENT",
-    "name": "Inventory Management"
-  },
-  {
-    "id": "PROJECT_MANAGEMENT",
-    "name": "Project Management"
-  },
-  {
-    "id": "WAREHOUSE_MANAGEMENT",
-    "name": "Warehouse Management"
-  },
-  {
-    "id": "QUALITY_AND_COMPLIANCE_MANAGEMENT",
-    "name": "Quality and Compliance management"
-  },
-  {
-    "id": "FORM",
-    "name": "Form"
-  }
+    {
+        "id": "ADVERTISING",
+        "name": "Advertising"
+    },
+    {
+        "id": "AFFILIATE",
+        "name": "Affiliate"
+    },
+    {
+        "id": "ANALYTICS",
+        "name": "Analytics"
+    },
+    {
+        "id": "API",
+        "name": "Application Programming Interface"
+    },
+    {
+        "id": "CDR",
+        "name": "Call Detail Record"
+    },
+    {
+        "id": "CUSTOM",
+        "name": "Custom"
+    },
+    {
+        "id": "CRYPTO",
+        "name": "Crypto"
+    },
+    {
+        "id": "CUSTOMER_SUPPORT",
+        "name": "Customer Support"
+    },
+    {
+        "id": "DATABASE",
+        "name": "Database"
+    },
+    {
+        "id": "DATA_COLLECTION",
+        "name": "Data Collection"
+    },
+    {
+        "id": "ECOMMERCE",
+        "name": "eCommerce"
+    },
+    {
+        "id": "EDUCATION",
+        "name": "Education"
+    },
+    {
+        "id": "EMAIL",
+        "name": "Email"
+    },
+    {
+        "id": "FINANCE",
+        "name": "Finance"
+    },
+    {
+        "id": "JOBS",
+        "name": "Jobs"
+    },
+    {
+        "id": "MARKETING",
+        "name": "Marketing"
+    },
+    {
+        "id": "PAYMENTS",
+        "name": "Payments"
+    },
+    {
+        "id": "RESEARCH",
+        "name": "Research"
+    },
+    {
+        "id": "SALES",
+        "name": "Sales"
+    },
+    {
+        "id": "SEO",
+        "name": "Search Engine Optimization"
+    },
+    {
+        "id": "SOCIAL",
+        "name": "Social media"
+    },
+    {
+        "id": "SPORTS",
+        "name": "Sports"
+    },
+    {
+        "id": "STORAGE",
+        "name": "File Storage"
+    },
+    {
+        "id": "TOOLS",
+        "name": "Tools"
+    },
+    {
+        "id": "PUBLIC_DATA",
+        "name": "Public Data"
+    },
+    {
+        "id": "VIDEO",
+        "name": "Video"
+    },
+    {
+        "id": "CLOUD",
+        "name": "Cloud"
+    },
+    {
+        "id": "CLOUD_COMMUNICATIONS",
+        "name": "Cloud Communications"
+    },
+    {
+        "id": "CALL_TRACKING",
+        "name": "Call Tracking"
+    },
+    {
+        "id": "CHAT_TRACKING",
+        "name": "Chat Tracking"
+    },
+    {
+        "id": "CRM",
+        "name": "Customer Relationship Management"
+    },
+    {
+        "id": "TIME_TRACKING",
+        "name": "Time Tracking"
+    },
+    {
+        "id": "CHMS",
+        "name": "Church Manangement System"
+    },
+    {
+        "id": "IOT",
+        "name": "IoT Reporting"
+    },
+    {
+        "id": "CDP",
+        "name": "Customer Data Platform"
+    },
+    {
+        "id": "TIME_SERIES",
+        "name": "Time Series"
+    },
+    {
+        "id": "POS",
+        "name": "Point of Sales"
+    },
+    {
+        "id": "ISSUE_TRACKING",
+        "name": "Issue Tracking"
+    },
+    {
+        "id": "FACILITY_MANAGEMENT_OS",
+        "name": "Facility Management OS"
+    },
+    {
+        "id": "HRMS",
+        "name": "Human Resources Management System"
+    },
+    {
+        "id": "RISK_MANAGEMENT",
+        "name": "Risk Management"
+    },
+    {
+        "id": "NEWS",
+        "name": "News"
+    },
+    {
+        "id": "PUBLIC_RELATIONS",
+        "name": "Public Relations"
+    },
+    {
+        "id": "LEAVE_TRACKING",
+        "name": "Leave Tracking",
+        "description": "Employee leave tracking"
+    },
+    {
+        "id": "INVENTORY_MANAGEMENT",
+        "name": "Inventory Management"
+    },
+    {
+        "id": "PROJECT_MANAGEMENT",
+        "name": "Project Management"
+    },
+    {
+        "id": "WAREHOUSE_MANAGEMENT",
+        "name": "Warehouse Management"
+    },
+    {
+        "id": "QUALITY_AND_COMPLIANCE_MANAGEMENT",
+        "name": "Quality and Compliance management"
+    },
+    {
+        "id": "FORM",
+        "name": "Form"
+    },
+    {
+        "id": "Artificial Intelligence",
+        "name": "Artificial Intelligence"
+    }
 ]

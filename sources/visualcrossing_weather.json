@@ -1,0 +1,10 @@
+{
+  "id": "VISUALCROSSING_WEATHER",
+  "name": "VisualCrossing Weather",
+  "categories": ["PUBLIC_DATA"],
+  "organization": "VISUALCROSSING",
+  "iconUrl":
+    "https://www.visualcrossing.com/images/vclogo-40_40_lookerstudio.png",
+  "sourceUrl": "https://visualcrossing.com",
+  "dataVisibility": ["PUBLIC"]
+}

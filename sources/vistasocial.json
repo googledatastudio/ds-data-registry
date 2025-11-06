@@ -1,0 +1,9 @@
+{
+  "id": "VISTASOCIAL",
+  "name": "Vista Social",
+  "categories": ["TOOLS", "SOCIAL"],
+  "organization": "VISTA_SOCIAL",
+  "iconUrl": "https://vistasocial.com/favicon-32x32.png",
+  "sourceUrl": "https://vistasocial.com/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "PANGO",
+  "name": "Pango",
+  "categories": ["ANALYTICS", "ECOMMERCE"],
+  "organization": "PANGO",
+  "iconUrl": "https://pango.se/logo-40x40.png",
+  "sourceUrl": "https://www.pango.se",
+  "dataVisibility": ["PRIVATE"]
+}

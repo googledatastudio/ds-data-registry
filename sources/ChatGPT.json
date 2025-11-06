@@ -1,0 +1,9 @@
+{
+  "id": "CHATGPT",
+  "name": "Chat GPT",
+  "categories": ["Artificial Intelligence"],
+  "organization": "Open AI",
+  "iconUrl": "https://images.ctfassets.net/kftzwdyauwt9/2enZUqUckbEvcuIuPWLTZu/cbfc8a785f74b972e554281eb044954b/Future_Media.png?w=828&q=90&fm=webp",
+  "sourceUrl": "https://openai.com/index/hello-gpt-4o/",
+  "dataVisibility": ["PRIVATE"]
+}
