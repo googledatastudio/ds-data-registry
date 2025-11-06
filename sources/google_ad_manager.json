@@ -1,0 +1,9 @@
+{
+  "id": "GOOGLE_AD_MANAGER",
+  "name": "Google Ad Manager",
+  "categories": ["ADVERTISING"],
+  "organization": "GOOGLE",
+  "iconUrl": "https://www.gstatic.com/admanager/logo_admanager_2x.png",
+  "sourceUrl": "https://admanager.google.com/",
+  "dataVisibility": ["PRIVATE"]
+}

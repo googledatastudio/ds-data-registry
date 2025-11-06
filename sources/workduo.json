@@ -1,0 +1,17 @@
+{
+    "id": "WORKDUO",
+    "name": "WorkDuo",
+    "categories": [
+        [
+            "ANALYTICS",
+            "SEO",
+            "TOOLS"
+        ]
+    ],
+    "organization": "WORKDUO",
+    "iconUrl": "https://assets.workduo.ai/workduo-icon-40px.png",
+    "sourceUrl": "https://geo.workduo.ai",
+    "dataVisibility": [
+        "PRIVATE"
+    ]
+}

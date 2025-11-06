@@ -1,0 +1,9 @@
+{
+  "id": "INTELLIKID_SYSTEMS",
+  "name": "IntelliKid Systems",
+  "categories": ["ANALYTICS", "EDUCATION" ,"TOOLS", "CRM", "CALL_TRACKING"],
+  "organization": "INTELLIKID_SYSTEMS",
+  "iconUrl": "https://cdn.intellikidsystems.com/static/iks_logo_small.png",
+  "sourceUrl": "https://www.intellikidsystems.com/",
+  "dataVisibility": ["PRIVATE"]
+}
