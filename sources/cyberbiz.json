@@ -1,0 +1,8 @@
+{
+  "id": "CYBERBIZ",
+  "name": "Cyberbiz",
+  "categories": ["CUSTOM", "ECOMMERCE"],
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/parquet.jpeg",
+  "sourceUrl": "https://www.cyberbiz.io/",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}
