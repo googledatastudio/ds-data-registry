@@ -1,0 +1,9 @@
+{
+  "id": "WEBHOOK_CONNECTOR",
+  "name": "Webhook Connector",
+  "categories": ["CUSTOM"],
+  "organization": "WEBHOOK_CONNECTOR",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/webhook.svg",
+  "sourceUrl": "https://www.adverity.com/",
+  "dataVisibility": ["PRIVATE"]
+}
