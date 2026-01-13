@@ -1,0 +1,10 @@
+{
+  "id": "SURFER_SEO",
+  "name": "Surfer SEO",
+  "categories": ["ANALYTICS", "SEO", "Artificial Intelligence", "MARKETING", "TOOLS"],
+  "organization": "SURFER_SEO",
+  "iconUrl":
+    "https://assets.surferseo.art/static-images/logo/looker-icon-192.png",
+  "sourceUrl": "https://surferseo.com/",
+  "dataVisibility": ["PRIVATE"]
+}
