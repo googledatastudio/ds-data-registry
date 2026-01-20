@@ -1,0 +1,9 @@
+{
+  "id": "CHARGIFY",
+  "name": "Chargify",
+  "categories": ["PAYMENTS"],
+  "organization": "CHARGIFY",
+  "iconUrl": "https://windsor.ai/wp-content/uploads/2025/11/chargify.png",
+  "sourceUrl": "https://www.chargify.com/",
+  "dataVisibility": ["PRIVATE"]
+}

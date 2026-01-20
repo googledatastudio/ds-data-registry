@@ -1,0 +1,9 @@
+{
+  "id": "POSTHOG",
+  "name": "PostHog",
+  "categories": ["ANALYTICS"],
+  "organization": "POSTHOG",
+  "iconUrl": "https://windsor.ai/wp-content/uploads/2024/02/posthog.png",
+  "sourceUrl": "https://posthog.com/",
+  "dataVisibility": ["PRIVATE"]
+}
