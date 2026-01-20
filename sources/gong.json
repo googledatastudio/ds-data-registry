@@ -1,0 +1,11 @@
+{
+    "id": "GONG",
+    "name": "Gong",
+    "categories": ["CDR"],
+    "organization": "GONG",
+    "iconUrl": "https://storage.googleapis.com/central-prod-sm-custom-connector-external/GONG_1764840649.svg",
+    "sourceUrl": "https://www.gong.io",
+    "dataVisibility": [
+        "PRIVATE"
+    ]
+}
