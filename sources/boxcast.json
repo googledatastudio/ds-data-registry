@@ -1,0 +1,9 @@
+{
+  "id": "BOXCAST",
+  "name": "BoxCast",
+  "categories": ["VIDEO"],
+  "organization": "BOXCAST",
+  "iconUrl": "https://www.boxcast.com/favicon.ico",
+  "sourceUrl": "https://www.boxcast.com/",
+  "dataVisibility": ["PRIVATE"]
+}
