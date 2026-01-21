@@ -1,0 +1,9 @@
+{
+  "id": "REPPUBLIKA",
+  "name": "Reppublika",
+  "categories": ["RESEARCH"],
+  "organization": "REPPUBLIKA",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/reppublika.svg",
+  "sourceUrl": "https://www.reppublika.com/",
+  "dataVisibility": ["PRIVATE"]
+}
