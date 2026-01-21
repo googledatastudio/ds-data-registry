@@ -1,0 +1,9 @@
+{
+  "id": "KEEPA",
+  "name": "Keepa",
+  "categories": ["ECOMMERCE"],
+  "organization": "KEEPA",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/keepa.svg",
+  "sourceUrl": "https://keepa.com/#!",
+  "dataVisibility": ["PRIVATE"]
+}
