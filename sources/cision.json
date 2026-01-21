@@ -1,0 +1,9 @@
+{
+  "id": "CISION",
+  "name": "Cision",
+  "categories": ["MARKETING"],
+  "organization": "CISION",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/cision.svg",
+  "sourceUrl": "https://www.cision.com/",
+  "dataVisibility": ["PRIVATE"]
+}
