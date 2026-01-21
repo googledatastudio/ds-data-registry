@@ -1,0 +1,9 @@
+{
+  "id": "TEADS_ANALYTICS",
+  "name": "Teads Analytics",
+  "categories": ["MARKETING"],
+  "organization": "TEADS_ANALYTICS",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/teadsconnect.svg",
+  "sourceUrl": "https://www.teads.com/",
+  "dataVisibility": ["PRIVATE"]
+}
