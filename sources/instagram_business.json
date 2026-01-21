@@ -1,0 +1,9 @@
+{
+  "id": "INSTAGRAM_BUSINESS",
+  "name": "Instagram Business",
+  "categories": ["SOCIAL"],
+  "organization": "INSTAGRAM_BUSINESS",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/instagram_business.svg",
+  "sourceUrl": "https://www.instagram.com/",
+  "dataVisibility": ["PRIVATE"]
+}
