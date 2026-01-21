@@ -1,0 +1,9 @@
+{
+  "id": "JW_PLAYER",
+  "name": "JW Player",
+  "categories": ["CUSTOM"],
+  "organization": "JW_PLAYER",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/jwplayer.svg",
+  "sourceUrl": "https://www.jwplayer.com/",
+  "dataVisibility": ["PRIVATE"]
+}
