@@ -1,0 +1,9 @@
+{
+  "id": "HAWK_DSP",
+  "name": "Hawk DSP",
+  "categories": ["ADVERTISING"],
+  "organization": "HAWK_DSP",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/hawkdsp.svg",
+  "sourceUrl": "https://hawk-tech.io/",
+  "dataVisibility": ["PRIVATE"]
+}
