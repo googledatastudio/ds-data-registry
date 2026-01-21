@@ -1,0 +1,9 @@
+{
+  "id": "DATA_AI",
+  "name": "Data.ai",
+  "categories": ["CUSTOM"],
+  "organization": "DATA_AI",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/data_ai.svg",
+  "sourceUrl": "https://www.data.ai/en/",
+  "dataVisibility": ["PRIVATE"]
+}
