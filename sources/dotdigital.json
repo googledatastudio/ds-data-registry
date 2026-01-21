@@ -1,0 +1,9 @@
+{
+  "id": "DOTDIGITAL",
+  "name": "Dotdigital",
+  "categories": ["MARKETING"],
+  "organization": "DOTDIGITAL",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/dotdigital-logo.svg",
+  "sourceUrl": "https://dotdigital.com/",
+  "dataVisibility": ["PRIVATE"]
+}
