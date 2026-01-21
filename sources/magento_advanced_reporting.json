@@ -1,0 +1,10 @@
+{
+  "id": "MAGENTO_ADVANCED_REPORTING",
+  "name": "Magento Advanced Reporting",
+  "categories": ["ECOMMERCE"],
+  "organization": "MAGENTO_ADVANCED_REPORTING",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/magento.svg",
+  "sourceUrl":
+    "https://business.adobe.com/products/magento/magento-commerce.html",
+  "dataVisibility": ["PRIVATE"]
+}
