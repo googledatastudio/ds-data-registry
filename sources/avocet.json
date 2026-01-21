@@ -1,0 +1,9 @@
+{
+  "id": "AVOCET",
+  "name": "Avocet",
+  "categories": ["ADVERTISING"],
+  "organization": "AVOCET",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/avocet.svg",
+  "sourceUrl": "https://avocet.io/",
+  "dataVisibility": ["PRIVATE"]
+}
