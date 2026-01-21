@@ -1,0 +1,9 @@
+{
+  "id": "AUDIENCEREPORT",
+  "name": "AudienceReport",
+  "categories": ["RESEARCH"],
+  "organization": "AUDIENCEREPORT",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/audiencereport.svg",
+  "sourceUrl": "https://www.adverity.com/",
+  "dataVisibility": ["PRIVATE"]
+}
