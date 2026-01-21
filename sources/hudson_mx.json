@@ -1,0 +1,9 @@
+{
+  "id": "HUDSON_MX",
+  "name": "Hudson MX",
+  "categories": ["ADVERTISING"],
+  "organization": "HUDSON_MX",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/hudsonmx.svg",
+  "sourceUrl": "https://www.hudsonmx.com/",
+  "dataVisibility": ["PRIVATE"]
+}
