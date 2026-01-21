@@ -1,0 +1,9 @@
+{
+  "id": "CREATIVEX",
+  "name": "CreativeX",
+  "categories": ["CUSTOM"],
+  "organization": "CREATIVEX",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/creativex.svg",
+  "sourceUrl": "https://www.creativex.com/",
+  "dataVisibility": ["PRIVATE"]
+}
