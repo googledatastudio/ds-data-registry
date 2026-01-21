@@ -1,0 +1,9 @@
+{
+  "id": "CALIBRE",
+  "name": "Calibre",
+  "categories": ["SEO"],
+  "organization": "CALIBRE",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/calibre.svg",
+  "sourceUrl": "https://calibreapp.com/",
+  "dataVisibility": ["PRIVATE"]
+}
