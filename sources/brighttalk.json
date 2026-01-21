@@ -1,0 +1,9 @@
+{
+  "id": "BRIGHTTALK",
+  "name": "BrightTALK",
+  "categories": ["CUSTOM"],
+  "organization": "BRIGHTTALK",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/brighttalk.svg",
+  "sourceUrl": "https://www.brighttalk.com/",
+  "dataVisibility": ["PRIVATE"]
+}
