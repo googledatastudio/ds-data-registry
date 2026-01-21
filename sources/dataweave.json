@@ -1,0 +1,9 @@
+{
+  "id": "DATAWEAVE",
+  "name": "DataWeave",
+  "categories": ["ECOMMERCE"],
+  "organization": "DATAWEAVE",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/dataweave.svg",
+  "sourceUrl": "https://dataweave.com/",
+  "dataVisibility": ["PRIVATE"]
+}
