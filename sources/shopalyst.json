@@ -1,0 +1,9 @@
+{
+  "id": "SHOPALYST",
+  "name": "Shopalyst",
+  "categories": ["ECOMMERCE"],
+  "organization": "SHOPALYST",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/shopalyst.svg",
+  "sourceUrl": "https://www.shopalyst.com/",
+  "dataVisibility": ["PRIVATE"]
+}
