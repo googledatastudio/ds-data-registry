@@ -1,0 +1,9 @@
+{
+  "id": "YELLOW_PAGES",
+  "name": "Yellow Pages",
+  "categories": ["ADVERTISING"],
+  "organization": "YELLOW_PAGES",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/yp.svg",
+  "sourceUrl": "https://www.yell.com/",
+  "dataVisibility": ["PRIVATE"]
+}
