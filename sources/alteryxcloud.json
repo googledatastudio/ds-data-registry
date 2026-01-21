@@ -1,0 +1,10 @@
+{
+  "id": "ALTERYX_CLOUD",
+  "name": "Alteryx Analytics Cloud Platform",
+  "categories": ["ANALYTICS", "TOOLS", "CLOUD"],
+  "organization": "ALTERYX",
+  "iconUrl":
+    "https://storage.googleapis.com/ayx-looker-public/product-icons.png",
+  "sourceUrl": "https://www.alteryx.com/products/alteryx-cloud",
+  "dataVisibility": ["PRIVATE"]
+}
