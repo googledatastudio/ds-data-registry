@@ -1,7 +1,7 @@
 {
     "id": "LAZADA",
     "name": "Lazada",
-    "categories": ["ECOMMERCE"],
+    "categories": ["ECOMMERCE", "ADVERTISING"],
     "organization": "LAZADA",
     "iconUrl": "https://storage.googleapis.com/central-prod-sm-custom-connector-external/10743_1720181560.png",
     "sourceUrl": "https://lazada.com/en/",
