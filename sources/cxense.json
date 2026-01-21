@@ -1,0 +1,9 @@
+{
+  "id": "CXENSE",
+  "name": "Cxense",
+  "categories": ["RESEARCH"],
+  "organization": "CXENSE",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/cxense.svg",
+  "sourceUrl": "https://piano.io/product/dmp/",
+  "dataVisibility": ["PRIVATE"]
+}
