@@ -1,0 +1,9 @@
+{
+  "id": "YAHOO_VIDEO_SSP",
+  "name": "Yahoo Video SSP",
+  "categories": ["ADVERTISING"],
+  "organization": "YAHOO_VIDEO_SSP",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/yahoo_square.svg",
+  "sourceUrl": "https://www.yahoo.com/",
+  "dataVisibility": ["PRIVATE"]
+}
