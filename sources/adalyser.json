@@ -1,0 +1,9 @@
+{
+  "id": "ADALYSER",
+  "name": "Adalyser",
+  "categories": ["SOCIAL"],
+  "organization": "ADALYSER",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/adalyser.svg",
+  "sourceUrl": "https://www.adalyser.com/en/",
+  "dataVisibility": ["PRIVATE"]
+}
