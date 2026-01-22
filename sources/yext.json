@@ -1,0 +1,9 @@
+{
+  "id": "YEXT",
+  "name": "Yext",
+  "categories": ["SEO"],
+  "organization": "YEXT",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/yext.svg",
+  "sourceUrl": "https://www.yext.com/",
+  "dataVisibility": ["PRIVATE"]
+}
