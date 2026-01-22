@@ -1,0 +1,9 @@
+{
+    "id": "RELEVANZ",
+    "name": "releva.nz",
+    "categories": ["ADVERTISING"],
+    "organization": "RELEVANZ",
+    "iconUrl": "https://cdn.hyj.mobi/relevanz/40x40.png",
+    "sourceUrl": "https://www.releva.nz/",
+    "dataVisibility": ["PRIVATE"]
+}
