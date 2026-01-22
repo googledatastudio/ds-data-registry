@@ -1,0 +1,9 @@
+{
+  "id": "PIANO",
+  "name": "Piano",
+  "categories": ["MARKETING"],
+  "organization": "PIANO",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/piano.svg",
+  "sourceUrl": "https://docs.piano.io/api/",
+  "dataVisibility": ["PRIVATE"]
+}
