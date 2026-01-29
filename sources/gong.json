@@ -1,0 +1,13 @@
+{
+  "id": "GONG",
+  "name": "Gong",
+  "categories": [
+    "SALES"
+  ],
+  "organization": "GONG",
+  "iconUrl": "https://storage.googleapis.com/central-prod-sm-custom-connector-external/GONG_1764840649.svg",
+  "sourceUrl": "https://www.gong.io/",
+  "dataVisibility": [
+    "PRIVATE"
+  ]
+}
