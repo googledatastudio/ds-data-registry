@@ -1,0 +1,9 @@
+{
+  "id": "BRANDZOOKA",
+  "name": "Brandzooka",
+  "categories": ["ADVERTISING"],
+  "organization": "BRANDZOOKA",
+  "iconUrl": "https://sma.brandzooka.com/looker_studio/brandzooka_96x96.png",
+  "sourceUrl": "https://www.brandzooka.com/",
+  "dataVisibility": ["PRIVATE"]
+}
