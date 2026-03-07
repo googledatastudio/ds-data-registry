@@ -1,0 +1,9 @@
+{
+  "id": "LOCALRANK",
+  "name": "LocalRank",
+  "categories": ["SEO", "ANALYTICS"],
+  "organization": "LOCALRANK",
+  "iconUrl": "https://app.localrank.so/apple-touch-icon.png",
+  "sourceUrl": "https://localrank.so/",
+  "dataVisibility": ["PRIVATE"]
+}
