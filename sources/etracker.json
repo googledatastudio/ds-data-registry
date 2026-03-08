@@ -1,0 +1,10 @@
+{
+  "id": "ETRACKER",
+  "name": "eTracker",
+  "categories": ["ANALYTICS"],
+  "organization": "ETRACKER",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/etracker.svg",
+  "sourceUrl":
+    "https://www.etracker.com/en/docs/using-etracker/etracker-analytics/web-analytics/",
+  "dataVisibility": ["PRIVATE"]
+}
