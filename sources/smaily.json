@@ -1,0 +1,9 @@
+{
+  "id": "SMAILY",
+  "name": "Smaily",
+  "categories": ["EMAIL"],
+  "organization": "SMAILY",
+  "iconUrl": "https://windsor.ai/wp-content/uploads/2025/04/smaily.png",
+  "sourceUrl": "https://smaily.com/",
+  "dataVisibility": ["PRIVATE"]
+}
