@@ -3,7 +3,7 @@
   "name": "Twitter Ads",
   "categories": ["ADVERTISING"],
   "organization": "TWITTER",
-  "iconUrl": "https://s3.amazonaws.com/Supermetrics/images/dsLogos/TW.png",
+  "iconUrl": "https://adzviser.com/assets/images/x.svg",
   "sourceUrl": "https://ads.twitter.com/",
   "dataVisibility": ["PRIVATE"]
 }
