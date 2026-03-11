@@ -1,0 +1,9 @@
+{
+  "id": "YOUGOV_BRANDINDEX",
+  "name": "YouGov BrandIndex",
+  "categories": ["RESEARCH"],
+  "organization": "YOUGOV",
+  "iconUrl": "https://windsor.ai/wp-content/uploads/2026/01/yougov_brandindex.png",
+  "sourceUrl": "https://business.yougov.com/product/brandindex",
+  "dataVisibility": ["PRIVATE"]
+}
