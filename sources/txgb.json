@@ -1,0 +1,9 @@
+{
+  "id": "TXGB",
+  "name": "TXGB",
+  "categories": ["CUSTOM"],
+  "organization": "TXGB",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/txgb.svg",
+  "sourceUrl": "https://www.txgb.co.uk/",
+  "dataVisibility": ["PRIVATE"]
+}
