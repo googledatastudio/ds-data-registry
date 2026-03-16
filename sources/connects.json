@@ -1,0 +1,9 @@
+{
+  "id": "CONNECTS",
+  "name": "Connects",
+  "categories": ["AFFILIATE"],
+  "organization": "CONNECTS",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/connects.svg",
+  "sourceUrl": "https://www.connects.ch/",
+  "dataVisibility": ["PRIVATE"]
+}
