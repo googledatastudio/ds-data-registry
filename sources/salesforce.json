@@ -4,7 +4,7 @@
   "categories": ["CRM"],
   "organization": "SALESFORCE",
   "iconUrl":
-    "https://adverity-gds-static.s3-eu-west-1.amazonaws.com/icons/salesforce.png",
+    "https://adzviser.com/assets/images/salesforce.svg",
   "sourceUrl": "https://www.salesforce.com",
   "dataVisibility": ["PRIVATE"]
 }

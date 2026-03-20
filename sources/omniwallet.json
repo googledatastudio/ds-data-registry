@@ -1,0 +1,9 @@
+{
+  "id": "OMNIWALLET",
+  "name": "OmniWallet",
+  "categories": ["FINANCE", "CRYPTO"],
+  "organization": "OMNIWALLET",
+  "iconUrl": "https://www.omniwallet.org/assets/img/logo-rebrand.png",
+  "sourceUrl": "https://omniwallet.org/",
+  "dataVisibility": ["PRIVATE"]
+}

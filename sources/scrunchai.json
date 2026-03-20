@@ -1,0 +1,9 @@
+{
+  "id": "SCRUNCHAI",
+  "name": "Scrunch AI",
+  "categories": ["ANALYTICS", "SEO", "Artificial Intelligence"],
+  "organization": "SCRUNCHAI",
+  "iconUrl": "https://cdn.scrunchai.com/logo.png",
+  "sourceUrl": "https://scrunchai.com/",
+  "dataVisibility": ["PRIVATE"]
+}

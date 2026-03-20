@@ -1,0 +1,11 @@
+{
+  "id": "ODOO_PAYROLL",
+  "name": "Odoo Payroll",
+  "categories": [
+    "HUMAN RESOURCE"
+  ],
+  "organization": "ODOO",
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Odoo_logo.svg/600px-Odoo_logo.svg.png",
+  "sourceUrl": "https://www.odoo.com/",
+  "dataVisibility": ["PRIVATE"]
+}

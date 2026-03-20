@@ -1,0 +1,10 @@
+{
+  "id": "CONDUCTOR",
+  "name": "conductor",
+  "categories": ["MARKETING", "TOOLS", "ANALYTICS", "AEO", "SEO"],
+  "organization": "CONDUCTOR",
+  "iconUrl":
+  "https://www.conductor.com/favicons/apple-touch-icon.png",
+  "sourceUrl": "https://www.conductor.com/",
+  "dataVisibility": ["PRIVATE"]
+}

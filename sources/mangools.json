@@ -1,0 +1,9 @@
+{
+    "id": "MANGOOLS",
+    "name": "Mangools",
+    "categories": ["ANALYTICS", "SEO"],
+    "organization": "MANGOOLS",
+    "iconUrl": "https://mangools.com/images/logo-square.png",
+    "sourceUrl": "https://mangools.com/",
+    "dataVisibility": ["PRIVATE"]
+  }

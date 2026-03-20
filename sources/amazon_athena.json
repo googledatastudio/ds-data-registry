@@ -1,0 +1,9 @@
+{
+    "id": "AMAZON_ATHENA",
+    "name": "Amazon Athena",
+    "categories": ["CLOUD", "DATABASES"],
+    "organization": "AMAZON",
+    "iconUrl": "https://adverity-gds-statics.s3.us-east-1.amazonaws.com/icons/aws_athena.png",
+    "sourceUrl": "https://aws.amazon.com/athena/",
+    "dataVisibility": ["PRIVATE"]
+}

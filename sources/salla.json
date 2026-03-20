@@ -1,0 +1,11 @@
+{
+  "id": "SALLA",
+  "name": "Salla",
+  "categories": ["ECOMMERCE"],
+  "organization": "SALLA",
+  "iconUrl":
+    "https://salla.com/wp-content/themes/salla.com_wp_theme-landing/assets/icons/logo.svg",
+  "sourceUrl": "https://salla.com",
+  "dataVisibility": ["PRIVATE"]
+}
+

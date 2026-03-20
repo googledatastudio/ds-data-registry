@@ -1,0 +1,10 @@
+{
+  "id": "seosamba_crm",
+  "name":  "SeoSamba CRM",
+  "categories": ["CRM"],
+  "organization": "seosamba",
+  "iconUrl":
+    "https://www.seosamba.com/media/looker_studio_connctor_app/product/crm-green-logo-1-.png",
+  "sourceUrl": "https://www.seosamba.com/",
+  "dataVisibility": ["PRIVATE"]
+}

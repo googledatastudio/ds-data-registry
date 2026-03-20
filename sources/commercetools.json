@@ -1,0 +1,9 @@
+{
+  "id": "COMMERCETOOLS",
+  "name": "commercetools",
+  "categories": ["ECOMMERCE"],
+  "organization": "COMMERCETOOLS",
+  "iconUrl": "https://windsor.ai/wp-content/uploads/2025/05/1_qZWZuv46kiiO5Drkt263JQ.png",
+  "sourceUrl": "https://commercetools.com/",
+  "dataVisibility": ["PRIVATE"]
+}
