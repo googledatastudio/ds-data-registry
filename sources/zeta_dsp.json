@@ -1,0 +1,9 @@
+{
+  "id": "ZETA_DSP",
+  "name": "Zeta DSP",
+  "categories": ["ADVERTISING"],
+  "organization": "ZETA_DSP",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/zeta_dsp.svg",
+  "sourceUrl": "https://zetaglobal.com/",
+  "dataVisibility": ["PRIVATE"]
+}
