@@ -1,0 +1,9 @@
+{
+  "id": "SNAPCHAT",
+  "name": "Snapchat",
+  "categories": ["SOCIAL"],
+  "organization": "SNAPCHAT",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/snapchat.svg",
+  "sourceUrl": "https://www.snapchat.com/",
+  "dataVisibility": ["PRIVATE"]
+}
