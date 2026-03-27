@@ -1,0 +1,9 @@
+{
+  "id": "TWITCH",
+  "name": "Twitch",
+  "categories": ["SOCIAL"],
+  "organization": "TWITCH",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/twitch.svg",
+  "sourceUrl": "https://www.twitch.tv/",
+  "dataVisibility": ["PRIVATE"]
+}
