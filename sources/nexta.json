@@ -1,0 +1,9 @@
+{
+  "id": "NEXTA",
+  "name": "Nexta",
+  "categories": ["SOCIAL"],
+  "organization": "NEXTA",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/nexta.svg",
+  "sourceUrl": "https://www.nexta.io/",
+  "dataVisibility": ["PRIVATE"]
+}
