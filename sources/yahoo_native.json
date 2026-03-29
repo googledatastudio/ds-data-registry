@@ -1,0 +1,9 @@
+{
+  "id": "YAHOO_NATIVE",
+  "name": "Yahoo Native",
+  "categories": ["ADVERTISING"],
+  "organization": "YAHOO_NATIVE",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/yahoo_square.svg",
+  "sourceUrl": "https://www.yahoo.com/",
+  "dataVisibility": ["PRIVATE"]
+}
