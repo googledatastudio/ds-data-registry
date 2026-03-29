@@ -1,0 +1,9 @@
+{
+  "id": "YANOMO",
+  "name": "Yanomo",
+  "categories": ["TIME_TRACKING"],
+  "organization": "YANOMO",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/yanomo.svg",
+  "sourceUrl": "https://www.yanomo.com/site/en/",
+  "dataVisibility": ["PRIVATE"]
+}
