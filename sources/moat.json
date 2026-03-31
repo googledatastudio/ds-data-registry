@@ -1,0 +1,10 @@
+{
+  "id": "MOAT",
+  "name": "Moat",
+  "categories": ["CUSTOM"],
+  "organization": "MOAT",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/moat.svg",
+  "sourceUrl":
+    "https://www.oracle.com/uk/cx/advertising/measurement/analytics/",
+  "dataVisibility": ["PRIVATE"]
+}
