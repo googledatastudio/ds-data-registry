@@ -1,0 +1,9 @@
+{
+  "id": "EDGE",
+  "name": "Edge",
+  "categories": ["ECOMMERCE"],
+  "organization": "EDGE",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/edge.svg",
+  "sourceUrl": "https://www.ascentialedge.com/",
+  "dataVisibility": ["PRIVATE"]
+}
