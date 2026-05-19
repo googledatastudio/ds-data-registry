@@ -1,0 +1,8 @@
+{
+  "id": "ONESHOP",
+  "name": "OneShop",
+  "categories": ["CUSTOM", "ECOMMERCE"],
+  "iconUrl": "https://adverity-gds-static.s3.amazonaws.com/icons/parquet.jpeg",
+  "sourceUrl": "https://1shop.tw/",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}
