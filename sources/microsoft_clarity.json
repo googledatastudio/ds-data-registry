@@ -1,0 +1,10 @@
+{
+  "id": "MICROSOFT_CLARITY",
+  "name": "Microsoft Clarity",
+  "categories": ["ANALYTICS"],
+  "organization": "MICROSOFT",
+  "iconUrl":
+    "https://windsor.ai/wp-content/uploads/2026/05/microsoft-clarity.png",
+  "sourceUrl": "https://clarity.microsoft.com/",
+  "dataVisibility": ["PRIVATE"]
+}
