@@ -1,0 +1,8 @@
+{
+  "id": "RUTEN",
+  "name": "Ruten",
+  "categories": ["CUSTOM", "ECOMMERCE"],
+  "iconUrl": "https://photo.quickdash.com.tw/icon/ruten2.png",
+  "sourceUrl": "https://www.ruten.com.tw/",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}
