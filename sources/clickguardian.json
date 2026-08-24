@@ -1,0 +1,9 @@
+{
+  "id": "CLICKGUARDIAN",
+  "name": "ClickGuardian",
+  "categories": ["ADVERTISING", "MARKETING"],
+  "organization": "CLICKGUARDIAN",
+  "iconUrl": "https://clickguardian.ai/images/logo-icon.png",
+  "sourceUrl": "https://clickguardian.ai/",
+  "dataVisibility": ["PRIVATE"]
+}
