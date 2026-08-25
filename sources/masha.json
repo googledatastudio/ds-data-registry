@@ -1,0 +1,9 @@
+{
+  "id": "MASHA",
+  "name": "Masha",
+  "categories": ["ADVERTISING"],
+  "organization": "MASHA",
+  "iconUrl": "https://developers.masha.mx/looker/icon.png",
+  "sourceUrl": "https://masha.mx",
+  "dataVisibility": ["PRIVATE"]
+}
