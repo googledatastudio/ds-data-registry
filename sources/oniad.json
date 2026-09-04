@@ -1,0 +1,9 @@
+{
+  "id": "ONIAD",
+  "name": "Oniad",
+  "categories": ["ADVERTISING"],
+  "organization": "ONIAD",
+  "iconUrl": "https://static.oniad.com/assets/oniad/oniad-logo-40x40.png",
+  "sourceUrl": "https://oniad.com/",
+  "dataVisibility": ["PRIVATE"]
+}
