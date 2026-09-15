@@ -1,0 +1,9 @@
+{
+  "id": "RANK_OS",
+  "name": "Rank OS",
+  "categories": ["ANALYTICS", "SEO", "MARKETING"],
+  "organization": "RANK_OS",
+  "iconUrl": "https://rank-os-api-5v3p-production.up.railway.app/looker-connector-logo.png",
+  "sourceUrl": "https://rank-os-api-5v3p-production.up.railway.app/looker-connector.html",
+  "dataVisibility": ["PRIVATE"]
+}
