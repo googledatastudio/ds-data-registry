@@ -4,6 +4,6 @@
   "categories": ["ANALYTICS", "MARKETING"],
   "organization": "COSMISE",
   "iconUrl": "https://cosmise.com/assets/integrations/looker-studio-40.png",
-  "sourceUrl": "https://cosmise.com/integrations/looker-studio",
+  "sourceUrl": "https://cosmise.com/learn/data-product/destinations/looker-studio",
   "dataVisibility": ["PRIVATE"]
 }
