@@ -1,0 +1,9 @@
+{
+  "id": "COSMISE_STREAMBOARDS",
+  "name": "Cosmise Streamboards",
+  "categories": ["ANALYTICS", "MARKETING"],
+  "organization": "COSMISE",
+  "iconUrl": "https://cosmise.com/assets/integrations/looker-studio-40.png",
+  "sourceUrl": "https://cosmise.com/integrations/looker-studio",
+  "dataVisibility": ["PRIVATE"]
+}
