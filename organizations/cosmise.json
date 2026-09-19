@@ -1,6 +1,7 @@
 {
   "id": "COSMISE",
   "name": "Cosmise",
-  "iconUrl": "https://cosmise.com/assets/integrations/looker-studio-40.png",
+  "iconUrl":
+    "https://cdn.cosmise.com/cosmise/cms/assets/cb0666c3-b509-4298-9069-9f55bb30ae3b.png",
   "orgUrl": "https://cosmise.com"
 }
