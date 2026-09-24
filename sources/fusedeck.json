@@ -1,0 +1,13 @@
+{
+    "id": "FUSEDECK",
+    "name": "fusedeck Analytics",
+    "categories": [
+        "ANALYTICS"
+    ],
+    "organization": "CPTR",
+    "iconUrl": "https://cdn.fusedeck.net/fusedeck/assets/fusedeck_negative_transparent_icon.png",
+    "sourceUrl": "https://fusedeck.com/",
+    "dataVisibility": [
+        "PRIVATE"
+    ]
+}
