@@ -1,0 +1,9 @@
+{
+  "id": "COUCHBASE_CAPELLA",
+  "name": "Couchbase Capella",
+  "categories": ["DATABASE", "ANALYTICS"],
+  "organization": "COUCHBASE", 
+  "iconUrl": "https://www.couchbase.com/wp-content/uploads/2023/10/couchbase-favicon.svg",
+  "sourceUrl": "https://cloud.couchbase.com/",
+  "dataVisibility": ["PRIVATE"]
+}
