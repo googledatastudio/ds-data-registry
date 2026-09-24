@@ -1,0 +1,9 @@
+{
+  "id": "HALOSCAN",
+  "name": "Haloscan",
+  "categories": ["TOOLS", "SEO", "ANALYTICS"],
+  "organization": "Haloscan",
+  "iconUrl": "https://haloscan.com/logos/haloscan.png",
+  "sourceUrl": "https://haloscan.com",
+  "dataVisibility": ["PRIVATE"]
+}
