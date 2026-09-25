@@ -1,0 +1,9 @@
+{
+  "id": "LLM_PULSE",
+  "name": "LLM Pulse",
+  "categories": ["ANALYTICS", "SEO", "Artificial Intelligence"],
+  "organization": "LLM_PULSE",
+  "iconUrl": "https://llmpulse.ai/logo-mark.png",
+  "sourceUrl": "https://llmpulse.ai/",
+  "dataVisibility": ["PRIVATE"]
+}
