@@ -1,0 +1,9 @@
+{
+  "id": "ZOHO",
+  "name": "Zoho",
+  "categories": ["CRM"],
+  "organization": "ZOHO",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/zoho.svg",
+  "sourceUrl": "https://www.zoho.com/",
+  "dataVisibility": ["PRIVATE"]
+}
