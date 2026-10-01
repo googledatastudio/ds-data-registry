@@ -1,0 +1,9 @@
+{
+  "id": "GVT",
+  "name": "GEO Visibility Tool",
+  "categories": ["SEO", "ANALYTICS", "MARKETING", "Artificial Intelligence"],
+  "organization": "IGODS",
+  "iconUrl": "https://geo.igods.com/icons/icon-96x96.png",
+  "sourceUrl": "https://geo.igods.com",
+  "dataVisibility": ["PRIVATE"]
+}
