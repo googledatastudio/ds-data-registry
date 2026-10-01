@@ -1,0 +1,9 @@
+{
+    "id": "GROOVINADS",
+    "name": "Groovinads",
+    "categories": ["ADVERTISING"],
+    "organization": "Groovinads",
+    "iconUrl": "https://static.groovinads.com/ga-logo.png",
+    "sourceUrl": "https://www.groovinads.com/",
+    "dataVisibility": ["PRIVATE"]
+}

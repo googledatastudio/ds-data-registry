@@ -1,0 +1,9 @@
+{
+  "id": "TRAKKR",
+  "name": "Trakkr",
+  "categories": ["MARKETING", "ANALYTICS", "Artificial Intelligence"],
+  "organization": "TRAKKR",
+  "iconUrl": "https://trakkr.ai/logo-mint.png",
+  "sourceUrl": "https://trakkr.ai",
+  "dataVisibility": ["PRIVATE"]
+}

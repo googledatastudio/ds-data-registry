@@ -1,0 +1,9 @@
+{
+  "id": "RANKTRACKER",
+  "name": "Ranktracker",
+  "categories": ["SEO", "ANALYTICS"],
+  "organization": "RANKTRACKER",
+  "iconUrl": "https://www.ranktracker.com/favicon.ico",
+  "sourceUrl": "https://www.ranktracker.com/",
+  "dataVisibility": ["PRIVATE"]
+}
