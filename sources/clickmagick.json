@@ -1,0 +1,9 @@
+{
+  "id": "CLICKMAGICK",
+  "name": "ClickMagick",
+  "categories": ["MARKETING", "ANALYTICS", "ADVERTISING"],
+  "organization": "CLICKMAGICK",
+  "iconUrl": "https://windsor.ai/wp-content/uploads/2026/04/clickmagick.png",
+  "sourceUrl": "https://www.clickmagick.com/",
+  "dataVisibility": ["PRIVATE"]
+}
