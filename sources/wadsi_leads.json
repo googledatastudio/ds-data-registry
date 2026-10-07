@@ -1,0 +1,9 @@
+{
+  "id": "WADSI_LEADS",
+  "name": "Wadsi Leads",
+  "categories": ["CRM"],
+  "organization": "WADSI",
+  "iconUrl": "https://www.wadsi.app/wadsi-logo-cuadrado.png",
+  "sourceUrl": "https://wadsi.app",
+  "dataVisibility": ["PRIVATE"]
+}
