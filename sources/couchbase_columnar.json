@@ -1,0 +1,9 @@
+{
+  "id": "COUCHBASE_COLUMNAR",
+  "name": "Couchbase Columnar",
+  "categories": ["ANALYTICS", "DATABASE"],
+  "organization": "COUCHBASE",
+  "iconUrl": "https://www.couchbase.com/wp-content/uploads/2023/10/couchbase-favicon.svg",
+  "sourceUrl": "https://www.couchbase.com/products/columnar/",
+  "dataVisibility": ["PRIVATE"]
+}
