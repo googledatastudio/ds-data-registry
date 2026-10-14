@@ -1,0 +1,10 @@
+{
+  "id": "CHATGPT_ADS",
+  "name": "ChatGPT Ads",
+  "categories": ["ADVERTISING"],
+  "organization": "Open AI",
+  "iconUrl":
+    "https://adzviser.com/assets/images/chatgpt.svg",
+  "sourceUrl": "https://ads.openai.com/",
+  "dataVisibility": ["PRIVATE"]
+}
