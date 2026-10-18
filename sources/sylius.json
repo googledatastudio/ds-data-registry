@@ -1,0 +1,9 @@
+{
+  "id": "SYLIUS",
+  "name": "Sylius",
+  "categories": ["ECOMMERCE"],
+  "organization": "SYLIUS",
+  "iconUrl": "https://avatars.githubusercontent.com/u/719423?v=4",
+  "sourceUrl": "https://sylius.com/",
+  "dataVisibility": ["PRIVATE"]
+}
