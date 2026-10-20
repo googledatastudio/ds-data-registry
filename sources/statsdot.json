@@ -1,0 +1,9 @@
+{
+  "id": "STATSDOT",
+  "name": "Statsdot",
+  "categories": ["ANALYTICS"],
+  "organization": "STATSDOT",
+  "iconUrl": "https://statsdot.com/apple-touch-icon.png",
+  "sourceUrl": "https://statsdot.com",
+  "dataVisibility": ["PRIVATE"]
+}
