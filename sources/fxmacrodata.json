@@ -1,0 +1,13 @@
+{
+  "id": "FXMACRODATA",
+  "name": "FXMacroData",
+  "categories": [
+    "FINANCE"
+  ],
+  "organization": "FXMACRODATA",
+  "iconUrl": "https://fxmacrodata.com/static/images/brand/logo-icon.png",
+  "sourceUrl": "https://fxmacrodata.com/?utm_source=looker_studio&utm_medium=connector_gallery&utm_campaign=looker_studio_connector&utm_content=source_registry",
+  "dataVisibility": [
+    "PUBLIC"
+  ]
+}
