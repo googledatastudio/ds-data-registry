@@ -1,0 +1,9 @@
+{
+  "id": "RANK_PROMPT",
+  "name": "Rank Prompt",
+  "categories": ["SEO", "MARKETING", "ANALYTICS"],
+  "organization": "RANK_PROMPT",
+  "iconUrl": "https://rankprompt.com/images/favicons/rankprompt.png",
+  "sourceUrl": "https://rankprompt.com",
+  "dataVisibility": ["PRIVATE"]
+}
