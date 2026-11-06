@@ -1,0 +1,9 @@
+{
+  "id": "ANAKIN",
+  "name": "Anakin",
+  "categories": ["DATA_COLLECTION"],
+  "organization": "ANAKIN",
+  "iconUrl": "https://anakin.io/favicon.png",
+  "sourceUrl": "https://anakin.io",
+  "dataVisibility": ["PUBLIC"]
+}
