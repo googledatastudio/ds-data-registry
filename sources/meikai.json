@@ -1,0 +1,9 @@
+{
+  "id": "MEIKAI",
+  "name": "Meikai",
+  "categories": ["ANALYTICS", "MARKETING", "SEO", "Artificial Intelligence"],
+  "organization": "MEIKAI",
+  "iconUrl": "https://www.meikai.ai/images/looker-studio/meikai-logo-40.png",
+  "sourceUrl": "https://www.meikai.ai/",
+  "dataVisibility": ["PRIVATE"]
+}
