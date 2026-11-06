@@ -1,0 +1,9 @@
+{
+  "id": "PIANO_ANALYTICS",
+  "name": "Piano Analytics",
+  "categories": ["ANALYTICS"],
+  "organization": "PIANO",
+  "iconUrl": "https://kawooshdata.com/assets/logo.png",
+  "sourceUrl": "https://piano.io/product/analytics/",
+  "dataVisibility": ["PRIVATE"]
+}
