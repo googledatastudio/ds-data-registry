@@ -1,0 +1,9 @@
+{
+  "id": "ALKE_ANALYTICS",
+  "name": "Alke Analytics",
+  "categories": ["ANALYTICS", "ADVERTISING"],
+  "organization": "ALKE_TECH",
+  "iconUrl": "https://www.alketech.eu/assets/web-app-manifest-512x512.png",
+  "sourceUrl": "https://www.alketech.eu/",
+  "dataVisibility": ["PRIVATE"]
+}
