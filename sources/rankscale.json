@@ -1,0 +1,9 @@
+{
+  "id": "RANKSCALE",
+  "name": "Rankscale",
+  "categories": ["ANALYTICS", "SEO", "Artificial Intelligence"],
+  "organization": "RANKSCALE",
+  "iconUrl": "https://rankscale.ai/favicon/apple-touch-icon.png",
+  "sourceUrl": "https://rankscale.ai/",
+  "dataVisibility": ["PRIVATE"]
+}
