@@ -1,0 +1,9 @@
+{
+  "id": "RANKSCAN",
+  "name": "RankScan",
+  "categories": ["SEO", "ANALYTICS", "MARKETING"],
+  "organization": "RANKSCAN",
+  "iconUrl": "https://app.rankscan.ai/favicon/apple-touch-icon.png",
+  "sourceUrl": "https://rankscan.ai/",
+  "dataVisibility": ["PRIVATE"]
+}
