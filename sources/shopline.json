@@ -1,0 +1,8 @@
+{
+  "id": "SHOPLINE",
+  "name": "SHOPLINE",
+  "categories": ["CUSTOM", "ECOMMERCE"],
+  "iconUrl": "https://photo.quickdash.com.tw/icon/shopline.jpg",
+  "sourceUrl": "https://www.shopline.com/",
+  "dataVisibility": ["PRIVATE", "PUBLIC"]
+}

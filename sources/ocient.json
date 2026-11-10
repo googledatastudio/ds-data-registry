@@ -1,0 +1,10 @@
+{
+  "id": "OCIENTDB",
+  "name": "Ocient Hyperscale Data Warehouse",
+  "categories": ["ANALYTICS", "TIME_SERIES", "DATABASE","CDR"],
+  "organization": "OCIENT",
+  "iconUrl":
+    "https://21179802.fs1.hubspotusercontent-na1.net/hubfs/21179802/Images/Misc/OCIENT FAVICON R FC.png",
+  "sourceUrl": "https://ocient.com/",
+  "dataVisibility": ["PRIVATE"]
+}

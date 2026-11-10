@@ -1,0 +1,9 @@
+{
+  "id": "DS_DATABASE",
+  "name": "Database",
+  "categories": ["DATABASE"],
+  "organization": "DATASLAYER",
+  "iconUrl": "https://dataslayer-logos-eur.s3.eu-west-1.amazonaws.com/add-on/logo_dataslayer-40x40.jpeg",
+  "sourceUrl": "https://www.dataslayer.ai/connectors/database",
+  "dataVisibility": ["PRIVATE"]
+}

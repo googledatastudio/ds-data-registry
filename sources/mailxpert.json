@@ -3,7 +3,7 @@
   "name": "mailXpert",
   "categories": ["EMAIL"],
   "organization": "MAILXPERT",
-  "iconUrl": "https://www.mailxpert.ch/logo.png",
-  "sourceUrl": "https://www.mailxpert.ch/",
+  "iconUrl": "https://mailxpert.ch/logo.png",
+  "sourceUrl": "https://mailxpert.ch/",
   "dataVisibility": ["PRIVATE"]
 }

@@ -1,0 +1,9 @@
+{
+  "id": "REAUDIT",
+  "name": "Reaudit",
+  "categories": ["SEO", "MARKETING", "ANALYTICS"],
+  "organization": "REAUDIT",
+  "iconUrl": "https://reaudit.io/reaudit-ai-logo.svg",
+  "sourceUrl": "https://reaudit.io",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "MEDIAGO",
+  "name": "MediaGo",
+  "categories": ["ADVERTISING"],
+  "organization": "MEDIAGO",
+  "iconUrl": "https://windsor.ai/wp-content/uploads/2026/01/mediago.png",
+  "sourceUrl": "https://www.mediago.io/",
+  "dataVisibility": ["PRIVATE"]
+}

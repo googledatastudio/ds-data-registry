@@ -1,0 +1,9 @@
+{
+  "id": "WHITESPARK_LOCAL_RANK_TRACKER",
+  "name": "Whitespark Local Rank Tracker",
+  "categories": ["SEO", "ANALYTICS"],
+  "organization": "WHITESPARK",
+  "iconUrl": "https://static.whitespark.ca/icons/lrt.png",
+  "sourceUrl": "https://whitespark.ca/local-rank-tracker/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "VISMA_ECONOMIC",
+  "name": "Visma e-conomic",
+  "categories": ["FINANCE"],
+  "organization": "VISMA",
+  "iconUrl": "https://windsor.ai/wp-content/uploads/2025/12/visma_economic.png.webp",
+  "sourceUrl": "https://www.e-conomic.com/",
+  "dataVisibility": ["PRIVATE"]
+}

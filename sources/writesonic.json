@@ -1,0 +1,9 @@
+{
+  "id": "WRITESONIC",
+  "name": "Writesonic",
+  "categories": ["API"],
+  "organization": "WRITESONIC",
+  "iconUrl": "https://writesonic.com/images/logo_s.png",
+  "sourceUrl": "https://writesonic.com",
+  "dataVisibility": ["PRIVATE"]
+}

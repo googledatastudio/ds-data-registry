@@ -1,0 +1,9 @@
+{
+  "id": "KEYWORD_COM",
+  "name": "Keyword.com",
+  "categories": ["MARKETING", "TOOLS", "SEO", "ANALYTICS"],
+  "organization": "KEYWORD_COM",
+  "iconUrl": "https://keyword.com/wp-content/uploads/keyword.com-icon-2.png",
+  "sourceUrl": "https://keyword.com/",
+  "dataVisibility": ["PRIVATE"]
+}

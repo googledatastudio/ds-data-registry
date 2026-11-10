@@ -1,0 +1,9 @@
+{
+  "id": "PROMPTWATCH",
+  "name": "Promptwatch",
+  "categories": ["GEO"],
+  "organization": "Promptwatch",
+  "iconUrl": "https://promptwatch.com/favicon-96x96.png",
+  "sourceUrl": "https://promptwatch.com/",
+  "dataVisibility": ["PRIVATE"]
+}

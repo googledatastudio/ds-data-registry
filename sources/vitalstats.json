@@ -1,0 +1,16 @@
+{
+  "id": "VITALSTATS",
+  "name": "VitalStats",
+  "categories": [
+    "ANALYTICS",
+    "API",
+    "Artificial Intelligence",
+    "DATABASE",
+    "TOOLS"
+  ],
+  "organization": "VITALSTATS",
+  "iconUrl":
+    "http://static-au03.vitalstats.app/static/img/vitalstats_live_logo.png",
+  "sourceUrl": "https://vitalstats.live/",
+  "dataVisibility": ["PRIVATE"]
+}
