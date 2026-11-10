@@ -1,0 +1,10 @@
+{
+  "id": "META_AD_LIBRARY",
+  "name": "Meta Ad Library",
+  "categories": ["ADVERTISING"],
+  "organization": "META",
+  "iconUrl":
+    "https://central-prod-sm-custom-connector-external.storage.googleapis.com/MAL_1793102391.svg",
+  "sourceUrl": "https://www.facebook.com/ads/library/",
+  "dataVisibility": ["PUBLIC"]
+}
