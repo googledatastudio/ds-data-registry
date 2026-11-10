@@ -1,0 +1,9 @@
+{
+  "id": "APPFIGURES",
+  "name": "Appfigures",
+  "categories": ["ANALYTICS", "SALES"],
+  "organization": "APPFIGURES",
+  "iconUrl": "https://kawooshdata.com/assets/logo.png",
+  "sourceUrl": "https://appfigures.com",
+  "dataVisibility": ["PRIVATE"]
+}
