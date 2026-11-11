@@ -1,0 +1,10 @@
+{
+  "id": "PAGERANGERS",
+  "name": "PageRangers",
+  "categories": ["SEO", "MARKETING", "ANALYTICS"],
+  "organization": "PAGERANGERS",
+  "iconUrl":
+    "https://pagerangers.com/assets/Images/pagerangers-connector-logo.png",
+  "sourceUrl": "https://pagerangers.com/",
+  "dataVisibility": ["PRIVATE"]
+}
