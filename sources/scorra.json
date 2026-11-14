@@ -1,0 +1,9 @@
+{
+  "id": "SCORRA",
+  "name": "Scorra",
+  "categories": ["ANALYTICS", "SEO", "Artificial Intelligence"],
+  "organization": "SCORRA",
+  "iconUrl": "https://getscorra.com/icon.png",
+  "sourceUrl": "https://getscorra.com/",
+  "dataVisibility": ["PRIVATE"]
+}
