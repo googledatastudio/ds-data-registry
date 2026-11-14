@@ -1,0 +1,9 @@
+{
+  "id": "ARTURITO",
+  "name": "Arturito AI",
+  "categories": ["CRM", "SALES", "MARKETING"],
+  "organization": "ARTURITO",
+  "iconUrl": "https://arturito.ai/apple-icon.png",
+  "sourceUrl": "https://arturito.ai/en",
+  "dataVisibility": ["PRIVATE"]
+}
