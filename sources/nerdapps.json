@@ -1,0 +1,10 @@
+{
+  "id": "NERDAPPS",
+  "name": "NerdApps",
+  "categories": ["TOOLS", "PROJECT_MANAGEMENT"],
+  "organization": "NERDAPPS",
+  "iconUrl":
+    "https://static.nerdapps.app/apps/images/logos/nerdapps/nerdapps_square.png",
+  "sourceUrl": "https://nerdapps.app",
+  "dataVisibility": ["PRIVATE"]
+}
