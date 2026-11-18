@@ -1,0 +1,9 @@
+{
+  "id": "HITSTEPS",
+  "name": "Hitsteps",
+  "categories": ["ANALYTICS"],
+  "organization": "HITSTEPS",
+  "iconUrl": "https://www.hitsteps.com/api/logo-square.png",
+  "sourceUrl": "https://www.hitsteps.com/",
+  "dataVisibility": ["PRIVATE"]
+}
