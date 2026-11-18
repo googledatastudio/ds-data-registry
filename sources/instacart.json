@@ -1,0 +1,9 @@
+{
+  "id": "INSTACART",
+  "name": "Instacart",
+  "categories": ["ADVERTISING"],
+  "organization": "INSTACART",
+  "iconUrl": "https://adzviser.com/assets/connectors/instacart.svg",
+  "sourceUrl": "https://company.instacart.com/ads",
+  "dataVisibility": ["PRIVATE"]
+}
