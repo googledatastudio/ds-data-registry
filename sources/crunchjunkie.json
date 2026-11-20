@@ -1,0 +1,9 @@
+{
+  "id": "CRUNCHJUNKIE",
+  "name": "CrunchJunkie AI Visibility",
+  "categories": ["ANALYTICS", "RESEARCH"],
+  "organization": "TIKI_TAKA_MEDIA",
+  "iconUrl": "https://crunchjunkie.io/crunchjunkie-logo-512.png",
+  "sourceUrl": "https://crunchjunkie.io",
+  "dataVisibility": ["PRIVATE"]
+}
