@@ -1,0 +1,9 @@
+{
+  "id": "SPECSTREAM",
+  "name": "SpecStream",
+  "categories": ["PUBLIC_DATA", "DATA_COLLECTION", "SALES"],
+  "organization": "SPECSTREAM",
+  "iconUrl": "https://specstream.ai/world/marks/shadow-mark-lit-light.png",
+  "sourceUrl": "https://specstream.ai/",
+  "dataVisibility": ["PRIVATE"]
+}
