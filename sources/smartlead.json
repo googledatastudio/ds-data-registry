@@ -1,0 +1,9 @@
+{
+  "id": "SMARTLEAD",
+  "name": "Smartlead",
+  "categories": ["EMAIL", "SALES"],
+  "organization": "SMARTLEAD",
+  "iconUrl": "https://trydatapipe.com/integrations/smartlead.png",
+  "sourceUrl": "https://www.smartlead.ai",
+  "dataVisibility": ["PRIVATE"]
+}

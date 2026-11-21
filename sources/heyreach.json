@@ -1,0 +1,9 @@
+{
+  "id": "HEYREACH",
+  "name": "HeyReach",
+  "categories": ["SALES"],
+  "organization": "HEYREACH",
+  "iconUrl": "https://trydatapipe.com/integrations/heyreach.png",
+  "sourceUrl": "https://www.heyreach.io",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GREENHOUSE",
+  "name": "Greenhouse",
+  "categories": ["JOBS", "HRMS"],
+  "organization": "GREENHOUSE",
+  "iconUrl": "https://trydatapipe.com/integrations/greenhouse.png",
+  "sourceUrl": "https://www.greenhouse.com",
+  "dataVisibility": ["PRIVATE"]
+}

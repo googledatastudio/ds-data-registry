@@ -1,0 +1,9 @@
+{
+  "id": "EASYSHIP",
+  "name": "Easyship",
+  "categories": ["ECOMMERCE"],
+  "organization": "EASYSHIP",
+  "iconUrl": "https://trydatapipe.com/integrations/easyship.png",
+  "sourceUrl": "https://www.easyship.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "EASYPOST",
+  "name": "EasyPost",
+  "categories": ["ECOMMERCE"],
+  "organization": "EASYPOST",
+  "iconUrl": "https://trydatapipe.com/integrations/easypost.png",
+  "sourceUrl": "https://www.easypost.com",
+  "dataVisibility": ["PRIVATE"]
+}

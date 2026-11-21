@@ -1,0 +1,9 @@
+{
+  "id": "ASHBY",
+  "name": "Ashby",
+  "categories": ["JOBS", "HRMS"],
+  "organization": "ASHBY",
+  "iconUrl": "https://trydatapipe.com/integrations/ashby.png",
+  "sourceUrl": "https://www.ashbyhq.com",
+  "dataVisibility": ["PRIVATE"]
+}

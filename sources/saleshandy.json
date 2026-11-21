@@ -1,0 +1,9 @@
+{
+  "id": "SALESHANDY",
+  "name": "Saleshandy",
+  "categories": ["EMAIL", "SALES"],
+  "organization": "SALESHANDY",
+  "iconUrl": "https://trydatapipe.com/integrations/saleshandy.png",
+  "sourceUrl": "https://www.saleshandy.com",
+  "dataVisibility": ["PRIVATE"]
+}

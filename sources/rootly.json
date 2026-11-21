@@ -1,0 +1,9 @@
+{
+  "id": "ROOTLY",
+  "name": "Rootly",
+  "categories": ["TOOLS", "ISSUE_TRACKING"],
+  "organization": "ROOTLY",
+  "iconUrl": "https://trydatapipe.com/integrations/rootly.png",
+  "sourceUrl": "https://rootly.com",
+  "dataVisibility": ["PRIVATE"]
+}

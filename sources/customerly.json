@@ -1,0 +1,9 @@
+{
+  "id": "CUSTOMERLY",
+  "name": "Customerly",
+  "categories": ["CUSTOMER_SUPPORT"],
+  "organization": "CUSTOMERLY",
+  "iconUrl": "https://trydatapipe.com/integrations/customerly.png",
+  "sourceUrl": "https://www.customerly.io",
+  "dataVisibility": ["PRIVATE"]
+}

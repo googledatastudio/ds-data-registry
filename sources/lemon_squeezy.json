@@ -1,0 +1,9 @@
+{
+  "id": "LEMON_SQUEEZY",
+  "name": "Lemon Squeezy",
+  "categories": ["PAYMENTS", "ECOMMERCE"],
+  "organization": "LEMON_SQUEEZY",
+  "iconUrl": "https://trydatapipe.com/integrations/lemonsqueezy.svg",
+  "sourceUrl": "https://www.lemonsqueezy.com",
+  "dataVisibility": ["PRIVATE"]
+}

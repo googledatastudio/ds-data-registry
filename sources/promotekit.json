@@ -1,0 +1,9 @@
+{
+  "id": "PROMOTEKIT",
+  "name": "PromoteKit",
+  "categories": ["AFFILIATE"],
+  "organization": "PROMOTEKIT",
+  "iconUrl": "https://trydatapipe.com/integrations/promotekit.png",
+  "sourceUrl": "https://www.promotekit.com",
+  "dataVisibility": ["PRIVATE"]
+}

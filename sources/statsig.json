@@ -1,0 +1,9 @@
+{
+  "id": "STATSIG",
+  "name": "Statsig",
+  "categories": ["ANALYTICS", "TOOLS"],
+  "organization": "STATSIG",
+  "iconUrl": "https://trydatapipe.com/integrations/statsig.png",
+  "sourceUrl": "https://www.statsig.com",
+  "dataVisibility": ["PRIVATE"]
+}

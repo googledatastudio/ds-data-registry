@@ -1,0 +1,9 @@
+{
+  "id": "ATTRIBOO",
+  "name": "Attriboo",
+  "categories": ["ANALYTICS"],
+  "organization": "ATTRIBOO",
+  "iconUrl": "https://trydatapipe.com/integrations/attriboo.svg",
+  "sourceUrl": "https://attriboo.com",
+  "dataVisibility": ["PRIVATE"]
+}

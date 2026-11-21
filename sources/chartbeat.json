@@ -1,0 +1,9 @@
+{
+  "id": "CHARTBEAT",
+  "name": "Chartbeat",
+  "categories": ["ANALYTICS"],
+  "organization": "CHARTBEAT",
+  "iconUrl": "https://trydatapipe.com/integrations/chartbeat.png",
+  "sourceUrl": "https://chartbeat.com",
+  "dataVisibility": ["PRIVATE"]
+}

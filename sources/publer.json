@@ -1,0 +1,9 @@
+{
+  "id": "PUBLER",
+  "name": "Publer",
+  "categories": ["SOCIAL"],
+  "organization": "PUBLER",
+  "iconUrl": "https://trydatapipe.com/integrations/publer.svg",
+  "sourceUrl": "https://publer.com",
+  "dataVisibility": ["PRIVATE"]
+}

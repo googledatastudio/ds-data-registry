@@ -1,0 +1,9 @@
+{
+  "id": "CAL_COM",
+  "name": "Cal.com",
+  "categories": ["TOOLS"],
+  "organization": "CAL_COM",
+  "iconUrl": "https://trydatapipe.com/integrations/cal-com.png",
+  "sourceUrl": "https://cal.com",
+  "dataVisibility": ["PRIVATE"]
+}

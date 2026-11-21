@@ -1,0 +1,9 @@
+{
+  "id": "FIREFLIES_AI",
+  "name": "Fireflies.ai",
+  "categories": ["Artificial Intelligence", "TOOLS"],
+  "organization": "FIREFLIES_AI",
+  "iconUrl": "https://trydatapipe.com/integrations/fireflies.png",
+  "sourceUrl": "https://fireflies.ai",
+  "dataVisibility": ["PRIVATE"]
+}

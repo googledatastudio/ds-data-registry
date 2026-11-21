@@ -1,0 +1,9 @@
+{
+  "id": "CHECKLY",
+  "name": "Checkly",
+  "categories": ["CLOUD", "TOOLS"],
+  "organization": "CHECKLY",
+  "iconUrl": "https://trydatapipe.com/integrations/checkly.png",
+  "sourceUrl": "https://www.checklyhq.com",
+  "dataVisibility": ["PRIVATE"]
+}

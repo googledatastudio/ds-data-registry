@@ -1,0 +1,9 @@
+{
+  "id": "GITBOOK",
+  "name": "GitBook",
+  "categories": ["TOOLS"],
+  "organization": "GITBOOK",
+  "iconUrl": "https://trydatapipe.com/integrations/gitbook.png",
+  "sourceUrl": "https://www.gitbook.com",
+  "dataVisibility": ["PRIVATE"]
+}

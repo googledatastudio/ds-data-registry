@@ -1,0 +1,9 @@
+{
+  "id": "LA_GROWTH_MACHINE",
+  "name": "La Growth Machine",
+  "categories": ["SALES"],
+  "organization": "LA_GROWTH_MACHINE",
+  "iconUrl": "https://trydatapipe.com/integrations/lagrowthmachine.png",
+  "sourceUrl": "https://lagrowthmachine.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "MAXIO",
+  "name": "Maxio",
+  "categories": ["FINANCE", "PAYMENTS"],
+  "organization": "MAXIO",
+  "iconUrl": "https://trydatapipe.com/integrations/maxio.svg",
+  "sourceUrl": "https://www.maxio.com",
+  "dataVisibility": ["PRIVATE"]
+}

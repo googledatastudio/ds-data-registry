@@ -1,0 +1,9 @@
+{
+  "id": "FRILL",
+  "name": "Frill",
+  "categories": ["CUSTOMER_SUPPORT"],
+  "organization": "FRILL",
+  "iconUrl": "https://trydatapipe.com/integrations/frill.png",
+  "sourceUrl": "https://frill.co",
+  "dataVisibility": ["PRIVATE"]
+}

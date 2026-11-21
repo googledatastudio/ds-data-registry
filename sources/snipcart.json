@@ -1,0 +1,9 @@
+{
+  "id": "SNIPCART",
+  "name": "Snipcart",
+  "categories": ["ECOMMERCE"],
+  "organization": "SNIPCART",
+  "iconUrl": "https://trydatapipe.com/integrations/snipcart.png",
+  "sourceUrl": "https://snipcart.com",
+  "dataVisibility": ["PRIVATE"]
+}

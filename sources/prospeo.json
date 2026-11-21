@@ -1,0 +1,9 @@
+{
+  "id": "PROSPEO",
+  "name": "Prospeo",
+  "categories": ["SALES"],
+  "organization": "PROSPEO",
+  "iconUrl": "https://trydatapipe.com/integrations/prospeo.png",
+  "sourceUrl": "https://prospeo.io",
+  "dataVisibility": ["PRIVATE"]
+}

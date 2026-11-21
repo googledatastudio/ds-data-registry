@@ -1,0 +1,9 @@
+{
+  "id": "SPYFU",
+  "name": "SpyFu",
+  "categories": ["SEO", "ADVERTISING"],
+  "organization": "SPYFU",
+  "iconUrl": "https://trydatapipe.com/integrations/spyfu.png",
+  "sourceUrl": "https://www.spyfu.com",
+  "dataVisibility": ["PUBLIC"]
+}

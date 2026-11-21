@@ -1,0 +1,9 @@
+{
+  "id": "BUILDER_IO",
+  "name": "Builder.io",
+  "categories": ["TOOLS"],
+  "organization": "BUILDER_IO",
+  "iconUrl": "https://trydatapipe.com/integrations/builder-io.png",
+  "sourceUrl": "https://www.builder.io",
+  "dataVisibility": ["PRIVATE"]
+}

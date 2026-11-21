@@ -1,0 +1,9 @@
+{
+  "id": "RENDER",
+  "name": "Render",
+  "categories": ["CLOUD"],
+  "organization": "RENDER",
+  "iconUrl": "https://trydatapipe.com/integrations/render.png",
+  "sourceUrl": "https://render.com",
+  "dataVisibility": ["PRIVATE"]
+}

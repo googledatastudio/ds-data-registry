@@ -1,0 +1,9 @@
+{
+  "id": "GOOGLE_TAG_MANAGER",
+  "name": "Google Tag Manager",
+  "categories": ["MARKETING", "TOOLS"],
+  "organization": "GOOGLE",
+  "iconUrl": "https://trydatapipe.com/integrations/google-tag-manager.svg",
+  "sourceUrl": "https://marketingplatform.google.com/about/tag-manager/",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "EMAILBISON",
+  "name": "EmailBison",
+  "categories": ["EMAIL", "SALES"],
+  "organization": "EMAILBISON",
+  "iconUrl": "https://trydatapipe.com/integrations/emailbison.png",
+  "sourceUrl": "https://emailbison.com",
+  "dataVisibility": ["PRIVATE"]
+}

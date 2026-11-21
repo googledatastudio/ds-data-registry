@@ -1,0 +1,9 @@
+{
+  "id": "FLY_IO",
+  "name": "Fly.io",
+  "categories": ["CLOUD"],
+  "organization": "FLY_IO",
+  "iconUrl": "https://trydatapipe.com/integrations/fly-io.png",
+  "sourceUrl": "https://fly.io",
+  "dataVisibility": ["PRIVATE"]
+}

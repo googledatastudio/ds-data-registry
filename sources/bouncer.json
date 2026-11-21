@@ -1,0 +1,9 @@
+{
+  "id": "BOUNCER",
+  "name": "Bouncer",
+  "categories": ["EMAIL"],
+  "organization": "BOUNCER",
+  "iconUrl": "https://trydatapipe.com/integrations/bouncer.png",
+  "sourceUrl": "https://www.usebouncer.com",
+  "dataVisibility": ["PRIVATE"]
+}

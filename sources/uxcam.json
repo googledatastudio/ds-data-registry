@@ -1,0 +1,9 @@
+{
+  "id": "UXCAM",
+  "name": "UXCam",
+  "categories": ["ANALYTICS"],
+  "organization": "UXCAM",
+  "iconUrl": "https://trydatapipe.com/integrations/uxcam.svg",
+  "sourceUrl": "https://uxcam.com",
+  "dataVisibility": ["PRIVATE"]
+}

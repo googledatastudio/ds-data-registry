@@ -1,0 +1,9 @@
+{
+  "id": "TEAMTAILOR",
+  "name": "Teamtailor",
+  "categories": ["JOBS", "HRMS"],
+  "organization": "TEAMTAILOR",
+  "iconUrl": "https://trydatapipe.com/integrations/teamtailor.png",
+  "sourceUrl": "https://www.teamtailor.com",
+  "dataVisibility": ["PRIVATE"]
+}

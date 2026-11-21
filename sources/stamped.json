@@ -1,0 +1,9 @@
+{
+  "id": "STAMPED",
+  "name": "Stamped",
+  "categories": ["ECOMMERCE", "MARKETING"],
+  "organization": "STAMPED",
+  "iconUrl": "https://trydatapipe.com/integrations/stamped.png",
+  "sourceUrl": "https://stamped.io",
+  "dataVisibility": ["PRIVATE"]
+}

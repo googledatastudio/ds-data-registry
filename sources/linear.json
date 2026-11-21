@@ -1,0 +1,9 @@
+{
+  "id": "LINEAR",
+  "name": "Linear",
+  "categories": ["ISSUE_TRACKING", "PROJECT_MANAGEMENT"],
+  "organization": "LINEAR",
+  "iconUrl": "https://trydatapipe.com/integrations/linear.svg",
+  "sourceUrl": "https://linear.app",
+  "dataVisibility": ["PRIVATE"]
+}

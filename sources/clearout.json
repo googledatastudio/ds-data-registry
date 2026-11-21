@@ -1,0 +1,9 @@
+{
+  "id": "CLEAROUT",
+  "name": "Clearout",
+  "categories": ["EMAIL"],
+  "organization": "CLEAROUT",
+  "iconUrl": "https://trydatapipe.com/integrations/clearout.png",
+  "sourceUrl": "https://clearout.io",
+  "dataVisibility": ["PRIVATE"]
+}

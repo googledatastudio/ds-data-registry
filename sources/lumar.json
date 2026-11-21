@@ -1,0 +1,9 @@
+{
+  "id": "LUMAR",
+  "name": "Lumar",
+  "categories": ["SEO"],
+  "organization": "LUMAR",
+  "iconUrl": "https://trydatapipe.com/integrations/lumar.png",
+  "sourceUrl": "https://www.lumar.io",
+  "dataVisibility": ["PRIVATE"]
+}

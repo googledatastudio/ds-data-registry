@@ -1,0 +1,9 @@
+{
+  "id": "GROWTHBOOK",
+  "name": "GrowthBook",
+  "categories": ["ANALYTICS", "TOOLS"],
+  "organization": "GROWTHBOOK",
+  "iconUrl": "https://trydatapipe.com/integrations/growthbook.png",
+  "sourceUrl": "https://www.growthbook.io",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "USERFLOW",
+  "name": "Userflow",
+  "categories": ["ANALYTICS"],
+  "organization": "USERFLOW",
+  "iconUrl": "https://trydatapipe.com/integrations/userflow.png",
+  "sourceUrl": "https://www.userflow.com",
+  "dataVisibility": ["PRIVATE"]
+}

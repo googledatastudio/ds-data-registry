@@ -1,0 +1,9 @@
+{
+  "id": "NEVERBOUNCE",
+  "name": "NeverBounce",
+  "categories": ["EMAIL"],
+  "organization": "NEVERBOUNCE",
+  "iconUrl": "https://trydatapipe.com/integrations/neverbounce.png",
+  "sourceUrl": "https://neverbounce.com",
+  "dataVisibility": ["PRIVATE"]
+}

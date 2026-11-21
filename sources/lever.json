@@ -1,0 +1,9 @@
+{
+  "id": "LEVER",
+  "name": "Lever",
+  "categories": ["JOBS", "HRMS"],
+  "organization": "LEVER",
+  "iconUrl": "https://trydatapipe.com/integrations/lever.png",
+  "sourceUrl": "https://www.lever.co",
+  "dataVisibility": ["PRIVATE"]
+}

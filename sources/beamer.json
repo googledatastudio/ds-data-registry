@@ -1,0 +1,9 @@
+{
+  "id": "BEAMER",
+  "name": "Beamer",
+  "categories": ["MARKETING"],
+  "organization": "BEAMER",
+  "iconUrl": "https://trydatapipe.com/integrations/beamer.png",
+  "sourceUrl": "https://www.getbeamer.com",
+  "dataVisibility": ["PRIVATE"]
+}

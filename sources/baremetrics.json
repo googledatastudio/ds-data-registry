@@ -1,0 +1,9 @@
+{
+  "id": "BAREMETRICS",
+  "name": "Baremetrics",
+  "categories": ["FINANCE", "ANALYTICS"],
+  "organization": "BAREMETRICS",
+  "iconUrl": "https://trydatapipe.com/integrations/baremetrics.png",
+  "sourceUrl": "https://baremetrics.com",
+  "dataVisibility": ["PRIVATE"]
+}

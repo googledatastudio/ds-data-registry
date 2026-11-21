@@ -1,0 +1,9 @@
+{
+  "id": "ANTHROPIC",
+  "name": "Anthropic",
+  "categories": ["Artificial Intelligence"],
+  "organization": "ANTHROPIC",
+  "iconUrl": "https://trydatapipe.com/integrations/anthropic.png",
+  "sourceUrl": "https://www.anthropic.com",
+  "dataVisibility": ["PRIVATE"]
+}

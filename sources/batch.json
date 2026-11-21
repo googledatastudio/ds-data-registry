@@ -1,0 +1,9 @@
+{
+  "id": "BATCH",
+  "name": "Batch",
+  "categories": ["MARKETING"],
+  "organization": "BATCH",
+  "iconUrl": "https://trydatapipe.com/integrations/batch.png",
+  "sourceUrl": "https://batch.com",
+  "dataVisibility": ["PRIVATE"]
+}

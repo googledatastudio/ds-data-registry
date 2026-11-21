@@ -1,0 +1,9 @@
+{
+  "id": "EASY_DIGITAL_DOWNLOADS",
+  "name": "Easy Digital Downloads",
+  "categories": ["ECOMMERCE"],
+  "organization": "EASY_DIGITAL_DOWNLOADS",
+  "iconUrl": "https://trydatapipe.com/integrations/easy-digital-downloads.png",
+  "sourceUrl": "https://easydigitaldownloads.com",
+  "dataVisibility": ["PRIVATE"]
+}

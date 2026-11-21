@@ -1,0 +1,9 @@
+{
+  "id": "PRINTFUL",
+  "name": "Printful",
+  "categories": ["ECOMMERCE"],
+  "organization": "PRINTFUL",
+  "iconUrl": "https://trydatapipe.com/integrations/printful.png",
+  "sourceUrl": "https://www.printful.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "SANITY",
+  "name": "Sanity",
+  "categories": ["TOOLS"],
+  "organization": "SANITY",
+  "iconUrl": "https://trydatapipe.com/integrations/sanity.png",
+  "sourceUrl": "https://www.sanity.io",
+  "dataVisibility": ["PRIVATE"]
+}

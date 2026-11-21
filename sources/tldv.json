@@ -1,0 +1,9 @@
+{
+  "id": "TLDV",
+  "name": "tl;dv",
+  "categories": ["Artificial Intelligence", "TOOLS"],
+  "organization": "TLDV",
+  "iconUrl": "https://trydatapipe.com/integrations/tldv.png",
+  "sourceUrl": "https://tldv.io",
+  "dataVisibility": ["PRIVATE"]
+}

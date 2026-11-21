@@ -1,0 +1,9 @@
+{
+  "id": "VEEQO",
+  "name": "Veeqo",
+  "categories": ["ECOMMERCE", "INVENTORY_MANAGEMENT"],
+  "organization": "VEEQO",
+  "iconUrl": "https://trydatapipe.com/integrations/veeqo.png",
+  "sourceUrl": "https://www.veeqo.com",
+  "dataVisibility": ["PRIVATE"]
+}

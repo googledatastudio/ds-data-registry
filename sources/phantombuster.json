@@ -1,0 +1,9 @@
+{
+  "id": "PHANTOMBUSTER",
+  "name": "PhantomBuster",
+  "categories": ["DATA_COLLECTION", "SALES"],
+  "organization": "PHANTOMBUSTER",
+  "iconUrl": "https://trydatapipe.com/integrations/phantombuster.png",
+  "sourceUrl": "https://phantombuster.com",
+  "dataVisibility": ["PRIVATE"]
+}

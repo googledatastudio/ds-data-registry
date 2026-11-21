@@ -1,0 +1,9 @@
+{
+  "id": "ATTIO",
+  "name": "Attio",
+  "categories": ["CRM"],
+  "organization": "ATTIO",
+  "iconUrl": "https://trydatapipe.com/integrations/attio.png",
+  "sourceUrl": "https://attio.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "E2B",
+  "name": "E2B",
+  "categories": ["CLOUD", "Artificial Intelligence"],
+  "organization": "E2B",
+  "iconUrl": "https://trydatapipe.com/integrations/e2b.png",
+  "sourceUrl": "https://e2b.dev",
+  "dataVisibility": ["PRIVATE"]
+}

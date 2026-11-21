@@ -1,0 +1,9 @@
+{
+  "id": "FIRSTPROMOTER",
+  "name": "FirstPromoter",
+  "categories": ["AFFILIATE"],
+  "organization": "FIRSTPROMOTER",
+  "iconUrl": "https://trydatapipe.com/integrations/firstpromoter.png",
+  "sourceUrl": "https://firstpromoter.com",
+  "dataVisibility": ["PRIVATE"]
+}

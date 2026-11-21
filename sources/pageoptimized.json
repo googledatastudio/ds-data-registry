@@ -1,0 +1,9 @@
+{
+  "id": "PAGEOPTIMIZED",
+  "name": "PageOptimized",
+  "categories": ["SEO"],
+  "organization": "PAGEOPTIMIZED",
+  "iconUrl": "https://trydatapipe.com/integrations/pageoptimized.svg",
+  "sourceUrl": "https://pageoptimized.com",
+  "dataVisibility": ["PRIVATE"]
+}

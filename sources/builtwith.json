@@ -1,0 +1,9 @@
+{
+  "id": "BUILTWITH",
+  "name": "BuiltWith",
+  "categories": ["RESEARCH", "SALES"],
+  "organization": "BUILTWITH",
+  "iconUrl": "https://trydatapipe.com/integrations/builtwith.png",
+  "sourceUrl": "https://builtwith.com",
+  "dataVisibility": ["PUBLIC"]
+}

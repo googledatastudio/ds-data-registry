@@ -1,0 +1,9 @@
+{
+  "id": "DEBOUNCE",
+  "name": "DeBounce",
+  "categories": ["EMAIL"],
+  "organization": "DEBOUNCE",
+  "iconUrl": "https://trydatapipe.com/integrations/debounce.png",
+  "sourceUrl": "https://debounce.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "LOOP_RETURNS",
+  "name": "Loop Returns",
+  "categories": ["ECOMMERCE"],
+  "organization": "LOOP_RETURNS",
+  "iconUrl": "https://trydatapipe.com/integrations/loop-returns.png",
+  "sourceUrl": "https://www.loopreturns.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "AFTERSHIP",
+  "name": "AfterShip",
+  "categories": ["ECOMMERCE"],
+  "organization": "AFTERSHIP",
+  "iconUrl": "https://trydatapipe.com/integrations/aftership.png",
+  "sourceUrl": "https://www.aftership.com",
+  "dataVisibility": ["PRIVATE"]
+}

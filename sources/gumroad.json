@@ -1,0 +1,9 @@
+{
+  "id": "GUMROAD",
+  "name": "Gumroad",
+  "categories": ["ECOMMERCE", "PAYMENTS"],
+  "organization": "GUMROAD",
+  "iconUrl": "https://trydatapipe.com/integrations/gumroad.png",
+  "sourceUrl": "https://gumroad.com",
+  "dataVisibility": ["PRIVATE"]
+}

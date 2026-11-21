@@ -1,0 +1,9 @@
+{
+  "id": "MOLLIE",
+  "name": "Mollie",
+  "categories": ["PAYMENTS"],
+  "organization": "MOLLIE",
+  "iconUrl": "https://trydatapipe.com/integrations/mollie.png",
+  "sourceUrl": "https://www.mollie.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "LATER",
+  "name": "Later",
+  "categories": ["SOCIAL"],
+  "organization": "LATER",
+  "iconUrl": "https://trydatapipe.com/integrations/later.svg",
+  "sourceUrl": "https://later.com",
+  "dataVisibility": ["PRIVATE"]
+}

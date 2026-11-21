@@ -1,0 +1,9 @@
+{
+  "id": "TINYBIRD",
+  "name": "Tinybird",
+  "categories": ["DATABASE", "CLOUD"],
+  "organization": "TINYBIRD",
+  "iconUrl": "https://trydatapipe.com/integrations/tinybird.png",
+  "sourceUrl": "https://www.tinybird.co",
+  "dataVisibility": ["PRIVATE"]
+}

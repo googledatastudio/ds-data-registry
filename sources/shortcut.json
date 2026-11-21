@@ -1,0 +1,9 @@
+{
+  "id": "SHORTCUT",
+  "name": "Shortcut",
+  "categories": ["ISSUE_TRACKING", "PROJECT_MANAGEMENT"],
+  "organization": "SHORTCUT",
+  "iconUrl": "https://trydatapipe.com/integrations/shortcut.png",
+  "sourceUrl": "https://www.shortcut.com",
+  "dataVisibility": ["PRIVATE"]
+}

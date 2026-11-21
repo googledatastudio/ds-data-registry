@@ -1,0 +1,9 @@
+{
+  "id": "SURVICATE",
+  "name": "Survicate",
+  "categories": ["RESEARCH", "FORM"],
+  "organization": "SURVICATE",
+  "iconUrl": "https://trydatapipe.com/integrations/survicate.png",
+  "sourceUrl": "https://survicate.com",
+  "dataVisibility": ["PRIVATE"]
+}

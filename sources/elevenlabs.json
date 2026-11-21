@@ -1,0 +1,9 @@
+{
+  "id": "ELEVENLABS",
+  "name": "ElevenLabs",
+  "categories": ["Artificial Intelligence"],
+  "organization": "ELEVENLABS",
+  "iconUrl": "https://trydatapipe.com/integrations/elevenlabs.png",
+  "sourceUrl": "https://elevenlabs.io",
+  "dataVisibility": ["PRIVATE"]
+}

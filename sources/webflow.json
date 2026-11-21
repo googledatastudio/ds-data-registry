@@ -1,0 +1,9 @@
+{
+  "id": "WEBFLOW",
+  "name": "Webflow",
+  "categories": ["TOOLS", "ECOMMERCE"],
+  "organization": "WEBFLOW",
+  "iconUrl": "https://trydatapipe.com/integrations/webflow.svg",
+  "sourceUrl": "https://webflow.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "UPDOWN_IO",
+  "name": "Updown.io",
+  "categories": ["TOOLS"],
+  "organization": "UPDOWN_IO",
+  "iconUrl": "https://trydatapipe.com/integrations/updown.png",
+  "sourceUrl": "https://updown.io",
+  "dataVisibility": ["PRIVATE"]
+}

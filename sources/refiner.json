@@ -1,0 +1,9 @@
+{
+  "id": "REFINER",
+  "name": "Refiner",
+  "categories": ["RESEARCH"],
+  "organization": "REFINER",
+  "iconUrl": "https://trydatapipe.com/integrations/refiner.png",
+  "sourceUrl": "https://refiner.io",
+  "dataVisibility": ["PRIVATE"]
+}

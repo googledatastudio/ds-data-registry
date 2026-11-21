@@ -1,0 +1,9 @@
+{
+  "id": "CANNY",
+  "name": "Canny",
+  "categories": ["CUSTOMER_SUPPORT"],
+  "organization": "CANNY",
+  "iconUrl": "https://trydatapipe.com/integrations/canny.png",
+  "sourceUrl": "https://canny.io",
+  "dataVisibility": ["PRIVATE"]
+}

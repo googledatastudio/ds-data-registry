@@ -1,0 +1,9 @@
+{
+  "id": "FEATUREBASE",
+  "name": "Featurebase",
+  "categories": ["CUSTOMER_SUPPORT"],
+  "organization": "FEATUREBASE",
+  "iconUrl": "https://trydatapipe.com/integrations/featurebase.png",
+  "sourceUrl": "https://www.featurebase.app",
+  "dataVisibility": ["PRIVATE"]
+}

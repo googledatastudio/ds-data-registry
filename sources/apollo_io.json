@@ -1,0 +1,9 @@
+{
+  "id": "APOLLO_IO",
+  "name": "Apollo.io",
+  "categories": ["SALES"],
+  "organization": "APOLLO_IO",
+  "iconUrl": "https://trydatapipe.com/integrations/apollo.png",
+  "sourceUrl": "https://www.apollo.io",
+  "dataVisibility": ["PRIVATE"]
+}

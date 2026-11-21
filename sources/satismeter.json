@@ -1,0 +1,9 @@
+{
+  "id": "SATISMETER",
+  "name": "SatisMeter",
+  "categories": ["RESEARCH"],
+  "organization": "SATISMETER",
+  "iconUrl": "https://trydatapipe.com/integrations/satismeter.png",
+  "sourceUrl": "https://www.satismeter.com",
+  "dataVisibility": ["PRIVATE"]
+}

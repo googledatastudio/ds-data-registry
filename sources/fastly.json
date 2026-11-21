@@ -1,0 +1,9 @@
+{
+  "id": "FASTLY",
+  "name": "Fastly",
+  "categories": ["CLOUD"],
+  "organization": "FASTLY",
+  "iconUrl": "https://trydatapipe.com/integrations/fastly.png",
+  "sourceUrl": "https://www.fastly.com",
+  "dataVisibility": ["PRIVATE"]
+}

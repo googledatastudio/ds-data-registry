@@ -1,0 +1,9 @@
+{
+  "id": "CODA",
+  "name": "Coda",
+  "categories": ["TOOLS", "PROJECT_MANAGEMENT"],
+  "organization": "CODA",
+  "iconUrl": "https://trydatapipe.com/integrations/coda.png",
+  "sourceUrl": "https://coda.io",
+  "dataVisibility": ["PRIVATE"]
+}

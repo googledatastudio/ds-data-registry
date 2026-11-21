@@ -1,0 +1,9 @@
+{
+  "id": "MENTION",
+  "name": "Mention",
+  "categories": ["SOCIAL", "PUBLIC_RELATIONS"],
+  "organization": "MENTION",
+  "iconUrl": "https://trydatapipe.com/integrations/mention.svg",
+  "sourceUrl": "https://mention.com",
+  "dataVisibility": ["PRIVATE"]
+}

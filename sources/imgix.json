@@ -1,0 +1,9 @@
+{
+  "id": "IMGIX",
+  "name": "imgix",
+  "categories": ["CLOUD"],
+  "organization": "IMGIX",
+  "iconUrl": "https://trydatapipe.com/integrations/imgix.png",
+  "sourceUrl": "https://www.imgix.com",
+  "dataVisibility": ["PRIVATE"]
+}

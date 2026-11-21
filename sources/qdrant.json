@@ -1,0 +1,9 @@
+{
+  "id": "QDRANT",
+  "name": "Qdrant",
+  "categories": ["DATABASE"],
+  "organization": "QDRANT",
+  "iconUrl": "https://trydatapipe.com/integrations/qdrant.png",
+  "sourceUrl": "https://qdrant.tech",
+  "dataVisibility": ["PRIVATE"]
+}

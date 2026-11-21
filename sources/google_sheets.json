@@ -1,0 +1,9 @@
+{
+  "id": "GOOGLE_SHEETS",
+  "name": "Google Sheets",
+  "categories": ["STORAGE", "TOOLS"],
+  "organization": "GOOGLE",
+  "iconUrl": "https://trydatapipe.com/integrations/google-sheets.svg",
+  "sourceUrl": "https://workspace.google.com/products/sheets/",
+  "dataVisibility": ["PRIVATE"]
+}

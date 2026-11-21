@@ -1,0 +1,9 @@
+{
+  "id": "CHAMELEON",
+  "name": "Chameleon",
+  "categories": ["ANALYTICS"],
+  "organization": "CHAMELEON",
+  "iconUrl": "https://trydatapipe.com/integrations/chameleon.png",
+  "sourceUrl": "https://www.chameleon.io",
+  "dataVisibility": ["PRIVATE"]
+}

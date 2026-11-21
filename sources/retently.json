@@ -1,0 +1,9 @@
+{
+  "id": "RETENTLY",
+  "name": "Retently",
+  "categories": ["RESEARCH", "CUSTOMER_SUPPORT"],
+  "organization": "RETENTLY",
+  "iconUrl": "https://trydatapipe.com/integrations/retently.png",
+  "sourceUrl": "https://www.retently.com",
+  "dataVisibility": ["PRIVATE"]
+}

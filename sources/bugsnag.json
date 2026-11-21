@@ -1,0 +1,9 @@
+{
+  "id": "BUGSNAG",
+  "name": "Bugsnag",
+  "categories": ["TOOLS", "ISSUE_TRACKING"],
+  "organization": "SMARTBEAR",
+  "iconUrl": "https://trydatapipe.com/integrations/bugsnag.png",
+  "sourceUrl": "https://www.bugsnag.com",
+  "dataVisibility": ["PRIVATE"]
+}

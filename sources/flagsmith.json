@@ -1,0 +1,9 @@
+{
+  "id": "FLAGSMITH",
+  "name": "Flagsmith",
+  "categories": ["TOOLS"],
+  "organization": "FLAGSMITH",
+  "iconUrl": "https://trydatapipe.com/integrations/flagsmith.png",
+  "sourceUrl": "https://www.flagsmith.com",
+  "dataVisibility": ["PRIVATE"]
+}

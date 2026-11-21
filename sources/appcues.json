@@ -1,0 +1,9 @@
+{
+  "id": "APPCUES",
+  "name": "Appcues",
+  "categories": ["ANALYTICS"],
+  "organization": "APPCUES",
+  "iconUrl": "https://trydatapipe.com/integrations/appcues.png",
+  "sourceUrl": "https://www.appcues.com",
+  "dataVisibility": ["PRIVATE"]
+}

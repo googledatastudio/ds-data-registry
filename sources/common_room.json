@@ -1,0 +1,9 @@
+{
+  "id": "COMMON_ROOM",
+  "name": "Common Room",
+  "categories": ["SALES", "CDP"],
+  "organization": "COMMON_ROOM",
+  "iconUrl": "https://trydatapipe.com/integrations/common-room.png",
+  "sourceUrl": "https://www.commonroom.io",
+  "dataVisibility": ["PRIVATE"]
+}

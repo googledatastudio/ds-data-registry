@@ -1,0 +1,9 @@
+{
+  "id": "HELICONE",
+  "name": "Helicone",
+  "categories": ["Artificial Intelligence", "ANALYTICS"],
+  "organization": "HELICONE",
+  "iconUrl": "https://trydatapipe.com/integrations/helicone.png",
+  "sourceUrl": "https://www.helicone.ai",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "SAVVYCAL",
+  "name": "SavvyCal",
+  "categories": ["TOOLS"],
+  "organization": "SAVVYCAL",
+  "iconUrl": "https://trydatapipe.com/integrations/savvycal.png",
+  "sourceUrl": "https://savvycal.com",
+  "dataVisibility": ["PRIVATE"]
+}

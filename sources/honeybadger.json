@@ -1,0 +1,9 @@
+{
+  "id": "HONEYBADGER",
+  "name": "Honeybadger",
+  "categories": ["TOOLS", "ISSUE_TRACKING"],
+  "organization": "HONEYBADGER",
+  "iconUrl": "https://trydatapipe.com/integrations/honeybadger.png",
+  "sourceUrl": "https://www.honeybadger.io",
+  "dataVisibility": ["PRIVATE"]
+}
