@@ -1,0 +1,9 @@
+{
+  "id": "INSTANTLY",
+  "name": "Instantly",
+  "categories": ["EMAIL", "SALES"],
+  "organization": "INSTANTLY",
+  "iconUrl": "https://trydatapipe.com/integrations/instantly.png",
+  "sourceUrl": "https://instantly.ai",
+  "dataVisibility": ["PRIVATE"]
+}

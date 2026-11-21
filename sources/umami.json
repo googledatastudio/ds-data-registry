@@ -1,0 +1,9 @@
+{
+  "id": "UMAMI",
+  "name": "Umami",
+  "categories": ["ANALYTICS"],
+  "organization": "UMAMI",
+  "iconUrl": "https://trydatapipe.com/integrations/umami.svg",
+  "sourceUrl": "https://umami.is",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "FIRECRAWL",
+  "name": "Firecrawl",
+  "categories": ["DATA_COLLECTION", "Artificial Intelligence"],
+  "organization": "FIRECRAWL",
+  "iconUrl": "https://trydatapipe.com/integrations/firecrawl.png",
+  "sourceUrl": "https://www.firecrawl.dev",
+  "dataVisibility": ["PRIVATE"]
+}

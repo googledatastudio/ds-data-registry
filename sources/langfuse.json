@@ -1,0 +1,9 @@
+{
+  "id": "LANGFUSE",
+  "name": "Langfuse",
+  "categories": ["Artificial Intelligence", "ANALYTICS"],
+  "organization": "LANGFUSE",
+  "iconUrl": "https://trydatapipe.com/integrations/langfuse.png",
+  "sourceUrl": "https://langfuse.com",
+  "dataVisibility": ["PRIVATE"]
+}

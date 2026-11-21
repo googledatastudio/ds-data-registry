@@ -1,0 +1,9 @@
+{
+  "id": "PENDO",
+  "name": "Pendo",
+  "categories": ["ANALYTICS"],
+  "organization": "PENDO",
+  "iconUrl": "https://trydatapipe.com/integrations/pendo.png",
+  "sourceUrl": "https://www.pendo.io",
+  "dataVisibility": ["PRIVATE"]
+}

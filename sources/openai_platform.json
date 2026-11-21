@@ -1,0 +1,9 @@
+{
+  "id": "OPENAI_PLATFORM",
+  "name": "OpenAI Platform",
+  "categories": ["Artificial Intelligence"],
+  "organization": "OPENAI",
+  "iconUrl": "https://trydatapipe.com/integrations/openai.png",
+  "sourceUrl": "https://platform.openai.com",
+  "dataVisibility": ["PRIVATE"]
+}

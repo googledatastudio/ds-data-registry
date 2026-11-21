@@ -1,0 +1,9 @@
+{
+  "id": "BUNNY_NET",
+  "name": "Bunny.net",
+  "categories": ["CLOUD"],
+  "organization": "BUNNY_NET",
+  "iconUrl": "https://trydatapipe.com/integrations/bunny.png",
+  "sourceUrl": "https://bunny.net",
+  "dataVisibility": ["PRIVATE"]
+}

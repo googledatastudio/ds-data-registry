@@ -1,0 +1,9 @@
+{
+  "id": "ROLLBAR",
+  "name": "Rollbar",
+  "categories": ["TOOLS", "ISSUE_TRACKING"],
+  "organization": "ROLLBAR",
+  "iconUrl": "https://trydatapipe.com/integrations/rollbar.png",
+  "sourceUrl": "https://rollbar.com",
+  "dataVisibility": ["PRIVATE"]
+}

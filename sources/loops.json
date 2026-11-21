@@ -1,0 +1,9 @@
+{
+  "id": "LOOPS",
+  "name": "Loops",
+  "categories": ["EMAIL"],
+  "organization": "LOOPS",
+  "iconUrl": "https://trydatapipe.com/integrations/loops.png",
+  "sourceUrl": "https://loops.so",
+  "dataVisibility": ["PRIVATE"]
+}

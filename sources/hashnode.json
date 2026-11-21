@@ -1,0 +1,9 @@
+{
+  "id": "HASHNODE",
+  "name": "Hashnode",
+  "categories": ["SOCIAL"],
+  "organization": "HASHNODE",
+  "iconUrl": "https://trydatapipe.com/integrations/hashnode.png",
+  "sourceUrl": "https://hashnode.com",
+  "dataVisibility": ["PRIVATE"]
+}

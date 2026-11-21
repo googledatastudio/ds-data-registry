@@ -1,0 +1,9 @@
+{
+  "id": "BETTER_STACK",
+  "name": "Better Stack",
+  "categories": ["CLOUD", "TOOLS"],
+  "organization": "BETTER_STACK",
+  "iconUrl": "https://trydatapipe.com/integrations/betterstack.png",
+  "sourceUrl": "https://betterstack.com",
+  "dataVisibility": ["PRIVATE"]
+}

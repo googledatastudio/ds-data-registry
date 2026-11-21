@@ -1,0 +1,9 @@
+{
+  "id": "UPSTASH",
+  "name": "Upstash",
+  "categories": ["DATABASE", "CLOUD"],
+  "organization": "UPSTASH",
+  "iconUrl": "https://trydatapipe.com/integrations/upstash.png",
+  "sourceUrl": "https://upstash.com",
+  "dataVisibility": ["PRIVATE"]
+}

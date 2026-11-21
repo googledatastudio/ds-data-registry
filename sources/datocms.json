@@ -1,0 +1,9 @@
+{
+  "id": "DATOCMS",
+  "name": "DatoCMS",
+  "categories": ["TOOLS"],
+  "organization": "DATOCMS",
+  "iconUrl": "https://trydatapipe.com/integrations/datocms.png",
+  "sourceUrl": "https://www.datocms.com",
+  "dataVisibility": ["PRIVATE"]
+}

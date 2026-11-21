@@ -1,0 +1,9 @@
+{
+  "id": "CRONITOR",
+  "name": "Cronitor",
+  "categories": ["CLOUD", "TOOLS"],
+  "organization": "CRONITOR",
+  "iconUrl": "https://trydatapipe.com/integrations/cronitor.png",
+  "sourceUrl": "https://cronitor.io",
+  "dataVisibility": ["PRIVATE"]
+}

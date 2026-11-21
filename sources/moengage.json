@@ -1,0 +1,9 @@
+{
+  "id": "MOENGAGE",
+  "name": "MoEngage",
+  "categories": ["MARKETING"],
+  "organization": "MOENGAGE",
+  "iconUrl": "https://trydatapipe.com/integrations/moengage.png",
+  "sourceUrl": "https://www.moengage.com",
+  "dataVisibility": ["PRIVATE"]
+}

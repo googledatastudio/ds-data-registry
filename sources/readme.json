@@ -1,0 +1,9 @@
+{
+  "id": "README",
+  "name": "ReadMe",
+  "categories": ["TOOLS"],
+  "organization": "README",
+  "iconUrl": "https://trydatapipe.com/integrations/readme.png",
+  "sourceUrl": "https://readme.com",
+  "dataVisibility": ["PRIVATE"]
+}

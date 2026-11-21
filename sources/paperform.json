@@ -1,0 +1,9 @@
+{
+  "id": "PAPERFORM",
+  "name": "Paperform",
+  "categories": ["FORM"],
+  "organization": "PAPERFORM",
+  "iconUrl": "https://trydatapipe.com/integrations/paperform.png",
+  "sourceUrl": "https://paperform.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "ROCKETREACH",
+  "name": "RocketReach",
+  "categories": ["SALES"],
+  "organization": "ROCKETREACH",
+  "iconUrl": "https://trydatapipe.com/integrations/rocketreach.png",
+  "sourceUrl": "https://rocketreach.co",
+  "dataVisibility": ["PRIVATE"]
+}

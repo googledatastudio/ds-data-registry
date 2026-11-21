@@ -1,0 +1,9 @@
+{
+  "id": "AMPLEMARKET",
+  "name": "Amplemarket",
+  "categories": ["SALES"],
+  "organization": "AMPLEMARKET",
+  "iconUrl": "https://trydatapipe.com/integrations/amplemarket.png",
+  "sourceUrl": "https://www.amplemarket.com",
+  "dataVisibility": ["PRIVATE"]
+}

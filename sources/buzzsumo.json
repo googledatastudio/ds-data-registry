@@ -1,0 +1,9 @@
+{
+  "id": "BUZZSUMO",
+  "name": "BuzzSumo",
+  "categories": ["SOCIAL", "RESEARCH"],
+  "organization": "BUZZSUMO",
+  "iconUrl": "https://trydatapipe.com/integrations/buzzsumo.svg",
+  "sourceUrl": "https://buzzsumo.com",
+  "dataVisibility": ["PUBLIC"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "CONTENTFUL",
+  "name": "Contentful",
+  "categories": ["TOOLS"],
+  "organization": "CONTENTFUL",
+  "iconUrl": "https://trydatapipe.com/integrations/contentful.svg",
+  "sourceUrl": "https://www.contentful.com",
+  "dataVisibility": ["PRIVATE"]
+}

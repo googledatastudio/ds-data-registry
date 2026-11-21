@@ -1,0 +1,9 @@
+{
+  "id": "MIXMAX",
+  "name": "Mixmax",
+  "categories": ["EMAIL", "SALES"],
+  "organization": "MIXMAX",
+  "iconUrl": "https://trydatapipe.com/integrations/mixmax.png",
+  "sourceUrl": "https://www.mixmax.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "GIVEWP",
+  "name": "GiveWP",
+  "categories": ["PAYMENTS"],
+  "organization": "LIQUID_WEB",
+  "iconUrl": "https://trydatapipe.com/integrations/givewp.png",
+  "sourceUrl": "https://givewp.com",
+  "dataVisibility": ["PRIVATE"]
+}

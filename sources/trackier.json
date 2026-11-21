@@ -1,0 +1,9 @@
+{
+  "id": "TRACKIER",
+  "name": "Trackier",
+  "categories": ["AFFILIATE", "ADVERTISING"],
+  "organization": "TRACKIER",
+  "iconUrl": "https://trydatapipe.com/integrations/trackier.png",
+  "sourceUrl": "https://trackier.com",
+  "dataVisibility": ["PRIVATE"]
+}

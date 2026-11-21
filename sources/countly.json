@@ -1,0 +1,9 @@
+{
+  "id": "COUNTLY",
+  "name": "Countly",
+  "categories": ["ANALYTICS"],
+  "organization": "COUNTLY",
+  "iconUrl": "https://trydatapipe.com/integrations/countly.png",
+  "sourceUrl": "https://countly.com",
+  "dataVisibility": ["PRIVATE"]
+}

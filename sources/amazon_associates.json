@@ -1,0 +1,9 @@
+{
+  "id": "AMAZON_ASSOCIATES",
+  "name": "Amazon Associates",
+  "categories": ["AFFILIATE", "ECOMMERCE"],
+  "organization": "AMAZON",
+  "iconUrl": "https://trydatapipe.com/integrations/amazon-ads.svg",
+  "sourceUrl": "https://affiliate-program.amazon.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "MEMBERPRESS",
+  "name": "MemberPress",
+  "categories": ["PAYMENTS", "ECOMMERCE"],
+  "organization": "MEMBERPRESS",
+  "iconUrl": "https://trydatapipe.com/integrations/memberpress.png",
+  "sourceUrl": "https://memberpress.com",
+  "dataVisibility": ["PRIVATE"]
+}

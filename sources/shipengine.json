@@ -1,0 +1,9 @@
+{
+  "id": "SHIPENGINE",
+  "name": "ShipEngine",
+  "categories": ["ECOMMERCE"],
+  "organization": "SHIPENGINE",
+  "iconUrl": "https://trydatapipe.com/integrations/shipengine.png",
+  "sourceUrl": "https://www.shipengine.com",
+  "dataVisibility": ["PRIVATE"]
+}

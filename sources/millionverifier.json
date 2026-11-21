@@ -1,0 +1,9 @@
+{
+  "id": "MILLIONVERIFIER",
+  "name": "MillionVerifier",
+  "categories": ["EMAIL"],
+  "organization": "MILLIONVERIFIER",
+  "iconUrl": "https://trydatapipe.com/integrations/millionverifier.png",
+  "sourceUrl": "https://www.millionverifier.com",
+  "dataVisibility": ["PRIVATE"]
+}

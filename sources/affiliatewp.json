@@ -1,0 +1,9 @@
+{
+  "id": "AFFILIATEWP",
+  "name": "AffiliateWP",
+  "categories": ["AFFILIATE"],
+  "organization": "AFFILIATEWP",
+  "iconUrl": "https://trydatapipe.com/integrations/affiliatewp.png",
+  "sourceUrl": "https://affiliatewp.com",
+  "dataVisibility": ["PRIVATE"]
+}

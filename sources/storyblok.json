@@ -1,0 +1,9 @@
+{
+  "id": "STORYBLOK",
+  "name": "Storyblok",
+  "categories": ["TOOLS"],
+  "organization": "STORYBLOK",
+  "iconUrl": "https://trydatapipe.com/integrations/storyblok.png",
+  "sourceUrl": "https://www.storyblok.com",
+  "dataVisibility": ["PRIVATE"]
+}

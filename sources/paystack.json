@@ -1,0 +1,9 @@
+{
+  "id": "PAYSTACK",
+  "name": "Paystack",
+  "categories": ["PAYMENTS"],
+  "organization": "PAYSTACK",
+  "iconUrl": "https://trydatapipe.com/integrations/paystack.png",
+  "sourceUrl": "https://paystack.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "MUX",
+  "name": "Mux",
+  "categories": ["VIDEO"],
+  "organization": "MUX",
+  "iconUrl": "https://trydatapipe.com/integrations/mux.png",
+  "sourceUrl": "https://www.mux.com",
+  "dataVisibility": ["PRIVATE"]
+}

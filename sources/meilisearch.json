@@ -1,0 +1,9 @@
+{
+  "id": "MEILISEARCH",
+  "name": "Meilisearch",
+  "categories": ["DATABASE"],
+  "organization": "MEILISEARCH",
+  "iconUrl": "https://trydatapipe.com/integrations/meilisearch.png",
+  "sourceUrl": "https://www.meilisearch.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "LAUNCHDARKLY",
+  "name": "LaunchDarkly",
+  "categories": ["TOOLS"],
+  "organization": "LAUNCHDARKLY",
+  "iconUrl": "https://trydatapipe.com/integrations/launchdarkly.png",
+  "sourceUrl": "https://launchdarkly.com",
+  "dataVisibility": ["PRIVATE"]
+}

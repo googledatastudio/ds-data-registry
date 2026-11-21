@@ -1,0 +1,9 @@
+{
+  "id": "SOCIALPILOT",
+  "name": "SocialPilot",
+  "categories": ["SOCIAL"],
+  "organization": "SOCIALPILOT",
+  "iconUrl": "https://trydatapipe.com/integrations/socialpilot.svg",
+  "sourceUrl": "https://www.socialpilot.co",
+  "dataVisibility": ["PRIVATE"]
+}

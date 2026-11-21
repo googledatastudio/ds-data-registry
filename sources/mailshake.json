@@ -1,0 +1,9 @@
+{
+  "id": "MAILSHAKE",
+  "name": "Mailshake",
+  "categories": ["EMAIL", "SALES"],
+  "organization": "MAILSHAKE",
+  "iconUrl": "https://trydatapipe.com/integrations/mailshake.png",
+  "sourceUrl": "https://mailshake.com",
+  "dataVisibility": ["PRIVATE"]
+}

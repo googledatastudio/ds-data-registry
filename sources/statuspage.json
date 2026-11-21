@@ -1,0 +1,9 @@
+{
+  "id": "STATUSPAGE",
+  "name": "Statuspage",
+  "categories": ["TOOLS"],
+  "organization": "ATLASSIAN",
+  "iconUrl": "https://trydatapipe.com/integrations/statuspage.png",
+  "sourceUrl": "https://www.atlassian.com/software/statuspage",
+  "dataVisibility": ["PRIVATE"]
+}

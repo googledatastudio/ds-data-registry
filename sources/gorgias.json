@@ -1,0 +1,9 @@
+{
+  "id": "GORGIAS",
+  "name": "Gorgias",
+  "categories": ["CUSTOMER_SUPPORT", "ECOMMERCE"],
+  "organization": "GORGIAS",
+  "iconUrl": "https://trydatapipe.com/integrations/gorgias.png",
+  "sourceUrl": "https://www.gorgias.com",
+  "dataVisibility": ["PRIVATE"]
+}

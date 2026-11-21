@@ -1,0 +1,9 @@
+{
+  "id": "GHOST",
+  "name": "Ghost",
+  "categories": ["MARKETING", "EMAIL"],
+  "organization": "GHOST_FOUNDATION",
+  "iconUrl": "https://trydatapipe.com/integrations/ghost.svg",
+  "sourceUrl": "https://ghost.org",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "REWARDFUL",
+  "name": "Rewardful",
+  "categories": ["AFFILIATE"],
+  "organization": "REWARDFUL",
+  "iconUrl": "https://trydatapipe.com/integrations/rewardful.png",
+  "sourceUrl": "https://www.rewardful.com",
+  "dataVisibility": ["PRIVATE"]
+}

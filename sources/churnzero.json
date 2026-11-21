@@ -1,0 +1,9 @@
+{
+  "id": "CHURNZERO",
+  "name": "ChurnZero",
+  "categories": ["CRM", "CUSTOMER_SUPPORT"],
+  "organization": "CHURNZERO",
+  "iconUrl": "https://trydatapipe.com/integrations/churnzero.png",
+  "sourceUrl": "https://churnzero.com",
+  "dataVisibility": ["PRIVATE"]
+}

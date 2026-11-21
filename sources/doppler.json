@@ -1,0 +1,9 @@
+{
+  "id": "DOPPLER",
+  "name": "Doppler",
+  "categories": ["CLOUD", "TOOLS"],
+  "organization": "DOPPLER",
+  "iconUrl": "https://trydatapipe.com/integrations/doppler.png",
+  "sourceUrl": "https://www.doppler.com",
+  "dataVisibility": ["PRIVATE"]
+}

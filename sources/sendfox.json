@@ -1,0 +1,9 @@
+{
+  "id": "SENDFOX",
+  "name": "SendFox",
+  "categories": ["EMAIL"],
+  "organization": "SENDFOX",
+  "iconUrl": "https://trydatapipe.com/integrations/sendfox.png",
+  "sourceUrl": "https://sendfox.com",
+  "dataVisibility": ["PRIVATE"]
+}

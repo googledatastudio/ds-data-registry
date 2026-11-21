@@ -1,0 +1,9 @@
+{
+  "id": "HUNTER_IO",
+  "name": "Hunter.io",
+  "categories": ["SALES", "EMAIL"],
+  "organization": "HUNTER_IO",
+  "iconUrl": "https://trydatapipe.com/integrations/hunter.png",
+  "sourceUrl": "https://hunter.io",
+  "dataVisibility": ["PRIVATE"]
+}

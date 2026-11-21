@@ -1,0 +1,9 @@
+{
+  "id": "POSTMARK",
+  "name": "Postmark",
+  "categories": ["EMAIL"],
+  "organization": "POSTMARK",
+  "iconUrl": "https://trydatapipe.com/integrations/postmark.png",
+  "sourceUrl": "https://postmarkapp.com",
+  "dataVisibility": ["PRIVATE"]
+}

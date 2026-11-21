@@ -1,0 +1,9 @@
+{
+  "id": "LEARNDASH",
+  "name": "LearnDash",
+  "categories": ["EDUCATION"],
+  "organization": "LIQUID_WEB",
+  "iconUrl": "https://trydatapipe.com/integrations/learndash.png",
+  "sourceUrl": "https://www.learndash.com",
+  "dataVisibility": ["PRIVATE"]
+}

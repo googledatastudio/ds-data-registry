@@ -1,0 +1,9 @@
+{
+  "id": "MOUSEFLOW",
+  "name": "Mouseflow",
+  "categories": ["ANALYTICS"],
+  "organization": "MOUSEFLOW",
+  "iconUrl": "https://trydatapipe.com/integrations/mouseflow.png",
+  "sourceUrl": "https://mouseflow.com",
+  "dataVisibility": ["PRIVATE"]
+}

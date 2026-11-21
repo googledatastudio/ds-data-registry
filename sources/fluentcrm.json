@@ -1,0 +1,9 @@
+{
+  "id": "FLUENTCRM",
+  "name": "FluentCRM",
+  "categories": ["CRM", "EMAIL"],
+  "organization": "FLUENTCRM",
+  "iconUrl": "https://trydatapipe.com/integrations/fluentcrm.png",
+  "sourceUrl": "https://fluentcrm.com",
+  "dataVisibility": ["PRIVATE"]
+}

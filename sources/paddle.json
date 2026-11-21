@@ -1,0 +1,9 @@
+{
+  "id": "PADDLE",
+  "name": "Paddle",
+  "categories": ["PAYMENTS"],
+  "organization": "PADDLE",
+  "iconUrl": "https://trydatapipe.com/integrations/paddle.png",
+  "sourceUrl": "https://www.paddle.com",
+  "dataVisibility": ["PRIVATE"]
+}

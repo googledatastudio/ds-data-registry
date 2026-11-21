@@ -1,0 +1,9 @@
+{
+  "id": "HOOTSUITE",
+  "name": "Hootsuite",
+  "categories": ["SOCIAL"],
+  "organization": "HOOTSUITE",
+  "iconUrl": "https://trydatapipe.com/integrations/hootsuite.svg",
+  "sourceUrl": "https://www.hootsuite.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "DEEPGRAM",
+  "name": "Deepgram",
+  "categories": ["Artificial Intelligence"],
+  "organization": "DEEPGRAM",
+  "iconUrl": "https://trydatapipe.com/integrations/deepgram.png",
+  "sourceUrl": "https://deepgram.com",
+  "dataVisibility": ["PRIVATE"]
+}

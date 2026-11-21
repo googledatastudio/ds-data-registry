@@ -1,0 +1,9 @@
+{
+  "id": "PINECONE",
+  "name": "Pinecone",
+  "categories": ["DATABASE"],
+  "organization": "PINECONE",
+  "iconUrl": "https://trydatapipe.com/integrations/pinecone.png",
+  "sourceUrl": "https://www.pinecone.io",
+  "dataVisibility": ["PRIVATE"]
+}

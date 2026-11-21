@@ -1,0 +1,9 @@
+{
+  "id": "ORTTO",
+  "name": "Ortto",
+  "categories": ["MARKETING", "CDP"],
+  "organization": "ORTTO",
+  "iconUrl": "https://trydatapipe.com/integrations/ortto.png",
+  "sourceUrl": "https://ortto.com",
+  "dataVisibility": ["PRIVATE"]
+}

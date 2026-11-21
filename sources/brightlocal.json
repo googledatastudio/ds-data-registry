@@ -1,0 +1,9 @@
+{
+  "id": "BRIGHTLOCAL",
+  "name": "BrightLocal",
+  "categories": ["SEO"],
+  "organization": "BRIGHTLOCAL",
+  "iconUrl": "https://trydatapipe.com/integrations/brightlocal.png",
+  "sourceUrl": "https://www.brightlocal.com",
+  "dataVisibility": ["PRIVATE"]
+}

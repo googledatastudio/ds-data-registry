@@ -1,0 +1,9 @@
+{
+  "id": "BIRD",
+  "name": "Bird",
+  "categories": ["CLOUD_COMMUNICATIONS", "MARKETING"],
+  "organization": "BIRD",
+  "iconUrl": "https://trydatapipe.com/integrations/bird.svg",
+  "sourceUrl": "https://bird.com",
+  "dataVisibility": ["PRIVATE"]
+}

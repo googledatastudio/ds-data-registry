@@ -1,0 +1,9 @@
+{
+  "id": "SHIPBOB",
+  "name": "ShipBob",
+  "categories": ["ECOMMERCE", "WAREHOUSE_MANAGEMENT"],
+  "organization": "SHIPBOB",
+  "iconUrl": "https://trydatapipe.com/integrations/shipbob.png",
+  "sourceUrl": "https://www.shipbob.com",
+  "dataVisibility": ["PRIVATE"]
+}

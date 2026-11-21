@@ -1,0 +1,9 @@
+{
+  "id": "WHOP",
+  "name": "Whop",
+  "categories": ["ECOMMERCE", "PAYMENTS"],
+  "organization": "WHOP",
+  "iconUrl": "https://trydatapipe.com/integrations/whop.png",
+  "sourceUrl": "https://whop.com",
+  "dataVisibility": ["PRIVATE"]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "PRINTIFY",
+  "name": "Printify",
+  "categories": ["ECOMMERCE"],
+  "organization": "PRINTIFY",
+  "iconUrl": "https://trydatapipe.com/integrations/printify.png",
+  "sourceUrl": "https://printify.com",
+  "dataVisibility": ["PRIVATE"]
+}

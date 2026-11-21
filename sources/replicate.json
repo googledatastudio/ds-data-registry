@@ -1,0 +1,9 @@
+{
+  "id": "REPLICATE",
+  "name": "Replicate",
+  "categories": ["Artificial Intelligence", "CLOUD"],
+  "organization": "REPLICATE",
+  "iconUrl": "https://trydatapipe.com/integrations/replicate.png",
+  "sourceUrl": "https://replicate.com",
+  "dataVisibility": ["PRIVATE"]
+}

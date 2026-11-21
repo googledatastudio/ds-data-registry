@@ -1,0 +1,9 @@
+{
+  "id": "METRICOOL",
+  "name": "Metricool",
+  "categories": ["SOCIAL"],
+  "organization": "METRICOOL",
+  "iconUrl": "https://trydatapipe.com/integrations/metricool.png",
+  "sourceUrl": "https://metricool.com",
+  "dataVisibility": ["PRIVATE"]
+}

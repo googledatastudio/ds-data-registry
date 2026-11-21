@@ -1,0 +1,9 @@
+{
+  "id": "FOLK",
+  "name": "Folk",
+  "categories": ["CRM"],
+  "organization": "FOLK",
+  "iconUrl": "https://trydatapipe.com/integrations/folk.png",
+  "sourceUrl": "https://www.folk.app",
+  "dataVisibility": ["PRIVATE"]
+}

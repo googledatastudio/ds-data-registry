@@ -1,0 +1,9 @@
+{
+  "id": "MASSIVE",
+  "name": "Massive (formerly Polygon.io)",
+  "categories": ["FINANCE", "PUBLIC_DATA"],
+  "organization": "MASSIVE",
+  "iconUrl": "https://trydatapipe.com/integrations/polygon.png",
+  "sourceUrl": "https://massive.com",
+  "dataVisibility": ["PUBLIC"]
+}

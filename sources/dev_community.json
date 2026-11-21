@@ -1,0 +1,9 @@
+{
+  "id": "DEV_COMMUNITY",
+  "name": "DEV Community",
+  "categories": ["SOCIAL"],
+  "organization": "FOREM",
+  "iconUrl": "https://trydatapipe.com/integrations/devto.png",
+  "sourceUrl": "https://dev.to",
+  "dataVisibility": ["PRIVATE"]
+}

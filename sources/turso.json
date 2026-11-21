@@ -1,0 +1,9 @@
+{
+  "id": "TURSO",
+  "name": "Turso",
+  "categories": ["DATABASE"],
+  "organization": "TURSO",
+  "iconUrl": "https://trydatapipe.com/integrations/turso.png",
+  "sourceUrl": "https://turso.tech",
+  "dataVisibility": ["PRIVATE"]
+}

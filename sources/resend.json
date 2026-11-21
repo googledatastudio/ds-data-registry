@@ -1,0 +1,9 @@
+{
+  "id": "RESEND",
+  "name": "Resend",
+  "categories": ["EMAIL"],
+  "organization": "RESEND",
+  "iconUrl": "https://trydatapipe.com/integrations/resend.png",
+  "sourceUrl": "https://resend.com",
+  "dataVisibility": ["PRIVATE"]
+}

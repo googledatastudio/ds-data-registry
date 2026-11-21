@@ -1,0 +1,9 @@
+{
+  "id": "WOODPECKER",
+  "name": "Woodpecker",
+  "categories": ["EMAIL", "SALES"],
+  "organization": "WOODPECKER",
+  "iconUrl": "https://trydatapipe.com/integrations/woodpecker.png",
+  "sourceUrl": "https://woodpecker.co",
+  "dataVisibility": ["PRIVATE"]
+}

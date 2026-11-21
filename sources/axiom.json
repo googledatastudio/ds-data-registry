@@ -1,0 +1,9 @@
+{
+  "id": "AXIOM",
+  "name": "Axiom",
+  "categories": ["CLOUD", "TIME_SERIES"],
+  "organization": "AXIOM",
+  "iconUrl": "https://trydatapipe.com/integrations/axiom.png",
+  "sourceUrl": "https://axiom.co",
+  "dataVisibility": ["PRIVATE"]
+}

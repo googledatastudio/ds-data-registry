@@ -1,0 +1,9 @@
+{
+  "id": "GOOGLE_LOCAL_SERVICES_ADS",
+  "name": "Google Local Services Ads",
+  "categories": ["ADVERTISING"],
+  "organization": "GOOGLE",
+  "iconUrl": "https://trydatapipe.com/integrations/google-ads.svg",
+  "sourceUrl": "https://ads.google.com/local-services-ads/",
+  "dataVisibility": ["PRIVATE"]
+}

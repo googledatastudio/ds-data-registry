@@ -1,0 +1,9 @@
+{
+  "id": "BUTTERCMS",
+  "name": "ButterCMS",
+  "categories": ["TOOLS"],
+  "organization": "BUTTERCMS",
+  "iconUrl": "https://trydatapipe.com/integrations/buttercms.svg",
+  "sourceUrl": "https://buttercms.com",
+  "dataVisibility": ["PRIVATE"]
+}

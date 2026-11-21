@@ -1,0 +1,9 @@
+{
+  "id": "BULKPUBLISH",
+  "name": "Bulkpublish",
+  "categories": ["SOCIAL"],
+  "organization": "BULKPUBLISH",
+  "iconUrl": "https://trydatapipe.com/integrations/bulkpublish.svg",
+  "sourceUrl": "https://bulkpublish.com",
+  "dataVisibility": ["PRIVATE"]
+}

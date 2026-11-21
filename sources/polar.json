@@ -1,0 +1,9 @@
+{
+  "id": "POLAR",
+  "name": "Polar",
+  "categories": ["PAYMENTS"],
+  "organization": "POLAR",
+  "iconUrl": "https://trydatapipe.com/integrations/polar.png",
+  "sourceUrl": "https://polar.sh",
+  "dataVisibility": ["PRIVATE"]
+}

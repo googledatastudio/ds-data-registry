@@ -1,0 +1,9 @@
+{
+  "id": "BROWSERBASE",
+  "name": "Browserbase",
+  "categories": ["CLOUD", "TOOLS"],
+  "organization": "BROWSERBASE",
+  "iconUrl": "https://trydatapipe.com/integrations/browserbase.png",
+  "sourceUrl": "https://www.browserbase.com",
+  "dataVisibility": ["PRIVATE"]
+}

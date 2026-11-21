@@ -1,0 +1,9 @@
+{
+  "id": "HELPCRUNCH",
+  "name": "HelpCrunch",
+  "categories": ["CUSTOMER_SUPPORT"],
+  "organization": "HELPCRUNCH",
+  "iconUrl": "https://trydatapipe.com/integrations/helpcrunch.png",
+  "sourceUrl": "https://helpcrunch.com",
+  "dataVisibility": ["PRIVATE"]
+}

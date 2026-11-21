@@ -1,0 +1,9 @@
+{
+  "id": "LUSHA",
+  "name": "Lusha",
+  "categories": ["SALES"],
+  "organization": "LUSHA",
+  "iconUrl": "https://trydatapipe.com/integrations/lusha.png",
+  "sourceUrl": "https://www.lusha.com",
+  "dataVisibility": ["PRIVATE"]
+}

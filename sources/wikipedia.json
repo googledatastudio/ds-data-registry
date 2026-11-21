@@ -1,0 +1,9 @@
+{
+  "id": "WIKIPEDIA",
+  "name": "Wikipedia",
+  "categories": ["PUBLIC_DATA"],
+  "organization": "WIKIMEDIA_FOUNDATION",
+  "iconUrl": "https://trydatapipe.com/integrations/wikipedia.svg",
+  "sourceUrl": "https://www.wikipedia.org",
+  "dataVisibility": ["PUBLIC"]
+}

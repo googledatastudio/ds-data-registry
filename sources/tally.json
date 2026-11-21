@@ -1,0 +1,9 @@
+{
+  "id": "TALLY",
+  "name": "Tally",
+  "categories": ["FORM"],
+  "organization": "TALLY",
+  "iconUrl": "https://trydatapipe.com/integrations/tally.png",
+  "sourceUrl": "https://tally.so",
+  "dataVisibility": ["PRIVATE"]
+}

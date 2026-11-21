@@ -1,0 +1,9 @@
+{
+  "id": "PRODUCTBOARD",
+  "name": "Productboard",
+  "categories": ["PROJECT_MANAGEMENT"],
+  "organization": "PRODUCTBOARD",
+  "iconUrl": "https://trydatapipe.com/integrations/productboard.png",
+  "sourceUrl": "https://www.productboard.com",
+  "dataVisibility": ["PRIVATE"]
+}

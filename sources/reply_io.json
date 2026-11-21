@@ -1,0 +1,9 @@
+{
+  "id": "REPLY_IO",
+  "name": "Reply.io",
+  "categories": ["EMAIL", "SALES"],
+  "organization": "REPLY_IO",
+  "iconUrl": "https://trydatapipe.com/integrations/reply.png",
+  "sourceUrl": "https://reply.io",
+  "dataVisibility": ["PRIVATE"]
+}

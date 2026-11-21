@@ -1,0 +1,9 @@
+{
+  "id": "TRIGGER_DEV",
+  "name": "Trigger.dev",
+  "categories": ["CLOUD", "TOOLS"],
+  "organization": "TRIGGER_DEV",
+  "iconUrl": "https://trydatapipe.com/integrations/trigger-dev.png",
+  "sourceUrl": "https://trigger.dev",
+  "dataVisibility": ["PRIVATE"]
+}

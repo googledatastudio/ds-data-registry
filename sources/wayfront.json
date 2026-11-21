@@ -1,0 +1,9 @@
+{
+  "id": "WAYFRONT",
+  "name": "Wayfront (formerly SPP)",
+  "categories": ["CRM", "PAYMENTS"],
+  "organization": "WAYFRONT",
+  "iconUrl": "https://trydatapipe.com/integrations/spp.svg",
+  "sourceUrl": "https://wayfront.com",
+  "dataVisibility": ["PRIVATE"]
+}
