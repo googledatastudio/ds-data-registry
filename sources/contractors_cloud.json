@@ -1,0 +1,10 @@
+{
+  "id": "CONTRACTORS_CLOUD",
+  "name": "Contractors Cloud",
+  "categories": ["CRM", "SALES"],
+  "organization": "CONTRACTORS_CLOUD",
+  "iconUrl":
+    "https://windsor.ai/wp-content/uploads/2026/05/contractors_cloud.png",
+  "sourceUrl": "https://contractorscloud.com/",
+  "dataVisibility": ["PRIVATE"]
+}
