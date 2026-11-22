@@ -1,0 +1,10 @@
+{
+  "id": "PROMOTEIQ",
+  "name": "PromoteIQ",
+  "categories": ["AFFILIATE"],
+  "organization": "PROMOTEIQ",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/promoteiql_optimized.svg",
+  "sourceUrl":
+    "https://about.ads.microsoft.com/en-gb/solutions/microsoft-promoteiq/promoteiq-overview",
+  "dataVisibility": ["PRIVATE"]
+}
