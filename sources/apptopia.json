@@ -1,0 +1,9 @@
+{
+  "id": "APPTOPIA",
+  "name": "Apptopia",
+  "categories": ["CUSTOM"],
+  "organization": "APPTOPIA",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/apptopia.svg",
+  "sourceUrl": "https://apptopia.com/",
+  "dataVisibility": ["PRIVATE"]
+}
