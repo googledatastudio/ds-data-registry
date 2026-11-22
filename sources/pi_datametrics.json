@@ -1,0 +1,9 @@
+{
+  "id": "PI_DATAMETRICS",
+  "name": "Pi Datametrics",
+  "categories": ["SEO"],
+  "organization": "PI_DATAMETRICS",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/pi_datametrics.svg",
+  "sourceUrl": "https://pi-datametrics.com/",
+  "dataVisibility": ["PRIVATE"]
+}
