@@ -1,0 +1,9 @@
+{
+  "id": "TWITTER_PUBLIC",
+  "name": "Twitter Public",
+  "categories": ["SOCIAL"],
+  "organization": "TWITTER_PUBLIC",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/twitter.svg",
+  "sourceUrl": "https://twitter.com/",
+  "dataVisibility": ["PUBLIC"]
+}
