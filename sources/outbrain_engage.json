@@ -1,0 +1,9 @@
+{
+  "id": "OUTBRAIN_ENGAGE",
+  "name": "Outbrain Engage",
+  "categories": ["AFFILIATE"],
+  "organization": "OUTBRAIN_ENGAGE",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/outbrain_engage.svg",
+  "sourceUrl": "https://www.outbrain.com/",
+  "dataVisibility": ["PRIVATE"]
+}
