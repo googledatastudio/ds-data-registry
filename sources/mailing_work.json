@@ -1,0 +1,9 @@
+{
+  "id": "MAILING_WORK",
+  "name": "Mailing Work",
+  "categories": ["MARKETING"],
+  "organization": "MAILING_WORK",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/mailingwork.svg",
+  "sourceUrl": "https://mailingwork.de/",
+  "dataVisibility": ["PRIVATE"]
+}
