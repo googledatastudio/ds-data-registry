@@ -1,0 +1,9 @@
+{
+  "id": "SISTRIX",
+  "name": "Sistrix",
+  "categories": ["SEO"],
+  "organization": "SISTRIX",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/sistrix.svg",
+  "sourceUrl": "https://www.sistrix.com/",
+  "dataVisibility": ["PRIVATE"]
+}
