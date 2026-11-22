@@ -1,0 +1,9 @@
+{
+  "id": "WEBGAINS_SOAP",
+  "name": "Webgains SOAP",
+  "categories": ["AFFILIATE"],
+  "organization": "WEBGAINS_SOAP",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/webgains_soap.svg",
+  "sourceUrl": "https://www.webgains.com/public/en/",
+  "dataVisibility": ["PRIVATE"]
+}
