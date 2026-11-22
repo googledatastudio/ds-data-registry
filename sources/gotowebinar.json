@@ -1,0 +1,9 @@
+{
+  "id": "GOTOWEBINAR",
+  "name": "GoToWebinar",
+  "categories": ["CUSTOM"],
+  "organization": "GOTOWEBINAR",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/goto_webinar.svg",
+  "sourceUrl": "https://www.goto.com/webinar",
+  "dataVisibility": ["PRIVATE"]
+}
