@@ -1,0 +1,9 @@
+{
+  "id": "TALKWALKER",
+  "name": "Talkwalker",
+  "categories": ["SOCIAL"],
+  "organization": "TALKWALKER",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/talkwalker.svg",
+  "sourceUrl": "https://www.talkwalker.com/",
+  "dataVisibility": ["PRIVATE"]
+}
