@@ -1,0 +1,9 @@
+{
+  "id": "APPTWEAK",
+  "name": "AppTweak",
+  "categories": ["CUSTOM"],
+  "organization": "APPTWEAK",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/apptweak.svg",
+  "sourceUrl": "https://www.apptweak.com/en",
+  "dataVisibility": ["PRIVATE"]
+}
