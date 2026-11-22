@@ -1,0 +1,9 @@
+{
+  "id": "GEMIUS_ADREAL",
+  "name": "Gemius Adreal",
+  "categories": ["MARKETING"],
+  "organization": "GEMIUS_ADREAL",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/adreal.svg",
+  "sourceUrl": "https://adreal.gemius.com/",
+  "dataVisibility": ["PRIVATE"]
+}
