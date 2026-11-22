@@ -1,0 +1,9 @@
+{
+  "id": "OUTMOOVE",
+  "name": "OutMoove",
+  "categories": ["ADVERTISING"],
+  "organization": "OUTMOOVE",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/outmoove.svg",
+  "sourceUrl": "https://outmoove.com/",
+  "dataVisibility": ["PRIVATE"]
+}
