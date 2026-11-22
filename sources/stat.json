@@ -1,0 +1,9 @@
+{
+  "id": "STAT",
+  "name": "Stat",
+  "categories": ["SEO"],
+  "organization": "STAT",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/stat.svg",
+  "sourceUrl": "https://getstat.com/",
+  "dataVisibility": ["PRIVATE"]
+}
