@@ -1,0 +1,9 @@
+{
+  "id": "MANDRILL",
+  "name": "Mandrill",
+  "categories": ["MARKETING"],
+  "organization": "MANDRILL",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/mandrill.svg",
+  "sourceUrl": "https://mandrillapp.com/",
+  "dataVisibility": ["PRIVATE"]
+}
