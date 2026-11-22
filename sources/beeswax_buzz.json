@@ -1,0 +1,9 @@
+{
+  "id": "BEESWAX_BUZZ",
+  "name": "Beeswax (Buzz)",
+  "categories": ["MARKETING"],
+  "organization": "BEESWAX_BUZZ",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/beeswax.svg",
+  "sourceUrl": "https://www.beeswax.com/",
+  "dataVisibility": ["PRIVATE"]
+}
