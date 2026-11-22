@@ -1,0 +1,9 @@
+{
+  "id": "ZENDESK_SELL",
+  "name": "Zendesk Sell",
+  "categories": ["CUSTOM"],
+  "organization": "ZENDESK_SELL",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/zendesk_sell.svg",
+  "sourceUrl": "https://www.zendesk.co.uk/sell/",
+  "dataVisibility": ["PRIVATE"]
+}
