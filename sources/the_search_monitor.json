@@ -1,0 +1,9 @@
+{
+  "id": "THE_SEARCH_MONITOR",
+  "name": "The Search Monitor",
+  "categories": ["SEO"],
+  "organization": "THE_SEARCH_MONITOR",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/search_monitor.svg",
+  "sourceUrl": "https://www.thesearchmonitor.com/",
+  "dataVisibility": ["PRIVATE"]
+}
