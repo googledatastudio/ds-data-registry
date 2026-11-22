@@ -1,0 +1,9 @@
+{
+  "id": "APPFIGURES",
+  "name": "Appfigures",
+  "categories": ["CUSTOM"],
+  "organization": "APPFIGURES",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/appfigures.svg",
+  "sourceUrl": "https://appfigures.com/",
+  "dataVisibility": ["PRIVATE"]
+}
