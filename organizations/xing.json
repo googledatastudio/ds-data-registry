@@ -1,7 +1,6 @@
 {
-  "name": "Xing",
   "id": "XING",
-  "iconUrl":
-    "https://www.xing.com/assets/frontend_minified/img/shared/xing_r1.ico",
-  "orgUrl": "https://www.xing.com/app/startpage"
+  "name": "Xing",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/xing.svg",
+  "orgUrl": "https://www.xing.com/en"
 }

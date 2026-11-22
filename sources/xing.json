@@ -1,0 +1,9 @@
+{
+  "id": "XING",
+  "name": "Xing",
+  "categories": ["SOCIAL"],
+  "organization": "XING",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/xing.svg",
+  "sourceUrl": "https://www.xing.com/en",
+  "dataVisibility": ["PRIVATE"]
+}
