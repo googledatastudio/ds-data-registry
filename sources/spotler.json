@@ -1,0 +1,9 @@
+{
+  "id": "SPOTLER",
+  "name": "Spotler",
+  "categories": ["MARKETING"],
+  "organization": "SPOTLER",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/spotler.svg",
+  "sourceUrl": "https://spotler.co.uk/",
+  "dataVisibility": ["PRIVATE"]
+}
