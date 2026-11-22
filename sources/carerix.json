@@ -1,0 +1,9 @@
+{
+  "id": "CARERIX",
+  "name": "Carerix",
+  "categories": ["CRM"],
+  "organization": "CARERIX",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/carerix.svg",
+  "sourceUrl": "https://carerix.com/en/recruitment-crm-system/",
+  "dataVisibility": ["PRIVATE"]
+}
