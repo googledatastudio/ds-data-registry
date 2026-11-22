@@ -1,0 +1,9 @@
+{
+  "id": "KEEPINCRM",
+  "name": "KeepinCRM",
+  "categories": ["CRM", "SALES"],
+  "organization": "KEEPINCRM",
+  "iconUrl": "https://keepincrm.com/media/1/favicon.ico",
+  "sourceUrl": "https://keepincrm.com",
+  "dataVisibility": ["PRIVATE"]
+}
