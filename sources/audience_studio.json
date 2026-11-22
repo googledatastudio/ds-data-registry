@@ -1,0 +1,10 @@
+{
+  "id": "AUDIENCE_STUDIO",
+  "name": "Audience Studio",
+  "categories": ["DATA_COLLECTION"],
+  "organization": "AUDIENCE_STUDIO",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/audience_studio.svg",
+  "sourceUrl":
+    "https://www.salesforce.com/products/marketing-cloud/data-management/",
+  "dataVisibility": ["PRIVATE"]
+}
