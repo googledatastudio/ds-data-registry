@@ -1,0 +1,9 @@
+{
+  "id": "PUBMATIC",
+  "name": "PubMatic",
+  "categories": ["ADVERTISING"],
+  "organization": "PUBMATIC",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/pubmatic_optimized.svg",
+  "sourceUrl": "https://pubmatic.com/",
+  "dataVisibility": ["PRIVATE"]
+}
