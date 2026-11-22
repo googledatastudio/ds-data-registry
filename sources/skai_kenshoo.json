@@ -1,0 +1,9 @@
+{
+  "id": "SKAI_KENSHOO",
+  "name": "Skai (Kenshoo)",
+  "categories": ["MARKETING"],
+  "organization": "SKAI_KENSHOO",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/skai.svg",
+  "sourceUrl": "https://skai.io/",
+  "dataVisibility": ["PRIVATE"]
+}
