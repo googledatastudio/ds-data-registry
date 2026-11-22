@@ -1,0 +1,9 @@
+{
+  "id": "MINDS_PANEL_ANALYTICS",
+  "name": "Minds Panel Analytics",
+  "categories": ["ANALYTICS", "RESEARCH"],
+  "organization": "MINDS",
+  "iconUrl": "https://getminds.ai/images/logo.png",
+  "sourceUrl": "https://getminds.ai/",
+  "dataVisibility": ["PRIVATE"]
+}
