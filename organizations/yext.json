@@ -1,6 +1,6 @@
 {
   "id": "YEXT",
   "name": "Yext",
-  "orgUrl": "https://www.yext.com/",
-  "iconUrl": "https://s3.amazonaws.com/tc-connectors-ds/Yext.png"
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/yext.svg",
+  "orgUrl": "https://www.yext.com/"
 }
