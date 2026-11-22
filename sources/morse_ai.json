@@ -1,0 +1,10 @@
+{
+  "id": "MORSE_AI",
+  "name": "Morse AI",
+  "categories": ["SEO", "ANALYTICS", "MARKETING"],
+  "organization": "MORSE_AI",
+  "iconUrl":
+    "https://trymorseai.com/wp-content/themes/morse/assets/img/favicon.ico",
+  "sourceUrl": "https://trymorseai.com",
+  "dataVisibility": ["PRIVATE"]
+}
