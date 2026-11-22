@@ -1,0 +1,9 @@
+{
+  "id": "MEDIA_NET",
+  "name": "Media.net",
+  "categories": ["ADVERTISING"],
+  "organization": "MEDIA_NET",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/medianet.svg",
+  "sourceUrl": "https://www.media.net/",
+  "dataVisibility": ["PRIVATE"]
+}
