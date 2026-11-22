@@ -1,0 +1,9 @@
+{
+  "id": "ADRIGHT",
+  "name": "Adright",
+  "categories": ["MARKETING"],
+  "organization": "ADRIGHT",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/adright.svg",
+  "sourceUrl": "https://www.adright.com/",
+  "dataVisibility": ["PRIVATE"]
+}
