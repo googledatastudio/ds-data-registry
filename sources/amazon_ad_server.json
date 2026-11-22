@@ -1,0 +1,9 @@
+{
+  "id": "AMAZON_AD_SERVER",
+  "name": "Amazon Ad Server",
+  "categories": ["AD_SERVER"],
+  "organization": "AMAZON",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/ams.svg",
+  "sourceUrl": "https://amazon.com/",
+  "dataVisibility": ["PRIVATE"]
+}
