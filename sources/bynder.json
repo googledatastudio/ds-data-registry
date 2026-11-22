@@ -1,0 +1,9 @@
+{
+  "id": "BYNDER",
+  "name": "Bynder",
+  "categories": ["CUSTOM"],
+  "organization": "BYNDER",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/bynder.svg",
+  "sourceUrl": "https://www.bynder.com/en/",
+  "dataVisibility": ["PRIVATE"]
+}
