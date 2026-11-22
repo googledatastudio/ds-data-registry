@@ -1,0 +1,9 @@
+{
+  "id": "TUNE_CUSTOM_EXPORT_API",
+  "name": "Tune - Custom Export API",
+  "categories": ["CUSTOM"],
+  "organization": "TUNE_CUSTOM_EXPORT_API",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/branch-tune.svg",
+  "sourceUrl": "https://www.tune.com/",
+  "dataVisibility": ["PRIVATE"]
+}
