@@ -1,0 +1,9 @@
+{
+  "id": "UPCROFT",
+  "name": "Upcroft Data Warehouse",
+  "categories": ["ANALYTICS", "CUSTOMER_SUPPORT", "DATABASE"],
+  "organization": "UPCROFT",
+  "iconUrl": "https://upcroft.ai/upcroft-data-studio-icon.png",
+  "sourceUrl": "https://upcroft.ai/data-studio",
+  "dataVisibility": ["PRIVATE"]
+}
