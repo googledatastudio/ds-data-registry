@@ -1,0 +1,9 @@
+{
+  "id": "PODIGEE",
+  "name": "Podigee",
+  "categories": ["CUSTOM"],
+  "organization": "PODIGEE",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/podigee.svg",
+  "sourceUrl": "https://www.podigee.com/en/",
+  "dataVisibility": ["PRIVATE"]
+}
