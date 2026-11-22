@@ -1,0 +1,9 @@
+{
+  "id": "POWERLINKS",
+  "name": "Powerlinks",
+  "categories": ["SEO"],
+  "organization": "POWERLINKS",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/powerlinks.svg",
+  "sourceUrl": "http://powerlinks.com/",
+  "dataVisibility": ["PRIVATE"]
+}
