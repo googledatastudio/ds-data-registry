@@ -1,0 +1,9 @@
+{
+  "id": "SIZMEK_SAS",
+  "name": "Sizmek SAS",
+  "categories": ["MARKETING"],
+  "organization": "SIZMEK_SAS",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/siszmek.svg",
+  "sourceUrl": "https://platform.sizmek.com/",
+  "dataVisibility": ["PRIVATE"]
+}
