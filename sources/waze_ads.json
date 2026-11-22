@@ -1,0 +1,9 @@
+{
+  "id": "WAZE_ADS",
+  "name": "Waze Ads",
+  "categories": ["ADVERTISING"],
+  "organization": "WAZE_ADS",
+  "iconUrl": "https://cdn.adverity.com/datatap_svg/wazeads.svg",
+  "sourceUrl": "https://www.waze.com/ads/",
+  "dataVisibility": ["PRIVATE"]
+}
