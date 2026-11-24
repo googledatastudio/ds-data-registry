@@ -1,0 +1,9 @@
+{
+  "id": "RETAILVEST",
+  "name": "RetailVest Smart Money",
+  "categories": ["FINANCE", "PUBLIC_DATA"],
+  "organization": "AVPMR_TECHNOLOGIES",
+  "iconUrl": "https://api.retailvest.com/brand/logo-64.png",
+  "sourceUrl": "https://www.retailvest.com",
+  "dataVisibility": ["PUBLIC"]
+}
