@@ -1,0 +1,9 @@
+{
+  "id": "AGENCY_OS",
+  "name": "Agency OS",
+  "categories": ["ANALYTICS", "SEO", "Artificial Intelligence"],
+  "organization": "TYPE_A_MEDIA",
+  "iconUrl": "https://typeamedia.net/agency-os/looker-studio-logo.png",
+  "sourceUrl": "https://typeamedia.net/agency-os/looker-studio/",
+  "dataVisibility": ["PRIVATE"]
+}
