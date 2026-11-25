@@ -1,0 +1,9 @@
+{
+  "id": "PROMPTMENTIONS",
+  "name": "PromptMentions",
+  "categories": ["SEO", "MARKETING", "ANALYTICS"],
+  "organization": "PROMPTMENTIONS",
+  "iconUrl": "https://promptmentions.com/icon-192.png",
+  "sourceUrl": "https://promptmentions.com",
+  "dataVisibility": ["PRIVATE"]
+}
