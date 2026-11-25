@@ -1,0 +1,9 @@
+{
+  "id": "AXEPTIO",
+  "name": "Axeptio",
+  "categories": ["ANALYTICS", "MARKETING", "QUALITY_AND_COMPLIANCE_MANAGEMENT"],
+  "organization": "AXEPTIO",
+  "iconUrl": "https://www.axept.io/hubfs/Hand-axeptio_64-64.png",
+  "sourceUrl": "https://www.axept.io/",
+  "dataVisibility": ["PRIVATE"]
+}
