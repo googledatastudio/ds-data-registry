@@ -1,0 +1,9 @@
+{
+  "id": "E_SHOT",
+  "name": "e-shot",
+  "categories": ["EMAIL", "MARKETING"],
+  "organization": "FORFRONT",
+  "iconUrl": "https://cf-r2-shared.forfront.com/e-shot-512.png",
+  "sourceUrl": "https://www.e-shot.net",
+  "dataVisibility": ["PRIVATE"]
+}
