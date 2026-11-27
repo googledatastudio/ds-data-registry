@@ -1,0 +1,9 @@
+{
+  "id": "KAMELEOON",
+  "name": "Kameleoon",
+  "categories": ["ANALYTICS", "MARKETING"],
+  "organization": "KAMELEOON",
+  "iconUrl": "https://cdn.prod.website-files.com/685945d76d7a305336412a93/685d2e58d6afb933df5bc432_favicon.svg",
+  "sourceUrl": "https://www.kameleoon.com/",
+  "dataVisibility": ["PRIVATE"]
+}
