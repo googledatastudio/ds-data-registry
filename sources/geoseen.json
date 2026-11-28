@@ -1,0 +1,9 @@
+{
+  "id": "GEOSEEN",
+  "name": "GeoSeen Brand Mentions",
+  "categories": ["MARKETING", "SEO"],
+  "organization": "GEOSEEN",
+  "iconUrl": "https://auditlab.site/assets/logo.png",
+  "sourceUrl": "https://auditlab.site/leaderboard",
+  "dataVisibility": ["PUBLIC"]
+}
