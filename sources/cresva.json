@@ -1,0 +1,9 @@
+{
+  "id": "CRESVA",
+  "name": "Cresva",
+  "categories": ["ADVERTISING", "ANALYTICS"],
+  "organization": "CRESVA",
+  "iconUrl": "https://cresva.ai/icon-192.png",
+  "sourceUrl": "https://cresva.ai",
+  "dataVisibility": ["PRIVATE"]
+}
